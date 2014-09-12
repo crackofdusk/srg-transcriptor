@@ -192,6 +192,7 @@ exports.parseShows = function() {
             show.episodes.push({
                 id: episode.id,
                 title: episode.title,
+                publishedDate: (new Date(episode.publishedDate)).toISOString(),
                 transcript: 'transcripts/simple/' + episode.id + '.tsv',
                 image: image
             });
