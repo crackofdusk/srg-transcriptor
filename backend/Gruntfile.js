@@ -22,5 +22,8 @@ module.exports = function(grunt) {
       done();
     });
   });
+  grunt.registerTask('parse:shows', 'Convert shows to json', function() {
+    srf.parseShows();
+  });
 
 };

@@ -35,6 +35,7 @@ function get(options) {
 // "http://il.srf.ch/integrationlayer/1.0/ue/srf/assetSet/listByAssetGroup/c38cc259-b5cd-4ac1-b901-e3fddd901a3d.json";
 
 var shows = require('./shows.json');
+var transcripts = fs.readdirSync('transcripts/raw');
 
 function fetchAssetSet(show, page) {
     var deferred = Q.defer();
@@ -83,20 +84,29 @@ exports.fetchShows = function() {
     }));
 };
 
+function getMainVideo(episode) {
+    var main = (episode.Assets.Video || []).filter(function(video) {
+        return video.fullLength;
+    })[0];
+    if(!main) {
+        main = (episode.Assets.Video || []).filter(function(video) {
+            return video.assetSubSetId === 'EPISODE' && video.position === 0;
+        })[0];
+        if(main) {
+            console.log('main via position 0', episode.id);
+        }
+    }
+    return main;
+}
+
 function fetchTranscripts() {
     var queue = [];
-    var transcripts = fs.readdirSync('transcripts/raw');
+
     console.log('transcripts', transcripts.length);
     shows.srf.forEach(function(show) {
         show.AssetSet.forEach(function(episode) {
-            var mainVideo;
-            if(episode.Assets.Video) {
-                mainVideo = episode.Assets.Video.filter(function(video) {
-                    return video.assetSubSetId === 'EPISODE' && video.position === 0;
-                });
-            }
-            if(mainVideo && mainVideo.length === 1) {
-                mainVideo = mainVideo[0];
+            var mainVideo = getMainVideo(episode);
+            if(mainVideo) {
                 if(transcripts.indexOf(episode.id+".ttml") !== -1) {
                     return;
                 }
@@ -107,12 +117,7 @@ function fetchTranscripts() {
                 );
             }
             else {
-                if(mainVideo && mainVideo.length) {
-                    console.log('multiple main video', show.title, episode.id);
-                }
-                else {
-                    console.log('missing main video', show.title, episode.id);
-                }
+                console.log('missing main video', show.title, episode.id);
             }
         });
     });
@@ -151,8 +156,46 @@ function parseTranscript(file) {
 
 exports.parseTranscripts = function() {
     return Q.allSettled(
-        fs.readdirSync('transcripts/raw').map(function(file) {
+        transcripts.map(function(file) {
             return parseTranscript(file);
         })
     );
+};
+
+exports.parseShows = function() {
+    var showsWithTranscripts = [];
+    shows.srf.forEach(function(rawShow) {
+        var show = {
+            id: rawShow.id,
+            title: rawShow.title,
+            lead: rawShow.lead,
+            description: rawShow.description,
+            image: rawShow.Image.ImageRepresentations.ImageRepresentation[0].url,
+            episodes: []
+        };
+        showsWithTranscripts.push(show);
+        rawShow.AssetSet.forEach(function(episode) {
+            if(transcripts.indexOf(episode.id+".ttml") === -1) {
+                return;
+            }
+            var mainVideo = getMainVideo(episode);
+            if(!mainVideo) {
+                console.log(show.title, episode.id);
+            }
+            var image;
+            if(mainVideo.Image) {
+                image = mainVideo.Image.ImageRepresentations.ImageRepresentation[0].url;
+            }
+            else {
+                console.log('no image', episode.id);
+            }
+            show.episodes.push({
+                id: episode.id,
+                title: episode.title,
+                transcript: 'transcripts/simple/' + episode.id + '.tsv',
+                image: image
+            });
+        });
+    });
+    fs.writeFileSync('showsWithTranscripts.json', JSON.stringify(showsWithTranscripts, null, 4), 'utf8');
 };

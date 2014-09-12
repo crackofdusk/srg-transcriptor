@@ -1,0 +1,2484 @@
+[
+    {
+        "id": "ff969c14-c5a7-44ab-ab72-14d4c9e427a9",
+        "title": "Tagesschau",
+        "lead": "Die «Tagesschau» berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.",
+        "description": "Die «Tagesschau» berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland. Die «Tagesschau» informiert um 12.45 Uhr, 18 Uhr, 19.30 Uhr und kurz vor Mitternacht über das aktuelle Tagesgeschehen und liefert dazu Hintergrundinformationen, Einschätzungen und Analysen der SRF-Experten und Korrespondenten.",
+        "image": "http://ws.srf.ch/asset/image/audio/07679fac-5905-400b-8b35-49151ba0be81/WEBVISUAL/1405324799000.jpg",
+        "episodes": [
+            {
+                "id": "39ef7b10-944e-4449-a476-bffc820f3e93",
+                "title": "Tagesschau vom 10.09.2014, 19:30",
+                "transcript": "transcripts/simple/39ef7b10-944e-4449-a476-bffc820f3e93.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/02128131-a021-4933-86cb-135ff0289093/EPISODE_IMAGE/1410409512000.png"
+            },
+            {
+                "id": "de2da191-5b72-4e49-8254-c0ab113f7394",
+                "title": "Tagesschau vom 09.09.2014, 19:30",
+                "transcript": "transcripts/simple/de2da191-5b72-4e49-8254-c0ab113f7394.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/017350c7-e6fc-44e0-a7ef-7f3516ae262a/EPISODE_IMAGE/1410322943000.png"
+            },
+            {
+                "id": "adadef15-8a0c-444b-88e5-290296bf019c",
+                "title": "Tagesschau vom 08.09.2014, 19:30",
+                "transcript": "transcripts/simple/adadef15-8a0c-444b-88e5-290296bf019c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/acf7a527-b358-4d48-ac54-179b1a231bb7/EPISODE_IMAGE/1410220078000.png"
+            },
+            {
+                "id": "b79fa0dc-d62e-4955-ae0e-3cfebb2f93bc",
+                "title": "Tagesschau vom 07.09.2014, 19:30",
+                "transcript": "transcripts/simple/b79fa0dc-d62e-4955-ae0e-3cfebb2f93bc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c54da146-3a9c-4233-99ba-73902e8d1c61/EPISODE_IMAGE/1410131049000.png"
+            },
+            {
+                "id": "a9901a25-370d-48dd-8c9a-20873cb8d923",
+                "title": "Tagesschau vom 06.09.2014, 19:30",
+                "transcript": "transcripts/simple/a9901a25-370d-48dd-8c9a-20873cb8d923.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/82022877-a398-480e-b77c-14adf73477ac/EPISODE_IMAGE/1410064224000.png"
+            },
+            {
+                "id": "8f27f912-c2cc-4e46-a38f-b457a88a6e3b",
+                "title": "Tagesschau vom 05.09.2014, 19:30",
+                "transcript": "transcripts/simple/8f27f912-c2cc-4e46-a38f-b457a88a6e3b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0f5a36ac-e4e3-4b0a-a633-2338b70f802b/EPISODE_IMAGE/1409982075000.png"
+            },
+            {
+                "id": "b12afea1-68c9-4544-871a-0884f1163015",
+                "title": "Tagesschau vom 04.09.2014, 19:30",
+                "transcript": "transcripts/simple/b12afea1-68c9-4544-871a-0884f1163015.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9fe4a5c2-86c7-42a0-b766-137679273054/EPISODE_IMAGE/1409865589000.png"
+            },
+            {
+                "id": "8277618d-3ee2-418c-8fe7-e09b172b7d4a",
+                "title": "Tagesschau vom 03.09.2014, 19:30",
+                "transcript": "transcripts/simple/8277618d-3ee2-418c-8fe7-e09b172b7d4a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d24d57e3-e4d5-4ca5-b8e0-cd82c5066654/EPISODE_IMAGE/1409818957000.png"
+            },
+            {
+                "id": "c496a6c6-e7b8-4b81-aab1-49485eeea965",
+                "title": "Tagesschau vom 02.09.2014, 19:30",
+                "transcript": "transcripts/simple/c496a6c6-e7b8-4b81-aab1-49485eeea965.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ebe8c1e9-8dbc-46d3-ad31-f0dc0c81cfa8/EPISODE_IMAGE/1409818945000.png"
+            },
+            {
+                "id": "afd45216-0c6a-42a4-a207-12990997ade3",
+                "title": "Tagesschau vom 01.09.2014, 19:30",
+                "transcript": "transcripts/simple/afd45216-0c6a-42a4-a207-12990997ade3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/75ea8460-5906-43bd-aac5-3edf9e035dad/EPISODE_IMAGE/1409818954000.png"
+            },
+            {
+                "id": "34421822-7754-4813-b8e7-3eed7b276d67",
+                "title": "Tagesschau vom 31.08.2014, 19:30",
+                "transcript": "transcripts/simple/34421822-7754-4813-b8e7-3eed7b276d67.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dcc2fa00-e38f-4a7c-869d-7896def56f10/EPISODE_IMAGE/1409552945000.png"
+            },
+            {
+                "id": "66186c70-9327-4a6f-80e9-33def65a9719",
+                "title": "Tagesschau vom 30.08.2014, 19:30",
+                "transcript": "transcripts/simple/66186c70-9327-4a6f-80e9-33def65a9719.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/053bc0f3-93ab-4d99-b6ff-1d789b2db982/EPISODE_IMAGE/1409462336000.png"
+            },
+            {
+                "id": "68878cd7-0af9-42d5-9e2a-5f43a57e75bf",
+                "title": "Tagesschau vom 29.08.2014, 19:30",
+                "transcript": "transcripts/simple/68878cd7-0af9-42d5-9e2a-5f43a57e75bf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d978e3fd-2841-4b9d-8fed-053c6682ad04/EPISODE_IMAGE/1409370937000.png"
+            },
+            {
+                "id": "58a1c535-a4a8-4223-b467-03cbedf0acfb",
+                "title": "Tagesschau vom 28.08.2014, 19:30",
+                "transcript": "transcripts/simple/58a1c535-a4a8-4223-b467-03cbedf0acfb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b90592b4-11ef-40a5-9ec5-ab1bdef3c106/EPISODE_IMAGE/1409280151000.png"
+            },
+            {
+                "id": "7d535f9a-1ec0-4e40-a57d-a1f8bb139f13",
+                "title": "Tagesschau vom 27.08.2014, 19:30",
+                "transcript": "transcripts/simple/7d535f9a-1ec0-4e40-a57d-a1f8bb139f13.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6763bc66-a36a-4117-b9a7-09e16465c3a7/EPISODE_IMAGE/1409190338000.png"
+            },
+            {
+                "id": "0d8c2303-7124-4d23-a83a-377eda1ced4b",
+                "title": "Tagesschau vom 26.08.2014, 19:30",
+                "transcript": "transcripts/simple/0d8c2303-7124-4d23-a83a-377eda1ced4b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/057bdcf4-022c-4df3-aed5-ffd75684755c/EPISODE_IMAGE/1409100668000.png"
+            },
+            {
+                "id": "f0ad6b39-2911-4e25-996e-2e9f27e9b931",
+                "title": "Tagesschau vom 25.08.2014, 19:30",
+                "transcript": "transcripts/simple/f0ad6b39-2911-4e25-996e-2e9f27e9b931.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7dec05bc-f892-4e71-b7b0-66963a133fea/EPISODE_IMAGE/1409011364000.png"
+            },
+            {
+                "id": "f3903be5-c5f1-45c9-9ebb-aa4986fff311",
+                "title": "Tagesschau vom 24.08.2014, 19:30",
+                "transcript": "transcripts/simple/f3903be5-c5f1-45c9-9ebb-aa4986fff311.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8470cb8c-e5c0-47e8-ad91-8334a75c8613/EPISODE_IMAGE/1408949913000.png"
+            },
+            {
+                "id": "89b77b1a-931e-4143-b545-889c12ff0620",
+                "title": "Tagesschau vom 23.08.2014, 19:30",
+                "transcript": "transcripts/simple/89b77b1a-931e-4143-b545-889c12ff0620.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ff16bdcd-5559-4d04-82f6-2278fc5a5563/EPISODE_IMAGE/1408855457000.png"
+            },
+            {
+                "id": "cf8c32fe-58bb-4508-a45a-11e2b57eeb5d",
+                "title": "Tagesschau vom 22.08.2014, 19:30",
+                "transcript": "transcripts/simple/cf8c32fe-58bb-4508-a45a-11e2b57eeb5d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2df3ba79-2163-4ef3-84e5-52a73fbe4fd1/EPISODE_IMAGE/1408744235000.png"
+            },
+            {
+                "id": "c989f530-bf96-46fc-a7c4-6ea8761ddcfb",
+                "title": "Tagesschau vom 21.08.2014, 19:30",
+                "transcript": "transcripts/simple/c989f530-bf96-46fc-a7c4-6ea8761ddcfb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b86a9aef-e54c-4a8f-99ab-3aa56fd885bc/EPISODE_IMAGE/1408682637000.png"
+            },
+            {
+                "id": "2481620a-916d-489b-8074-9b748565a607",
+                "title": "Tagesschau vom 20.08.2014, 19:30",
+                "transcript": "transcripts/simple/2481620a-916d-489b-8074-9b748565a607.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/531e0f07-92c0-4527-8ea8-6c5549a366aa/EPISODE_IMAGE/1408565384000.png"
+            },
+            {
+                "id": "c3dfc316-75ef-4a34-ae6d-e233d3114664",
+                "title": "Tagesschau vom 19.08.2014, 19:30",
+                "transcript": "transcripts/simple/c3dfc316-75ef-4a34-ae6d-e233d3114664.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e7476635-98fa-4e9c-99fc-f86bd931252b/EPISODE_IMAGE/1408475515000.png"
+            },
+            {
+                "id": "e2dfce03-608a-40b7-97cf-560d4d58dcad",
+                "title": "Tagesschau vom 18.08.2014, 19:30",
+                "transcript": "transcripts/simple/e2dfce03-608a-40b7-97cf-560d4d58dcad.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/49bb642f-b6ec-4631-98a5-e2d5342e90a0/EPISODE_IMAGE/1408430552000.png"
+            },
+            {
+                "id": "387b15e7-555d-464a-bace-9cf2bb3ec657",
+                "title": "Tagesschau vom 17.08.2014, 19:30",
+                "transcript": "transcripts/simple/387b15e7-555d-464a-bace-9cf2bb3ec657.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/44f1e8dc-2134-40c3-944d-cd2b1afd1b4b/EPISODE_IMAGE/1408340854000.png"
+            },
+            {
+                "id": "9a5509e9-2c01-451a-aa91-b1d498d7bb60",
+                "title": "Tagesschau vom 16.08.2014, 19:30",
+                "transcript": "transcripts/simple/9a5509e9-2c01-451a-aa91-b1d498d7bb60.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c6cbf5bd-6ead-46b4-9dcb-93a3c2564d9b/EPISODE_IMAGE/1408256981000.png"
+            },
+            {
+                "id": "5201e5b0-e0a2-4f43-80ec-697627d81f99",
+                "title": "Tagesschau vom 15.08.2014, 19:30",
+                "transcript": "transcripts/simple/5201e5b0-e0a2-4f43-80ec-697627d81f99.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d35d03b4-f221-4331-bb56-be9dd96c1896/EPISODE_IMAGE/1408162762000.png"
+            },
+            {
+                "id": "3df3e41d-d54a-417a-8eba-11e302ba53a8",
+                "title": "Tagesschau vom 14.08.2014, 19:30",
+                "transcript": "transcripts/simple/3df3e41d-d54a-417a-8eba-11e302ba53a8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/938bb3ea-5625-47a0-b553-f24a2cf119d9/EPISODE_IMAGE/1408071191000.png"
+            },
+            {
+                "id": "b866c652-548c-4060-93e2-5ff8328b3c5b",
+                "title": "Tagesschau vom 13.08.2014, 19:30",
+                "transcript": "transcripts/simple/b866c652-548c-4060-93e2-5ff8328b3c5b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6ee864c1-c25d-4310-bf45-6fdb5b78e2e7/EPISODE_IMAGE/1407981409000.png"
+            },
+            {
+                "id": "1ca30b3e-3bbe-4c7d-9d55-4356744500f5",
+                "title": "Tagesschau vom 12.08.2014, 19:30",
+                "transcript": "transcripts/simple/1ca30b3e-3bbe-4c7d-9d55-4356744500f5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0b2a7a3f-b314-429c-9536-3bd5615b0b64/EPISODE_IMAGE/1407892011000.png"
+            },
+            {
+                "id": "86a8a989-8bd1-4f79-9d5f-a7860d3ce65a",
+                "title": "Tagesschau vom 11.08.2014, 19:30",
+                "transcript": "transcripts/simple/86a8a989-8bd1-4f79-9d5f-a7860d3ce65a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0dc40815-2090-44a1-bd2f-8e8c694a0ceb/EPISODE_IMAGE/1407802559000.png"
+            },
+            {
+                "id": "92a24f8a-a8e2-42b9-9476-9000d3c98b9e",
+                "title": "Tagesschau vom 10.08.2014, 19:30",
+                "transcript": "transcripts/simple/92a24f8a-a8e2-42b9-9476-9000d3c98b9e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ffef5900-bece-424c-b10d-ba0cc88c4022/EPISODE_IMAGE/1407712938000.png"
+            },
+            {
+                "id": "11809ec7-5bdf-44bc-b680-4a0794452f41",
+                "title": "Tagesschau vom 08.08.2014, 19:30",
+                "transcript": "transcripts/simple/11809ec7-5bdf-44bc-b680-4a0794452f41.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dca79f0f-90d0-40b5-80ec-399d1e7cae3f/EPISODE_IMAGE/1407558732000.png"
+            },
+            {
+                "id": "413bd074-d9cb-4f28-b3b8-33dd88baa2b9",
+                "title": "Tagesschau vom 07.08.2014, 19:30",
+                "transcript": "transcripts/simple/413bd074-d9cb-4f28-b3b8-33dd88baa2b9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a6642d9b-8c26-439a-9afb-1321699446eb/EPISODE_IMAGE/1407443819000.png"
+            },
+            {
+                "id": "bfbcccb9-1bdb-4b71-8dab-5e820f83a0c9",
+                "title": "Tagesschau vom 06.08.2014, 19:30",
+                "transcript": "transcripts/simple/bfbcccb9-1bdb-4b71-8dab-5e820f83a0c9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/343bc753-e9c2-4435-8662-ee4e6bfa7489/EPISODE_IMAGE/1407354327000.png"
+            },
+            {
+                "id": "85e377c1-298f-484b-9d70-92ae9a8015ee",
+                "title": "Tagesschau vom 05.08.2014, 19:30",
+                "transcript": "transcripts/simple/85e377c1-298f-484b-9d70-92ae9a8015ee.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d2b6a17b-2db3-4a05-b3d4-772f9cf9c245/EPISODE_IMAGE/1407264675000.png"
+            },
+            {
+                "id": "b1c5b6e3-8204-4f09-934d-3914527ded98",
+                "title": "Tagesschau vom 04.08.2014, 19:30",
+                "transcript": "transcripts/simple/b1c5b6e3-8204-4f09-934d-3914527ded98.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f21b8a5b-0d00-4360-a5f1-cba08f9826fe/EPISODE_IMAGE/1407250224000.png"
+            },
+            {
+                "id": "f175655c-54e3-4402-807b-a6946701cb14",
+                "title": "Tagesschau vom 03.08.2014, 19:30",
+                "transcript": "transcripts/simple/f175655c-54e3-4402-807b-a6946701cb14.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/778851e1-813e-416e-b2b6-fc5b89b41e1a/EPISODE_IMAGE/1407129790000.png"
+            },
+            {
+                "id": "d824baf5-6a49-45de-99b2-927d65c9eeff",
+                "title": "Tagesschau vom 02.08.2014, 19:30",
+                "transcript": "transcripts/simple/d824baf5-6a49-45de-99b2-927d65c9eeff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4f66528f-400b-4395-bbb5-a25c1ef76317/EPISODE_IMAGE/1407040589000.png"
+            },
+            {
+                "id": "3292d1c5-e0cb-4e93-840a-34921fbe4aac",
+                "title": "Tagesschau vom 01.08.2014, 19:30",
+                "transcript": "transcripts/simple/3292d1c5-e0cb-4e93-840a-34921fbe4aac.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/affd000c-927d-4c10-b8cb-8fc43db36d15/EPISODE_IMAGE/1406951339000.png"
+            },
+            {
+                "id": "7c64d2e9-8318-4890-b87a-ed9bc262b0b8",
+                "title": "Tagesschau vom 31.07.2014, 19:30",
+                "transcript": "transcripts/simple/7c64d2e9-8318-4890-b87a-ed9bc262b0b8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2420cf8a-d0b9-40dd-a73c-dcf27904293a/EPISODE_IMAGE/1406868477000.png"
+            },
+            {
+                "id": "93b57389-d5a3-43e0-9774-9e09c26589fc",
+                "title": "Tagesschau vom 30.07.2014, 19:30",
+                "transcript": "transcripts/simple/93b57389-d5a3-43e0-9774-9e09c26589fc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b7e8813d-4f61-401f-8a7c-584392211609/EPISODE_IMAGE/1406772594000.png"
+            },
+            {
+                "id": "328aa3b0-bfac-45d2-ab54-7ba32b38a8f0",
+                "title": "Tagesschau vom 29.07.2014, 19:30",
+                "transcript": "transcripts/simple/328aa3b0-bfac-45d2-ab54-7ba32b38a8f0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1bf0a2e1-e5e8-45f7-a592-6997abd570a7/EPISODE_IMAGE/1406683091000.png"
+            },
+            {
+                "id": "67e53910-5229-4f83-b1fd-c93be23ca111",
+                "title": "Tagesschau vom 28.07.2014, 19:30",
+                "transcript": "transcripts/simple/67e53910-5229-4f83-b1fd-c93be23ca111.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9b727d80-61a4-4740-b29f-534b89dff18a/EPISODE_IMAGE/1406594203000.png"
+            },
+            {
+                "id": "72e1c991-ccf1-4e8a-978a-4b4b560a8949",
+                "title": "Tagesschau vom 27.07.2014, 19:30",
+                "transcript": "transcripts/simple/72e1c991-ccf1-4e8a-978a-4b4b560a8949.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0baceb93-4aae-43c5-8a3a-f3f88eb8ceaf/EPISODE_IMAGE/1406505076000.png"
+            },
+            {
+                "id": "71a491a6-0dde-449e-b9c2-7570b2fbc77a",
+                "title": "Tagesschau vom 26.07.2014, 19:30",
+                "transcript": "transcripts/simple/71a491a6-0dde-449e-b9c2-7570b2fbc77a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5a0b8382-b8c0-4f5e-88fd-56a0a5cdb1ff/EPISODE_IMAGE/1406434552000.png"
+            },
+            {
+                "id": "8a52b6f8-1dbf-491f-b857-a622a07f4198",
+                "title": "Tagesschau vom 25.07.2014, 19:30",
+                "transcript": "transcripts/simple/8a52b6f8-1dbf-491f-b857-a622a07f4198.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7e16af23-ddb0-4406-b53c-c2814df2fa12/EPISODE_IMAGE/1406326600000.png"
+            },
+            {
+                "id": "9e661327-a965-4698-8f3e-b9d7f5db97c1",
+                "title": "Tagesschau vom 24.07.2014, 19:30",
+                "transcript": "transcripts/simple/9e661327-a965-4698-8f3e-b9d7f5db97c1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6e86a93b-f8f8-406e-a0ae-9ea5c00206e3/EPISODE_IMAGE/1406237271000.png"
+            },
+            {
+                "id": "65f17ccb-4af9-4b72-acdf-e648ce19f497",
+                "title": "Tagesschau vom 23.07.2014, 19:30",
+                "transcript": "transcripts/simple/65f17ccb-4af9-4b72-acdf-e648ce19f497.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e475f3bd-0549-4db9-b82b-e95e1c44c736/EPISODE_IMAGE/1406147294000.png"
+            },
+            {
+                "id": "0f3a3162-cc71-46de-a3f8-60c48ff6cef3",
+                "title": "Tagesschau vom 22.07.2014, 19:30",
+                "transcript": "transcripts/simple/0f3a3162-cc71-46de-a3f8-60c48ff6cef3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5d11fc87-c3de-45a3-8216-351cf506bcb8/EPISODE_IMAGE/1406089170000.png"
+            },
+            {
+                "id": "d40d1ff3-4a4c-4fea-97db-42e0995995a0",
+                "title": "Tagesschau vom 21.07.2014, 19:30",
+                "transcript": "transcripts/simple/d40d1ff3-4a4c-4fea-97db-42e0995995a0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a26853b3-1201-470f-92fb-c7e14860105a/EPISODE_IMAGE/1406012893000.png"
+            },
+            {
+                "id": "7cfc105d-65a6-4404-9009-3e9f53633aa3",
+                "title": "Tagesschau vom 20.07.2014, 19:30",
+                "transcript": "transcripts/simple/7cfc105d-65a6-4404-9009-3e9f53633aa3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9a32b248-4e18-4b5f-b88b-afa150860b01/EPISODE_IMAGE/1405906942000.png"
+            },
+            {
+                "id": "fd933c48-fb8f-4a1b-8570-7f8bf4cc66e1",
+                "title": "Tagesschau vom 19.07.2014, 19:30",
+                "transcript": "transcripts/simple/fd933c48-fb8f-4a1b-8570-7f8bf4cc66e1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d6ee7f12-150b-42f3-8d39-79473b4d4bdc/EPISODE_IMAGE/1405839510000.png"
+            },
+            {
+                "id": "a646cc35-36c5-4770-870f-03dec7fd296c",
+                "title": "Tagesschau vom 18.07.2014, 19:30",
+                "transcript": "transcripts/simple/a646cc35-36c5-4770-870f-03dec7fd296c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d02040f3-bd20-408e-87af-f77ca03fadcd/EPISODE_IMAGE/1405749368000.png"
+            },
+            {
+                "id": "ba9cfdbf-a58b-46a0-b001-a4d3060773b3",
+                "title": "Tagesschau vom 17.07.2014, 19:30",
+                "transcript": "transcripts/simple/ba9cfdbf-a58b-46a0-b001-a4d3060773b3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f576c1a7-c90b-4282-8cad-a78c75e480a7/EPISODE_IMAGE/1405639099000.png"
+            },
+            {
+                "id": "79511967-41b3-4716-84ef-33e98deeecc6",
+                "title": "Tagesschau vom 16.07.2014, 19:30",
+                "transcript": "transcripts/simple/79511967-41b3-4716-84ef-33e98deeecc6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/61d2112a-489f-4ac1-9e01-2ae58a322747/EPISODE_IMAGE/1405579454000.png"
+            },
+            {
+                "id": "b39acc3d-d670-4c49-b5c0-dba54ab6417c",
+                "title": "Tagesschau vom 15.07.2014, 19:30",
+                "transcript": "transcripts/simple/b39acc3d-d670-4c49-b5c0-dba54ab6417c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/66e488ae-3a96-4cb9-897c-de57493f834e/EPISODE_IMAGE/1405485607000.png"
+            },
+            {
+                "id": "4d6cb9be-02a8-431f-891b-54120b5380ec",
+                "title": "Tagesschau vom 14.07.2014, 19:30",
+                "transcript": "transcripts/simple/4d6cb9be-02a8-431f-891b-54120b5380ec.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/22e9e8bb-34db-489c-968a-80fa24e66998/EPISODE_IMAGE/1405389212000.png"
+            },
+            {
+                "id": "7456937f-88c1-4541-9f1d-d2fa26d73ccb",
+                "title": "Tagesschau vom 13.07.2014, 19:30",
+                "transcript": "transcripts/simple/7456937f-88c1-4541-9f1d-d2fa26d73ccb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/018321d6-9652-4bb9-81b3-b71b5b777aa0/EPISODE_IMAGE/1405300225000.png"
+            },
+            {
+                "id": "b50ca379-0233-4fef-b538-f7ae1369d1b6",
+                "title": "Tagesschau vom 12.07.2014, 19:30",
+                "transcript": "transcripts/simple/b50ca379-0233-4fef-b538-f7ae1369d1b6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e510505b-54d6-45da-8a5f-582424081963/EPISODE_IMAGE/1405210828000.png"
+            },
+            {
+                "id": "367d5544-3ccf-418c-9f8a-db6d57acaea0",
+                "title": "Tagesschau vom 11.07.2014, 19:30",
+                "transcript": "transcripts/simple/367d5544-3ccf-418c-9f8a-db6d57acaea0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d5ed18e4-73a4-4108-898c-f97a6671eb1b/EPISODE_IMAGE/1405121545000.png"
+            },
+            {
+                "id": "86355882-b7ed-4128-86ab-859ce0ffbf8b",
+                "title": "Tagesschau vom 10.07.2014, 19:30",
+                "transcript": "transcripts/simple/86355882-b7ed-4128-86ab-859ce0ffbf8b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d5d408ca-70d4-4540-bb35-696f9587d03a/EPISODE_IMAGE/1405032314000.png"
+            },
+            {
+                "id": "407b6c0b-d800-4cf0-aa05-748ba170b3c2",
+                "title": "Tagesschau vom 09.07.2014, 19:30",
+                "transcript": "transcripts/simple/407b6c0b-d800-4cf0-aa05-748ba170b3c2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dd9a0adb-f093-45c1-b803-e5d2cd8d3fe5/EPISODE_IMAGE/1404944112000.png"
+            },
+            {
+                "id": "583b4f16-f28f-4fc5-b76a-e9ba8d32783b",
+                "title": "Tagesschau vom 08.07.2014, 19:30",
+                "transcript": "transcripts/simple/583b4f16-f28f-4fc5-b76a-e9ba8d32783b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a97fb2ec-be01-41dc-b476-c6574e3ce8f4/EPISODE_IMAGE/1404852960000.png"
+            },
+            {
+                "id": "3875b226-c45b-422b-b457-edd3b5beb04c",
+                "title": "Tagesschau vom 07.07.2014, 19:30",
+                "transcript": "transcripts/simple/3875b226-c45b-422b-b457-edd3b5beb04c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dbc06a36-78cb-468e-9992-2d0af97abe01/EPISODE_IMAGE/1404778638000.png"
+            },
+            {
+                "id": "f434ed71-a8db-4393-bca0-871c4d11f99c",
+                "title": "Tagesschau vom 06.07.2014, 19:30",
+                "transcript": "transcripts/simple/f434ed71-a8db-4393-bca0-871c4d11f99c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e819b195-c207-43b0-b6d3-f1e5195a8246/EPISODE_IMAGE/1404706824000.png"
+            },
+            {
+                "id": "51186aee-46bb-4b7d-b1cf-5bb63e123a8b",
+                "title": "Tagesschau vom 05.07.2014, 19:30",
+                "transcript": "transcripts/simple/51186aee-46bb-4b7d-b1cf-5bb63e123a8b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b5117f41-d5aa-4ffa-8366-2a69d7d61d34/EPISODE_IMAGE/1404600740000.png"
+            },
+            {
+                "id": "51b38937-f654-40e8-acd7-ff6680c02945",
+                "title": "Tagesschau vom 04.07.2014, 19:30",
+                "transcript": "transcripts/simple/51b38937-f654-40e8-acd7-ff6680c02945.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/49d8a359-046b-48af-9db4-5e90521c96ac/EPISODE_IMAGE/1404512066000.png"
+            },
+            {
+                "id": "7b390aaf-5200-490e-a094-3b62fd88a370",
+                "title": "Tagesschau vom 03.07.2014, 19:30",
+                "transcript": "transcripts/simple/7b390aaf-5200-490e-a094-3b62fd88a370.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/47e082e5-c742-4577-9023-bcca830e4e8f/EPISODE_IMAGE/1404475757000.png"
+            },
+            {
+                "id": "e651ed7f-3639-45dd-abb5-79eb74b0f67a",
+                "title": "Tagesschau vom 02.07.2014, 19:30",
+                "transcript": "transcripts/simple/e651ed7f-3639-45dd-abb5-79eb74b0f67a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/76b74151-b234-4b32-bb6d-8f5c25f0b57b/EPISODE_IMAGE/1404334190000.png"
+            },
+            {
+                "id": "ad999acc-78cf-4f21-a817-e0abce155e9c",
+                "title": "Tagesschau vom 01.07.2014, 19:30",
+                "transcript": "transcripts/simple/ad999acc-78cf-4f21-a817-e0abce155e9c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dba0c0e0-926f-42df-ab92-4802a0c33738/EPISODE_IMAGE/1404372025000.png"
+            },
+            {
+                "id": "c00532d6-fd88-48e0-923f-b54a009f13be",
+                "title": "Tagesschau vom 29.06.2014, 19:30",
+                "transcript": "transcripts/simple/c00532d6-fd88-48e0-923f-b54a009f13be.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/808e4bc6-8c4c-47c6-a039-c0ee27520dac/EPISODE_IMAGE/1404076335000.png"
+            },
+            {
+                "id": "8e6a3ff1-dde6-4b1f-8437-d5e152e850ef",
+                "title": "Tagesschau vom 28.06.2014, 19:30",
+                "transcript": "transcripts/simple/8e6a3ff1-dde6-4b1f-8437-d5e152e850ef.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/98a93c55-e2b9-4a0f-8db1-b556b99508db/EPISODE_IMAGE/1404019514000.png"
+            },
+            {
+                "id": "90e36469-d76d-4db5-a6ba-bd3c50f8b08c",
+                "title": "Tagesschau vom 27.06.2014, 19:30",
+                "transcript": "transcripts/simple/90e36469-d76d-4db5-a6ba-bd3c50f8b08c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/550d0d89-9cc0-46eb-89a8-1c2d826a7b60/EPISODE_IMAGE/1404371875000.png"
+            },
+            {
+                "id": "8db36975-f625-455b-9faa-3baed1047085",
+                "title": "Tagesschau vom 26.06.2014, 19:30",
+                "transcript": "transcripts/simple/8db36975-f625-455b-9faa-3baed1047085.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e79a1eee-1c34-4304-a168-d5024f01a5b6/EPISODE_IMAGE/1403808148000.png"
+            },
+            {
+                "id": "669fd6a3-af4f-4909-a660-735ac106be62",
+                "title": "Tagesschau vom 25.06.2014, 19:30",
+                "transcript": "transcripts/simple/669fd6a3-af4f-4909-a660-735ac106be62.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/19746e3e-7573-4975-b66e-44741724b2ca/EPISODE_IMAGE/1404371893000.png"
+            },
+            {
+                "id": "265d2b6f-0d7d-4e5e-ac6f-a15c56c00558",
+                "title": "Tagesschau vom 24.06.2014, 19:30",
+                "transcript": "transcripts/simple/265d2b6f-0d7d-4e5e-ac6f-a15c56c00558.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3b5da40d-128d-43bb-afb8-b6fcd1a5a30d/EPISODE_IMAGE/1403682980000.png"
+            },
+            {
+                "id": "603a356e-e2c3-4222-88ad-d9508142f4e5",
+                "title": "Tagesschau vom 23.06.2014, 19:30",
+                "transcript": "transcripts/simple/603a356e-e2c3-4222-88ad-d9508142f4e5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2f79f62d-848d-4276-a721-b10511845fd0/EPISODE_IMAGE/1403584270000.png"
+            },
+            {
+                "id": "46d63ada-3467-4cd2-92fe-8c0b536f653e",
+                "title": "Tagesschau vom 22.06.2014, 19:30",
+                "transcript": "transcripts/simple/46d63ada-3467-4cd2-92fe-8c0b536f653e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/019f7b76-b2a8-4d93-8b5f-38205808e119/EPISODE_IMAGE/1403494697000.png"
+            },
+            {
+                "id": "992e874a-af68-477d-a678-92b33a06e421",
+                "title": "Tagesschau vom 21.06.2014, 19:30",
+                "transcript": "transcripts/simple/992e874a-af68-477d-a678-92b33a06e421.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2bba9305-c71c-4181-94ff-fc96f5f5c38b/EPISODE_IMAGE/1403405763000.png"
+            },
+            {
+                "id": "992af085-c711-4d9c-a04e-a898ce4e1ad5",
+                "title": "Tagesschau vom 20.06.2014, 19:30",
+                "transcript": "transcripts/simple/992af085-c711-4d9c-a04e-a898ce4e1ad5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ca70b578-ca63-4cbe-b0e0-bb56617838d8/EPISODE_IMAGE/1403316448000.png"
+            },
+            {
+                "id": "5db91d9d-9263-45dc-a0af-f2c1de73803f",
+                "title": "Tagesschau vom 19.06.2014, 19:30",
+                "transcript": "transcripts/simple/5db91d9d-9263-45dc-a0af-f2c1de73803f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/17a07095-249e-4fdf-845e-aecfe60d8d21/EPISODE_IMAGE/1403226600000.png"
+            },
+            {
+                "id": "4a559a1d-97c9-4988-bf27-159601c4c249",
+                "title": "Tagesschau vom 18.06.2014, 19:30",
+                "transcript": "transcripts/simple/4a559a1d-97c9-4988-bf27-159601c4c249.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/447e49bc-d8ed-45a9-bf1a-912eb5b6945c/EPISODE_IMAGE/1403171172000.png"
+            },
+            {
+                "id": "4938b3ef-8907-4c9a-82d8-93742e9922ef",
+                "title": "Tagesschau vom 17.06.2014, 19:30",
+                "transcript": "transcripts/simple/4938b3ef-8907-4c9a-82d8-93742e9922ef.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/07ca77f1-809c-4515-96f9-f2800d967a6e/EPISODE_IMAGE/1403047815000.png"
+            },
+            {
+                "id": "d1ca38b8-e49b-4d43-a7ac-d900f2f70202",
+                "title": "Tagesschau vom 16.06.2014, 19:30",
+                "transcript": "transcripts/simple/d1ca38b8-e49b-4d43-a7ac-d900f2f70202.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2c7d60e9-8f17-4709-8004-eb1bc0141f30/EPISODE_IMAGE/1403006175000.png"
+            },
+            {
+                "id": "f17438dc-3140-44d6-9f85-35b58a276788",
+                "title": "Tagesschau vom 15.06.2014, 19:30",
+                "transcript": "transcripts/simple/f17438dc-3140-44d6-9f85-35b58a276788.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7238611b-1166-4b42-b949-276d35602719/EPISODE_IMAGE/1402868402000.png"
+            },
+            {
+                "id": "17679391-b02f-43bf-9c61-8e40908c12c8",
+                "title": "Tagesschau vom 14.06.2014, 19:30",
+                "transcript": "transcripts/simple/17679391-b02f-43bf-9c61-8e40908c12c8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd7f25c7-cab9-4946-94a8-e72ab3e60348/EPISODE_IMAGE/1402779215000.png"
+            },
+            {
+                "id": "1f95b51f-6e03-4db9-842f-83516fca7c86",
+                "title": "Tagesschau vom 13.06.2014, 19:30",
+                "transcript": "transcripts/simple/1f95b51f-6e03-4db9-842f-83516fca7c86.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c2c5151d-316b-476e-adb7-4c0fa3174230/EPISODE_IMAGE/1402690187000.png"
+            },
+            {
+                "id": "4a309bf7-daa9-4d47-b1b0-af0fd0d67f79",
+                "title": "Tagesschau vom 12.06.2014, 19:30",
+                "transcript": "transcripts/simple/4a309bf7-daa9-4d47-b1b0-af0fd0d67f79.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f29163c2-a5a7-4364-b919-4b64510110c9/EPISODE_IMAGE/1402601007000.png"
+            },
+            {
+                "id": "bdc4727e-f927-4cd4-83f8-575763ecb1e2",
+                "title": "Tagesschau vom 11.06.2014, 19:30",
+                "transcript": "transcripts/simple/bdc4727e-f927-4cd4-83f8-575763ecb1e2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/be27e39e-9e82-4986-aeed-ff3aeb56fc04/EPISODE_IMAGE/1402556877000.png"
+            },
+            {
+                "id": "278639aa-051b-459f-82ef-caa727afb05e",
+                "title": "Tagesschau vom 10.06.2014, 19:30",
+                "transcript": "transcripts/simple/278639aa-051b-459f-82ef-caa727afb05e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/859bc607-a69d-4d58-9f7c-a78a9588e036/EPISODE_IMAGE/1402469318000.png"
+            },
+            {
+                "id": "13e371e7-88e6-4f20-b12f-d1b06d1c8809",
+                "title": "Tagesschau vom 09.06.2014, 19:30",
+                "transcript": "transcripts/simple/13e371e7-88e6-4f20-b12f-d1b06d1c8809.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/771efc87-e5b8-4df6-acdd-65d942c719c1/EPISODE_IMAGE/1402339725000.png"
+            },
+            {
+                "id": "29f27ad9-455c-4165-842a-0feec12a645d",
+                "title": "Tagesschau vom 08.06.2014, 19:30",
+                "transcript": "transcripts/simple/29f27ad9-455c-4165-842a-0feec12a645d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4182d7eb-53bc-4b29-8167-e494a66c7c06/EPISODE_IMAGE/1402289126000.png"
+            },
+            {
+                "id": "ae114a3d-bfd6-4fdb-8648-a09f8ca719f2",
+                "title": "Tagesschau vom 07.06.2014, 19:30",
+                "transcript": "transcripts/simple/ae114a3d-bfd6-4fdb-8648-a09f8ca719f2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/57a8e06b-42d1-4d87-8e10-426e904bac3e/EPISODE_IMAGE/1402200562000.png"
+            },
+            {
+                "id": "595f23ae-eb84-4dbb-b198-feb60c89effb",
+                "title": "Tagesschau vom 06.06.2014, 19:30",
+                "transcript": "transcripts/simple/595f23ae-eb84-4dbb-b198-feb60c89effb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/66e2d6fa-08b7-4404-9425-bd4947b022cd/EPISODE_IMAGE/1402111610000.png"
+            },
+            {
+                "id": "9861d052-d148-4cc3-8fd0-e89240cf4efc",
+                "title": "Tagesschau vom 05.06.2014, 19:30",
+                "transcript": "transcripts/simple/9861d052-d148-4cc3-8fd0-e89240cf4efc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/aa53baa4-e128-4497-bdcd-290f99889d60/EPISODE_IMAGE/1402022341000.png"
+            },
+            {
+                "id": "6007896b-daad-4fa1-96cf-247f7ce4355c",
+                "title": "Tagesschau vom 04.06.2014, 19:30",
+                "transcript": "transcripts/simple/6007896b-daad-4fa1-96cf-247f7ce4355c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/739a125f-bcc3-48af-8541-3de4a6a15576/EPISODE_IMAGE/1401932464000.png"
+            },
+            {
+                "id": "ca5b80a9-1acc-4f11-9379-43b14352fcce",
+                "title": "Tagesschau vom 03.06.2014, 19:30",
+                "transcript": "transcripts/simple/ca5b80a9-1acc-4f11-9379-43b14352fcce.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ca0aeeb0-bb1f-40e2-ba4b-9e1aa8565af5/EPISODE_IMAGE/1401852419000.png"
+            },
+            {
+                "id": "6a0837e6-fe3d-49b9-ab07-8fba934211e9",
+                "title": "Tagesschau vom 02.06.2014, 19:30",
+                "transcript": "transcripts/simple/6a0837e6-fe3d-49b9-ab07-8fba934211e9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/636fcbee-d145-4b1e-8076-b5c00b969435/EPISODE_IMAGE/1401810048000.png"
+            },
+            {
+                "id": "856d8368-3769-41ab-8fb9-38b603de6e12",
+                "title": "Tagesschau vom 01.06.2014, 19:30",
+                "transcript": "transcripts/simple/856d8368-3769-41ab-8fb9-38b603de6e12.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/16690894-4498-461a-bfa7-483cbe5a02d6/EPISODE_IMAGE/1401674287000.png"
+            },
+            {
+                "id": "395a4d8a-166b-4848-9363-5df318c6d378",
+                "title": "Tagesschau vom 31.05.2014, 19:30",
+                "transcript": "transcripts/simple/395a4d8a-166b-4848-9363-5df318c6d378.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2c0f49a8-564b-450e-aa99-908b35044839/EPISODE_IMAGE/1401585292000.png"
+            },
+            {
+                "id": "c1d8408d-02a4-4a0d-87e0-b04b356250f1",
+                "title": "Tagesschau vom 30.05.2014, 19:30",
+                "transcript": "transcripts/simple/c1d8408d-02a4-4a0d-87e0-b04b356250f1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2a8740c0-f616-4c5d-9344-82bf14d151f0/EPISODE_IMAGE/1401514627000.png"
+            },
+            {
+                "id": "4a7b1ca9-5fa4-4bd5-a2fc-219efcab92e3",
+                "title": "Tagesschau vom 29.05.2014, 19:30",
+                "transcript": "transcripts/simple/4a7b1ca9-5fa4-4bd5-a2fc-219efcab92e3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0da687ea-113c-40bf-89e3-6634bfef2a19/EPISODE_IMAGE/1401407182000.png"
+            },
+            {
+                "id": "c82b9491-633e-42f2-b492-eca5533687c3",
+                "title": "Tagesschau vom 28.05.2014, 19:30",
+                "transcript": "transcripts/simple/c82b9491-633e-42f2-b492-eca5533687c3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c08f91e6-166b-4c17-a040-dd2494f8eddb/EPISODE_IMAGE/1401318035000.png"
+            },
+            {
+                "id": "a6f43a10-65ff-43a6-bd86-82c5cfaee13a",
+                "title": "Tagesschau vom 27.05.2014, 19:30",
+                "transcript": "transcripts/simple/a6f43a10-65ff-43a6-bd86-82c5cfaee13a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f7644b3f-3f5e-4066-80ee-ddb94214e4c4/EPISODE_IMAGE/1401228971000.png"
+            },
+            {
+                "id": "3b928ff5-2bc1-430d-b960-f82c8fe59f45",
+                "title": "Tagesschau vom 26.05.2014, 19:30",
+                "transcript": "transcripts/simple/3b928ff5-2bc1-430d-b960-f82c8fe59f45.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b586fbd0-d761-402c-96a7-1a4dddd82d0a/EPISODE_IMAGE/1401184018000.png"
+            },
+            {
+                "id": "ba69053a-d3c7-4769-8a10-386f8f83c7d8",
+                "title": "Tagesschau vom 25.05.2014, 19:30",
+                "transcript": "transcripts/simple/ba69053a-d3c7-4769-8a10-386f8f83c7d8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/321c3818-25ee-4eae-8868-d848c29bf55b/EPISODE_IMAGE/1401088156000.png"
+            },
+            {
+                "id": "a3ec541a-d1b7-460c-b513-cc5a66b40950",
+                "title": "Tagesschau vom 24.05.2014, 19:30",
+                "transcript": "transcripts/simple/a3ec541a-d1b7-460c-b513-cc5a66b40950.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0dc3953b-29a9-4495-8394-30f78cd45041/EPISODE_IMAGE/1400992193000.png"
+            },
+            {
+                "id": "afff59b8-3c7f-4ba3-975f-65a52882dbeb",
+                "title": "Tagesschau vom 23.05.2014, 19:30",
+                "transcript": "transcripts/simple/afff59b8-3c7f-4ba3-975f-65a52882dbeb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5818e6ed-fca8-479a-9374-20a60059197a/EPISODE_IMAGE/1400910417000.png"
+            },
+            {
+                "id": "af8c414a-2753-49a9-aed0-b4629603b7dd",
+                "title": "Tagesschau vom 22.05.2014, 19:30",
+                "transcript": "transcripts/simple/af8c414a-2753-49a9-aed0-b4629603b7dd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8a7d8faa-12fc-4808-8042-6b227cd67fda/EPISODE_IMAGE/1400833758000.png"
+            },
+            {
+                "id": "e9ab8059-f5a3-4f08-81d9-9c3d254c52fe",
+                "title": "Tagesschau vom 21.05.2014, 19:30",
+                "transcript": "transcripts/simple/e9ab8059-f5a3-4f08-81d9-9c3d254c52fe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/71b83a13-f647-4ab2-abfc-5bf06cc2d369/EPISODE_IMAGE/1400744074000.png"
+            },
+            {
+                "id": "6530778c-4d2f-46cb-b2c7-70e842602f1b",
+                "title": "Tagesschau vom 20.05.2014, 19:30",
+                "transcript": "transcripts/simple/6530778c-4d2f-46cb-b2c7-70e842602f1b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ed308fd7-677e-4d01-bd9b-2028b8817f38/EPISODE_IMAGE/1400653703000.png"
+            },
+            {
+                "id": "0fc10161-e270-431d-8c85-f79e55f304c7",
+                "title": "Tagesschau vom 19.05.2014, 19:30",
+                "transcript": "transcripts/simple/0fc10161-e270-431d-8c85-f79e55f304c7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/55b5ee06-265b-423e-8e4b-1570c966f403/EPISODE_IMAGE/1400567183000.png"
+            },
+            {
+                "id": "5754ee63-f32a-4925-a0e5-652e660ba42b",
+                "title": "Tagesschau vom 18.05.2014, 19:30",
+                "transcript": "transcripts/simple/5754ee63-f32a-4925-a0e5-652e660ba42b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2ce0b1f2-ff18-4b8f-a0be-1069fd026e88/EPISODE_IMAGE/1400474366000.png"
+            },
+            {
+                "id": "c9d564b9-b7b3-4dd3-8080-4a805d001bad",
+                "title": "Tagesschau vom 17.05.2014, 19:30",
+                "transcript": "transcripts/simple/c9d564b9-b7b3-4dd3-8080-4a805d001bad.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/16e8ae81-b01b-4326-8afe-bebeadd07a75/EPISODE_IMAGE/1400385191000.png"
+            },
+            {
+                "id": "cb57d112-6b13-4cd1-b46f-74862f0bdfee",
+                "title": "Tagesschau vom 16.05.2014, 19:30",
+                "transcript": "transcripts/simple/cb57d112-6b13-4cd1-b46f-74862f0bdfee.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e48e061a-150c-44b3-89ca-d5dea3adec46/EPISODE_IMAGE/1400296062000.png"
+            },
+            {
+                "id": "2421130b-8da8-4861-a26e-d561d31bb56c",
+                "title": "Tagesschau vom 15.05.2014, 19:30",
+                "transcript": "transcripts/simple/2421130b-8da8-4861-a26e-d561d31bb56c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9df306b2-2db6-4bc6-ac98-2d3d52f819e6/EPISODE_IMAGE/1400207058000.png"
+            },
+            {
+                "id": "99524ec3-b711-4e06-ace4-759c6daaff2d",
+                "title": "Tagesschau vom 14.05.2014, 19:30",
+                "transcript": "transcripts/simple/99524ec3-b711-4e06-ace4-759c6daaff2d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/33f9f636-2371-4a6c-a9db-683b153d71dc/EPISODE_IMAGE/1400137264000.png"
+            },
+            {
+                "id": "421b23dd-c74e-4ae5-8555-be3dcb28b853",
+                "title": "Tagesschau vom 13.05.2014, 19:30",
+                "transcript": "transcripts/simple/421b23dd-c74e-4ae5-8555-be3dcb28b853.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/847d3a37-cfc0-4307-99fc-a33aa0835985/EPISODE_IMAGE/1400029338000.png"
+            },
+            {
+                "id": "084d1398-38ff-40a0-b387-64fd1ad1c90f",
+                "title": "Tagesschau vom 12.05.2014, 19:30",
+                "transcript": "transcripts/simple/084d1398-38ff-40a0-b387-64fd1ad1c90f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/494025aa-7533-46d8-9200-0642fe9d247c/EPISODE_IMAGE/1399940810000.png"
+            },
+            {
+                "id": "e2bd239e-bbad-4696-a581-51696e5ba8d2",
+                "title": "Tagesschau vom 11.05.2014, 19:30",
+                "transcript": "transcripts/simple/e2bd239e-bbad-4696-a581-51696e5ba8d2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0589314b-6a06-4ccc-9540-62e959291a61/EPISODE_IMAGE/1399851589000.png"
+            },
+            {
+                "id": "c1545f08-bb5a-4447-bae3-c79d93f62a26",
+                "title": "Tagesschau vom 10.05.2014, 19:30",
+                "transcript": "transcripts/simple/c1545f08-bb5a-4447-bae3-c79d93f62a26.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fdeab6d1-df6c-4f60-812c-3e4d7bbf35f3/EPISODE_IMAGE/1399785662000.png"
+            },
+            {
+                "id": "ecc5a953-6c1f-492f-994a-c0018040054c",
+                "title": "Tagesschau vom 09.05.2014, 19:30",
+                "transcript": "transcripts/simple/ecc5a953-6c1f-492f-994a-c0018040054c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/37badbf3-e19b-4660-99d6-3cf343dc9d29/EPISODE_IMAGE/1399673700000.png"
+            },
+            {
+                "id": "b56db0bd-c78b-449c-8b68-615553e8a437",
+                "title": "Tagesschau vom 08.05.2014, 19:30",
+                "transcript": "transcripts/simple/b56db0bd-c78b-449c-8b68-615553e8a437.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a43b480d-5a51-44f1-b169-43a4e64ad273/EPISODE_IMAGE/1399584442000.png"
+            },
+            {
+                "id": "ce1d6476-1ef3-4edb-99cf-1e0121926583",
+                "title": "Tagesschau vom 07.05.2014, 19:30",
+                "transcript": "transcripts/simple/ce1d6476-1ef3-4edb-99cf-1e0121926583.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d182fc4d-5256-4528-8726-f9cd238b649f/EPISODE_IMAGE/1399495464000.png"
+            },
+            {
+                "id": "b35c1a7c-d8f5-4f51-be3c-9bcf8682a64b",
+                "title": "Tagesschau vom 06.05.2014, 19:30",
+                "transcript": "transcripts/simple/b35c1a7c-d8f5-4f51-be3c-9bcf8682a64b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ba031570-1967-4a9c-98ce-71d136abf547/EPISODE_IMAGE/1399468635000.png"
+            },
+            {
+                "id": "c0b1f367-66a3-4b9c-b91e-7d0ffcb74ce8",
+                "title": "Tagesschau vom 05.05.2014, 19:30",
+                "transcript": "transcripts/simple/c0b1f367-66a3-4b9c-b91e-7d0ffcb74ce8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/573c9c70-78a4-45ea-842c-06261d99278a/EPISODE_IMAGE/1399356014000.png"
+            },
+            {
+                "id": "1bd572a7-45ad-4e9a-a401-00921d5ac657",
+                "title": "Tagesschau vom 04.05.2014, 19:30",
+                "transcript": "transcripts/simple/1bd572a7-45ad-4e9a-a401-00921d5ac657.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e941056a-3fd4-4e43-85dc-1b2a25a85f65/EPISODE_IMAGE/1399267299000.png"
+            },
+            {
+                "id": "6faf7c84-1519-4574-a10b-65dd1b7bea4c",
+                "title": "Tagesschau vom 03.05.2014, 19:30",
+                "transcript": "transcripts/simple/6faf7c84-1519-4574-a10b-65dd1b7bea4c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/448f42a7-647f-4a58-8094-bbf6895b1d40/EPISODE_IMAGE/1399178689000.png"
+            },
+            {
+                "id": "c9272c8d-43ae-4079-8898-f181a0cc1a59",
+                "title": "Tagesschau vom 02.05.2014, 19:30",
+                "transcript": "transcripts/simple/c9272c8d-43ae-4079-8898-f181a0cc1a59.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/23a9702a-368a-4bdd-9b94-77881e1fc82f/EPISODE_IMAGE/1399090153000.png"
+            },
+            {
+                "id": "6a144859-e1cc-4eb8-9daa-8f4b40a07147",
+                "title": "Tagesschau vom 30.04.2014, 19:30",
+                "transcript": "transcripts/simple/6a144859-e1cc-4eb8-9daa-8f4b40a07147.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/db17b61b-1516-4083-b3de-f2ed89752a49/EPISODE_IMAGE/1398912425000.png"
+            },
+            {
+                "id": "16f2a980-782e-4f89-90e8-c791e7cf1c08",
+                "title": "Tagesschau vom 29.04.2014, 19:30",
+                "transcript": "transcripts/simple/16f2a980-782e-4f89-90e8-c791e7cf1c08.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52b47496-86cc-4b8d-b64c-6ef82496ea0b/EPISODE_IMAGE/1398823549000.png"
+            },
+            {
+                "id": "cba2eb1b-db00-4b4b-92d0-a13b0945e27b",
+                "title": "Tagesschau vom 27.04.2014, 19:30",
+                "transcript": "transcripts/simple/cba2eb1b-db00-4b4b-92d0-a13b0945e27b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd2dd415-f0a0-4d66-9bd1-60d5e10936f0/EPISODE_IMAGE/1398645484000.png"
+            },
+            {
+                "id": "38e2cf5a-7dce-4864-81d9-7e65d179f5b9",
+                "title": "Tagesschau vom 26.04.2014, 19:30",
+                "transcript": "transcripts/simple/38e2cf5a-7dce-4864-81d9-7e65d179f5b9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/64ee76dc-3ab0-47a4-92c7-25c1a4abe0de/EPISODE_IMAGE/1398556503000.png"
+            },
+            {
+                "id": "9748d12e-ee92-4cfc-b93a-acc7823a598a",
+                "title": "Tagesschau vom 25.04.2014, 19:30",
+                "transcript": "transcripts/simple/9748d12e-ee92-4cfc-b93a-acc7823a598a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8ccd052a-8b46-45b1-a1c4-a8a20e4bf0f0/EPISODE_IMAGE/1398467562000.png"
+            },
+            {
+                "id": "d232c4b3-b5a3-44ec-87b5-442390856188",
+                "title": "Tagesschau vom 24.04.2014, 19:30",
+                "transcript": "transcripts/simple/d232c4b3-b5a3-44ec-87b5-442390856188.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f248bd51-90f3-4a7a-a6c6-779da1147685/EPISODE_IMAGE/1398378167000.png"
+            },
+            {
+                "id": "bf43149b-eb30-4ddd-ac3a-3b171bf5425c",
+                "title": "Tagesschau vom 23.04.2014, 19:30",
+                "transcript": "transcripts/simple/bf43149b-eb30-4ddd-ac3a-3b171bf5425c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a726485b-e30b-4e31-b707-74a0b190fb53/EPISODE_IMAGE/1398289776000.png"
+            },
+            {
+                "id": "e9464863-49b5-4ff2-8057-0bfa806c1e6c",
+                "title": "Tagesschau vom 22.04.2014, 19:30",
+                "transcript": "transcripts/simple/e9464863-49b5-4ff2-8057-0bfa806c1e6c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4e8dec22-7dc7-48f8-8a3b-69e3490cc19e/EPISODE_IMAGE/1398199385000.png"
+            },
+            {
+                "id": "a63922db-4ea6-4008-9780-3b59f230b5e7",
+                "title": "Tagesschau vom 21.04.2014, 19:30",
+                "transcript": "transcripts/simple/a63922db-4ea6-4008-9780-3b59f230b5e7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f33502cc-67b8-416d-a7e7-a2063f99c8cb/EPISODE_IMAGE/1398139724000.png"
+            },
+            {
+                "id": "8b147a82-2779-4818-b197-36d48eba7a0d",
+                "title": "Tagesschau vom 20.04.2014, 19:30",
+                "transcript": "transcripts/simple/8b147a82-2779-4818-b197-36d48eba7a0d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e6ce3d57-d57c-4061-bbdf-e0e6fb1b7078/EPISODE_IMAGE/1398050675000.png"
+            },
+            {
+                "id": "68f0e02a-fea7-4813-964e-4edc15bcccb4",
+                "title": "Tagesschau vom 19.04.2014, 19:30",
+                "transcript": "transcripts/simple/68f0e02a-fea7-4813-964e-4edc15bcccb4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a5a44ff9-345e-4bbb-ba3c-485faef94508/EPISODE_IMAGE/1397961814000.png"
+            },
+            {
+                "id": "477c158d-2d42-467a-bd34-d5a0f854bb85",
+                "title": "Tagesschau vom 18.04.2014, 19:30",
+                "transcript": "transcripts/simple/477c158d-2d42-467a-bd34-d5a0f854bb85.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d0ae2743-975a-4a79-8906-4334150410ee/EPISODE_IMAGE/1397872756000.png"
+            },
+            {
+                "id": "b7a140f4-ede8-4348-b60a-924697a9206a",
+                "title": "Tagesschau vom 17.04.2014, 19:30",
+                "transcript": "transcripts/simple/b7a140f4-ede8-4348-b60a-924697a9206a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a85c2b3c-a55e-46d5-8761-6462bcc1d906/EPISODE_IMAGE/1397783847000.png"
+            },
+            {
+                "id": "94253bff-e5d6-4c8a-98e8-c90c8fe6d9ff",
+                "title": "Tagesschau vom 16.04.2014, 19:30",
+                "transcript": "transcripts/simple/94253bff-e5d6-4c8a-98e8-c90c8fe6d9ff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd9c9995-e98b-4bc0-b21c-e949fccd9eb3/EPISODE_IMAGE/1397695109000.png"
+            },
+            {
+                "id": "d57190e0-7aa9-4976-90c1-78c4b9967dd4",
+                "title": "Tagesschau vom 15.04.2014, 19:30",
+                "transcript": "transcripts/simple/d57190e0-7aa9-4976-90c1-78c4b9967dd4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9bfb4482-1ff7-4560-9ca1-395fea5f0faf/EPISODE_IMAGE/1397605037000.png"
+            },
+            {
+                "id": "10d5c32f-20c5-498d-901f-743f0987abe2",
+                "title": "Tagesschau vom 14.04.2014, 19:30",
+                "transcript": "transcripts/simple/10d5c32f-20c5-498d-901f-743f0987abe2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c69ba38a-af28-447e-a1d3-0722a3060f9a/EPISODE_IMAGE/1397516077000.png"
+            },
+            {
+                "id": "f9525fd3-583b-440e-b5ef-31413b1bb514",
+                "title": "Tagesschau vom 13.04.2014, 19:30",
+                "transcript": "transcripts/simple/f9525fd3-583b-440e-b5ef-31413b1bb514.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7aaaeb7c-d90b-4662-adcf-29ae01dd3e69/EPISODE_IMAGE/1397427205000.png"
+            },
+            {
+                "id": "e89961c9-192e-496f-a179-dacd097ea9e7",
+                "title": "Tagesschau vom 12.04.2014, 19:30",
+                "transcript": "transcripts/simple/e89961c9-192e-496f-a179-dacd097ea9e7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6f7f26d3-ed1b-4665-9a27-54a439b153e6/EPISODE_IMAGE/1397338412000.png"
+            },
+            {
+                "id": "b4f39a2d-c51d-4808-bd97-2eec0f67eb2e",
+                "title": "Tagesschau vom 11.04.2014, 19:30",
+                "transcript": "transcripts/simple/b4f39a2d-c51d-4808-bd97-2eec0f67eb2e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/08f27f87-6a73-4cc5-bd1d-3e0f9aa328a5/EPISODE_IMAGE/1397249441000.png"
+            },
+            {
+                "id": "0a5a6c50-1fdd-4f89-8a67-29d045558847",
+                "title": "Tagesschau vom 10.04.2014, 19:30",
+                "transcript": "transcripts/simple/0a5a6c50-1fdd-4f89-8a67-29d045558847.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5ef243eb-f88a-4895-abd5-842cd0626dce/EPISODE_IMAGE/1397160319000.png"
+            },
+            {
+                "id": "fb16bef3-8bd4-4ea7-91f0-77f2c07f1fb2",
+                "title": "Tagesschau vom 09.04.2014, 19:30",
+                "transcript": "transcripts/simple/fb16bef3-8bd4-4ea7-91f0-77f2c07f1fb2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0db0d0d1-6cc5-4f5b-9595-9229784a4cbb/EPISODE_IMAGE/1397068610000.png"
+            },
+            {
+                "id": "18ef6fed-77c2-4c9d-a7ea-6c9bb4c991cb",
+                "title": "Tagesschau vom 08.04.2014, 19:30",
+                "transcript": "transcripts/simple/18ef6fed-77c2-4c9d-a7ea-6c9bb4c991cb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52ee5bf1-0700-493b-9f2b-3404db5a5c96/EPISODE_IMAGE/1397023133000.png"
+            },
+            {
+                "id": "5dc414aa-fcf5-472d-a7d1-df951af9e173",
+                "title": "Tagesschau vom 07.04.2014, 19:30",
+                "transcript": "transcripts/simple/5dc414aa-fcf5-472d-a7d1-df951af9e173.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/462a61ed-478a-4c58-a0e3-fedcb099791d/EPISODE_IMAGE/1396933599000.png"
+            },
+            {
+                "id": "3156b323-bda0-4ea5-848e-986d0ac4975d",
+                "title": "Tagesschau vom 06.04.2014, 19:30",
+                "transcript": "transcripts/simple/3156b323-bda0-4ea5-848e-986d0ac4975d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5edf3e50-9eb9-43e8-abe4-ad7085849ea6/EPISODE_IMAGE/1396875548000.png"
+            },
+            {
+                "id": "b74507a2-7d54-4460-a011-98e0642913bf",
+                "title": "Tagesschau vom 05.04.2014, 19:30",
+                "transcript": "transcripts/simple/b74507a2-7d54-4460-a011-98e0642913bf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c6cb5f87-8559-4c5d-90b6-df82e6271b08/EPISODE_IMAGE/1396754196000.png"
+            },
+            {
+                "id": "6492826d-4af0-47a0-b684-7df26ce44197",
+                "title": "Tagesschau vom 04.04.2014, 19:30",
+                "transcript": "transcripts/simple/6492826d-4af0-47a0-b684-7df26ce44197.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f17024b6-132d-4972-838b-f29ef8dce7ab/EPISODE_IMAGE/1396665441000.png"
+            },
+            {
+                "id": "556ee049-2033-4ab6-8374-90d2e5b70226",
+                "title": "Tagesschau vom 03.04.2014, 19:30",
+                "transcript": "transcripts/simple/556ee049-2033-4ab6-8374-90d2e5b70226.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/09aa8eea-d6df-48a8-a3d1-314e27edd6de/EPISODE_IMAGE/1396576418000.png"
+            },
+            {
+                "id": "5af8289a-bdc0-4415-b00d-e13f32e2a780",
+                "title": "Tagesschau vom 02.04.2014, 19:30",
+                "transcript": "transcripts/simple/5af8289a-bdc0-4415-b00d-e13f32e2a780.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd1c7b2b-fd7b-4881-b43e-e27510379ed1/EPISODE_IMAGE/1396516769000.png"
+            },
+            {
+                "id": "6e7832f9-6678-48f0-9131-bcf8582757c2",
+                "title": "Tagesschau vom 01.04.2014, 19:30",
+                "transcript": "transcripts/simple/6e7832f9-6678-48f0-9131-bcf8582757c2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/970870ad-d26a-4991-bdb4-43d33a55438b/EPISODE_IMAGE/1396396919000.png"
+            },
+            {
+                "id": "ebd49f71-0a0c-4571-a1c7-01bfabb546d0",
+                "title": "Tagesschau vom 31.03.2014, 19:30",
+                "transcript": "transcripts/simple/ebd49f71-0a0c-4571-a1c7-01bfabb546d0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/900ff71b-8568-4188-80c0-0093e8baea4b/EPISODE_IMAGE/1396337472000.png"
+            },
+            {
+                "id": "18f1aa41-84cc-4e8a-9234-2905fc34254c",
+                "title": "Tagesschau vom 30.03.2014, 19:30",
+                "transcript": "transcripts/simple/18f1aa41-84cc-4e8a-9234-2905fc34254c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/93d5b4c2-7b51-4572-9cbd-e7a588c24c45/EPISODE_IMAGE/1396352641000.png"
+            },
+            {
+                "id": "a959dccc-681b-4fdc-99b0-9e8062063e42",
+                "title": "Tagesschau vom 29.03.2014, 19:30",
+                "transcript": "transcripts/simple/a959dccc-681b-4fdc-99b0-9e8062063e42.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f8ec3d5d-43a4-4cd7-84c9-e61167688057/EPISODE_IMAGE/1396128296000.png"
+            },
+            {
+                "id": "a828ea8a-2549-4dcd-a8ac-9f25bfba5004",
+                "title": "Tagesschau vom 28.03.2014, 19:30",
+                "transcript": "transcripts/simple/a828ea8a-2549-4dcd-a8ac-9f25bfba5004.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5cc44a38-110e-48db-8db0-e90451eaf30f/EPISODE_IMAGE/1396039205000.png"
+            },
+            {
+                "id": "741b9824-0e13-4185-a41a-27cdff83877f",
+                "title": "Tagesschau vom 27.03.2014, 19:30",
+                "transcript": "transcripts/simple/741b9824-0e13-4185-a41a-27cdff83877f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/44b492b8-aee1-4976-9e73-74a84300fa7d/EPISODE_IMAGE/1395950056000.png"
+            },
+            {
+                "id": "dffe5597-8958-4ec4-9ec6-518d385ad271",
+                "title": "Tagesschau vom 26.03.2014, 19:30",
+                "transcript": "transcripts/simple/dffe5597-8958-4ec4-9ec6-518d385ad271.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9812ea21-819d-4a5a-a343-26fa1238240c/EPISODE_IMAGE/1395905443000.png"
+            },
+            {
+                "id": "032ce36f-cf8d-451e-89d2-07da5581abc2",
+                "title": "Tagesschau vom 25.03.2014, 19:30",
+                "transcript": "transcripts/simple/032ce36f-cf8d-451e-89d2-07da5581abc2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b6222117-10e1-432b-95fc-8c7ed2f8757e/EPISODE_IMAGE/1395821119000.png"
+            },
+            {
+                "id": "73585ecd-0e98-4f8a-86d5-25a116fd6eee",
+                "title": "Tagesschau vom 24.03.2014, 19:30",
+                "transcript": "transcripts/simple/73585ecd-0e98-4f8a-86d5-25a116fd6eee.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f64753b3-7e86-49c3-83ee-873e8d1c3030/EPISODE_IMAGE/1395727396000.png"
+            },
+            {
+                "id": "c882ceea-7f5a-47d4-b6db-d4e0b98c7c6f",
+                "title": "Tagesschau vom 23.03.2014, 19:30",
+                "transcript": "transcripts/simple/c882ceea-7f5a-47d4-b6db-d4e0b98c7c6f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52bf17fc-181d-4faa-9c44-35fed96b8f45/EPISODE_IMAGE/1395638395000.png"
+            },
+            {
+                "id": "2ce38229-e647-4e1b-861c-72d047fbcedc",
+                "title": "Tagesschau vom 22.03.2014, 19:30",
+                "transcript": "transcripts/simple/2ce38229-e647-4e1b-861c-72d047fbcedc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3c76f777-bccf-46d0-adfe-4180467ba519/EPISODE_IMAGE/1395549634000.png"
+            },
+            {
+                "id": "04916004-7195-44b0-8b07-8d536b16c4b4",
+                "title": "Tagesschau vom 21.03.2014, 19:30",
+                "transcript": "transcripts/simple/04916004-7195-44b0-8b07-8d536b16c4b4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2770570b-bc72-42f0-9d6c-96c7bff9ed19/EPISODE_IMAGE/1395460699000.png"
+            },
+            {
+                "id": "747e6dae-fe0f-429c-851f-a1225b08c781",
+                "title": "Tagesschau vom 20.03.2014, 19:30",
+                "transcript": "transcripts/simple/747e6dae-fe0f-429c-851f-a1225b08c781.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/40c2db34-0d80-46f5-b184-a1a09f562967/EPISODE_IMAGE/1395371777000.png"
+            },
+            {
+                "id": "de8ae794-043f-4bf2-a2e6-c307d8b875f2",
+                "title": "Tagesschau vom 19.03.2014, 19:30",
+                "transcript": "transcripts/simple/de8ae794-043f-4bf2-a2e6-c307d8b875f2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e7f473ba-3637-4542-92ab-3b3335066138/EPISODE_IMAGE/1395282620000.png"
+            },
+            {
+                "id": "ba5bbdb7-41b8-43ce-a559-055a47c33297",
+                "title": "Tagesschau vom 18.03.2014, 19:30",
+                "transcript": "transcripts/simple/ba5bbdb7-41b8-43ce-a559-055a47c33297.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7d914fa4-3811-4664-8125-00179397cc45/EPISODE_IMAGE/1395193691000.png"
+            },
+            {
+                "id": "8564549d-d73a-46c1-9645-deaa38c4ad1a",
+                "title": "Tagesschau vom 17.03.2014, 19:30",
+                "transcript": "transcripts/simple/8564549d-d73a-46c1-9645-deaa38c4ad1a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/46b0b2b0-20a7-434f-98e9-67195eaa0bc6/EPISODE_IMAGE/1395133950000.png"
+            },
+            {
+                "id": "d1bff586-1322-4966-ad3e-3f34b4219597",
+                "title": "Tagesschau vom 16.03.2014, 19:30",
+                "transcript": "transcripts/simple/d1bff586-1322-4966-ad3e-3f34b4219597.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9f7089be-b5f9-48dd-b5f0-f490da83abb7/EPISODE_IMAGE/1395015674000.png"
+            },
+            {
+                "id": "eb3d7bc3-24c1-43f0-aa0e-b991b7da4ef2",
+                "title": "Tagesschau vom 15.03.2014, 19:30",
+                "transcript": "transcripts/simple/eb3d7bc3-24c1-43f0-aa0e-b991b7da4ef2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/850da432-fc48-4cff-88f8-f0ce8606f082/EPISODE_IMAGE/1394972145000.png"
+            },
+            {
+                "id": "c1a7d480-823e-4c68-a157-96cbc96f7284",
+                "title": "Tagesschau vom 14.03.2014, 19:30",
+                "transcript": "transcripts/simple/c1a7d480-823e-4c68-a157-96cbc96f7284.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c995004a-210f-43f7-bb12-27f8a697a215/EPISODE_IMAGE/1394838177000.png"
+            },
+            {
+                "id": "000854e2-3406-49bd-92f6-46991fb2efa1",
+                "title": "Tagesschau vom 13.03.2014, 19:30",
+                "transcript": "transcripts/simple/000854e2-3406-49bd-92f6-46991fb2efa1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bee60ce1-6038-4704-afd0-9a5dd777514f/EPISODE_IMAGE/1394749351000.png"
+            },
+            {
+                "id": "8fbd92a4-7c64-41d0-baa0-e23bafc52009",
+                "title": "Tagesschau vom 12.03.2014, 19:30",
+                "transcript": "transcripts/simple/8fbd92a4-7c64-41d0-baa0-e23bafc52009.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4973d84b-8d41-4799-8449-096f9cda7269/EPISODE_IMAGE/1394660495000.png"
+            },
+            {
+                "id": "b4ace512-d1b6-4a55-8610-1ef7e9931d4d",
+                "title": "Tagesschau vom 11.03.2014, 19:30",
+                "transcript": "transcripts/simple/b4ace512-d1b6-4a55-8610-1ef7e9931d4d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e202f196-891b-4d80-b412-c010bdcd46e8/EPISODE_IMAGE/1394571066000.png"
+            },
+            {
+                "id": "89e74b5e-cc38-4904-86f5-b5b2ab08dc8d",
+                "title": "Tagesschau vom 10.03.2014, 19:30",
+                "transcript": "transcripts/simple/89e74b5e-cc38-4904-86f5-b5b2ab08dc8d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2d131b86-6629-4090-ba03-4c1927e22702/EPISODE_IMAGE/1394614463000.png"
+            },
+            {
+                "id": "5995994c-b0e4-4501-bb09-9a0ea5977031",
+                "title": "Tagesschau vom 09.03.2014, 19:30",
+                "transcript": "transcripts/simple/5995994c-b0e4-4501-bb09-9a0ea5977031.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/435cfbed-9cf9-4007-869e-b4437f582da7/EPISODE_IMAGE/1394426996000.png"
+            },
+            {
+                "id": "781de40d-995f-4fe1-a16c-d9d311ea0271",
+                "title": "Tagesschau vom 08.03.2014, 19:30",
+                "transcript": "transcripts/simple/781de40d-995f-4fe1-a16c-d9d311ea0271.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/99283d97-5cd3-4dcb-b141-69e1d2da99e3/EPISODE_IMAGE/1394338435000.png"
+            },
+            {
+                "id": "c5c109a4-4589-42c8-99dc-8060b827928a",
+                "title": "Tagesschau vom 07.03.2014, 19:30",
+                "transcript": "transcripts/simple/c5c109a4-4589-42c8-99dc-8060b827928a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8b554f72-026a-4d71-bb60-74548574f928/EPISODE_IMAGE/1394261079000.png"
+            },
+            {
+                "id": "5d011bbc-1af0-4cda-a1ee-9e2139995a57",
+                "title": "Tagesschau vom 06.03.2014, 19:30",
+                "transcript": "transcripts/simple/5d011bbc-1af0-4cda-a1ee-9e2139995a57.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0e44ff99-9834-45dc-a391-204c7e102712/EPISODE_IMAGE/1394159991000.png"
+            },
+            {
+                "id": "d6464360-d182-46ea-96dd-4a09e4df8b3e",
+                "title": "Tagesschau vom 05.03.2014, 19:30",
+                "transcript": "transcripts/simple/d6464360-d182-46ea-96dd-4a09e4df8b3e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/297c3c63-a017-4a81-aca0-65c7bc725e22/EPISODE_IMAGE/1394095930000.png"
+            },
+            {
+                "id": "d359b310-6f48-4146-9c51-7f3fbb669814",
+                "title": "Tagesschau vom 04.03.2014, 19:30",
+                "transcript": "transcripts/simple/d359b310-6f48-4146-9c51-7f3fbb669814.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1dd86353-1bb6-4588-ad52-8755a6443a88/EPISODE_IMAGE/1393981453000.png"
+            },
+            {
+                "id": "084e5d3b-c16c-4fe8-a85a-4b5b5555fae5",
+                "title": "Tagesschau vom 03.03.2014, 19:30",
+                "transcript": "transcripts/simple/084e5d3b-c16c-4fe8-a85a-4b5b5555fae5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52e45182-e06e-412d-b9c8-7578d337c941/EPISODE_IMAGE/1393891846000.png"
+            },
+            {
+                "id": "e076f3f4-2c14-4281-bfba-8c71610d44d7",
+                "title": "Tagesschau vom 02.03.2014, 19:30",
+                "transcript": "transcripts/simple/e076f3f4-2c14-4281-bfba-8c71610d44d7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2ebf0192-9ee4-46e7-b4e5-e789f17ad342/EPISODE_IMAGE/1393802700000.png"
+            },
+            {
+                "id": "84235775-ce3b-4f55-9ccb-9990fe57a668",
+                "title": "Tagesschau vom 01.03.2014, 19:30",
+                "transcript": "transcripts/simple/84235775-ce3b-4f55-9ccb-9990fe57a668.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/89779745-02b0-466c-8f2e-e30433b125a4/EPISODE_IMAGE/1393713647000.png"
+            },
+            {
+                "id": "a669e4bb-4b66-49b9-92e8-5e9087ff5186",
+                "title": "Tagesschau vom 28.02.2014, 19:30",
+                "transcript": "transcripts/simple/a669e4bb-4b66-49b9-92e8-5e9087ff5186.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4859c680-0203-42e0-8f36-a54fd3bb823c/EPISODE_IMAGE/1393624341000.png"
+            },
+            {
+                "id": "b28ec5cf-dc3f-4c66-acb0-2371d63e8f40",
+                "title": "Tagesschau vom 25.02.2014, 19:30",
+                "transcript": "transcripts/simple/b28ec5cf-dc3f-4c66-acb0-2371d63e8f40.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c5fe3d1a-2709-4dcd-be34-375a37aa8774/EPISODE_IMAGE/1393385100000.png"
+            },
+            {
+                "id": "25c7b330-156d-4b19-a89a-7dc49b5dceda",
+                "title": "Tagesschau vom 24.02.2014, 19:30",
+                "transcript": "transcripts/simple/25c7b330-156d-4b19-a89a-7dc49b5dceda.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c8f154a2-726f-40bc-a51a-ef0282337e94/EPISODE_IMAGE/1393274405000.png"
+            },
+            {
+                "id": "df2b2ffe-4254-4f02-a29b-628c10a15a7c",
+                "title": "Tagesschau vom 23.02.2014, 19:30",
+                "transcript": "transcripts/simple/df2b2ffe-4254-4f02-a29b-628c10a15a7c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dad6228a-13f2-436b-aba0-c2f48c14223a/EPISODE_IMAGE/1393274373000.png"
+            },
+            {
+                "id": "8c1656c3-a2be-4e38-832b-25ce3a2113d1",
+                "title": "Tagesschau vom 22.02.2014, 19:30",
+                "transcript": "transcripts/simple/8c1656c3-a2be-4e38-832b-25ce3a2113d1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d175bded-2c01-42a6-be45-0feed0688c12/EPISODE_IMAGE/1393123933000.png"
+            },
+            {
+                "id": "61c850f6-274e-4206-9062-17e1c5024b23",
+                "title": "Tagesschau vom 21.02.2014, 19:30",
+                "transcript": "transcripts/simple/61c850f6-274e-4206-9062-17e1c5024b23.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ddc3f485-c3d3-4bc8-9af1-39c833fdb02a/EPISODE_IMAGE/1393034872000.png"
+            },
+            {
+                "id": "1cd4dc45-402e-461f-b0ae-7c2982867f4f",
+                "title": "Tagesschau vom 20.02.2014, 19:30",
+                "transcript": "transcripts/simple/1cd4dc45-402e-461f-b0ae-7c2982867f4f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/388774b3-7534-415a-8b53-751d69feeefd/EPISODE_IMAGE/1392945477000.png"
+            },
+            {
+                "id": "01a202e3-83ea-4f35-8b48-590f45fda593",
+                "title": "Tagesschau vom 19.02.2014, 19:30",
+                "transcript": "transcripts/simple/01a202e3-83ea-4f35-8b48-590f45fda593.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6cd8acec-e929-4a06-829d-b8b6c0d48e02/EPISODE_IMAGE/1392856221000.png"
+            },
+            {
+                "id": "642c121b-a254-4ec2-ab30-92fec7d791d3",
+                "title": "Tagesschau vom 18.02.2014, 19:30",
+                "transcript": "transcripts/simple/642c121b-a254-4ec2-ab30-92fec7d791d3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/99f992d4-ac66-4e24-abb0-ddc29de13fe3/EPISODE_IMAGE/1392766982000.png"
+            },
+            {
+                "id": "d1ce04a7-4a45-4397-92b8-5a545b427632",
+                "title": "Tagesschau vom 17.02.2014, 19:30",
+                "transcript": "transcripts/simple/d1ce04a7-4a45-4397-92b8-5a545b427632.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/de5f3353-2bc4-47e8-9f93-46f569a49e05/EPISODE_IMAGE/1392787792000.png"
+            },
+            {
+                "id": "4384d328-4dd5-4bab-aa13-8e55df9473ae",
+                "title": "Tagesschau vom 11.02.2014, 19:30",
+                "transcript": "transcripts/simple/4384d328-4dd5-4bab-aa13-8e55df9473ae.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c55311b0-0626-4749-8880-a1b3ccb95c46/EPISODE_IMAGE/1392156995000.png"
+            },
+            {
+                "id": "54cf2d81-4d2f-4bfc-b036-3977e4d00e02",
+                "title": "Tagesschau vom 10.02.2014, 19:30",
+                "transcript": "transcripts/simple/54cf2d81-4d2f-4bfc-b036-3977e4d00e02.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e8464683-d4de-4b4b-b635-3ccd1302db15/EPISODE_IMAGE/1392067516000.png"
+            },
+            {
+                "id": "99bfd5f7-6fca-4c11-aaf3-222f70e7bdc7",
+                "title": "Tagesschau vom 09.02.2014, 19:30",
+                "transcript": "transcripts/simple/99bfd5f7-6fca-4c11-aaf3-222f70e7bdc7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/11e1a51b-7c96-49d1-9e6d-1383746bc8a3/EPISODE_IMAGE/1391978512000.png"
+            },
+            {
+                "id": "99398f46-6223-4614-b16e-05c0e6a67802",
+                "title": "Tagesschau vom 08.02.2014, 19:30",
+                "transcript": "transcripts/simple/99398f46-6223-4614-b16e-05c0e6a67802.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0c85989f-d097-479d-8916-a5e0bfd588f3/EPISODE_IMAGE/1391889350000.png"
+            },
+            {
+                "id": "2d9f4109-434d-4721-bb03-eaa8ad863a63",
+                "title": "Tagesschau vom 07.02.2014, 19:30",
+                "transcript": "transcripts/simple/2d9f4109-434d-4721-bb03-eaa8ad863a63.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d00d9a80-dae7-4bac-ba0d-d917b616864d/EPISODE_IMAGE/1391844596000.png"
+            },
+            {
+                "id": "3c28de63-bf72-44c8-94d8-4b4cfefd6076",
+                "title": "Tagesschau vom 06.02.2014, 19:30",
+                "transcript": "transcripts/simple/3c28de63-bf72-44c8-94d8-4b4cfefd6076.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5dcaf490-25ae-4cc1-863f-e40245fb5c2c/EPISODE_IMAGE/1391755568000.png"
+            },
+            {
+                "id": "9b9ad667-dd64-4ba8-90db-79e1b00695ae",
+                "title": "Tagesschau vom 05.02.2014, 19:30",
+                "transcript": "transcripts/simple/9b9ad667-dd64-4ba8-90db-79e1b00695ae.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7a98f748-ef1c-490b-a016-3e7d1566f062/EPISODE_IMAGE/1391666209000.png"
+            },
+            {
+                "id": "1e5e7e95-8d84-446f-a964-a2b0d175941c",
+                "title": "Tagesschau vom 04.02.2014, 19:30",
+                "transcript": "transcripts/simple/1e5e7e95-8d84-446f-a964-a2b0d175941c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ea14235e-23ad-4e22-a4ea-73b5ec1dc8d5/EPISODE_IMAGE/1391577321000.png"
+            },
+            {
+                "id": "dcff8d5e-91bf-4694-819f-82d109e6800f",
+                "title": "Tagesschau vom 03.02.2014, 19:30",
+                "transcript": "transcripts/simple/dcff8d5e-91bf-4694-819f-82d109e6800f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a4dff7fb-168b-4e9d-8f6f-d00bf58b2cfb/EPISODE_IMAGE/1391488547000.png"
+            },
+            {
+                "id": "ca9264ed-089d-431b-afa0-2dc10a8ad5e7",
+                "title": "Tagesschau vom 02.02.2014, 19:30",
+                "transcript": "transcripts/simple/ca9264ed-089d-431b-afa0-2dc10a8ad5e7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8e951aa3-b4d2-4bbf-969c-6c34e5584123/EPISODE_IMAGE/1391399830000.png"
+            },
+            {
+                "id": "731b77df-c6ad-40d7-a249-8d5364f464da",
+                "title": "Tagesschau vom 01.02.2014, 19:30",
+                "transcript": "transcripts/simple/731b77df-c6ad-40d7-a249-8d5364f464da.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7f4a0397-bd23-439c-b118-804d1e769425/EPISODE_IMAGE/1391310938000.png"
+            },
+            {
+                "id": "e1fc6cef-bfff-4f31-a783-557ba58e6c76",
+                "title": "Tagesschau vom 31.01.2014, 19:30",
+                "transcript": "transcripts/simple/e1fc6cef-bfff-4f31-a783-557ba58e6c76.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/24f6f27f-bfc1-41ed-be37-fd1b386db25e/EPISODE_IMAGE/1391238030000.png"
+            },
+            {
+                "id": "d47142bb-a35b-4108-b0e7-181ed79dadb5",
+                "title": "Tagesschau vom 30.01.2014, 19:30",
+                "transcript": "transcripts/simple/d47142bb-a35b-4108-b0e7-181ed79dadb5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5eb19529-ac03-499d-a7ed-cf68a034beb9/EPISODE_IMAGE/1391132244000.png"
+            },
+            {
+                "id": "e6cd4244-49e5-485c-96dd-6313b4297c9e",
+                "title": "Tagesschau vom 29.01.2014, 19:30",
+                "transcript": "transcripts/simple/e6cd4244-49e5-485c-96dd-6313b4297c9e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7dcf6d52-9b19-4048-a371-3ed3ae2818ea/EPISODE_IMAGE/1391043311000.png"
+            },
+            {
+                "id": "81e7f2b4-8dad-4011-b218-8f91581c9475",
+                "title": "Tagesschau vom 28.01.2014, 19:30",
+                "transcript": "transcripts/simple/81e7f2b4-8dad-4011-b218-8f91581c9475.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/086c64b0-ecdb-4066-83c0-7da4bef3bfae/EPISODE_IMAGE/1390954310000.png"
+            },
+            {
+                "id": "e8ca079a-ff4c-4439-84c7-eb004d38a24a",
+                "title": "Tagesschau vom 27.01.2014, 19:30",
+                "transcript": "transcripts/simple/e8ca079a-ff4c-4439-84c7-eb004d38a24a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/535e57f5-a91f-4448-857f-9ed6b0b6030a/EPISODE_IMAGE/1390865899000.png"
+            },
+            {
+                "id": "2ea7e8bf-543f-4f7a-96f5-b825dfc411c6",
+                "title": "Tagesschau vom 26.01.2014, 19:30",
+                "transcript": "transcripts/simple/2ea7e8bf-543f-4f7a-96f5-b825dfc411c6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/33d9848f-9bcd-4fe1-bc3a-cfb11692b404/EPISODE_IMAGE/1390777429000.png"
+            },
+            {
+                "id": "2f34a0d3-2244-475d-a213-4dadf7608a53",
+                "title": "Tagesschau vom 25.01.2014, 19:30",
+                "transcript": "transcripts/simple/2f34a0d3-2244-475d-a213-4dadf7608a53.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/614e33d9-dda0-4b65-9eae-86ceca394fd5/EPISODE_IMAGE/1390688596000.png"
+            },
+            {
+                "id": "cec0a574-13df-40e2-9a1f-3d9c6034bf6b",
+                "title": "Tagesschau vom 24.01.2014, 19:30",
+                "transcript": "transcripts/simple/cec0a574-13df-40e2-9a1f-3d9c6034bf6b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e81bfb3f-c52b-4589-92d1-4186d128e9d4/EPISODE_IMAGE/1390600139000.png"
+            },
+            {
+                "id": "c3dcf44b-c275-4a36-a422-9b859c7524a0",
+                "title": "Tagesschau vom 23.01.2014, 19:30",
+                "transcript": "transcripts/simple/c3dcf44b-c275-4a36-a422-9b859c7524a0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c894a442-32f0-4c8c-a9d8-b6ff1b4d001d/EPISODE_IMAGE/1390511458000.png"
+            },
+            {
+                "id": "90a8e653-f25d-4e46-9664-685a1ae14894",
+                "title": "Tagesschau vom 22.01.2014, 19:30",
+                "transcript": "transcripts/simple/90a8e653-f25d-4e46-9664-685a1ae14894.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9b5d307b-bca0-4e39-a85e-4054a66ca70d/EPISODE_IMAGE/1390423077000.png"
+            },
+            {
+                "id": "b5055ff2-4a47-4c49-9cb8-f0b43e53e451",
+                "title": "Tagesschau vom 21.01.2014, 19:30",
+                "transcript": "transcripts/simple/b5055ff2-4a47-4c49-9cb8-f0b43e53e451.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f82e0424-5ebd-4f77-aca6-9a8b38f901c8/EPISODE_IMAGE/1390333624000.png"
+            },
+            {
+                "id": "5c29ed30-52ac-453e-a8fe-641c8097ae85",
+                "title": "Tagesschau vom 20.01.2014, 19:30",
+                "transcript": "transcripts/simple/5c29ed30-52ac-453e-a8fe-641c8097ae85.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cf834ffb-5fe0-4416-ac6d-1b3672a764e9/EPISODE_IMAGE/1390288871000.png"
+            },
+            {
+                "id": "0681e11d-9bff-4223-b272-cc43b1db8d7c",
+                "title": "Tagesschau vom 18.01.2014, 19:30",
+                "transcript": "transcripts/simple/0681e11d-9bff-4223-b272-cc43b1db8d7c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f1c1863a-dc8e-4836-b601-6dceb02b92f7/EPISODE_IMAGE/1390111266000.png"
+            },
+            {
+                "id": "809efecf-0be8-45db-a4d6-99e3de343967",
+                "title": "Tagesschau vom 17.01.2014, 19:30",
+                "transcript": "transcripts/simple/809efecf-0be8-45db-a4d6-99e3de343967.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/072cc178-9b6c-4e41-9080-5cee6d5577a5/EPISODE_IMAGE/1390022496000.png"
+            },
+            {
+                "id": "9e5d317b-7721-4d3d-b2e2-1604f483c77d",
+                "title": "Tagesschau vom 16.01.2014, 19:30",
+                "transcript": "transcripts/simple/9e5d317b-7721-4d3d-b2e2-1604f483c77d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5c6a367a-eb84-465c-8705-be0c439082cd/EPISODE_IMAGE/1390041544000.png"
+            },
+            {
+                "id": "ea708db5-7fa4-4dc1-a301-9b376916aaf8",
+                "title": "Tagesschau vom 15.01.2014, 19:30",
+                "transcript": "transcripts/simple/ea708db5-7fa4-4dc1-a301-9b376916aaf8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2b33c5a2-1db3-4683-aad2-0ccfbee88dcf/EPISODE_IMAGE/1390041568000.png"
+            },
+            {
+                "id": "4b006473-9a9c-4879-b400-74a0f33d945f",
+                "title": "Tagesschau vom 14.01.2014, 19:30",
+                "transcript": "transcripts/simple/4b006473-9a9c-4879-b400-74a0f33d945f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3141eeff-e51b-4ac1-89fd-b9964badcb98/EPISODE_IMAGE/1390041827000.png"
+            },
+            {
+                "id": "2b53ad13-e8fc-44cd-8b0d-ddf392c04c1c",
+                "title": "Tagesschau vom 13.01.2014, 19:30",
+                "transcript": "transcripts/simple/2b53ad13-e8fc-44cd-8b0d-ddf392c04c1c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f7cff62d-883a-4a09-93bc-2a0a56c98d99/EPISODE_IMAGE/1390041632000.png"
+            },
+            {
+                "id": "3dd0c8a5-6b7b-41f6-a24d-1e0e97b08d25",
+                "title": "Tagesschau vom 12.01.2014, 19:30",
+                "transcript": "transcripts/simple/3dd0c8a5-6b7b-41f6-a24d-1e0e97b08d25.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8376cf67-d45c-4150-b8a6-cd0bac8da4e3/EPISODE_IMAGE/1390041655000.png"
+            },
+            {
+                "id": "4d6d6432-0545-4f32-873f-429d76f0f390",
+                "title": "Tagesschau vom 11.01.2014, 19:30",
+                "transcript": "transcripts/simple/4d6d6432-0545-4f32-873f-429d76f0f390.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/328d0a0d-ca63-4db1-8904-a885b60e64da/EPISODE_IMAGE/1390041679000.png"
+            },
+            {
+                "id": "be8ff506-84af-4f78-9f83-daa7859eef10",
+                "title": "Tagesschau vom 10.01.2014, 19:30",
+                "transcript": "transcripts/simple/be8ff506-84af-4f78-9f83-daa7859eef10.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ed5d85e0-d096-4d8e-a913-dfa65de181b8/EPISODE_IMAGE/1390041707000.png"
+            },
+            {
+                "id": "e13864c3-03fa-4820-bd2d-bad3b1ed6d4d",
+                "title": "Tagesschau vom 09.01.2014, 19:30",
+                "transcript": "transcripts/simple/e13864c3-03fa-4820-bd2d-bad3b1ed6d4d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f1df7297-47e2-45de-a00a-71b2b9e2d306/EPISODE_IMAGE/1390041736000.png"
+            },
+            {
+                "id": "6fb829ea-bd55-4ab1-9452-0a25f9e7cc45",
+                "title": "Tagesschau vom 08.01.2014, 19:30",
+                "transcript": "transcripts/simple/6fb829ea-bd55-4ab1-9452-0a25f9e7cc45.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/20d23eaa-5d85-41ac-a778-1635abb8f8aa/EPISODE_IMAGE/1390041771000.png"
+            },
+            {
+                "id": "59764452-063e-4664-8ad9-c97249755957",
+                "title": "Tagesschau vom 07.01.2014, 19:30",
+                "transcript": "transcripts/simple/59764452-063e-4664-8ad9-c97249755957.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/78176160-42cc-44d4-b949-958a561c3c79/EPISODE_IMAGE/1390041799000.png"
+            },
+            {
+                "id": "7526d46e-8591-43c3-85ce-fa2dc0f6c619",
+                "title": "Tagesschau vom 06.01.2014, 19:30",
+                "transcript": "transcripts/simple/7526d46e-8591-43c3-85ce-fa2dc0f6c619.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fe23483b-858e-4b1d-9ea3-ced2a494d90f/EPISODE_IMAGE/1390058695000.png"
+            },
+            {
+                "id": "d8e52c3c-164d-45fa-a3b6-064be6b5e200",
+                "title": "Tagesschau vom 05.01.2014, 19:30",
+                "transcript": "transcripts/simple/d8e52c3c-164d-45fa-a3b6-064be6b5e200.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4bb9ad8a-f4f4-4dc6-9b1a-df13a4188926/EPISODE_IMAGE/1390041852000.png"
+            },
+            {
+                "id": "73d6db6f-90d2-411f-b1ff-4fa807f7e338",
+                "title": "Tagesschau vom 04.01.2014, 19:30",
+                "transcript": "transcripts/simple/73d6db6f-90d2-411f-b1ff-4fa807f7e338.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/635e3fc5-496d-4250-858e-ad8001b5f3b9/EPISODE_IMAGE/1390041879000.png"
+            },
+            {
+                "id": "567584e5-724c-45a4-80d0-44c99c1cc1b8",
+                "title": "Tagesschau vom 03.01.2014, 19:30",
+                "transcript": "transcripts/simple/567584e5-724c-45a4-80d0-44c99c1cc1b8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a4b1048e-acd1-4733-aee4-b1a51089906e/EPISODE_IMAGE/1390041913000.png"
+            },
+            {
+                "id": "2d461637-2a59-4ba5-a789-8625f949d324",
+                "title": "Tagesschau vom 02.01.2014, 19:30",
+                "transcript": "transcripts/simple/2d461637-2a59-4ba5-a789-8625f949d324.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/44362fbc-ec40-4264-bc21-fd3b9c4625ad/EPISODE_IMAGE/1390041962000.png"
+            },
+            {
+                "id": "335ed309-7dd7-430e-9578-6a55499da0dd",
+                "title": "Tagesschau vom 01.01.2014, 19:30",
+                "transcript": "transcripts/simple/335ed309-7dd7-430e-9578-6a55499da0dd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c78f5acf-2f77-4f8d-8b4d-6fa415dcffb8/EPISODE_IMAGE/1390041937000.png"
+            }
+        ]
+    },
+    {
+        "id": "c38cc259-b5cd-4ac1-b901-e3fddd901a3d",
+        "title": "10vor10",
+        "lead": "Die Hintergründe zu den wichtigsten Themen des Tages um zehn vor zehn.",
+        "description": "«10vor10» berichtet in Magazinform über die wichtigsten Themen des Tages und deren Hintergründe. «10vor10» vertieft die aktuellen News, leistet Zusatzrecherchen und profiliert sich mit Reportagen.",
+        "image": "http://ws.srf.ch/asset/image/audio/a88f2595-a0c7-4cc8-9eea-2b13e92e9f70/WEBVISUAL/1405323639000.jpg",
+        "episodes": [
+            {
+                "id": "0d3fa0d9-29ae-4864-af57-b742ad538fb3",
+                "title": "10vor10 vom 10.09.2014",
+                "transcript": "transcripts/simple/0d3fa0d9-29ae-4864-af57-b742ad538fb3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c30e7d12-9876-4a14-ac79-48059f650cda/EPISODE_IMAGE/1410397624000.png"
+            },
+            {
+                "id": "3b8babd3-5f61-4b46-ae45-55caef7f9564",
+                "title": "10vor10 vom 09.09.2014",
+                "transcript": "transcripts/simple/3b8babd3-5f61-4b46-ae45-55caef7f9564.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5432d9d9-599e-4b0a-a4aa-2d8dc92adeef/EPISODE_IMAGE/1410309079000.png"
+            },
+            {
+                "id": "b9f389d0-7a35-4605-8c8b-e2a17f52559a",
+                "title": "10vor10 vom 08.09.2014",
+                "transcript": "transcripts/simple/b9f389d0-7a35-4605-8c8b-e2a17f52559a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/117254ba-a887-43af-9b72-ca8d51ba7dec/EPISODE_IMAGE/1410220079000.png"
+            },
+            {
+                "id": "07ca8d16-8070-4f97-a5d9-92838fd5cb79",
+                "title": "10vor10 vom 05.09.2014",
+                "transcript": "transcripts/simple/07ca8d16-8070-4f97-a5d9-92838fd5cb79.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/31b7aacf-c76b-4349-8516-81592bf0b112/EPISODE_IMAGE/1409954226000.png"
+            },
+            {
+                "id": "11a16cf2-2e8f-4c95-b332-4c976ba5d739",
+                "title": "10vor10 vom 04.09.2014",
+                "transcript": "transcripts/simple/11a16cf2-2e8f-4c95-b332-4c976ba5d739.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/82fe7332-bed6-4b46-bc7d-1438cc9658eb/EPISODE_IMAGE/1409865590000.png"
+            },
+            {
+                "id": "e36827aa-0e37-497d-944d-e2b8635350a0",
+                "title": "10vor10 vom 03.09.2014",
+                "transcript": "transcripts/simple/e36827aa-0e37-497d-944d-e2b8635350a0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8e0403f3-cf7c-4966-8aba-ab727c9b23b7/EPISODE_IMAGE/1409821298000.png"
+            },
+            {
+                "id": "d4daee2a-192f-43bc-9a77-7accf9500c90",
+                "title": "10vor10 vom 02.09.2014",
+                "transcript": "transcripts/simple/d4daee2a-192f-43bc-9a77-7accf9500c90.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d840ab09-449f-40ea-9f6e-f2196c36629a/EPISODE_IMAGE/1409818941000.png"
+            },
+            {
+                "id": "89b6743b-eeab-4392-8cb9-9f59523798ae",
+                "title": "10vor10 vom 01.09.2014",
+                "transcript": "transcripts/simple/89b6743b-eeab-4392-8cb9-9f59523798ae.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ef5ece15-480b-468d-b269-2f6a0fa88315/EPISODE_IMAGE/1409818955000.png"
+            },
+            {
+                "id": "32c2dc42-4345-4b85-b32d-66ca56724ee8",
+                "title": "10vor10 vom 29.08.2014",
+                "transcript": "transcripts/simple/32c2dc42-4345-4b85-b32d-66ca56724ee8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e27bc13a-7adf-4e22-bf48-0eac4da54c20/EPISODE_IMAGE/1409370939000.png"
+            },
+            {
+                "id": "c4a9d365-ee13-4b35-9e2d-2df0034b1d14",
+                "title": "10vor10 vom 28.08.2014",
+                "transcript": "transcripts/simple/c4a9d365-ee13-4b35-9e2d-2df0034b1d14.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f94f132b-a758-4c6b-bd1f-33a40d3d8043/EPISODE_IMAGE/1409280146000.png"
+            },
+            {
+                "id": "c8af90d2-f952-4b45-9f3b-65ccf33ae759",
+                "title": "10vor10 vom 27.08.2014",
+                "transcript": "transcripts/simple/c8af90d2-f952-4b45-9f3b-65ccf33ae759.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/136f3a90-12c1-4257-942d-1f1061800a64/EPISODE_IMAGE/1409190326000.png"
+            },
+            {
+                "id": "1059f480-182b-4e86-a3c5-416aab01ab12",
+                "title": "10vor10 vom 26.08.2014",
+                "transcript": "transcripts/simple/1059f480-182b-4e86-a3c5-416aab01ab12.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1a424773-f462-4183-b35e-f381e1d38ea2/EPISODE_IMAGE/1409100678000.png"
+            },
+            {
+                "id": "d2b49cde-85e4-40ce-ae11-8dcff47f5a42",
+                "title": "10vor10 vom 25.08.2014",
+                "transcript": "transcripts/simple/d2b49cde-85e4-40ce-ae11-8dcff47f5a42.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d69c0a3c-f35b-40d3-9d72-85d8b0a7d731/EPISODE_IMAGE/1409011380000.png"
+            },
+            {
+                "id": "f851551e-2397-4711-a9cd-5d8f8e1d58e8",
+                "title": "10vor10 vom 22.08.2014",
+                "transcript": "transcripts/simple/f851551e-2397-4711-a9cd-5d8f8e1d58e8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/32da6d3d-ee2d-4560-9eef-8384ad3d2dcc/EPISODE_IMAGE/1408744230000.png"
+            },
+            {
+                "id": "93281c65-501b-4463-a164-3947e8b6426b",
+                "title": "10vor10 vom 21.08.2014",
+                "transcript": "transcripts/simple/93281c65-501b-4463-a164-3947e8b6426b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/03d1569f-9cb1-4ff8-a19b-fba3f30b8678/EPISODE_IMAGE/1408654782000.png"
+            },
+            {
+                "id": "ce000c08-348b-46cc-b39f-4e9c6b344efd",
+                "title": "10vor10 vom 20.08.2014",
+                "transcript": "transcripts/simple/ce000c08-348b-46cc-b39f-4e9c6b344efd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/91235681-c4d6-4a20-ba6c-b5f327ec4302/EPISODE_IMAGE/1408609981000.png"
+            },
+            {
+                "id": "63cee82c-75e9-4d5e-ad2e-31924e2911cf",
+                "title": "10vor10 vom 19.08.2014",
+                "transcript": "transcripts/simple/63cee82c-75e9-4d5e-ad2e-31924e2911cf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ab6a3b0f-9700-4851-ad9f-e1dc982a3b28/EPISODE_IMAGE/1408520229000.png"
+            },
+            {
+                "id": "21999a31-fea6-4548-bbab-6a45dc9ebd46",
+                "title": "10vor10 vom 18.08.2014",
+                "transcript": "transcripts/simple/21999a31-fea6-4548-bbab-6a45dc9ebd46.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6b1ae870-b0ac-4f97-a3d2-1d7633c42777/EPISODE_IMAGE/1408430566000.png"
+            },
+            {
+                "id": "5c453dfa-429a-4fc9-9b25-7cfd92f2feb0",
+                "title": "10vor10 vom 15.08.2014",
+                "transcript": "transcripts/simple/5c453dfa-429a-4fc9-9b25-7cfd92f2feb0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8a2e0cf9-1c46-4084-9263-e09cc9f897a4/EPISODE_IMAGE/1408160808000.png"
+            },
+            {
+                "id": "e946122e-699e-43b5-a491-2d202ead53cb",
+                "title": "10vor10 vom 14.08.2014",
+                "transcript": "transcripts/simple/e946122e-699e-43b5-a491-2d202ead53cb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/61e89d86-d4b0-45ea-ae54-a08e43ce8c3a/EPISODE_IMAGE/1408071188000.png"
+            },
+            {
+                "id": "545872f0-ca14-49d1-931c-26b81e1ca660",
+                "title": "10vor10 vom 13.08.2014",
+                "transcript": "transcripts/simple/545872f0-ca14-49d1-931c-26b81e1ca660.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5f42bac5-8407-4f90-8509-d70ec551ea99/EPISODE_IMAGE/1407981401000.png"
+            },
+            {
+                "id": "84dd3056-687d-4292-a46f-b3657c06d642",
+                "title": "10vor10 vom 12.08.2014",
+                "transcript": "transcripts/simple/84dd3056-687d-4292-a46f-b3657c06d642.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1e2e2d9d-88c4-4750-87db-7b04c176c190/EPISODE_IMAGE/1407891996000.png"
+            },
+            {
+                "id": "04f0dfb5-271b-4ed8-94dd-4d2dd7cb1302",
+                "title": "10vor10 vom 11.08.2014",
+                "transcript": "transcripts/simple/04f0dfb5-271b-4ed8-94dd-4d2dd7cb1302.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/87989db6-22b0-457c-a0f2-43441390fe45/EPISODE_IMAGE/1407802474000.png"
+            },
+            {
+                "id": "fd9c47ba-bdfc-4fb2-ae7b-3710670077f5",
+                "title": "10vor10 vom 08.08.2014",
+                "transcript": "transcripts/simple/fd9c47ba-bdfc-4fb2-ae7b-3710670077f5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e4c32b7f-e349-41ac-a45b-713d4a42430b/EPISODE_IMAGE/1407534105000.png"
+            },
+            {
+                "id": "f62d481f-d514-4dc0-906f-999f1a05e688",
+                "title": "10vor10 vom 07.08.2014",
+                "transcript": "transcripts/simple/f62d481f-d514-4dc0-906f-999f1a05e688.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52532140-9d45-43d4-a8b0-913b5beecc24/EPISODE_IMAGE/1407489520000.png"
+            },
+            {
+                "id": "d9bc2814-2d44-4c5f-9a71-89a11f798e23",
+                "title": "10vor10 vom 06.08.2014",
+                "transcript": "transcripts/simple/d9bc2814-2d44-4c5f-9a71-89a11f798e23.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c0f19b3f-85b0-465e-935e-1ed21cad47b8/EPISODE_IMAGE/1407398988000.png"
+            },
+            {
+                "id": "dc42a277-32f5-4dc4-a86b-93ca19c48d2f",
+                "title": "10vor10 vom 05.08.2014",
+                "transcript": "transcripts/simple/dc42a277-32f5-4dc4-a86b-93ca19c48d2f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/765271da-6be6-44b4-b5f2-a4a734f01e72/EPISODE_IMAGE/1407309489000.png"
+            },
+            {
+                "id": "651c1a2d-637d-45d2-a045-4ed98d4098f9",
+                "title": "10vor10 vom 04.08.2014",
+                "transcript": "transcripts/simple/651c1a2d-637d-45d2-a045-4ed98d4098f9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0b36d213-86db-49c1-93ba-badfddfa7055/EPISODE_IMAGE/1407219761000.png"
+            },
+            {
+                "id": "5bcf49c7-f1d4-43df-a14a-a0b6ebdccd15",
+                "title": "10vor10 vom 31.07.2014",
+                "transcript": "transcripts/simple/5bcf49c7-f1d4-43df-a14a-a0b6ebdccd15.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8e321b5b-c81d-4f9f-a0fe-2cf318f62ef0/EPISODE_IMAGE/1406862246000.png"
+            },
+            {
+                "id": "2688b70c-e1e9-4310-8942-8e7928fc72e7",
+                "title": "10vor10 vom 30.07.2014",
+                "transcript": "transcripts/simple/2688b70c-e1e9-4310-8942-8e7928fc72e7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/81614362-23c2-4056-a7be-a4a27485d93b/EPISODE_IMAGE/1406772583000.png"
+            },
+            {
+                "id": "9362d5d8-333e-46fd-b673-22d55fe68d35",
+                "title": "10vor10 vom 29.07.2014",
+                "transcript": "transcripts/simple/9362d5d8-333e-46fd-b673-22d55fe68d35.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3aba51ac-e0d7-4871-bc51-7f812202662f/EPISODE_IMAGE/1406683084000.png"
+            },
+            {
+                "id": "324af236-2b73-455b-908c-a56e4530215c",
+                "title": "10vor10 vom 28.07.2014",
+                "transcript": "transcripts/simple/324af236-2b73-455b-908c-a56e4530215c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/43500c79-7a79-4a49-8087-30b72a1849a7/EPISODE_IMAGE/1406594184000.png"
+            },
+            {
+                "id": "014303a0-dc90-4406-9eb6-e6d2c9a26bd1",
+                "title": "10vor10 vom 25.07.2014",
+                "transcript": "transcripts/simple/014303a0-dc90-4406-9eb6-e6d2c9a26bd1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/297ba1ab-26a2-4fb9-a8db-e3efe03ab4e9/EPISODE_IMAGE/1406326598000.png"
+            },
+            {
+                "id": "9f3aa13e-4813-458d-8807-1ecf42f99e21",
+                "title": "10vor10 vom 24.07.2014",
+                "transcript": "transcripts/simple/9f3aa13e-4813-458d-8807-1ecf42f99e21.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7f5f4dc3-6aa9-4daa-a6e2-97ab604353dd/EPISODE_IMAGE/1406237274000.png"
+            },
+            {
+                "id": "c79c1a5a-97f8-4d1e-9199-8de87ef5582f",
+                "title": "10vor10 vom 23.07.2014",
+                "transcript": "transcripts/simple/c79c1a5a-97f8-4d1e-9199-8de87ef5582f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a627cc5e-c006-4ddb-a4e8-64e5fe3b157a/EPISODE_IMAGE/1406192759000.png"
+            },
+            {
+                "id": "c141b974-377f-46bf-862f-5b734fd570cc",
+                "title": "10vor10 vom 22.07.2014",
+                "transcript": "transcripts/simple/c141b974-377f-46bf-862f-5b734fd570cc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/124f46ed-dca0-405a-bfa3-961d986720fb/EPISODE_IMAGE/1406102457000.png"
+            },
+            {
+                "id": "d515b62f-d843-418a-ba54-ae9ebe81126b",
+                "title": "10vor10 vom 21.07.2014",
+                "transcript": "transcripts/simple/d515b62f-d843-418a-ba54-ae9ebe81126b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b828cc5c-7a97-47e5-bc19-63faeb1a5d7d/EPISODE_IMAGE/1405989828000.png"
+            },
+            {
+                "id": "e75d8200-0f12-4f4e-9df8-6f5116dbed94",
+                "title": "10vor10 vom 18.07.2014",
+                "transcript": "transcripts/simple/e75d8200-0f12-4f4e-9df8-6f5116dbed94.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/37522e5f-36eb-49ee-9763-569757673e50/EPISODE_IMAGE/1405728544000.png"
+            },
+            {
+                "id": "64bcab1e-7b15-437b-87f2-8dcfd24f4505",
+                "title": "10vor10 vom 17.07.2014",
+                "transcript": "transcripts/simple/64bcab1e-7b15-437b-87f2-8dcfd24f4505.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a42b01b4-819f-4ee6-bc49-9708626b46af/EPISODE_IMAGE/1405639093000.png"
+            },
+            {
+                "id": "d304c996-4c51-4763-8b59-4f55d130bf19",
+                "title": "10vor10 vom 16.07.2014",
+                "transcript": "transcripts/simple/d304c996-4c51-4763-8b59-4f55d130bf19.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5e801d1c-d503-422f-b7ac-e8b9e05d3504/EPISODE_IMAGE/1405548003000.png"
+            },
+            {
+                "id": "70ff806d-6f42-42f5-ad43-e144d7cb3e24",
+                "title": "10vor10 vom 15.07.2014",
+                "transcript": "transcripts/simple/70ff806d-6f42-42f5-ad43-e144d7cb3e24.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/07311352-19ab-436f-a663-b7d0a7ca3da0/EPISODE_IMAGE/1405458389000.png"
+            },
+            {
+                "id": "e5913a43-cb7f-4a6b-91aa-c0b3348f3635",
+                "title": "10vor10 vom 14.07.2014",
+                "transcript": "transcripts/simple/e5913a43-cb7f-4a6b-91aa-c0b3348f3635.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2af58a7b-6d0c-420d-bebb-55c06e617468/EPISODE_IMAGE/1405389205000.png"
+            },
+            {
+                "id": "9f95c761-2a8f-42cb-b2ea-a0470f1b00b9",
+                "title": "10vor10 vom 11.07.2014",
+                "transcript": "transcripts/simple/9f95c761-2a8f-42cb-b2ea-a0470f1b00b9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5252ba3e-c42d-4343-bbb4-f6320d6cade6/EPISODE_IMAGE/1405122275000.png"
+            },
+            {
+                "id": "d4f03c00-6dc4-40ac-8ef4-3eb212802049",
+                "title": "10vor10 vom 10.07.2014",
+                "transcript": "transcripts/simple/d4f03c00-6dc4-40ac-8ef4-3eb212802049.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bccfb692-6527-436d-94b8-ef0c1b5859d6/EPISODE_IMAGE/1405033129000.png"
+            },
+            {
+                "id": "77d89a78-3b46-4dfc-9a5d-8fcb8427c829",
+                "title": "10vor10 vom 09.07.2014",
+                "transcript": "transcripts/simple/77d89a78-3b46-4dfc-9a5d-8fcb8427c829.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/88cdb881-6b03-4199-b0f0-5de8e2c426e7/EPISODE_IMAGE/1404942919000.png"
+            },
+            {
+                "id": "98b95271-330e-486b-9ce6-f19614a1a550",
+                "title": "10vor10 vom 08.07.2014",
+                "transcript": "transcripts/simple/98b95271-330e-486b-9ce6-f19614a1a550.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/47a23fad-d873-415e-bbf5-378ca5fa019c/EPISODE_IMAGE/1404897583000.png"
+            },
+            {
+                "id": "625c9d9f-70cb-41b5-8c42-433c94cded2b",
+                "title": "10vor10 vom 07.07.2014",
+                "transcript": "transcripts/simple/625c9d9f-70cb-41b5-8c42-433c94cded2b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c53fede3-3637-4226-affe-bad93d8400ba/EPISODE_IMAGE/1404778625000.png"
+            },
+            {
+                "id": "badbf60a-8635-4b41-9763-2464a6601186",
+                "title": "10vor10 vom 04.07.2014",
+                "transcript": "transcripts/simple/badbf60a-8635-4b41-9763-2464a6601186.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2e3ae0a7-4e52-40ec-8796-1893407a50ce/EPISODE_IMAGE/1404512054000.png"
+            },
+            {
+                "id": "0db9b83d-2b28-4ce8-98c4-d767f6a7f6f1",
+                "title": "10vor10 vom 03.07.2014",
+                "transcript": "transcripts/simple/0db9b83d-2b28-4ce8-98c4-d767f6a7f6f1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9ee9b0cb-b63e-43b7-98cb-911ea6c17830/EPISODE_IMAGE/1404423174000.png"
+            },
+            {
+                "id": "b56232bc-5763-4b41-a48d-b9bda96e1875",
+                "title": "10vor10 vom 02.07.2014",
+                "transcript": "transcripts/simple/b56232bc-5763-4b41-a48d-b9bda96e1875.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0b73a368-79c1-4a05-9ff2-f7c11de4bf91/EPISODE_IMAGE/1404334199000.png"
+            },
+            {
+                "id": "f23a53b8-0404-4715-a339-943cf7dbc282",
+                "title": "10vor10 vom 01.07.2014",
+                "transcript": "transcripts/simple/f23a53b8-0404-4715-a339-943cf7dbc282.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0f35410c-96c5-44cf-b1b7-4cc938d599b3/EPISODE_IMAGE/1404288689000.png"
+            },
+            {
+                "id": "f0cb74be-7011-4ee7-a865-539cc62036ee",
+                "title": "10vor10 vom 27.06.2014",
+                "transcript": "transcripts/simple/f0cb74be-7011-4ee7-a865-539cc62036ee.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5267b705-7fd7-47c4-8923-d923651ff4c0/EPISODE_IMAGE/1403942857000.png"
+            },
+            {
+                "id": "dabc09d3-509c-4235-bc4f-be55dcef9030",
+                "title": "10vor10 vom 26.06.2014",
+                "transcript": "transcripts/simple/dabc09d3-509c-4235-bc4f-be55dcef9030.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5162346c-6b14-4652-822e-42e65bc247f9/EPISODE_IMAGE/1403852552000.png"
+            },
+            {
+                "id": "25544c5c-434c-45e8-9274-fec7c8baabd8",
+                "title": "10vor10 vom 25.06.2014",
+                "transcript": "transcripts/simple/25544c5c-434c-45e8-9274-fec7c8baabd8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/36d370ee-31e2-4a9b-8c9e-0f99e0340bbf/EPISODE_IMAGE/1403763039000.png"
+            },
+            {
+                "id": "2e087115-5fab-4329-ab10-b0d7f7bcf6f9",
+                "title": "10vor10 vom 24.06.2014",
+                "transcript": "transcripts/simple/2e087115-5fab-4329-ab10-b0d7f7bcf6f9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d50a717a-19f6-43a5-bd38-fa6594936deb/EPISODE_IMAGE/1403673684000.png"
+            },
+            {
+                "id": "912eb10b-6338-475b-8ffd-eaa7d0057185",
+                "title": "10vor10 vom 23.06.2014",
+                "transcript": "transcripts/simple/912eb10b-6338-475b-8ffd-eaa7d0057185.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6c1fe89c-43bb-4501-acd7-439eba34dd0e/EPISODE_IMAGE/1403584275000.png"
+            },
+            {
+                "id": "123f0f4d-22bb-48a2-82ed-68d0896f3795",
+                "title": "10vor10 vom 20.06.2014",
+                "transcript": "transcripts/simple/123f0f4d-22bb-48a2-82ed-68d0896f3795.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/630d061e-9554-49f1-bd84-7d9c5b151f71/EPISODE_IMAGE/1403316443000.png"
+            },
+            {
+                "id": "4f0606a4-dde9-4248-a695-c04ee853aa09",
+                "title": "10vor10 vom 19.06.2014",
+                "transcript": "transcripts/simple/4f0606a4-dde9-4248-a695-c04ee853aa09.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2f000b7d-9cc6-4246-a4bc-e7111a539955/EPISODE_IMAGE/1403226593000.png"
+            },
+            {
+                "id": "780e676e-fe8e-4a6a-8b1d-eaf0dd63292b",
+                "title": "10vor10 vom 18.06.2014",
+                "transcript": "transcripts/simple/780e676e-fe8e-4a6a-8b1d-eaf0dd63292b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c4b526aa-e6cd-4448-bb72-4047a6528e1f/EPISODE_IMAGE/1403137248000.png"
+            },
+            {
+                "id": "baf294b0-294a-4029-891d-1964cba0df57",
+                "title": "10vor10 vom 17.06.2014",
+                "transcript": "transcripts/simple/baf294b0-294a-4029-891d-1964cba0df57.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2d3dda18-27a1-4350-b342-f1445e2faa28/EPISODE_IMAGE/1403047786000.png"
+            },
+            {
+                "id": "b845ccab-3c47-4ede-884f-a95dc9e3ce63",
+                "title": "10vor10 vom 16.06.2014",
+                "transcript": "transcripts/simple/b845ccab-3c47-4ede-884f-a95dc9e3ce63.tsv"
+            },
+            {
+                "id": "6353ab11-b008-4722-b069-4d0821b7c36d",
+                "title": "10vor10 vom 13.06.2014",
+                "transcript": "transcripts/simple/6353ab11-b008-4722-b069-4d0821b7c36d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/717d31ee-3f44-4de1-87fc-e8c665a4e4a8/EPISODE_IMAGE/1402696776000.png"
+            },
+            {
+                "id": "1f1b21df-d2db-4f7d-81fc-177959d7ee0b",
+                "title": "10vor10 vom 12.06.2014",
+                "transcript": "transcripts/simple/1f1b21df-d2db-4f7d-81fc-177959d7ee0b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/963110c9-2494-421d-a727-fb25f7d6dabe/EPISODE_IMAGE/1402674257000.png"
+            },
+            {
+                "id": "bf33b453-891e-4f8a-88a1-b43142bfda56",
+                "title": "10vor10 vom 11.06.2014",
+                "transcript": "transcripts/simple/bf33b453-891e-4f8a-88a1-b43142bfda56.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8cb9bb52-5fb6-40a9-a110-3475e74096fe/EPISODE_IMAGE/1402556185000.png"
+            },
+            {
+                "id": "662492c3-ca47-4ba3-a8d9-d3b05d19c00f",
+                "title": "10vor10 vom 10.06.2014",
+                "transcript": "transcripts/simple/662492c3-ca47-4ba3-a8d9-d3b05d19c00f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7c7f8d81-76ce-4f31-972b-926da02cfe36/EPISODE_IMAGE/1402467027000.png"
+            },
+            {
+                "id": "ae0bb0e3-d92e-4ffc-b82d-cab88da54908",
+                "title": "10vor10 vom 06.06.2014",
+                "transcript": "transcripts/simple/ae0bb0e3-d92e-4ffc-b82d-cab88da54908.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/07bdefe7-6b99-4d3b-86fa-a4912dbf78ce/EPISODE_IMAGE/1402111600000.png"
+            },
+            {
+                "id": "0916986c-21d8-4ef3-9fff-3cddd810595a",
+                "title": "10vor10 vom 05.06.2014",
+                "transcript": "transcripts/simple/0916986c-21d8-4ef3-9fff-3cddd810595a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1cc477a2-f8c8-4a3e-9bd6-53b70e80c941/EPISODE_IMAGE/1402022337000.png"
+            },
+            {
+                "id": "4f9a7d4a-9448-4c85-9c0b-c9aa87adda9d",
+                "title": "10vor10 vom 04.06.2014",
+                "transcript": "transcripts/simple/4f9a7d4a-9448-4c85-9c0b-c9aa87adda9d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/15e83610-397e-4b3d-b342-950739ea9aa5/EPISODE_IMAGE/1401932453000.png"
+            },
+            {
+                "id": "02710ecb-b875-4597-b0b7-6ac9279b339e",
+                "title": "10vor10 vom 03.06.2014",
+                "transcript": "transcripts/simple/02710ecb-b875-4597-b0b7-6ac9279b339e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b2e1fb2a-0fdf-4150-947d-5943398fde08/EPISODE_IMAGE/1401852414000.png"
+            },
+            {
+                "id": "1c5ef42c-0314-48a9-9026-1bb53c5b56c3",
+                "title": "10vor10 vom 02.06.2014",
+                "transcript": "transcripts/simple/1c5ef42c-0314-48a9-9026-1bb53c5b56c3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/82bab430-2221-41f2-bf8a-aa138dc1b854/EPISODE_IMAGE/1401786039000.png"
+            },
+            {
+                "id": "0021a610-ad73-4557-9d78-fed85fea6332",
+                "title": "10vor10 vom 30.05.2014",
+                "transcript": "transcripts/simple/0021a610-ad73-4557-9d78-fed85fea6332.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/27cd97e3-000b-4448-be48-d3efd0767acc/EPISODE_IMAGE/1401496412000.png"
+            },
+            {
+                "id": "b13ede8f-9513-4f0d-b8bd-b8ce4cc85438",
+                "title": "10vor10 vom 29.05.2014",
+                "transcript": "transcripts/simple/b13ede8f-9513-4f0d-b8bd-b8ce4cc85438.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f726f7cf-a8ab-4818-903c-3b3a372ad3d0/EPISODE_IMAGE/1401407644000.png"
+            },
+            {
+                "id": "d8f36b1b-0b43-4307-832b-8f7e7ef4eba5",
+                "title": "10vor10 vom 28.05.2014",
+                "transcript": "transcripts/simple/d8f36b1b-0b43-4307-832b-8f7e7ef4eba5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c3c91ab2-99ea-4f17-8029-7eae9c0adff3/EPISODE_IMAGE/1401318042000.png"
+            },
+            {
+                "id": "88f9cf97-9f20-42aa-9813-5e28ffe684ce",
+                "title": "10vor10 vom 27.05.2014",
+                "transcript": "transcripts/simple/88f9cf97-9f20-42aa-9813-5e28ffe684ce.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ef4885e0-4bde-4d39-8326-17302b07dbaa/EPISODE_IMAGE/1401228981000.png"
+            },
+            {
+                "id": "2d0e5c18-d889-4646-b408-68985f63da02",
+                "title": "10vor10 vom 26.05.2014",
+                "transcript": "transcripts/simple/2d0e5c18-d889-4646-b408-68985f63da02.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7357703a-bab0-4a70-813e-64893f53f3b3/EPISODE_IMAGE/1401164562000.png"
+            },
+            {
+                "id": "1aa7040b-a457-4897-9843-ad7f0f7ff88d",
+                "title": "10vor10 vom 23.05.2014",
+                "transcript": "transcripts/simple/1aa7040b-a457-4897-9843-ad7f0f7ff88d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/af34ea87-1631-4dac-80d8-20fd0edb2710/EPISODE_IMAGE/1400897818000.png"
+            },
+            {
+                "id": "d50380fc-0374-49bb-842f-7dacc5f3b6fd",
+                "title": "10vor10 vom 22.05.2014",
+                "transcript": "transcripts/simple/d50380fc-0374-49bb-842f-7dacc5f3b6fd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d80be54b-34d0-4c28-a799-a75f3a755df8/EPISODE_IMAGE/1400808785000.png"
+            },
+            {
+                "id": "728ab44c-39f4-42ab-aa16-62cdc6565c73",
+                "title": "10vor10 vom 21.05.2014",
+                "transcript": "transcripts/simple/728ab44c-39f4-42ab-aa16-62cdc6565c73.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fdd0bceb-ea9e-40e3-899d-8f9c5c3d6af0/EPISODE_IMAGE/1400742382000.png"
+            },
+            {
+                "id": "f68a631f-d42e-43ca-bb8f-27a0d924925f",
+                "title": "10vor10 vom 20.05.2014",
+                "transcript": "transcripts/simple/f68a631f-d42e-43ca-bb8f-27a0d924925f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f5be52f4-9338-4dd5-bf72-13a28368f91f/EPISODE_IMAGE/1400653140000.png"
+            },
+            {
+                "id": "19f1c29f-647a-4376-99f6-2559e3f7cbc5",
+                "title": "10vor10 vom 19.05.2014",
+                "transcript": "transcripts/simple/19f1c29f-647a-4376-99f6-2559e3f7cbc5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/eede178f-eae4-4c95-8512-b402465cd56f/EPISODE_IMAGE/1400563966000.png"
+            },
+            {
+                "id": "08cc147c-353c-4e93-a833-8a1b7cae4713",
+                "title": "10vor10 vom 16.05.2014",
+                "transcript": "transcripts/simple/08cc147c-353c-4e93-a833-8a1b7cae4713.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a5124bc8-75d7-47b6-9c79-57c60414495a/EPISODE_IMAGE/1400296067000.png"
+            },
+            {
+                "id": "3e5f1257-37cb-44bb-9208-a73b036c45a6",
+                "title": "10vor10 vom 15.05.2014",
+                "transcript": "transcripts/simple/3e5f1257-37cb-44bb-9208-a73b036c45a6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/846bfc4d-75ea-4575-908d-96ba1c92da28/EPISODE_IMAGE/1400207083000.png"
+            },
+            {
+                "id": "c2cedf5e-e51d-4a83-8059-9cfb046bcd14",
+                "title": "10vor10 vom 14.05.2014",
+                "transcript": "transcripts/simple/c2cedf5e-e51d-4a83-8059-9cfb046bcd14.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/81c089f0-d4a8-48c4-8071-d3a76ef4e511/EPISODE_IMAGE/1400118176000.png"
+            },
+            {
+                "id": "b072a958-5668-426e-b8e0-5990cd8ea1e1",
+                "title": "10vor10 vom 13.05.2014",
+                "transcript": "transcripts/simple/b072a958-5668-426e-b8e0-5990cd8ea1e1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0421fd58-2cb1-4f08-b399-c999c86a6847/EPISODE_IMAGE/1400029326000.png"
+            },
+            {
+                "id": "48bb719a-e801-432e-8b5d-2d0e74c764ce",
+                "title": "10vor10 vom 12.05.2014",
+                "transcript": "transcripts/simple/48bb719a-e801-432e-8b5d-2d0e74c764ce.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3773b8a8-f84c-49a9-9c8f-d40d0c331ab8/EPISODE_IMAGE/1399940801000.png"
+            },
+            {
+                "id": "4127094c-23a3-4598-937f-dbc38ba62dd8",
+                "title": "10vor10 vom 09.05.2014",
+                "transcript": "transcripts/simple/4127094c-23a3-4598-937f-dbc38ba62dd8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/01e6b68a-35e1-4e49-8844-15f600137868/EPISODE_IMAGE/1399673659000.png"
+            },
+            {
+                "id": "2f79dfe2-fb81-4db0-82f8-b21f6653a57a",
+                "title": "10vor10 vom 08.05.2014",
+                "transcript": "transcripts/simple/2f79dfe2-fb81-4db0-82f8-b21f6653a57a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/def1b010-6260-4029-8606-b0b7a7e649b6/EPISODE_IMAGE/1399584442000.png"
+            },
+            {
+                "id": "2fd004ab-ef21-4c07-a8cc-63d07f4b8104",
+                "title": "10vor10 vom 07.05.2014",
+                "transcript": "transcripts/simple/2fd004ab-ef21-4c07-a8cc-63d07f4b8104.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5cb8aa9d-e9db-41b5-944f-18ee504fe8c8/EPISODE_IMAGE/1399495471000.png"
+            },
+            {
+                "id": "ea6d6111-26d0-4ee9-ac9a-08bced469757",
+                "title": "10vor10 vom 06.05.2014",
+                "transcript": "transcripts/simple/ea6d6111-26d0-4ee9-ac9a-08bced469757.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/02dc0be0-198d-4006-82e8-0c172759c48d/EPISODE_IMAGE/1399450768000.png"
+            },
+            {
+                "id": "bcac8b1f-099e-4d82-a5b9-423dfd7186dc",
+                "title": "10vor10 vom 05.05.2014",
+                "transcript": "transcripts/simple/bcac8b1f-099e-4d82-a5b9-423dfd7186dc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bb041bdc-0fb7-4a16-9432-0632e18a046e/EPISODE_IMAGE/1399356000000.png"
+            },
+            {
+                "id": "860ca59f-01c9-4f28-ae07-7d8392c6c967",
+                "title": "10vor10 vom 02.05.2014",
+                "transcript": "transcripts/simple/860ca59f-01c9-4f28-ae07-7d8392c6c967.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2401242f-587a-4c86-bc10-a5ab74e83d26/EPISODE_IMAGE/1399090132000.png"
+            },
+            {
+                "id": "587832ac-7d57-4ffb-be81-626c835790b4",
+                "title": "10vor10 vom 01.05.2014",
+                "transcript": "transcripts/simple/587832ac-7d57-4ffb-be81-626c835790b4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b265374b-1df7-42f7-ba75-4f86bc0ea27d/EPISODE_IMAGE/1399001276000.png"
+            },
+            {
+                "id": "1186648a-c9e4-4c9c-93b6-5cafd23fdf02",
+                "title": "10vor10 vom 30.04.2014",
+                "transcript": "transcripts/simple/1186648a-c9e4-4c9c-93b6-5cafd23fdf02.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/377cf2a5-e69a-4036-b2ab-862b58f77a17/EPISODE_IMAGE/1398912431000.png"
+            },
+            {
+                "id": "a3ebeb93-c62a-4e53-8eb6-99d5e1c04a0e",
+                "title": "10vor10 vom 29.04.2014",
+                "transcript": "transcripts/simple/a3ebeb93-c62a-4e53-8eb6-99d5e1c04a0e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c11e28df-7616-4456-90aa-484bb43f58c5/EPISODE_IMAGE/1398823529000.png"
+            },
+            {
+                "id": "cd2e6c89-0180-458a-b3ef-4322f247a919",
+                "title": "10vor10 vom 28.04.2014",
+                "transcript": "transcripts/simple/cd2e6c89-0180-458a-b3ef-4322f247a919.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/36233e5f-17c3-48f8-8a6f-fbb62d7427a2/EPISODE_IMAGE/1398734662000.png"
+            },
+            {
+                "id": "a1297b95-6e80-42b7-9235-558920678c7e",
+                "title": "10vor10 vom 25.04.2014",
+                "transcript": "transcripts/simple/a1297b95-6e80-42b7-9235-558920678c7e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8d26616e-b0a7-4e64-b74f-952566cbd836/EPISODE_IMAGE/1398467560000.png"
+            },
+            {
+                "id": "15caf1e2-4c57-497b-b058-3dff7f6dcb1b",
+                "title": "10vor10 vom 24.04.2014",
+                "transcript": "transcripts/simple/15caf1e2-4c57-497b-b058-3dff7f6dcb1b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9d7e0bf0-dbb4-4be9-a79b-dbfc766ba1cd/EPISODE_IMAGE/1398378708000.png"
+            },
+            {
+                "id": "c098c150-2d89-498b-b1e0-54075dbd2789",
+                "title": "10vor10 vom 23.04.2014",
+                "transcript": "transcripts/simple/c098c150-2d89-498b-b1e0-54075dbd2789.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c9bd2d38-7dbe-4e4d-a350-b1ffb6afe10c/EPISODE_IMAGE/1398288858000.png"
+            },
+            {
+                "id": "c5178a7b-a080-48ff-8fc3-dbc4a798655d",
+                "title": "10vor10 vom 22.04.2014",
+                "transcript": "transcripts/simple/c5178a7b-a080-48ff-8fc3-dbc4a798655d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d89fcc51-8cac-424c-bc67-6b8ce805dea6/EPISODE_IMAGE/1398200954000.png"
+            },
+            {
+                "id": "c0aa288e-1f74-4c2a-b104-913620c9f273",
+                "title": "10vor10 vom 17.04.2014",
+                "transcript": "transcripts/simple/c0aa288e-1f74-4c2a-b104-913620c9f273.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4b700d13-0dfb-483f-aa04-d23ee3186168/EPISODE_IMAGE/1397783838000.png"
+            },
+            {
+                "id": "14c4b4d7-b2fc-453f-9e0b-63d32abce76b",
+                "title": "10vor10 vom 16.04.2014",
+                "transcript": "transcripts/simple/14c4b4d7-b2fc-453f-9e0b-63d32abce76b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1d20f241-14b9-4485-b687-cf7317e7589c/EPISODE_IMAGE/1397695077000.png"
+            },
+            {
+                "id": "4fb5dd25-9d23-4750-962a-5c45cb7b416d",
+                "title": "10vor10 vom 15.04.2014",
+                "transcript": "transcripts/simple/4fb5dd25-9d23-4750-962a-5c45cb7b416d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4ee1493d-e2c6-4c91-81f0-4e5febb83d8d/EPISODE_IMAGE/1397605020000.png"
+            },
+            {
+                "id": "20cfdf01-a5e9-4155-b42e-e5c40470a0fc",
+                "title": "10vor10 vom 14.04.2014",
+                "transcript": "transcripts/simple/20cfdf01-a5e9-4155-b42e-e5c40470a0fc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5a923f0e-cbb7-4903-b34d-e703023dbb16/EPISODE_IMAGE/1397516018000.png"
+            },
+            {
+                "id": "0fd3c0e1-da52-40c6-a8dc-db2bfc5d9371",
+                "title": "10vor10 vom 11.04.2014",
+                "transcript": "transcripts/simple/0fd3c0e1-da52-40c6-a8dc-db2bfc5d9371.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/41d6806e-b780-4eb3-811b-691ec46dc2ab/EPISODE_IMAGE/1397249427000.png"
+            },
+            {
+                "id": "1c6f6652-c713-4d43-9bea-aef715c22a2b",
+                "title": "10vor10 vom 10.04.2014",
+                "transcript": "transcripts/simple/1c6f6652-c713-4d43-9bea-aef715c22a2b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ebb10a88-6e95-43ce-ae73-d378902f0792/EPISODE_IMAGE/1397205074000.png"
+            },
+            {
+                "id": "4d8342e0-c213-48e6-b1a7-6d7edfeb7820",
+                "title": "10vor10 vom 09.04.2014",
+                "transcript": "transcripts/simple/4d8342e0-c213-48e6-b1a7-6d7edfeb7820.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/757c174e-5032-4e18-9e33-fc777c846a2b/EPISODE_IMAGE/1397115038000.png"
+            },
+            {
+                "id": "0cc15907-c251-4ef0-9dcb-c7f5660fa38d",
+                "title": "10vor10 vom 08.04.2014",
+                "transcript": "transcripts/simple/0cc15907-c251-4ef0-9dcb-c7f5660fa38d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/57c133e2-a7e3-48e7-b118-7404d30e4f31/EPISODE_IMAGE/1397023118000.png"
+            },
+            {
+                "id": "0a00c6e0-1992-4cf3-86bc-d600c583b9b1",
+                "title": "10vor10 vom 07.04.2014",
+                "transcript": "transcripts/simple/0a00c6e0-1992-4cf3-86bc-d600c583b9b1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b9975831-b5df-4a6a-b023-dd1b593ff6ba/EPISODE_IMAGE/1396933586000.png"
+            },
+            {
+                "id": "f12d4a3d-0da4-4d6e-ab63-723907d6dcf1",
+                "title": "10vor10 vom 04.04.2014",
+                "transcript": "transcripts/simple/f12d4a3d-0da4-4d6e-ab63-723907d6dcf1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/10745df4-253d-4b55-9aa8-a5d94ff83107/EPISODE_IMAGE/1396665451000.png"
+            },
+            {
+                "id": "17aac970-fe41-411c-8d55-809902ad33d6",
+                "title": "10vor10 vom 03.04.2014",
+                "transcript": "transcripts/simple/17aac970-fe41-411c-8d55-809902ad33d6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ca471eb4-7355-4a7d-bd51-3bf2b403f52e/EPISODE_IMAGE/1396576426000.png"
+            },
+            {
+                "id": "f14c5c7d-1798-4356-97fd-e3b313d689be",
+                "title": "10vor10 vom 02.04.2014",
+                "transcript": "transcripts/simple/f14c5c7d-1798-4356-97fd-e3b313d689be.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/77270b30-da91-42b1-b40a-c1ae6ab2b8ed/EPISODE_IMAGE/1396486590000.png"
+            },
+            {
+                "id": "dd2bfce6-9d0f-42f9-a3fe-f1eb99627d83",
+                "title": "10vor10 vom 01.04.2014",
+                "transcript": "transcripts/simple/dd2bfce6-9d0f-42f9-a3fe-f1eb99627d83.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6dd08565-9e3e-4401-a7e9-99708932f675/EPISODE_IMAGE/1396430716000.png"
+            },
+            {
+                "id": "f7043bbd-e20b-4ad6-a139-a9ccc24d4096",
+                "title": "10vor10 vom 31.03.2014",
+                "transcript": "transcripts/simple/f7043bbd-e20b-4ad6-a139-a9ccc24d4096.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c7bc38a5-858b-472c-ba99-34d36902deec/EPISODE_IMAGE/1396308017000.png"
+            },
+            {
+                "id": "12c36adf-4317-47b2-ac4d-e464badc5c35",
+                "title": "10vor10 vom 28.03.2014",
+                "transcript": "transcripts/simple/12c36adf-4317-47b2-ac4d-e464badc5c35.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a59f9a93-c8ec-4b3c-b55c-5a25c1d31956/EPISODE_IMAGE/1396083742000.png"
+            },
+            {
+                "id": "e03dee0d-ea88-4df3-b109-c81b7ba0ce36",
+                "title": "10vor10 vom 27.03.2014",
+                "transcript": "transcripts/simple/e03dee0d-ea88-4df3-b109-c81b7ba0ce36.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/81b15b3f-a9f2-4ec4-aea5-48cf10cda7b0/EPISODE_IMAGE/1395994595000.png"
+            },
+            {
+                "id": "584577d2-cf63-4c56-b26a-a859b58ad0b2",
+                "title": "10vor10 vom 26.03.2014",
+                "transcript": "transcripts/simple/584577d2-cf63-4c56-b26a-a859b58ad0b2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/16244f41-482e-4a31-b5c1-a219b074f961/EPISODE_IMAGE/1395905429000.png"
+            },
+            {
+                "id": "ce948716-4173-4eda-8045-dfe899968791",
+                "title": "10vor10 vom 25.03.2014",
+                "transcript": "transcripts/simple/ce948716-4173-4eda-8045-dfe899968791.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3bd07325-feed-4ec0-96ae-15435c3e1a7b/EPISODE_IMAGE/1395816369000.png"
+            },
+            {
+                "id": "aa816eec-5469-416a-be20-73eb3c7ae648",
+                "title": "10vor10 vom 24.03.2014",
+                "transcript": "transcripts/simple/aa816eec-5469-416a-be20-73eb3c7ae648.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd22a479-5d82-405b-9ccf-1f5a8769986e/EPISODE_IMAGE/1395727405000.png"
+            },
+            {
+                "id": "d7f85e4d-49aa-435e-b26d-ed726f966f81",
+                "title": "10vor10 vom 21.03.2014",
+                "transcript": "transcripts/simple/d7f85e4d-49aa-435e-b26d-ed726f966f81.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/05559727-3bbb-4dfa-9399-5999949c639d/EPISODE_IMAGE/1395460703000.png"
+            },
+            {
+                "id": "4757b87e-c158-478e-9188-d13d8608cc01",
+                "title": "10vor10 vom 20.03.2014",
+                "transcript": "transcripts/simple/4757b87e-c158-478e-9188-d13d8608cc01.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9c6b3093-788d-4171-a940-2633497db5e9/EPISODE_IMAGE/1395371770000.png"
+            },
+            {
+                "id": "c82b2ab8-52f7-4e12-9641-f69d0640640b",
+                "title": "10vor10 vom 19.03.2014",
+                "transcript": "transcripts/simple/c82b2ab8-52f7-4e12-9641-f69d0640640b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4e66b727-5f1f-4a07-84a1-6a1728369c6f/EPISODE_IMAGE/1395282626000.png"
+            },
+            {
+                "id": "6c3eda73-cf51-4312-a75a-4ceb7bc0f532",
+                "title": "10vor10 vom 18.03.2014",
+                "transcript": "transcripts/simple/6c3eda73-cf51-4312-a75a-4ceb7bc0f532.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4763758a-1d93-4fdf-b4b2-4789c21484d3/EPISODE_IMAGE/1395193672000.png"
+            },
+            {
+                "id": "912f8526-bc41-41b9-817d-79b4ddbcfffe",
+                "title": "10vor10 vom 14.03.2014",
+                "transcript": "transcripts/simple/912f8526-bc41-41b9-817d-79b4ddbcfffe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/58ab9eab-0e6e-48b9-94ca-1b47c952582a/EPISODE_IMAGE/1394838176000.png"
+            },
+            {
+                "id": "0fb1e566-ca8d-44c5-b0e7-77459fdf528c",
+                "title": "10vor10 vom 13.03.2014",
+                "transcript": "transcripts/simple/0fb1e566-ca8d-44c5-b0e7-77459fdf528c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ec33eda3-1036-4ca8-8e74-84ce944bfb8a/EPISODE_IMAGE/1394749339000.png"
+            },
+            {
+                "id": "78e4e5bb-5358-433f-9a39-42feedab81cd",
+                "title": "10vor10 vom 12.03.2014",
+                "transcript": "transcripts/simple/78e4e5bb-5358-433f-9a39-42feedab81cd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fb7b1f7f-8137-42e9-ac34-3b8208f1e65b/EPISODE_IMAGE/1394704850000.png"
+            },
+            {
+                "id": "a0a46635-e36f-4ed0-936b-ea78af38fdad",
+                "title": "10vor10 vom 11.03.2014",
+                "transcript": "transcripts/simple/a0a46635-e36f-4ed0-936b-ea78af38fdad.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3f9e6723-bc72-44a4-97b1-57548cbe9f9e/EPISODE_IMAGE/1394615680000.png"
+            },
+            {
+                "id": "a3835798-366e-424f-be7b-48eb8633cb02",
+                "title": "10vor10 vom 10.03.2014",
+                "transcript": "transcripts/simple/a3835798-366e-424f-be7b-48eb8633cb02.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bd33cd6a-921a-44f5-824b-9cada7680d34/EPISODE_IMAGE/1394571729000.png"
+            },
+            {
+                "id": "2dc222f7-8dcb-40e0-9946-ae2452409611",
+                "title": "10vor10 vom 07.03.2014",
+                "transcript": "transcripts/simple/2dc222f7-8dcb-40e0-9946-ae2452409611.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/64546ab6-c57b-4ae6-82c9-e42ea6d59bab/EPISODE_IMAGE/1394249834000.png"
+            },
+            {
+                "id": "c9d47d5e-2253-4a44-9a52-c0327daf515e",
+                "title": "10vor10 vom 06.03.2014",
+                "transcript": "transcripts/simple/c9d47d5e-2253-4a44-9a52-c0327daf515e.tsv"
+            },
+            {
+                "id": "6b893bcd-1dbe-42f1-9270-840cd10642de",
+                "title": "10vor10 vom 05.03.2014",
+                "transcript": "transcripts/simple/6b893bcd-1dbe-42f1-9270-840cd10642de.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7b4c8625-8563-4245-aa0a-755fcde3143a/EPISODE_IMAGE/1394070649000.png"
+            },
+            {
+                "id": "265d302a-7f3c-4daf-8050-24b79908de21",
+                "title": "10vor10 vom 04.03.2014",
+                "transcript": "transcripts/simple/265d302a-7f3c-4daf-8050-24b79908de21.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c346b351-5016-4a2d-ac99-a49755852dfa/EPISODE_IMAGE/1393981432000.png"
+            },
+            {
+                "id": "691531ee-1897-4d4e-993c-8b1ed31db160",
+                "title": "10vor10 vom 03.03.2014",
+                "transcript": "transcripts/simple/691531ee-1897-4d4e-993c-8b1ed31db160.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d5a85811-4c6f-4a85-adf0-e98ae3f9cbd5/EPISODE_IMAGE/1393891847000.png"
+            },
+            {
+                "id": "95e4c9c9-d336-4d84-8de5-b3179c9e2a24",
+                "title": "10vor10 vom 28.02.2014",
+                "transcript": "transcripts/simple/95e4c9c9-d336-4d84-8de5-b3179c9e2a24.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/53eadfef-39c4-451c-89ba-ff13e51771bb/EPISODE_IMAGE/1393624339000.png"
+            },
+            {
+                "id": "56b55ef4-f253-4367-9f9f-1bd616b858d1",
+                "title": "10vor10 vom 27.02.2014",
+                "transcript": "transcripts/simple/56b55ef4-f253-4367-9f9f-1bd616b858d1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9931c113-89ae-4c11-b606-7019b12d469e/EPISODE_IMAGE/1393579642000.png"
+            },
+            {
+                "id": "cfa27ad6-3a4a-4212-a74b-497742fac6f4",
+                "title": "10vor10 vom 25.02.2014",
+                "transcript": "transcripts/simple/cfa27ad6-3a4a-4212-a74b-497742fac6f4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/41e7932e-5ee3-4897-8b48-930fe4abde88/EPISODE_IMAGE/1393385110000.png"
+            },
+            {
+                "id": "90577ce3-4489-46e6-8949-fa57d6114b6a",
+                "title": "10vor10 vom 24.02.2014",
+                "transcript": "transcripts/simple/90577ce3-4489-46e6-8949-fa57d6114b6a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5ecdc9d1-1432-4e9a-a9dc-8a714a314e20/EPISODE_IMAGE/1393314920000.png"
+            },
+            {
+                "id": "65b4b7fd-be4d-4ff6-8320-d37488bb3064",
+                "title": "10vor10 vom 21.02.2014",
+                "transcript": "transcripts/simple/65b4b7fd-be4d-4ff6-8320-d37488bb3064.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b831f651-1ba4-4e5d-bf28-1aaac938b107/EPISODE_IMAGE/1393034913000.png"
+            },
+            {
+                "id": "83be50d2-012a-42a9-a07c-ffdc06ce31e1",
+                "title": "10vor10 vom 20.02.2014",
+                "transcript": "transcripts/simple/83be50d2-012a-42a9-a07c-ffdc06ce31e1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ea9f1828-9f6f-402a-a1b3-249a3ab98e99/EPISODE_IMAGE/1392945483000.png"
+            },
+            {
+                "id": "dbae0ebe-ec52-4947-bfcb-c986a9e161d7",
+                "title": "10vor10 vom 19.02.2014",
+                "transcript": "transcripts/simple/dbae0ebe-ec52-4947-bfcb-c986a9e161d7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/51a41ddf-b0f1-42e8-b6c5-6d721f49a0db/EPISODE_IMAGE/1392856199000.png"
+            },
+            {
+                "id": "abe76c43-159c-4d52-b5f5-0f7b8c971039",
+                "title": "10vor10 vom 18.02.2014",
+                "transcript": "transcripts/simple/abe76c43-159c-4d52-b5f5-0f7b8c971039.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e0fc3cb4-62e7-455d-ae8e-c76e0a821aae/EPISODE_IMAGE/1392767011000.png"
+            },
+            {
+                "id": "d243e68b-0894-4c4e-8944-e51114e815c8",
+                "title": "10vor10 vom 17.02.2014",
+                "transcript": "transcripts/simple/d243e68b-0894-4c4e-8944-e51114e815c8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/814a59bf-a25b-4527-8564-05dd3a086e82/EPISODE_IMAGE/1392677406000.png"
+            },
+            {
+                "id": "137f8876-1602-46b3-b89f-722bb55780f7",
+                "title": "10vor10 vom 11.02.2014",
+                "transcript": "transcripts/simple/137f8876-1602-46b3-b89f-722bb55780f7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/86914188-da59-42c0-8c90-de94e689e83c/EPISODE_IMAGE/1392157266000.png"
+            },
+            {
+                "id": "4b63173a-8b1f-49eb-9627-44a2b66ef7b7",
+                "title": "10vor10 vom 10.02.2014",
+                "transcript": "transcripts/simple/4b63173a-8b1f-49eb-9627-44a2b66ef7b7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/91a32f46-4d9d-49ed-866a-2363f2ea1368/EPISODE_IMAGE/1392112106000.png"
+            },
+            {
+                "id": "6222b0aa-03a1-4da8-86ee-62740ed6fa38",
+                "title": "10vor10 vom 07.02.2014",
+                "transcript": "transcripts/simple/6222b0aa-03a1-4da8-86ee-62740ed6fa38.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ce629408-ab38-4634-b159-75052d40e4e6/EPISODE_IMAGE/1391844571000.png"
+            },
+            {
+                "id": "ff225c92-f59b-415d-893e-a0938f21d047",
+                "title": "10vor10 vom 06.02.2014",
+                "transcript": "transcripts/simple/ff225c92-f59b-415d-893e-a0938f21d047.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/671847e5-034a-499f-878e-00c5cf55dd7d/EPISODE_IMAGE/1391755542000.png"
+            },
+            {
+                "id": "fbba8acf-5a33-45c5-9d4d-4045020fa9ca",
+                "title": "10vor10 vom 05.02.2014",
+                "transcript": "transcripts/simple/fbba8acf-5a33-45c5-9d4d-4045020fa9ca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/387c133e-7f6d-4878-aebf-d3fcbbd20b58/EPISODE_IMAGE/1391666199000.png"
+            },
+            {
+                "id": "e4a3c744-9ac5-4b8b-83b4-115738454a32",
+                "title": "10vor10 vom 04.02.2014",
+                "transcript": "transcripts/simple/e4a3c744-9ac5-4b8b-83b4-115738454a32.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bad7db77-ce0e-4467-b131-68919721c9f0/EPISODE_IMAGE/1391577297000.png"
+            },
+            {
+                "id": "7dda2b98-82e3-4b7c-a270-b24cc648d0a0",
+                "title": "10vor10 vom 03.02.2014",
+                "transcript": "transcripts/simple/7dda2b98-82e3-4b7c-a270-b24cc648d0a0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e6c589d6-1eb5-4af3-93eb-e79385e31f44/EPISODE_IMAGE/1391523505000.png"
+            },
+            {
+                "id": "5923d2e3-4f29-449f-8a6e-85233cc8eb79",
+                "title": "10vor10 vom 31.01.2014",
+                "transcript": "transcripts/simple/5923d2e3-4f29-449f-8a6e-85233cc8eb79.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/991dae5b-ff0a-4670-b798-d8568013fd00/EPISODE_IMAGE/1391221657000.png"
+            },
+            {
+                "id": "bc14721d-fc41-4a73-a734-eb791e2b0672",
+                "title": "10vor10 vom 30.01.2014",
+                "transcript": "transcripts/simple/bc14721d-fc41-4a73-a734-eb791e2b0672.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6fd87799-4e72-423a-a8a2-d4907943670d/EPISODE_IMAGE/1391132211000.png"
+            },
+            {
+                "id": "00cbad88-eb1c-48ed-9aec-6714035399f8",
+                "title": "10vor10 vom 29.01.2014",
+                "transcript": "transcripts/simple/00cbad88-eb1c-48ed-9aec-6714035399f8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3fd95195-0c1b-4892-8469-d8b5b0147920/EPISODE_IMAGE/1391043314000.png"
+            },
+            {
+                "id": "4ffc3d2b-3324-4622-be6c-7bfd9a19d3d7",
+                "title": "10vor10 vom 28.01.2014",
+                "transcript": "transcripts/simple/4ffc3d2b-3324-4622-be6c-7bfd9a19d3d7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/966da3bd-3e0b-4c1f-bcc8-232323703ead/EPISODE_IMAGE/1390954312000.png"
+            },
+            {
+                "id": "e50d7d24-2c0b-43ac-9417-dab301887926",
+                "title": "10vor10 vom 27.01.2014",
+                "transcript": "transcripts/simple/e50d7d24-2c0b-43ac-9417-dab301887926.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e21526c3-e866-45a0-a61f-a769e5310a1a/EPISODE_IMAGE/1390865874000.png"
+            },
+            {
+                "id": "75ba64c0-bf92-47db-a156-873275574db8",
+                "title": "10vor10 vom 24.01.2014",
+                "transcript": "transcripts/simple/75ba64c0-bf92-47db-a156-873275574db8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a5f1ff01-2ea7-4a7f-b881-97118de80493/EPISODE_IMAGE/1390644361000.png"
+            },
+            {
+                "id": "0139b04f-ce2a-4d5f-8dff-e646cc3b7386",
+                "title": "10vor10 vom 23.01.2014",
+                "transcript": "transcripts/simple/0139b04f-ce2a-4d5f-8dff-e646cc3b7386.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d52f53c4-2250-412f-aff5-c573c2ca73d6/EPISODE_IMAGE/1390555760000.png"
+            },
+            {
+                "id": "61dda480-d664-4833-ad58-98d93ce2b162",
+                "title": "10vor10 vom 22.01.2014",
+                "transcript": "transcripts/simple/61dda480-d664-4833-ad58-98d93ce2b162.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d78d77b9-3939-483b-92ca-bced6ca89dcf/EPISODE_IMAGE/1390467031000.png"
+            },
+            {
+                "id": "9c51e235-9ef2-4a6e-85ef-5905610a60ff",
+                "title": "10vor10 vom 21.01.2014",
+                "transcript": "transcripts/simple/9c51e235-9ef2-4a6e-85ef-5905610a60ff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bc967557-44e9-47cb-ae8b-30fe7d28e14f/EPISODE_IMAGE/1390378116000.png"
+            },
+            {
+                "id": "4d65698d-d210-462d-bec1-6762e3cb461d",
+                "title": "10vor10 vom 20.01.2014",
+                "transcript": "transcripts/simple/4d65698d-d210-462d-bec1-6762e3cb461d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3cd723c6-c7ba-47bf-b1d7-c44591d670b0/EPISODE_IMAGE/1390288872000.png"
+            },
+            {
+                "id": "9dad3d2f-3bdf-4848-94a7-de9f5cb9fc98",
+                "title": "10vor10 vom 17.01.2014",
+                "transcript": "transcripts/simple/9dad3d2f-3bdf-4848-94a7-de9f5cb9fc98.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5f512975-220d-442c-97da-a170e144e6c8/EPISODE_IMAGE/1390022392000.png"
+            },
+            {
+                "id": "81705692-4f0f-44a2-8871-edcccb1ae60e",
+                "title": "10vor10 vom 16.01.2014",
+                "transcript": "transcripts/simple/81705692-4f0f-44a2-8871-edcccb1ae60e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/df45aff3-bc61-460d-8ef3-30ac823d901e/EPISODE_IMAGE/1389933510000.png"
+            },
+            {
+                "id": "9cdf72c1-6429-4c80-83fd-977f0268e927",
+                "title": "10vor10 vom 15.01.2014",
+                "transcript": "transcripts/simple/9cdf72c1-6429-4c80-83fd-977f0268e927.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7b030572-f94b-44a7-8043-714f1aa64d90/EPISODE_IMAGE/1389844158000.png"
+            },
+            {
+                "id": "5eaee3c6-9020-4868-8ec0-146356bb4ed9",
+                "title": "10vor10 vom 14.01.2014",
+                "transcript": "transcripts/simple/5eaee3c6-9020-4868-8ec0-146356bb4ed9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b751a29a-7819-4aa9-8e70-b50a3ec348d8/EPISODE_IMAGE/1389754852000.png"
+            },
+            {
+                "id": "761fa56c-b952-4a5f-b204-59990d6fbad8",
+                "title": "10vor10 vom 13.01.2014",
+                "transcript": "transcripts/simple/761fa56c-b952-4a5f-b204-59990d6fbad8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ca726c85-3777-4e22-9abe-58f3d13a5f9f/EPISODE_IMAGE/1390035786000.png"
+            },
+            {
+                "id": "690f4ac8-ef89-413c-ac31-230c2f3048cb",
+                "title": "10vor10 vom 10.01.2014",
+                "transcript": "transcripts/simple/690f4ac8-ef89-413c-ac31-230c2f3048cb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/253413d0-4fb4-4f87-a329-8c8b8ddbb190/EPISODE_IMAGE/1390033277000.png"
+            },
+            {
+                "id": "788cfe75-e9a4-4350-ad64-d909005c9ccb",
+                "title": "10vor10 vom 09.01.2014",
+                "transcript": "transcripts/simple/788cfe75-e9a4-4350-ad64-d909005c9ccb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd1aba67-60dc-4d1c-ae74-e157f1cbe182/EPISODE_IMAGE/1390033336000.png"
+            },
+            {
+                "id": "102a2985-fb4d-4180-883e-a9df4c492bd2",
+                "title": "10vor10 vom 08.01.2014",
+                "transcript": "transcripts/simple/102a2985-fb4d-4180-883e-a9df4c492bd2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/15ebea68-4e9d-48cf-b9cd-44a9aaee0513/EPISODE_IMAGE/1390033400000.png"
+            },
+            {
+                "id": "363c85e8-5052-45f0-8972-78096755eee1",
+                "title": "10vor10 vom 07.01.2014",
+                "transcript": "transcripts/simple/363c85e8-5052-45f0-8972-78096755eee1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e3b1965d-4a99-4203-9856-0e711de26344/EPISODE_IMAGE/1390036931000.png"
+            },
+            {
+                "id": "ac4f2d74-eccf-4b7b-b6b6-fd423da09dc5",
+                "title": "10vor10 vom 06.01.2014",
+                "transcript": "transcripts/simple/ac4f2d74-eccf-4b7b-b6b6-fd423da09dc5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ab8ec850-ab96-4a96-81c4-669ea9040ef7/EPISODE_IMAGE/1390048283000.png"
+            },
+            {
+                "id": "e70984d6-387a-490a-ab9d-b6e659e75cb6",
+                "title": "10vor10 vom 03.01.2014",
+                "transcript": "transcripts/simple/e70984d6-387a-490a-ab9d-b6e659e75cb6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b821d513-8c59-4776-8a20-d98abca97e12/EPISODE_IMAGE/1390033504000.png"
+            },
+            {
+                "id": "a963921f-a2aa-4481-8470-1b8112cead18",
+                "title": "10vor10 vom 02.01.2014",
+                "transcript": "transcripts/simple/a963921f-a2aa-4481-8470-1b8112cead18.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4c13c9a3-26ec-4c24-b550-a2d8490153cc/EPISODE_IMAGE/1390048262000.png"
+            }
+        ]
+    }
+]
