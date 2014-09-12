@@ -218,6 +218,8 @@ exports.parseShows = function() {
 
 
 function showStats() {
+    console.log('transcripts intro date', transcriptsIntroDate);
+
     shows.srf.forEach(function(rawShow) {
         var episodes = (rawShow.AssetSet || []);
         episodes.forEach(function(rawShow) {
@@ -234,7 +236,6 @@ function showStats() {
             return episode.publishedDateParsed > transcriptsIntroDate && transcripts.indexOf(episode.id+".ttml") !== -1;
         });
 
-        console.log('intro date', transcriptsIntroDate);
         console.log({
             title: rawShow.title,
             count: episodes.length,
