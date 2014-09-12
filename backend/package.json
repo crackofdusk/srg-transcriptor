@@ -1,0 +1,22 @@
+{
+  "name": "transcriptor",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^2.4.2",
+    "request": "^2.42.0",
+    "q": "^1.0.1",
+    "lodash": "^2.4.1",
+    "d3": "^3.4.11",
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
