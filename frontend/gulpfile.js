@@ -10,33 +10,45 @@ var serverport = 3000;
 var paths = {
   css: ['src/css/**/*.css'],
   app_js: ['./src/js/app.jsx'],
-  js: ['src/js/*.js'],
+  js: ['src/js/**/*.jsx'],
   html: ['src/views/*.html'],
-  build: './build'
+  build: './build/'
 };
 
 var server = express();
 server.use(express.static(paths.build));
 
-gulp.task('clean', function(done) {
-  del(['build'], done);
+gulp.task('cleanJS', function(done) {
+  del(['build/**/*.js'], done);
 });
 
-gulp.task('css', ['clean'], function() {
+gulp.task('cleanHTML', function(done) {
+  del(['build/**/*.html'], done);
+});
+
+gulp.task('cleanCSS', function(done) {
+  del(['build/**/*.css'], done);
+});
+
+gulp.task('clean', ['cleanJS', 'cleanHTML', 'cleanCSS']);
+
+gulp.task('css', ['cleanCSS'], function() {
   gulp.src(paths.css)
     .pipe(minifyCSS({keepBreaks:true}))
     .pipe(gulp.dest(paths.build))
 });
 
-gulp.task('js', ['clean'], function() {
-  browserify(paths.app_js)
+gulp.task('js', ['cleanJS'], function() {
+  browserify(paths.app_js, {
+      debug: true,
+      extensions: ['.jsx', '.js']})
     .transform(reactify)
     .bundle()
     .pipe(source('bundle.js'))
     .pipe(gulp.dest(paths.build));
 });
 
-gulp.task('html', ['clean'], function(){
+gulp.task('html', ['cleanHTML'], function(){
   gulp.src(paths.html)
     .pipe(gulp.dest(paths.build));
 });

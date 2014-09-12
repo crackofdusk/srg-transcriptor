@@ -1,13 +1,10 @@
 /** @jsx React.DOM */
+
 var React = require('react');
 
-var HelloMessage = React.createClass({
-  render: function() {
-    return <div>Hello {this.props.name}</div>;
-  }
-});
+var VideoLibrary = require('./components/video-library');
 
 React.renderComponent(
-  <HelloMessage name="SRG SSR Hackdays" />,
+  <VideoLibrary />,
   document.getElementById('content')
 );
