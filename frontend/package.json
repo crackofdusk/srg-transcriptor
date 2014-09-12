@@ -1,0 +1,18 @@
+{
+  "name": "srg-hyperaudio",
+  "description": "SRG SSR Hackdays 2014 hack",
+  "dependencies": {
+    "browserify": "~5.11.x",
+    "gulp": "3.8.x",
+    "react": "0.11.x",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "del": "^0.1.3",
+    "express": "^4.9.0",
+    "gulp-minify-css": "^0.3.8",
+    "reactify": "^0.14.0",
+    "vinyl-source-stream": "^1.0.0",
+    "zurb-foundation-npm": "0.0.1"
+  }
+}
