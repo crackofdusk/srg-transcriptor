@@ -2891,5 +2891,1519 @@
                 "image": "http://ws.srf.ch/asset/image/audio/4c13c9a3-26ec-4c24-b550-a2d8490153cc/EPISODE_IMAGE/1390048262000.png"
             }
         ]
+    },
+    {
+        "id": "c5e431c3-ab90-0001-3228-16001350159c",
+        "title": "Abstimmungen",
+        "lead": "Das Abstimmungsstudio berichtet über die eidgenössischen, kantonalen und kommunalen Urnengänge.",
+        "description": "Das Abstimmungsstudio berichtet über die eidgenössischen, kantonalen und wichtigen kommunalen Urnengänge. In der Spezialsendung werden Hochrechnungen und Resultate live kommentiert und analysiert. Gewinner und Verlierer diskutieren über die Abstimmungsergebnisse.",
+        "image": "http://ws.srf.ch/asset/image/audio/dbdafd3b-bed7-486c-97aa-ad9d143d39ae/WEBVISUAL/1398693377000.jpg",
+        "episodes": [
+            {
+                "id": "8e621d0e-fad3-483c-a319-2cccfdea609c",
+                "title": "Abstimmungsstudio vom 18.05.2014",
+                "publishedDate": "2014-05-18T16:19:14.000Z",
+                "transcript": "transcripts/simple/8e621d0e-fad3-483c-a319-2cccfdea609c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6e544700-bd1c-4b64-82a4-2bb61ae384fa/EPISODE_IMAGE/1400474381000.png"
+            },
+            {
+                "id": "d5a2d672-bd6f-4fb7-baa4-a8839bec1f1e",
+                "title": "Abstimmungsstudio vom 18.05.2014",
+                "publishedDate": "2014-05-18T14:59:57.000Z",
+                "transcript": "transcripts/simple/d5a2d672-bd6f-4fb7-baa4-a8839bec1f1e.tsv"
+            },
+            {
+                "id": "0a0ce104-2576-478e-82a4-c11288ef857a",
+                "title": "Abstimmungsstudio vom 18.05.2014",
+                "publishedDate": "2014-05-18T13:58:57.000Z",
+                "transcript": "transcripts/simple/0a0ce104-2576-478e-82a4-c11288ef857a.tsv"
+            },
+            {
+                "id": "4b48e950-361b-4a51-a250-954b749f2898",
+                "title": "Ansprache Bundesrat vom 04.05.2014",
+                "publishedDate": "2014-05-04T17:25:25.000Z",
+                "transcript": "transcripts/simple/4b48e950-361b-4a51-a250-954b749f2898.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/80820085-182c-4128-a232-5e8cea65b5eb/EPISODE_IMAGE/1399311593000.png"
+            },
+            {
+                "id": "a793a4c2-f219-4566-93c9-63a6f9eaa998",
+                "title": "Ansprache Bundesrat vom 27.04.2014",
+                "publishedDate": "2014-04-27T17:24:54.000Z",
+                "transcript": "transcripts/simple/a793a4c2-f219-4566-93c9-63a6f9eaa998.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e56bbd2e-397b-4fb1-a563-e847302d44a2/EPISODE_IMAGE/1398690297000.png"
+            },
+            {
+                "id": "b528c573-a6a9-4ea3-bffd-3579d6ad01c8",
+                "title": "Ansprache Bundesrat vom 20.04.2014",
+                "publishedDate": "2014-04-20T17:25:47.000Z",
+                "transcript": "transcripts/simple/b528c573-a6a9-4ea3-bffd-3579d6ad01c8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/35f716c8-68d6-41a8-907b-ce6c03ba1bb2/EPISODE_IMAGE/1398162172000.png"
+            }
+        ]
+    },
+    {
+        "id": "0a7932df-dea7-4d8a-bd35-bba2fe2798b5",
+        "title": "Aeschbacher",
+        "lead": "Talkshow mit Kurt Aeschbacher aus der Labor-Bar in Zürich-West.",
+        "description": "Gepflegte Gesprächskultur ohne Schnickschnack. Bei «Aeschbacher» stehen Menschen und ihre Geschichten im Vordergrund. Die Gäste sind illuster, aber nicht unbedingt prominent, auch Menschen «wie du und ich» erzählen in «Aeschbacher» Bewegendes, Heiteres und Allzumenschliches. Das «Labor» im Zürcher Quartier Zürich-West bietet dazu einen attraktiven Rahmen.",
+        "image": "http://ws.srf.ch/asset/image/audio/1aefee2d-e66b-4412-b9a6-46833b0ea648/WEBVISUAL/1409913176000.jpg",
+        "episodes": [
+            {
+                "id": "e2ecffad-9a54-4d30-86fd-a06293008039",
+                "title": "Aeschbacher vom 10.05.2014",
+                "publishedDate": "2014-05-10T18:12:47.000Z",
+                "transcript": "transcripts/simple/e2ecffad-9a54-4d30-86fd-a06293008039.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/972582ae-44e3-48a0-a70d-8be15ffce61f/EPISODE_IMAGE/1399762615000.png"
+            }
+        ]
+    },
+    {
+        "id": "09784065-687b-4b60-bd23-9ed0d2d43cdc",
+        "title": "Arena",
+        "lead": "Diskussionssendung zu aktuellen wirtschaftlichen, innen- und gesellschaftspolitischen Themen.",
+        "description": "«Arena» ist eine kontradiktorische Diskussionssendung zu aktuellen wirtschaftlichen, innen- und gesellschaftspolitischen Themen. Sie will die entsprechenden Tendenzen und Entwicklungen in der Schweiz abbilden und so zur Meinungsbildung beitragen. Als Mittel dazu verwendet sie die kontroverse Diskussion in einem schweizerisch-demokratischen Verständnis.",
+        "image": "http://ws.srf.ch/asset/image/audio/7e26b07f-2cbe-4bad-97fa-26f903f6de6d/WEBVISUAL/1402065272000.jpg",
+        "episodes": [
+            {
+                "id": "e8ad9b57-60ea-48e6-a2a0-c44f91785ae7",
+                "title": "Abstimmungsarena vom 05.09.2014",
+                "publishedDate": "2014-09-05T20:26:49.000Z",
+                "transcript": "transcripts/simple/e8ad9b57-60ea-48e6-a2a0-c44f91785ae7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/473d6232-bcad-4bb6-8f09-239f3337cf4b/EPISODE_IMAGE/1410444410000.png"
+            },
+            {
+                "id": "f57e3988-360f-4309-969c-7bcb9189fefe",
+                "title": "Abstimmungsarena vom 29.08.2014",
+                "publishedDate": "2014-08-29T20:25:37.000Z",
+                "transcript": "transcripts/simple/f57e3988-360f-4309-969c-7bcb9189fefe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/98c826b2-cf6a-48f7-a7ea-6650f3c4bd9c/EPISODE_IMAGE/1410444295000.png"
+            },
+            {
+                "id": "22a7955e-851f-471a-b925-e4b2abbaa9ff",
+                "title": "Arena vom 04.07.2014",
+                "publishedDate": "2014-07-04T20:25:59.000Z",
+                "transcript": "transcripts/simple/22a7955e-851f-471a-b925-e4b2abbaa9ff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6644350d-1f9a-4a90-af15-db45ffc0cc64/EPISODE_IMAGE/1404734155000.png"
+            },
+            {
+                "id": "22e19425-0c94-4911-9f36-767e32ab96f4",
+                "title": "Arena vom 27.06.2014",
+                "publishedDate": "2014-06-27T20:26:20.000Z",
+                "transcript": "transcripts/simple/22e19425-0c94-4911-9f36-767e32ab96f4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4575d6c2-016f-4a61-a658-3690b72b54a9/EPISODE_IMAGE/1404206768000.png"
+            },
+            {
+                "id": "35382674-f5a3-41f0-8991-7c1c028a761e",
+                "title": "Arena vom 20.06.2014",
+                "publishedDate": "2014-06-20T20:26:22.000Z",
+                "transcript": "transcripts/simple/35382674-f5a3-41f0-8991-7c1c028a761e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2587d942-29b9-4436-8f2c-ce958b5940ed/EPISODE_IMAGE/1403629079000.png"
+            },
+            {
+                "id": "7bdac150-9457-41f2-9e78-5908228aad37",
+                "title": "Arena vom 13.06.2014",
+                "publishedDate": "2014-06-13T20:25:34.000Z",
+                "transcript": "transcripts/simple/7bdac150-9457-41f2-9e78-5908228aad37.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/98b80f4c-7514-4b61-b030-bd77ad4b5303/EPISODE_IMAGE/1402991823000.png"
+            },
+            {
+                "id": "d2915748-1c15-41d1-ac4c-7fc6f1e62023",
+                "title": "Arena vom 06.06.2014",
+                "publishedDate": "2014-06-06T20:25:22.000Z",
+                "transcript": "transcripts/simple/d2915748-1c15-41d1-ac4c-7fc6f1e62023.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e8c3569b-e07e-464b-ae09-df7b2d4e5f6a/EPISODE_IMAGE/1402422657000.png"
+            },
+            {
+                "id": "de6e0790-69de-4eff-9461-1d1e16892442",
+                "title": "Arena vom 30.05.2014",
+                "publishedDate": "2014-05-30T20:25:19.000Z",
+                "transcript": "transcripts/simple/de6e0790-69de-4eff-9461-1d1e16892442.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e8761911-ea46-4ef8-ba43-78a446835d79/EPISODE_IMAGE/1401797178000.png"
+            },
+            {
+                "id": "4ca9698f-7843-482e-9358-414fe55f5f2c",
+                "title": "Arena vom 23.05.2014",
+                "publishedDate": "2014-05-23T20:24:54.000Z",
+                "transcript": "transcripts/simple/4ca9698f-7843-482e-9358-414fe55f5f2c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/47d40363-8452-450f-82e5-0ecfca8e9776/EPISODE_IMAGE/1401120563000.png"
+            },
+            {
+                "id": "4d7bcd1e-1e8d-4272-8fde-77d705a0e73c",
+                "title": "Arena vom 16.05.2014",
+                "publishedDate": "2014-05-16T20:25:07.000Z",
+                "transcript": "transcripts/simple/4d7bcd1e-1e8d-4272-8fde-77d705a0e73c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bc83577c-cb21-4ee0-84f4-85d3ba2c5e47/EPISODE_IMAGE/1400608522000.png"
+            },
+            {
+                "id": "b5808347-2564-44e1-a9f9-6384dcf16b71",
+                "title": "Arena vom 09.05.2014",
+                "publishedDate": "2014-05-09T20:26:08.000Z",
+                "transcript": "transcripts/simple/b5808347-2564-44e1-a9f9-6384dcf16b71.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/de0ef5af-7aa5-4fcc-86aa-570c75438d23/EPISODE_IMAGE/1399985055000.png"
+            },
+            {
+                "id": "a61926d8-0c0e-40a4-91f9-803b488900a0",
+                "title": "Arena vom 02.05.2014",
+                "publishedDate": "2014-05-02T20:26:03.000Z",
+                "transcript": "transcripts/simple/a61926d8-0c0e-40a4-91f9-803b488900a0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0e0c1e55-b456-409a-a9fa-3a59405da982/EPISODE_IMAGE/1399369026000.png"
+            },
+            {
+                "id": "cc4d451e-3b20-4c87-86f5-1779561c3d86",
+                "title": "Arena vom 25.04.2014",
+                "publishedDate": "2014-04-25T20:25:37.000Z",
+                "transcript": "transcripts/simple/cc4d451e-3b20-4c87-86f5-1779561c3d86.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/206334dd-47fb-4035-9cc5-75732d19c371/EPISODE_IMAGE/1398762899000.png"
+            },
+            {
+                "id": "6942b6b4-a07e-4543-b5fd-a3d4ac8f398b",
+                "title": "Arena vom 11.04.2014",
+                "publishedDate": "2014-04-11T20:25:17.000Z",
+                "transcript": "transcripts/simple/6942b6b4-a07e-4543-b5fd-a3d4ac8f398b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/93e56f29-19ca-4dcb-b490-e5816248bc34/EPISODE_IMAGE/1398159625000.png"
+            },
+            {
+                "id": "51578bfe-6318-47e5-83c1-8345590d05e8",
+                "title": "Arena vom 04.04.2014",
+                "publishedDate": "2014-04-04T20:24:40.000Z",
+                "transcript": "transcripts/simple/51578bfe-6318-47e5-83c1-8345590d05e8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7b417fbc-3247-4f69-9893-6adc468042db/EPISODE_IMAGE/1396950014000.png"
+            }
+        ]
+    },
+    {
+        "id": "8d2bbf21-6bd4-4115-98fa-7c4e178cf195",
+        "title": "Classe Politique",
+        "lead": "«Classe Politique» gewährt einen Blick hinter die Kulissen und erzählt Anekdotisches aus dem Sessionsgeschehen.",
+        "description": "«Classe Politique» will in attraktiver Form das Geschehen im Parlament abbilden. Arbeit und Personen der Politik sollen den Zuschauenden näher gebracht und Einblicke hinter die Kulissen des Bundeshauses ermöglicht werden. In der Regel beinhaltet die Sendung zwei inhaltliche Schwerpunkte mit Filmberichten und Diskussionen. Hauptgesprächsgast ist ein Mitglied des Bundesrates, das im Brennpunkt des Interesses und der parlamentarischen Arbeit steht. Kurze Filmberichte vermitteln einen Blick hinter die Kulissen und erzählen Anekdotisches aus dem Sessionsgeschehen.",
+        "image": "http://ws.srf.ch/asset/image/audio/48031029-1ce6-4662-8cb4-c89ef4e4b805/WEBVISUAL/1385474664000.jpg",
+        "episodes": [
+            {
+                "id": "c782f24d-040b-46bd-a582-f9e68bd95b90",
+                "title": "Classe Politique vom 18.06.2014",
+                "publishedDate": "2014-06-18T18:55:14.000Z",
+                "transcript": "transcripts/simple/c782f24d-040b-46bd-a582-f9e68bd95b90.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bfce7b08-91d5-4990-ba95-5cecb7198cd6/EPISODE_IMAGE/1403182234000.png"
+            }
+        ]
+    },
+    {
+        "id": "0f532a74-d501-4470-be25-527a4fbb82fa",
+        "title": "Club",
+        "lead": "Der «Club» ist die prominente Diskussionssendung von Schweizer Radio und Fernsehen zu Themen aus den Bereichen Gesellschaft, Kultur, Politik etc..",
+        "description": "Alles, was Menschen bewegt, kann im «Club» diskutiert werden. Die Themenpalette deckt sämtliche Lebensbereiche ab. Neben den zwei Moderatorinnen Karin Frei und Mona Vetsch prägen die Diskussionsgäste mit ihren authentischen Geschichten und ihrem Fachwissen das Gesicht der Sendung.",
+        "image": "http://ws.srf.ch/asset/image/audio/beb72626-fda9-4872-90dd-d41dd0700762/WEBVISUAL/1385474265000.jpg",
+        "episodes": [
+            {
+                "id": "b028e233-1a61-4ca4-a594-643392284bcb",
+                "title": "Club vom 09.09.2014",
+                "publishedDate": "2014-09-09T20:25:11.000Z",
+                "transcript": "transcripts/simple/b028e233-1a61-4ca4-a594-643392284bcb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/18b4030b-c8e6-4e0d-a1df-ef5ccbcec5ee/EPISODE_IMAGE/1410425135000.png"
+            },
+            {
+                "id": "f8d7b03a-465a-4d4a-8d88-2950ccf51598",
+                "title": "Club vom 02.09.2014",
+                "publishedDate": "2014-09-02T20:24:00.000Z",
+                "transcript": "transcripts/simple/f8d7b03a-465a-4d4a-8d88-2950ccf51598.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/343aa8df-42b7-43ca-9f64-d27f458ec814/EPISODE_IMAGE/1409818938000.png"
+            },
+            {
+                "id": "9e79d11d-a1f2-442a-8cc6-f832726c789e",
+                "title": "Club vom 26.08.2014",
+                "publishedDate": "2014-08-26T20:26:39.000Z",
+                "transcript": "transcripts/simple/9e79d11d-a1f2-442a-8cc6-f832726c789e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/23c191bf-192a-4e9f-a658-e6af6b5c16f4/EPISODE_IMAGE/1409145474000.png"
+            },
+            {
+                "id": "973a500e-7744-4914-b5e0-0269028e6ee3",
+                "title": "Club vom 19.08.2014",
+                "publishedDate": "2014-08-19T20:25:55.000Z",
+                "transcript": "transcripts/simple/973a500e-7744-4914-b5e0-0269028e6ee3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7b9030a6-5807-43d5-b471-871c041fe726/EPISODE_IMAGE/1408527568000.png"
+            },
+            {
+                "id": "f25732dc-11f2-4492-b646-5f506b09bd33",
+                "title": "Club vom 12.08.2014",
+                "publishedDate": "2014-08-12T20:24:38.000Z",
+                "transcript": "transcripts/simple/f25732dc-11f2-4492-b646-5f506b09bd33.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8eb8919d-8cc3-4baa-9efe-9140294d74d7/EPISODE_IMAGE/1407936677000.png"
+            },
+            {
+                "id": "6b581442-46d2-4cb0-b9ed-87b428d14a6d",
+                "title": "Club vom 05.08.2014",
+                "publishedDate": "2014-08-05T20:24:29.000Z",
+                "transcript": "transcripts/simple/6b581442-46d2-4cb0-b9ed-87b428d14a6d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/857d6d55-1275-4bca-9ab3-efc775b36ca3/EPISODE_IMAGE/1407309490000.png"
+            },
+            {
+                "id": "40c5d24f-7135-4533-9f79-338ef2572af0",
+                "title": "Club vom 29.07.2014",
+                "publishedDate": "2014-07-29T20:23:02.000Z",
+                "transcript": "transcripts/simple/40c5d24f-7135-4533-9f79-338ef2572af0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/06615aa3-5f49-4cd4-bd04-bf6474f5ac2c/EPISODE_IMAGE/1406727706000.png"
+            },
+            {
+                "id": "39ce6183-9a48-45fe-8837-f3c495ae4870",
+                "title": "Club vom 22.07.2014",
+                "publishedDate": "2014-07-22T20:23:52.000Z",
+                "transcript": "transcripts/simple/39ce6183-9a48-45fe-8837-f3c495ae4870.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/48d18b92-5388-4e1e-8445-b7088950ec5f/EPISODE_IMAGE/1406112255000.png"
+            },
+            {
+                "id": "63e594aa-bdf3-4c2f-aa87-14def176dd07",
+                "title": "Club vom 15.07.2014",
+                "publishedDate": "2014-07-15T20:24:38.000Z",
+                "transcript": "transcripts/simple/63e594aa-bdf3-4c2f-aa87-14def176dd07.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/78461c99-bd24-42bb-8705-fdc53a58c4b1/EPISODE_IMAGE/1405503005000.png"
+            },
+            {
+                "id": "49cc6a18-bed1-4887-97ea-d69208385319",
+                "title": "Club vom 08.07.2014",
+                "publishedDate": "2014-07-08T20:27:37.000Z",
+                "transcript": "transcripts/simple/49cc6a18-bed1-4887-97ea-d69208385319.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/eec8ca55-16d1-42df-802f-315a2a7e6600/EPISODE_IMAGE/1404897583000.png"
+            },
+            {
+                "id": "48857749-bc63-4265-9953-b54dc5c5a831",
+                "title": "Club vom 01.07.2014",
+                "publishedDate": "2014-07-01T20:24:58.000Z",
+                "transcript": "transcripts/simple/48857749-bc63-4265-9953-b54dc5c5a831.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/069df29d-d0da-42f3-99ff-4e8e73912a58/EPISODE_IMAGE/1404307401000.png"
+            },
+            {
+                "id": "2e160b5b-5891-44fa-b4d3-aadbc10855b6",
+                "title": "Club vom 17.06.2014",
+                "publishedDate": "2014-06-17T20:26:03.000Z",
+                "transcript": "transcripts/simple/2e160b5b-5891-44fa-b4d3-aadbc10855b6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/74e9aea9-2eb3-4656-b501-2f1fc6fd2069/EPISODE_IMAGE/1403092664000.png"
+            },
+            {
+                "id": "117a9ced-ea7a-456f-b7db-e2ea741219b0",
+                "title": "Club vom 10.06.2014",
+                "publishedDate": "2014-06-10T20:27:06.000Z",
+                "transcript": "transcripts/simple/117a9ced-ea7a-456f-b7db-e2ea741219b0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6aaa10b5-1c40-48c3-9724-c662147514ae/EPISODE_IMAGE/1402473675000.png"
+            },
+            {
+                "id": "0b2f56f3-e100-4139-bfba-62e173757d5a",
+                "title": "Club vom 03.06.2014",
+                "publishedDate": "2014-06-03T20:25:00.000Z",
+                "transcript": "transcripts/simple/0b2f56f3-e100-4139-bfba-62e173757d5a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7bbc9f03-d570-44a8-bf46-95325177593a/EPISODE_IMAGE/1401897048000.png"
+            },
+            {
+                "id": "d3502979-d06d-43f5-8468-9eb48f96fdfe",
+                "title": "Club vom 27.05.2014",
+                "publishedDate": "2014-05-27T20:25:46.000Z",
+                "transcript": "transcripts/simple/d3502979-d06d-43f5-8468-9eb48f96fdfe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/842de810-26a4-4e39-8433-23f2973293c5/EPISODE_IMAGE/1401273602000.png"
+            },
+            {
+                "id": "5c72ba13-89a9-43f5-8478-3b79c1540cf4",
+                "title": "Club vom 20.05.2014",
+                "publishedDate": "2014-05-20T20:25:28.000Z",
+                "transcript": "transcripts/simple/5c72ba13-89a9-43f5-8478-3b79c1540cf4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bae493dc-712c-4b15-9cfa-b3b7ef6d1563/EPISODE_IMAGE/1400654696000.png"
+            },
+            {
+                "id": "6d1d710c-f962-4e21-95f9-d658dd0dd9e4",
+                "title": "Club vom 06.05.2014",
+                "publishedDate": "2014-05-06T20:24:50.000Z",
+                "transcript": "transcripts/simple/6d1d710c-f962-4e21-95f9-d658dd0dd9e4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/baaa10c9-6db3-405b-8485-d24eb293cb19/EPISODE_IMAGE/1399450777000.png"
+            },
+            {
+                "id": "fdfbacaf-e0a4-4300-a52a-34cc773d5bb4",
+                "title": "Club vom 29.04.2014",
+                "publishedDate": "2014-04-29T20:25:34.000Z",
+                "transcript": "transcripts/simple/fdfbacaf-e0a4-4300-a52a-34cc773d5bb4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e182405d-b637-4a0c-a1e9-c0b5d9f2b31c/EPISODE_IMAGE/1398867989000.png"
+            },
+            {
+                "id": "d24d2135-66e6-4f0e-8f8e-3790c9a105b4",
+                "title": "Club vom 15.04.2014",
+                "publishedDate": "2014-04-15T20:25:52.000Z",
+                "transcript": "transcripts/simple/d24d2135-66e6-4f0e-8f8e-3790c9a105b4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d723fb61-4d10-4168-b71b-c8749c2eec7e/EPISODE_IMAGE/1397649923000.png"
+            },
+            {
+                "id": "074d604e-e092-411d-b7f6-5c9d55e33bb1",
+                "title": "Club vom 08.04.2014",
+                "publishedDate": "2014-04-08T20:25:54.000Z",
+                "transcript": "transcripts/simple/074d604e-e092-411d-b7f6-5c9d55e33bb1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/69f1be74-f1ce-4b05-82f4-b1777daa7906/EPISODE_IMAGE/1397068605000.png"
+            },
+            {
+                "id": "09b7dae8-bde8-4b72-b29c-28341ae1f72b",
+                "title": "Club vom 01.04.2014",
+                "publishedDate": "2014-04-01T20:25:45.000Z",
+                "transcript": "transcripts/simple/09b7dae8-bde8-4b72-b29c-28341ae1f72b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b024383b-93eb-4b0f-ba17-dc3370a8571d/EPISODE_IMAGE/1396441372000.png"
+            }
+        ]
+    },
+    {
+        "id": "7dd60977-fc2e-4b40-a533-eb9536cea736",
+        "title": "ECO",
+        "lead": "Das Wirtschaftsmagazin zeigt Hintergründe auf und stellt Zusammenhänge her.",
+        "description": "«ECO» ist eine wöchentliche Magazinsendung, die sich ausschliesslich mit Wirtschaftsthemen beschäftigt. Damit baut SRF sein qualitativ hochstehendes Informationsangebot aus und bietet sowohl Insidern als auch Personen, die nur am Rande wirtschaftsorientiert sind, wöchentlich Nachrichten und Hintergründe aus der Wirtschaftswelt. «ECO» berichtet aus der Perspektive der Wirtschaft und bietet dem Fernsehpublikum einen Blick hinter die Kulisse. Die Wirtschaftssendung zeigt Probleme und Lösungen und rückt dabei die Menschen, die das Wirtschaftsgeschehen lenken und bestimmen, in den Mittelpunkt.",
+        "image": "http://ws.srf.ch/asset/image/audio/3b23003d-b317-4398-b26c-b36f50414026/WEBVISUAL/1403532357000.jpg",
+        "episodes": [
+            {
+                "id": "2efe9a11-3831-42bf-a750-4c571ba6bc94",
+                "title": "ECO vom 08.09.2014",
+                "publishedDate": "2014-09-08T20:24:54.000Z",
+                "transcript": "transcripts/simple/2efe9a11-3831-42bf-a750-4c571ba6bc94.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f8e756b5-04e5-41e4-b1c3-b78ba9281f2e/EPISODE_IMAGE/1410220074000.png"
+            },
+            {
+                "id": "dc7125a6-510b-4d94-be39-766c1d0a8785",
+                "title": "ECO vom 01.09.2014",
+                "publishedDate": "2014-09-01T20:25:09.000Z",
+                "transcript": "transcripts/simple/dc7125a6-510b-4d94-be39-766c1d0a8785.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6bba54d3-acde-41d7-ab91-49112c0fb9ef/EPISODE_IMAGE/1409818947000.png"
+            },
+            {
+                "id": "5710cf7c-3b46-49a4-83b0-9ce406c5c345",
+                "title": "ECO vom 25.08.2014",
+                "publishedDate": "2014-08-25T20:25:20.000Z",
+                "transcript": "transcripts/simple/5710cf7c-3b46-49a4-83b0-9ce406c5c345.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/70802e0d-f9ee-48be-8ce7-13f2b036082c/EPISODE_IMAGE/1409056001000.png"
+            },
+            {
+                "id": "ca104956-13c1-495c-92af-2932ae806c98",
+                "title": "ECO vom 23.06.2014",
+                "publishedDate": "2014-06-23T20:26:18.000Z",
+                "transcript": "transcripts/simple/ca104956-13c1-495c-92af-2932ae806c98.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1c54afed-e147-4227-9d16-b87e076d8b79/EPISODE_IMAGE/1403629068000.png"
+            },
+            {
+                "id": "47c49a22-c69c-4f27-a0db-0ec08d9298f3",
+                "title": "ECO vom 16.06.2014",
+                "publishedDate": "2014-06-16T20:24:54.000Z",
+                "transcript": "transcripts/simple/47c49a22-c69c-4f27-a0db-0ec08d9298f3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/95d2b35a-f5c4-4d87-bc0d-97526fd97f2a/EPISODE_IMAGE/1403003016000.png"
+            },
+            {
+                "id": "60abc8e5-fada-4037-bdb5-c500d8c47450",
+                "title": "ECO vom 02.06.2014",
+                "publishedDate": "2014-06-02T20:24:56.000Z",
+                "transcript": "transcripts/simple/60abc8e5-fada-4037-bdb5-c500d8c47450.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2b5fc5d7-6c33-475b-8d73-0766c144f75d/EPISODE_IMAGE/1401808041000.png"
+            },
+            {
+                "id": "fb97289a-af7c-4721-a237-309f7f6817ef",
+                "title": "ECO vom 26.05.2014",
+                "publishedDate": "2014-05-26T20:25:55.000Z",
+                "transcript": "transcripts/simple/fb97289a-af7c-4721-a237-309f7f6817ef.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b80e15e6-c6e9-4561-b7a7-040acbd50ccc/EPISODE_IMAGE/1403271927000.png"
+            },
+            {
+                "id": "b9052cce-a837-4179-86d1-a0e3d50457b5",
+                "title": "ECO vom 19.05.2014",
+                "publishedDate": "2014-05-19T20:26:05.000Z",
+                "transcript": "transcripts/simple/b9052cce-a837-4179-86d1-a0e3d50457b5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/14cb7f7d-2780-4d84-a70f-d46ee409882f/EPISODE_IMAGE/1400563991000.png"
+            },
+            {
+                "id": "3d431aed-c331-4b6f-8c20-b520b2415407",
+                "title": "ECO vom 12.05.2014",
+                "publishedDate": "2014-05-12T20:26:09.000Z",
+                "transcript": "transcripts/simple/3d431aed-c331-4b6f-8c20-b520b2415407.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/167f338c-6536-4157-a367-da9643f95963/EPISODE_IMAGE/1399985072000.png"
+            },
+            {
+                "id": "74d157ef-e86c-4d8b-8eb6-58ccb8da8a51",
+                "title": "ECO vom 05.05.2014",
+                "publishedDate": "2014-05-05T20:24:35.000Z",
+                "transcript": "transcripts/simple/74d157ef-e86c-4d8b-8eb6-58ccb8da8a51.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4f77edcb-28a6-46d4-b0d8-71ddffda7663/EPISODE_IMAGE/1399361255000.png"
+            },
+            {
+                "id": "0a2df45f-1512-41cb-ac7b-0f57b617ced3",
+                "title": "ECO vom 28.04.2014",
+                "publishedDate": "2014-04-28T20:25:11.000Z",
+                "transcript": "transcripts/simple/0a2df45f-1512-41cb-ac7b-0f57b617ced3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/26958b6c-028d-4b9a-a39f-af832b7c3a4f/EPISODE_IMAGE/1398779194000.png"
+            },
+            {
+                "id": "f004a2a6-282d-489b-930c-e3b4a52670b2",
+                "title": "ECO vom 14.04.2014",
+                "publishedDate": "2014-04-14T20:27:39.000Z",
+                "transcript": "transcripts/simple/f004a2a6-282d-489b-930c-e3b4a52670b2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6975a824-b7c8-4ee0-8b3c-c0e5f8f436a4/EPISODE_IMAGE/1409670029000.png"
+            },
+            {
+                "id": "07369311-bc71-4905-ac58-8fa7d02dbf63",
+                "title": "ECO vom 07.04.2014",
+                "publishedDate": "2014-04-07T20:25:19.000Z",
+                "transcript": "transcripts/simple/07369311-bc71-4905-ac58-8fa7d02dbf63.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/02c9a140-8807-4479-b9e0-0122e729c147/EPISODE_IMAGE/1396978668000.png"
+            }
+        ]
+    },
+    {
+        "id": "f005a0da-25ea-43a5-b3f8-4c5c23b190b3",
+        "title": "Einstein",
+        "lead": "Wissensmagazin über Phänomene und Geheimnisse des Alltags und des Lebens.",
+        "description": "«Einstein» berichtet wöchentlich über latent aktuelle Themen aus allen Wissensbereichen. «Einstein» erzählt Geschichten, die informieren, bilden und unterhalten. Das Fernsehpublikum soll die Geschichten miterleben und gleichzeitig etwas Neues erfahren können. Dem Themenspektrum von «Einstein» sind keine Grenzen gesetzt. Phänomene und Geheimnisse des Alltags kommen ebenso zum Zug wie komplexe wissenschaftliche Themen. Experten helfen mit, Zusammenhänge herzustellen und den Bogen von der Wissenschaft zum Alltag zu schlagen.",
+        "image": "http://ws.srf.ch/asset/image/audio/09a46e7f-8be6-4126-a1e7-31641151d9e7/WEBVISUAL/1399020921000.jpg",
+        "episodes": [
+            {
+                "id": "0fd9a0e2-7101-46f6-9995-c01675a7539b",
+                "title": "Einstein vom 04.09.2014",
+                "publishedDate": "2014-09-04T19:05:22.000Z",
+                "transcript": "transcripts/simple/0fd9a0e2-7101-46f6-9995-c01675a7539b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/414f088e-650f-4178-87d6-b634413d59ad/EPISODE_IMAGE/1409910161000.png"
+            },
+            {
+                "id": "70dc26a4-46bd-4e0b-b5e0-aec64cdfdea7",
+                "title": "Einstein vom 28.08.2014",
+                "publishedDate": "2014-08-28T19:03:21.000Z",
+                "transcript": "transcripts/simple/70dc26a4-46bd-4e0b-b5e0-aec64cdfdea7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0ce73db2-5f26-44e1-8304-fb4969a107ff/EPISODE_IMAGE/1409325576000.png"
+            },
+            {
+                "id": "7851ad18-c99e-458d-a1e8-2861c196246c",
+                "title": "Einstein vom 03.07.2014",
+                "publishedDate": "2014-07-03T19:05:27.000Z",
+                "transcript": "transcripts/simple/7851ad18-c99e-458d-a1e8-2861c196246c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ca29816b-00ec-4e5b-bda1-0f4d011c4435/EPISODE_IMAGE/1404467557000.png"
+            },
+            {
+                "id": "a928932f-5515-4096-8acb-f4c5ac53570f",
+                "title": "Einstein vom 26.06.2014",
+                "publishedDate": "2014-06-26T19:08:19.000Z",
+                "transcript": "transcripts/simple/a928932f-5515-4096-8acb-f4c5ac53570f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e19384e3-f3f4-4792-8bee-6bd4963d25b5/EPISODE_IMAGE/1403897492000.png"
+            },
+            {
+                "id": "551a44f0-a186-4f58-b629-d15d5d47607f",
+                "title": "Einstein vom 19.06.2014",
+                "publishedDate": "2014-06-19T19:01:54.000Z",
+                "transcript": "transcripts/simple/551a44f0-a186-4f58-b629-d15d5d47607f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0262a543-3045-46d2-a654-9b963830d114/EPISODE_IMAGE/1403271811000.png"
+            },
+            {
+                "id": "f5f10c80-4d05-4398-9d33-0c82488c0d77",
+                "title": "Einstein vom 12.06.2014",
+                "publishedDate": "2014-06-12T19:06:08.000Z",
+                "transcript": "transcripts/simple/f5f10c80-4d05-4398-9d33-0c82488c0d77.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6a38971a-bd89-4594-98df-771c3982b9c9/EPISODE_IMAGE/1403272213000.png"
+            },
+            {
+                "id": "e63b5637-f41a-4035-ab48-1af4295062d3",
+                "title": "Einstein vom 05.06.2014",
+                "publishedDate": "2014-06-05T19:05:37.000Z",
+                "transcript": "transcripts/simple/e63b5637-f41a-4035-ab48-1af4295062d3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/87fe8412-3033-41c4-9be0-25a9bd163983/EPISODE_IMAGE/1402067177000.png"
+            },
+            {
+                "id": "81b1651a-ad53-4613-bab8-903dd7dc5bf8",
+                "title": "Einstein vom 15.05.2014",
+                "publishedDate": "2014-05-15T19:07:58.000Z",
+                "transcript": "transcripts/simple/81b1651a-ad53-4613-bab8-903dd7dc5bf8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9b2626cd-4e94-4ee3-b78d-eb8bfd500ec2/EPISODE_IMAGE/1400251607000.png"
+            },
+            {
+                "id": "dbd819a8-1c90-4df9-b28c-493a6afcc072",
+                "title": "Einstein vom 08.05.2014",
+                "publishedDate": "2014-05-08T19:06:28.000Z",
+                "transcript": "transcripts/simple/dbd819a8-1c90-4df9-b28c-493a6afcc072.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d4535636-8d59-41a6-844d-56bf5e5907d0/EPISODE_IMAGE/1399628987000.png"
+            },
+            {
+                "id": "fb946f9c-3176-4eb0-a55a-9019245a7046",
+                "title": "Einstein vom 24.04.2014",
+                "publishedDate": "2014-04-24T19:03:42.000Z",
+                "transcript": "transcripts/simple/fb946f9c-3176-4eb0-a55a-9019245a7046.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2ef49ad5-6020-4af6-9667-9c17b97e5794/EPISODE_IMAGE/1398423046000.png"
+            },
+            {
+                "id": "05ef406d-e84f-45eb-ac9c-914e64705ce8",
+                "title": "Einstein vom 17.04.2014",
+                "publishedDate": "2014-04-17T19:05:21.000Z",
+                "transcript": "transcripts/simple/05ef406d-e84f-45eb-ac9c-914e64705ce8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e55d4914-c05a-4169-b629-85115d58e297/EPISODE_IMAGE/1397828365000.png"
+            },
+            {
+                "id": "ab834d20-da25-4a39-a4eb-d5c735defdbe",
+                "title": "Einstein vom 10.04.2014",
+                "publishedDate": "2014-04-10T19:05:29.000Z",
+                "transcript": "transcripts/simple/ab834d20-da25-4a39-a4eb-d5c735defdbe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8aac0331-5fdf-4017-9918-92274e9011fb/EPISODE_IMAGE/1397209497000.png"
+            },
+            {
+                "id": "705b5069-f821-4ef0-a626-3c573f3d3c37",
+                "title": "Einstein vom 03.04.2014",
+                "publishedDate": "2014-04-03T19:05:42.000Z",
+                "transcript": "transcripts/simple/705b5069-f821-4ef0-a626-3c573f3d3c37.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1c067e06-8291-4e5e-bc83-5d69808caa32/EPISODE_IMAGE/1396623245000.png"
+            }
+        ]
+    },
+    {
+        "id": "53293a8d-dd13-4968-95fd-24a490bfb6b8",
+        "title": "Giacobbo / Müller",
+        "lead": "Satirischer Wochenrückblick mit Viktor Giacobbo und Mike Müller.",
+        "description": "Viktor Giacobbo und Mike Müller kommentieren in einem satirischen Wochenrückblick die Geschehnisse der vergangenen sieben Tage.",
+        "image": "http://ws.srf.ch/asset/image/audio/b6557ea0-5ad7-4464-8347-b2199f484d2c/WEBVISUAL/1395136731000.jpg",
+        "episodes": [
+            {
+                "id": "32b58b4e-f0ae-4be0-b662-eefcf51dca48",
+                "title": "Giacobbo / Müller vom 01.06.2014",
+                "publishedDate": "2014-06-01T20:17:30.000Z",
+                "transcript": "transcripts/simple/32b58b4e-f0ae-4be0-b662-eefcf51dca48.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/71605604-311d-496f-b44c-285d2b1c365f/EPISODE_IMAGE/1401805778000.png"
+            },
+            {
+                "id": "c51ed6cd-b62a-4de3-af82-ef5c2b9359ee",
+                "title": "Giacobbo / Müller vom 25.05.2014",
+                "publishedDate": "2014-05-25T20:17:39.000Z",
+                "transcript": "transcripts/simple/c51ed6cd-b62a-4de3-af82-ef5c2b9359ee.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/93a72a28-4c4c-4cd5-a6af-7bb0d80c0dfb/EPISODE_IMAGE/1401976955000.png"
+            },
+            {
+                "id": "25ea0512-7ca3-4c06-b7a2-b7f107466dd3",
+                "title": "Giacobbo / Müller vom 18.05.2014",
+                "publishedDate": "2014-05-18T20:13:16.000Z",
+                "transcript": "transcripts/simple/25ea0512-7ca3-4c06-b7a2-b7f107466dd3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d811550b-1c7b-40dc-b4d1-0aefdec5bbbe/EPISODE_IMAGE/1400519263000.png"
+            },
+            {
+                "id": "00f7517b-004f-4e95-9359-27bae9601b3e",
+                "title": "Giacobbo / Müller vom 11.05.2014",
+                "publishedDate": "2014-05-11T20:09:47.000Z",
+                "transcript": "transcripts/simple/00f7517b-004f-4e95-9359-27bae9601b3e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/157d1e68-752b-4678-be42-a6aab535641f/EPISODE_IMAGE/1399987470000.png"
+            },
+            {
+                "id": "141ac170-1610-420c-af5c-b7c09abf607e",
+                "title": "Giacobbo / Müller vom 04.05.2014",
+                "publishedDate": "2014-05-04T20:11:13.000Z",
+                "transcript": "transcripts/simple/141ac170-1610-420c-af5c-b7c09abf607e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0cef0b8e-f9f1-4e4e-80ae-25daab5bcaee/EPISODE_IMAGE/1399311516000.png"
+            },
+            {
+                "id": "572f19f5-9d25-4fa1-9d85-406daeaafb38",
+                "title": "Giacobbo / Müller vom 27.04.2014",
+                "publishedDate": "2014-04-27T20:12:23.000Z",
+                "transcript": "transcripts/simple/572f19f5-9d25-4fa1-9d85-406daeaafb38.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/436e02bd-32b1-483e-a9e1-f80f1ebf470a/EPISODE_IMAGE/1398695019000.png"
+            },
+            {
+                "id": "75c5a9d0-2def-4a26-827a-3cc267e24f08",
+                "title": "Giacobbo / Müller vom 20.04.2014",
+                "publishedDate": "2014-04-20T20:09:38.000Z",
+                "transcript": "transcripts/simple/75c5a9d0-2def-4a26-827a-3cc267e24f08.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a905c376-2815-45f9-b416-62452ffd37de/EPISODE_IMAGE/1398151626000.png"
+            },
+            {
+                "id": "4146fe57-178b-44b5-99a1-b3b84247130d",
+                "title": "Giacobbo / Müller vom 13.04.2014",
+                "publishedDate": "2014-04-13T20:10:02.000Z",
+                "transcript": "transcripts/simple/4146fe57-178b-44b5-99a1-b3b84247130d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9f4c99bf-551d-46e0-bc3f-338d558b4843/EPISODE_IMAGE/1397516018000.png"
+            },
+            {
+                "id": "672e8dce-40d0-421c-b7b7-f3a28a0810c7",
+                "title": "Giacobbo / Müller vom 06.04.2014",
+                "publishedDate": "2014-04-06T20:16:21.000Z",
+                "transcript": "transcripts/simple/672e8dce-40d0-421c-b7b7-f3a28a0810c7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b9e8cb0f-5c62-4acf-9cd3-5962fc8db90c/EPISODE_IMAGE/1396888698000.png"
+            }
+        ]
+    },
+    {
+        "id": "49863a84-1ab7-4abb-8e69-d8e8bda6c989",
+        "title": "Rundschau",
+        "lead": "Reportagen und Magazinberichte nah am Geschehen in Politik, Wirtschaft und Gesellschaft.",
+        "description": "Hintergrund und Recherchen über aktuelle Ereignisse und latente Brennpunkte im In- und Ausland. Inhalt der Sendung sind Reportagen und Magazinberichte nah am Geschehen über Politik, Wirtschaft und Gesellschaft , oft mitten drin, ohne je die kritisch-journalistische Distanz zu verlieren Berichterstattung . Die Themen werden bildstark, spannend und verständlich umgesetzt sein so dass sich die Zuschauerinnen und Zuschauer jede Woche umfassend über Themen des Zeitgeschehens informieren können.",
+        "image": "http://ws.srf.ch/asset/image/audio/fb4ffada-3121-4123-ad56-5cf455f0f364/WEBVISUAL/1385474532000.jpg",
+        "episodes": [
+            {
+                "id": "7ac2c2b7-4715-479c-bc6b-8104b7a17acb",
+                "title": "Rundschau vom 10.09.2014",
+                "publishedDate": "2014-09-10T18:55:54.000Z",
+                "transcript": "transcripts/simple/7ac2c2b7-4715-479c-bc6b-8104b7a17acb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8b5e0039-e9b5-4683-a947-cd916e663e4d/EPISODE_IMAGE/1410397622000.png"
+            },
+            {
+                "id": "be5b2337-4f83-4fc8-858c-9470611f31a7",
+                "title": "Rundschau vom 03.09.2014",
+                "publishedDate": "2014-09-03T18:56:46.000Z",
+                "transcript": "transcripts/simple/be5b2337-4f83-4fc8-858c-9470611f31a7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/803ade2f-538b-4d6f-916c-c232edc7d77b/EPISODE_IMAGE/1409818954000.png"
+            },
+            {
+                "id": "9428b7fc-9691-4035-b167-04df9b4c1169",
+                "title": "Rundschau vom 27.08.2014",
+                "publishedDate": "2014-08-27T18:55:55.000Z",
+                "transcript": "transcripts/simple/9428b7fc-9691-4035-b167-04df9b4c1169.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/79d6b903-d55e-44ce-8c59-3174a02f4a7d/EPISODE_IMAGE/1409190343000.png"
+            },
+            {
+                "id": "7ab2ee9f-b052-4220-b86e-8057ef973f34",
+                "title": "Rundschau vom 02.07.2014",
+                "publishedDate": "2014-07-02T18:56:08.000Z",
+                "transcript": "transcripts/simple/7ab2ee9f-b052-4220-b86e-8057ef973f34.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/46b115ba-84d1-46a9-9c90-ab56a50b0669/EPISODE_IMAGE/1404333701000.png"
+            },
+            {
+                "id": "7ef445b4-9760-428a-b1c2-856570075bfc",
+                "title": "Rundschau vom 25.06.2014",
+                "publishedDate": "2014-06-25T18:58:29.000Z",
+                "transcript": "transcripts/simple/7ef445b4-9760-428a-b1c2-856570075bfc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/609bd590-c3e2-4a35-b0d1-999ff6c98be1/EPISODE_IMAGE/1403763039000.png"
+            },
+            {
+                "id": "2bef3fc3-b89c-4c08-95ca-e0a65a5b0c05",
+                "title": "Rundschau vom 11.06.2014",
+                "publishedDate": "2014-06-11T18:56:22.000Z",
+                "transcript": "transcripts/simple/2bef3fc3-b89c-4c08-95ca-e0a65a5b0c05.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/54856846-6293-419e-9db5-d2a27c7938f7/EPISODE_IMAGE/1402518478000.png"
+            },
+            {
+                "id": "88941510-4d10-4f9c-889d-7f794962fe1b",
+                "title": "Rundschau vom 04.06.2014",
+                "publishedDate": "2014-06-04T18:54:02.000Z",
+                "transcript": "transcripts/simple/88941510-4d10-4f9c-889d-7f794962fe1b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/984675d1-a331-4efa-994c-3d52a9ba44b5/EPISODE_IMAGE/1401932433000.png"
+            },
+            {
+                "id": "0be817d2-2ba9-4585-97f5-47b3768c7aaf",
+                "title": "Rundschau vom 28.05.2014",
+                "publishedDate": "2014-05-28T18:57:05.000Z",
+                "transcript": "transcripts/simple/0be817d2-2ba9-4585-97f5-47b3768c7aaf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dec8afa8-1a7e-4c4c-b11f-62603f98e538/EPISODE_IMAGE/1401318047000.png"
+            },
+            {
+                "id": "3df3a37c-f173-4113-98c4-792e82052cb5",
+                "title": "Rundschau vom 21.05.2014",
+                "publishedDate": "2014-05-21T18:56:43.000Z",
+                "transcript": "transcripts/simple/3df3a37c-f173-4113-98c4-792e82052cb5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fbfc3527-cebf-4016-9077-6e250d171dc6/EPISODE_IMAGE/1400742378000.png"
+            },
+            {
+                "id": "4ad4d7c4-5ec7-4762-8174-451396291457",
+                "title": "Rundschau vom 14.05.2014",
+                "publishedDate": "2014-05-14T18:57:14.000Z",
+                "transcript": "transcripts/simple/4ad4d7c4-5ec7-4762-8174-451396291457.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/28171a48-abf6-4a13-b44c-73988ad37eff/EPISODE_IMAGE/1400118199000.png"
+            },
+            {
+                "id": "b6025aa3-26d8-43e0-9add-d93b78eda71a",
+                "title": "Rundschau vom 07.05.2014",
+                "publishedDate": "2014-05-07T18:56:44.000Z",
+                "transcript": "transcripts/simple/b6025aa3-26d8-43e0-9add-d93b78eda71a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/af6e15d1-a6b3-47d7-afa3-8b98ecc9fee5/EPISODE_IMAGE/1399495402000.png"
+            },
+            {
+                "id": "d7794ebf-cf5b-4962-9503-51423f0444a4",
+                "title": "Rundschau vom 30.04.2014",
+                "publishedDate": "2014-04-30T18:57:41.000Z",
+                "transcript": "transcripts/simple/d7794ebf-cf5b-4962-9503-51423f0444a4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c1dc5cc8-0bc1-4879-b463-3cf3b20a1d97/EPISODE_IMAGE/1398912416000.png"
+            },
+            {
+                "id": "e57d6caf-9286-4b68-8e5e-431af6771baf",
+                "title": "Rundschau vom 23.04.2014",
+                "publishedDate": "2014-04-23T18:56:54.000Z",
+                "transcript": "transcripts/simple/e57d6caf-9286-4b68-8e5e-431af6771baf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0dcbca1b-ddbf-4a2e-81a2-c1511e101f6d/EPISODE_IMAGE/1398289773000.png"
+            },
+            {
+                "id": "dfdbb99b-f404-49a9-b79d-e0d8678239a3",
+                "title": "Rundschau vom 16.04.2014",
+                "publishedDate": "2014-04-16T18:57:40.000Z",
+                "transcript": "transcripts/simple/dfdbb99b-f404-49a9-b79d-e0d8678239a3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/50acbebf-c41e-474b-b49a-a1fb6d5d6d5d/EPISODE_IMAGE/1397695091000.png"
+            },
+            {
+                "id": "46f8690d-2924-4250-9eca-e6311a0a5ccf",
+                "title": "Rundschau vom 09.04.2014",
+                "publishedDate": "2014-04-09T18:57:33.000Z",
+                "transcript": "transcripts/simple/46f8690d-2924-4250-9eca-e6311a0a5ccf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/44a02583-ee4a-40f7-beda-e578be8e4fee/EPISODE_IMAGE/1397115041000.png"
+            },
+            {
+                "id": "d769af4b-4638-4058-9ea0-23bdc65e0634",
+                "title": "Rundschau vom 02.04.2014",
+                "publishedDate": "2014-04-02T18:55:39.000Z",
+                "transcript": "transcripts/simple/d769af4b-4638-4058-9ea0-23bdc65e0634.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5e452c26-5eba-4e0a-9e40-7ad8bdf34c2c/EPISODE_IMAGE/1396486533000.png"
+            }
+        ]
+    },
+    {
+        "id": "cb28dd84-f0c8-4024-8f20-1a29f5a4ceb7",
+        "title": "Schweiz aktuell",
+        "lead": "Nachrichten und Geschichten aus allen Regionen der Schweiz",
+        "description": "Das Schweizer Nachrichtenmagazin zeigt die Schweiz in ihrer ganzen Vielfalt und Farbigkeit, berichtet über aktuelle Vorgänge und Ereignisse im politischen, wirtschaftlichen, kulturellen, sozialen und gesellschaftspolitischen Bereich. Priorität haben Nachrichten und Geschichten aus den Regionen, die exemplarischen Charakter haben und von überregionalem Interesse sind. Neben üblichen Beitrags- und Nachrichtenformen bilden Live-Reportagen von aktuellen Schauplätzen und Live-Interviews mit Inland-Korrespondenten einen Schwerpunkt.",
+        "image": "http://ws.srf.ch/asset/image/audio/535d55d6-947c-4306-8288-a29c1533bfec/WEBVISUAL/1405600978000.jpg",
+        "episodes": [
+            {
+                "id": "db1eaed5-0c4d-46de-b965-84488fe78af0",
+                "title": "Schweiz aktuell vom 10.09.2014",
+                "publishedDate": "2014-09-10T17:00:15.000Z",
+                "transcript": "transcripts/simple/db1eaed5-0c4d-46de-b965-84488fe78af0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d9ced516-f99d-4433-ae32-73cce36e0e50/EPISODE_IMAGE/1410397620000.png"
+            },
+            {
+                "id": "e1d0d2b3-3ebb-4159-9540-a6d8647a8af7",
+                "title": "Schweiz aktuell vom 09.09.2014",
+                "publishedDate": "2014-09-09T16:59:57.000Z",
+                "transcript": "transcripts/simple/e1d0d2b3-3ebb-4159-9540-a6d8647a8af7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fb84739b-9f0a-4769-bd7f-b424b79b38b4/EPISODE_IMAGE/1410309081000.png"
+            },
+            {
+                "id": "41ac5fc0-3bb6-4743-b3cf-641c7db3214a",
+                "title": "Schweiz aktuell vom 08.09.2014",
+                "publishedDate": "2014-09-08T16:59:53.000Z",
+                "transcript": "transcripts/simple/41ac5fc0-3bb6-4743-b3cf-641c7db3214a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2f540c85-1048-44e5-951c-395b2df55d88/EPISODE_IMAGE/1410220066000.png"
+            },
+            {
+                "id": "63c2ea7f-90d5-4d6c-b15f-368ae5a18985",
+                "title": "Schweiz aktuell vom 05.09.2014",
+                "publishedDate": "2014-09-05T17:00:03.000Z",
+                "transcript": "transcripts/simple/63c2ea7f-90d5-4d6c-b15f-368ae5a18985.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/048d8414-1866-45d7-83cc-d010849ac655/EPISODE_IMAGE/1409954214000.png"
+            },
+            {
+                "id": "f8c4e1fd-c262-4e74-96e8-8fcfd47e79a7",
+                "title": "Schweiz aktuell vom 04.09.2014",
+                "publishedDate": "2014-09-04T16:59:59.000Z",
+                "transcript": "transcripts/simple/f8c4e1fd-c262-4e74-96e8-8fcfd47e79a7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/38ac4738-e4d3-45b2-a5a2-c9adf9036221/EPISODE_IMAGE/1409865587000.png"
+            },
+            {
+                "id": "96901cc3-1829-4891-9303-3bdf8a70d76c",
+                "title": "Schweiz aktuell vom 03.09.2014",
+                "publishedDate": "2014-09-03T16:59:49.000Z",
+                "transcript": "transcripts/simple/96901cc3-1829-4891-9303-3bdf8a70d76c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7086d60a-5ffe-4851-a3e1-e9ce9b5153d9/EPISODE_IMAGE/1409818957000.png"
+            },
+            {
+                "id": "98f4e31f-dc08-414e-b830-e594c50ca93f",
+                "title": "Schweiz aktuell vom 01.09.2014",
+                "publishedDate": "2014-09-01T16:59:57.000Z",
+                "transcript": "transcripts/simple/98f4e31f-dc08-414e-b830-e594c50ca93f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9e951143-ec69-4a4e-86b7-f2e3ec730c3d/EPISODE_IMAGE/1409818956000.png"
+            },
+            {
+                "id": "00b0ed4f-1950-4c5d-8aa2-fb179e3117d9",
+                "title": "Schweiz aktuell vom 29.08.2014",
+                "publishedDate": "2014-08-29T16:59:45.000Z",
+                "transcript": "transcripts/simple/00b0ed4f-1950-4c5d-8aa2-fb179e3117d9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e2b7ac77-5001-46df-a2ed-1daf4cfa126b/EPISODE_IMAGE/1409370928000.png"
+            },
+            {
+                "id": "43116efc-47b9-4a18-90ce-139cc59f29c6",
+                "title": "Schweiz aktuell vom 28.08.2014",
+                "publishedDate": "2014-08-28T16:59:34.000Z",
+                "transcript": "transcripts/simple/43116efc-47b9-4a18-90ce-139cc59f29c6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a5ae463e-489e-4468-a7cf-8185a965a30c/EPISODE_IMAGE/1409280165000.png"
+            },
+            {
+                "id": "7460de24-901f-4d29-94d7-010f89945fa8",
+                "title": "Schweiz aktuell vom 26.08.2014",
+                "publishedDate": "2014-08-26T16:59:44.000Z",
+                "transcript": "transcripts/simple/7460de24-901f-4d29-94d7-010f89945fa8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/231c6c5c-4cd1-4cd6-9791-24980c457a01/EPISODE_IMAGE/1409100680000.png"
+            },
+            {
+                "id": "d3b1bc98-135d-45b6-90c4-860b9ce241b7",
+                "title": "Schweiz aktuell vom 25.08.2014",
+                "publishedDate": "2014-08-25T16:59:45.000Z",
+                "transcript": "transcripts/simple/d3b1bc98-135d-45b6-90c4-860b9ce241b7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b6bd458e-945b-4efe-b07c-803f5e66750a/EPISODE_IMAGE/1409011384000.png"
+            },
+            {
+                "id": "5d525c57-3c14-4047-be8d-e0a2e47656b9",
+                "title": "Schweiz aktuell vom 22.08.2014",
+                "publishedDate": "2014-08-22T16:59:58.000Z",
+                "transcript": "transcripts/simple/5d525c57-3c14-4047-be8d-e0a2e47656b9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c695b6d9-6d31-47b8-b39f-d6218cebd3c6/EPISODE_IMAGE/1408744227000.png"
+            },
+            {
+                "id": "e809b84d-4cdf-44ea-b94f-a4ac3141505e",
+                "title": "Schweiz aktuell vom 21.08.2014",
+                "publishedDate": "2014-08-21T16:59:50.000Z",
+                "transcript": "transcripts/simple/e809b84d-4cdf-44ea-b94f-a4ac3141505e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/948898b2-49c4-45d6-8c7a-2f76b6118b2f/EPISODE_IMAGE/1408654771000.png"
+            },
+            {
+                "id": "55b85b35-a1d1-45d7-92b6-59a1ac1071be",
+                "title": "Schweiz aktuell vom 20.08.2014",
+                "publishedDate": "2014-08-20T17:00:01.000Z",
+                "transcript": "transcripts/simple/55b85b35-a1d1-45d7-92b6-59a1ac1071be.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/642048a7-566b-4036-a441-6b254507d3ea/EPISODE_IMAGE/1408565343000.png"
+            },
+            {
+                "id": "cc19d365-aa43-4d3e-ad6b-f770db627b82",
+                "title": "Schweiz aktuell vom 19.08.2014",
+                "publishedDate": "2014-08-19T17:00:15.000Z",
+                "transcript": "transcripts/simple/cc19d365-aa43-4d3e-ad6b-f770db627b82.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ee4f0ab5-7bbd-4d2a-8749-903d4e2a10e9/EPISODE_IMAGE/1408475522000.png"
+            },
+            {
+                "id": "1b23c282-559a-4d52-a9f5-a997c4a42145",
+                "title": "Schweiz aktuell vom 18.08.2014",
+                "publishedDate": "2014-08-18T16:59:54.000Z",
+                "transcript": "transcripts/simple/1b23c282-559a-4d52-a9f5-a997c4a42145.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ac37debe-f970-49a1-8370-868c38d6b591/EPISODE_IMAGE/1408385887000.png"
+            },
+            {
+                "id": "0ef08bf8-8293-4a1c-9d36-4909124221de",
+                "title": "Schweiz aktuell vom 15.08.2014",
+                "publishedDate": "2014-08-15T16:59:44.000Z",
+                "transcript": "transcripts/simple/0ef08bf8-8293-4a1c-9d36-4909124221de.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e31939db-99fe-4692-a68e-c5dc4ef77aca/EPISODE_IMAGE/1408160813000.png"
+            },
+            {
+                "id": "1270df05-fd18-4c82-bba2-1935203e9953",
+                "title": "Schweiz aktuell vom 14.08.2014",
+                "publishedDate": "2014-08-14T17:00:22.000Z",
+                "transcript": "transcripts/simple/1270df05-fd18-4c82-bba2-1935203e9953.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/da387c17-9ee0-4fff-bfa4-07546295eb11/EPISODE_IMAGE/1408071200000.png"
+            },
+            {
+                "id": "dacf80af-1ec5-4cf1-b4ba-42102cb1fce7",
+                "title": "Schweiz aktuell vom 13.08.2014",
+                "publishedDate": "2014-08-13T16:59:56.000Z",
+                "transcript": "transcripts/simple/dacf80af-1ec5-4cf1-b4ba-42102cb1fce7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/60310926-2b37-4ba2-a198-2a95c7f578f3/EPISODE_IMAGE/1407981409000.png"
+            },
+            {
+                "id": "45939809-2921-448d-a58f-63dea11a0dff",
+                "title": "Schweiz aktuell vom 12.08.2014",
+                "publishedDate": "2014-08-12T17:00:04.000Z",
+                "transcript": "transcripts/simple/45939809-2921-448d-a58f-63dea11a0dff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/54f17973-834d-4849-be1a-21c400eb70b8/EPISODE_IMAGE/1407891993000.png"
+            },
+            {
+                "id": "e91efe7c-fbb9-4f4c-8b8d-c447fb822c26",
+                "title": "Schweiz aktuell vom 11.08.2014",
+                "publishedDate": "2014-08-11T16:59:54.000Z",
+                "transcript": "transcripts/simple/e91efe7c-fbb9-4f4c-8b8d-c447fb822c26.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/99244d09-ce95-4101-870e-e6d703d6aacb/EPISODE_IMAGE/1407802455000.png"
+            },
+            {
+                "id": "10895c0e-7f5e-4149-812c-7563b48f8c7d",
+                "title": "Schweiz aktuell vom 08.08.2014",
+                "publishedDate": "2014-08-08T16:59:46.000Z",
+                "transcript": "transcripts/simple/10895c0e-7f5e-4149-812c-7563b48f8c7d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5a1263ff-feb0-4be8-91f5-12dac3bfe575/EPISODE_IMAGE/1407534123000.png"
+            },
+            {
+                "id": "0e0e1f55-1476-48b9-8ae7-5ef495884aea",
+                "title": "Schweiz aktuell vom 07.08.2014",
+                "publishedDate": "2014-08-07T16:59:45.000Z",
+                "transcript": "transcripts/simple/0e0e1f55-1476-48b9-8ae7-5ef495884aea.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/65135697-37d9-4c1b-9813-ef6c82b14f3e/EPISODE_IMAGE/1407443813000.png"
+            },
+            {
+                "id": "43e886ad-7549-4f00-a6be-ddfbf40c2d50",
+                "title": "Schweiz aktuell vom 06.08.2014",
+                "publishedDate": "2014-08-06T16:59:50.000Z",
+                "transcript": "transcripts/simple/43e886ad-7549-4f00-a6be-ddfbf40c2d50.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c0b412bb-7e4d-43d4-8de5-81fbde19ce55/EPISODE_IMAGE/1407415957000.png"
+            },
+            {
+                "id": "283335b3-3507-4365-bcc4-7e837c122f98",
+                "title": "Schweiz aktuell vom 05.08.2014",
+                "publishedDate": "2014-08-05T16:59:58.000Z",
+                "transcript": "transcripts/simple/283335b3-3507-4365-bcc4-7e837c122f98.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/aa319556-beef-45c5-a3fc-9681d60ba77c/EPISODE_IMAGE/1407264677000.png"
+            },
+            {
+                "id": "a79cd90c-a99f-4a19-8b2c-9cf1d6ba0348",
+                "title": "Schweiz aktuell vom 04.08.2014",
+                "publishedDate": "2014-08-04T17:00:10.000Z",
+                "transcript": "transcripts/simple/a79cd90c-a99f-4a19-8b2c-9cf1d6ba0348.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/affc5308-2f85-4725-90e3-cb847f725c06/EPISODE_IMAGE/1407175006000.png"
+            },
+            {
+                "id": "3c3df44f-a4d3-4e2a-8661-b7c830cd41ab",
+                "title": "Schweiz aktuell vom 01.08.2014",
+                "publishedDate": "2014-08-01T16:59:58.000Z",
+                "transcript": "transcripts/simple/3c3df44f-a4d3-4e2a-8661-b7c830cd41ab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/378f4b1c-e905-470c-8e1e-4282c5cb70ce/EPISODE_IMAGE/1406951340000.png"
+            },
+            {
+                "id": "eb86dd00-d337-420d-87e8-0942c1d8b6ae",
+                "title": "Schweiz aktuell vom 31.07.2014",
+                "publishedDate": "2014-07-31T16:59:46.000Z",
+                "transcript": "transcripts/simple/eb86dd00-d337-420d-87e8-0942c1d8b6ae.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b69691bd-3824-4278-926e-55fd27dbd55f/EPISODE_IMAGE/1406862245000.png"
+            },
+            {
+                "id": "ce2dcf47-a45e-4db7-b1ec-ab7e579c6377",
+                "title": "Schweiz aktuell vom 30.07.2014",
+                "publishedDate": "2014-07-30T16:59:56.000Z",
+                "transcript": "transcripts/simple/ce2dcf47-a45e-4db7-b1ec-ab7e579c6377.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0c253b6a-fa42-4596-934d-00a30ec42443/EPISODE_IMAGE/1406772570000.png"
+            },
+            {
+                "id": "05830339-86e9-4bb1-b4af-27ec028f6dc6",
+                "title": "Schweiz aktuell vom 29.07.2014",
+                "publishedDate": "2014-07-29T17:00:00.000Z",
+                "transcript": "transcripts/simple/05830339-86e9-4bb1-b4af-27ec028f6dc6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7341f20c-2924-4757-9faf-b108f66972b1/EPISODE_IMAGE/1406683073000.png"
+            },
+            {
+                "id": "2675b004-d922-480c-add4-061645c15897",
+                "title": "Schweiz aktuell vom 28.07.2014",
+                "publishedDate": "2014-07-28T16:59:59.000Z",
+                "transcript": "transcripts/simple/2675b004-d922-480c-add4-061645c15897.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b56afb5c-b896-4880-a28e-cae229f7ab92/EPISODE_IMAGE/1406594203000.png"
+            },
+            {
+                "id": "dc1d28c4-2d33-4c85-b8f6-3a339b381b54",
+                "title": "Schweiz aktuell vom 25.07.2014",
+                "publishedDate": "2014-07-25T16:59:49.000Z",
+                "transcript": "transcripts/simple/dc1d28c4-2d33-4c85-b8f6-3a339b381b54.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7b084805-226d-4ce2-b345-b9c0c1bb5793/EPISODE_IMAGE/1406326596000.png"
+            },
+            {
+                "id": "a59c7f82-6820-4e2d-9c1d-f0ad115354ff",
+                "title": "Schweiz aktuell vom 24.07.2014",
+                "publishedDate": "2014-07-24T17:00:28.000Z",
+                "transcript": "transcripts/simple/a59c7f82-6820-4e2d-9c1d-f0ad115354ff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3d34f40c-0bca-4d2c-9c0a-021b86ee7c53/EPISODE_IMAGE/1406536485000.png"
+            },
+            {
+                "id": "ce10bb9d-6fac-4249-9d7b-2d73d3d03bbb",
+                "title": "Schweiz aktuell vom 23.07.2014",
+                "publishedDate": "2014-07-23T16:59:59.000Z",
+                "transcript": "transcripts/simple/ce10bb9d-6fac-4249-9d7b-2d73d3d03bbb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2128e3be-47ef-4bdb-b520-801f4135a922/EPISODE_IMAGE/1406147299000.png"
+            },
+            {
+                "id": "e3e7630a-8791-43f1-8794-a01158650fc7",
+                "title": "Schweiz aktuell vom 22.07.2014",
+                "publishedDate": "2014-07-22T17:00:09.000Z",
+                "transcript": "transcripts/simple/e3e7630a-8791-43f1-8794-a01158650fc7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c2f39db8-210b-42a8-9d12-ffb84e194aba/EPISODE_IMAGE/1406058872000.png"
+            },
+            {
+                "id": "13a5fe53-1af3-432b-8eac-34fc6871b7a6",
+                "title": "Schweiz aktuell vom 21.07.2014",
+                "publishedDate": "2014-07-21T16:59:48.000Z",
+                "transcript": "transcripts/simple/13a5fe53-1af3-432b-8eac-34fc6871b7a6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0ae919dc-708d-4bff-816a-c71698d4071a/EPISODE_IMAGE/1405988697000.png"
+            },
+            {
+                "id": "6eae11d2-5321-4ad2-a1c7-acddcde05255",
+                "title": "Schweiz aktuell vom 18.07.2014",
+                "publishedDate": "2014-07-18T16:59:59.000Z",
+                "transcript": "transcripts/simple/6eae11d2-5321-4ad2-a1c7-acddcde05255.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1f3eb00f-042c-480b-8ddc-7f02ac1efdd5/EPISODE_IMAGE/1405728533000.png"
+            },
+            {
+                "id": "ea8de97d-396b-4db7-9515-10fb915a69c8",
+                "title": "Schweiz aktuell vom 17.07.2014",
+                "publishedDate": "2014-07-17T17:00:05.000Z",
+                "transcript": "transcripts/simple/ea8de97d-396b-4db7-9515-10fb915a69c8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a026efe7-c44b-490d-877a-9b469623a629/EPISODE_IMAGE/1405639108000.png"
+            },
+            {
+                "id": "1be81a67-019e-4f7a-bf35-3115be434253",
+                "title": "Schweiz aktuell vom 16.07.2014",
+                "publishedDate": "2014-07-16T16:59:00.000Z",
+                "transcript": "transcripts/simple/1be81a67-019e-4f7a-bf35-3115be434253.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/74022c14-c544-4120-b3ff-b254cbf85d83/EPISODE_IMAGE/1405688616000.png"
+            },
+            {
+                "id": "bacab0a0-7712-4443-80ae-2db5e849f96c",
+                "title": "Schweiz aktuell vom 15.07.2014",
+                "publishedDate": "2014-07-15T16:59:54.000Z",
+                "transcript": "transcripts/simple/bacab0a0-7712-4443-80ae-2db5e849f96c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2bc02e45-6ff7-4afe-8df7-f9bf30373bb2/EPISODE_IMAGE/1405458389000.png"
+            },
+            {
+                "id": "4314996a-1046-4588-aa84-301bd4393f04",
+                "title": "Schweiz aktuell vom 14.07.2014",
+                "publishedDate": "2014-07-14T17:00:04.000Z",
+                "transcript": "transcripts/simple/4314996a-1046-4588-aa84-301bd4393f04.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/394d9ac6-ca78-4389-8e0b-2512675c86b3/EPISODE_IMAGE/1405389203000.png"
+            },
+            {
+                "id": "877ab91a-4f47-4ef2-9b65-aa8ee0708fc4",
+                "title": "Schweiz aktuell vom 11.07.2014",
+                "publishedDate": "2014-07-11T16:59:26.000Z",
+                "transcript": "transcripts/simple/877ab91a-4f47-4ef2-9b65-aa8ee0708fc4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dc5eea27-0114-4879-8e47-5fbc49d528be/EPISODE_IMAGE/1405122283000.png"
+            },
+            {
+                "id": "1dbee34b-9249-48e3-a663-2b0c8941ad0f",
+                "title": "Schweiz aktuell vom 10.07.2014",
+                "publishedDate": "2014-07-10T17:00:27.000Z",
+                "transcript": "transcripts/simple/1dbee34b-9249-48e3-a663-2b0c8941ad0f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/301eff5c-c448-4561-928b-691174c5e6fb/EPISODE_IMAGE/1405032322000.png"
+            },
+            {
+                "id": "8907459d-3714-4689-a60a-9a5e3bc32c97",
+                "title": "Schweiz aktuell vom 09.07.2014",
+                "publishedDate": "2014-07-09T16:59:59.000Z",
+                "transcript": "transcripts/simple/8907459d-3714-4689-a60a-9a5e3bc32c97.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f331bef6-5a59-4e91-8e05-51a6aed51962/EPISODE_IMAGE/1404942867000.png"
+            },
+            {
+                "id": "be4df960-15ed-4d98-8751-9cf56416a74b",
+                "title": "Schweiz aktuell vom 08.07.2014",
+                "publishedDate": "2014-07-08T16:59:45.000Z",
+                "transcript": "transcripts/simple/be4df960-15ed-4d98-8751-9cf56416a74b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a9b0d323-2ed3-417e-85f4-58b59b856ee2/EPISODE_IMAGE/1404852977000.png"
+            },
+            {
+                "id": "ecc4911f-f211-4160-9e01-1329a0730c9d",
+                "title": "Schweiz aktuell vom 07.07.2014",
+                "publishedDate": "2014-07-07T16:59:48.000Z",
+                "transcript": "transcripts/simple/ecc4911f-f211-4160-9e01-1329a0730c9d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/38b03e42-1c9e-4d32-9ca8-dbe3f4b5ca7e/EPISODE_IMAGE/1404778616000.png"
+            },
+            {
+                "id": "ea1c375e-1ea5-454a-a089-e178cff7e578",
+                "title": "Schweiz aktuell vom 04.07.2014",
+                "publishedDate": "2014-07-04T16:59:55.000Z",
+                "transcript": "transcripts/simple/ea1c375e-1ea5-454a-a089-e178cff7e578.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a39e5df4-089d-43b5-ab49-7e75744b119c/EPISODE_IMAGE/1404512040000.png"
+            },
+            {
+                "id": "0199e101-021a-463c-a3f9-539cbfaa00d9",
+                "title": "Schweiz aktuell vom 03.07.2014",
+                "publishedDate": "2014-07-03T17:00:01.000Z",
+                "transcript": "transcripts/simple/0199e101-021a-463c-a3f9-539cbfaa00d9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4c57eb6b-4336-4362-b444-8f05ffcd0328/EPISODE_IMAGE/1404423172000.png"
+            },
+            {
+                "id": "a1edf78d-d86f-4318-af63-f7c9da40831f",
+                "title": "Schweiz aktuell vom 02.07.2014",
+                "publishedDate": "2014-07-02T17:00:07.000Z",
+                "transcript": "transcripts/simple/a1edf78d-d86f-4318-af63-f7c9da40831f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a495f482-47a2-498d-a1c2-64feb58c0f11/EPISODE_IMAGE/1404334196000.png"
+            },
+            {
+                "id": "835a52e1-2f77-417f-be27-fc0981dffda7",
+                "title": "Schweiz aktuell vom 01.07.2014",
+                "publishedDate": "2014-07-01T16:59:58.000Z",
+                "transcript": "transcripts/simple/835a52e1-2f77-417f-be27-fc0981dffda7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/62dcdebb-dcae-4a24-bde0-60a7f6333e59/EPISODE_IMAGE/1404244104000.png"
+            },
+            {
+                "id": "1a550bab-2810-4a2e-ada6-b67f23c16d8a",
+                "title": "Schweiz aktuell vom 27.06.2014",
+                "publishedDate": "2014-06-27T17:00:19.000Z",
+                "transcript": "transcripts/simple/1a550bab-2810-4a2e-ada6-b67f23c16d8a.tsv"
+            },
+            {
+                "id": "677713c8-5e14-4313-8a9a-3b9ba43d9065",
+                "title": "Schweiz aktuell vom 26.06.2014",
+                "publishedDate": "2014-06-26T16:59:48.000Z",
+                "transcript": "transcripts/simple/677713c8-5e14-4313-8a9a-3b9ba43d9065.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5a8e9eb5-2765-46ce-8fed-09d0741f3fb2/EPISODE_IMAGE/1403808082000.png"
+            },
+            {
+                "id": "82ce6db7-1940-4eaa-a34e-1e9720c7a825",
+                "title": "Schweiz aktuell vom 25.06.2014",
+                "publishedDate": "2014-06-25T17:00:02.000Z",
+                "transcript": "transcripts/simple/82ce6db7-1940-4eaa-a34e-1e9720c7a825.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7f4a7a2a-4048-40da-8d92-78d194aa1185/EPISODE_IMAGE/1403773792000.png"
+            },
+            {
+                "id": "c99950c8-13eb-43bc-b3c3-fa171c9574c3",
+                "title": "Schweiz aktuell vom 24.06.2014",
+                "publishedDate": "2014-06-24T16:59:59.000Z",
+                "transcript": "transcripts/simple/c99950c8-13eb-43bc-b3c3-fa171c9574c3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dded2b57-44a0-4496-ad71-ff5fb23d945c/EPISODE_IMAGE/1403631773000.png"
+            },
+            {
+                "id": "b186f1dd-ade8-45c2-88dd-3b640c4c3ebf",
+                "title": "Schweiz aktuell vom 23.06.2014",
+                "publishedDate": "2014-06-23T16:59:59.000Z",
+                "transcript": "transcripts/simple/b186f1dd-ade8-45c2-88dd-3b640c4c3ebf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c8b80ed2-bc66-474d-8d4a-8b4df78f16de/EPISODE_IMAGE/1403584265000.png"
+            },
+            {
+                "id": "953b9540-a381-4863-a08a-c624d440fdca",
+                "title": "Schweiz aktuell vom 20.06.2014",
+                "publishedDate": "2014-06-20T16:59:52.000Z",
+                "transcript": "transcripts/simple/953b9540-a381-4863-a08a-c624d440fdca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5729f59a-d2fd-4f6b-a6d6-9d172b5e8b9b/EPISODE_IMAGE/1403316454000.png"
+            },
+            {
+                "id": "a98a4fa8-4b4b-456d-a34c-80178c84016e",
+                "title": "Schweiz aktuell vom 19.06.2014",
+                "publishedDate": "2014-06-19T17:00:17.000Z",
+                "transcript": "transcripts/simple/a98a4fa8-4b4b-456d-a34c-80178c84016e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7c0318b2-184c-443e-899e-6557e63389a3/EPISODE_IMAGE/1403226589000.png"
+            },
+            {
+                "id": "46c0ec13-2378-4083-b029-eb1c378cf4da",
+                "title": "Schweiz aktuell vom 18.06.2014",
+                "publishedDate": "2014-06-18T16:59:59.000Z",
+                "transcript": "transcripts/simple/46c0ec13-2378-4083-b029-eb1c378cf4da.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f9747dc4-1254-4491-b512-236d0bfb2e28/EPISODE_IMAGE/1403137255000.png"
+            },
+            {
+                "id": "3569b5d1-2d98-4c5a-8f8d-2f928245a6c2",
+                "title": "Schweiz aktuell vom 17.06.2014",
+                "publishedDate": "2014-06-17T17:00:11.000Z",
+                "transcript": "transcripts/simple/3569b5d1-2d98-4c5a-8f8d-2f928245a6c2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/781944e0-8ad3-450b-8430-52442c2a4aac/EPISODE_IMAGE/1403047779000.png"
+            },
+            {
+                "id": "6d0e798c-8011-45a9-8e8d-641041e32535",
+                "title": "Schweiz aktuell vom 16.06.2014",
+                "publishedDate": "2014-06-16T17:00:41.000Z",
+                "transcript": "transcripts/simple/6d0e798c-8011-45a9-8e8d-641041e32535.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b97ef4a8-8193-4777-b9f1-d347dcf6af75/EPISODE_IMAGE/1402957883000.png"
+            },
+            {
+                "id": "a99a3ad6-5296-40a6-af4a-8b11a9e85303",
+                "title": "Schweiz aktuell vom 13.06.2014",
+                "publishedDate": "2014-06-13T17:00:25.000Z",
+                "transcript": "transcripts/simple/a99a3ad6-5296-40a6-af4a-8b11a9e85303.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e0dac664-cef4-48ab-9423-bfb53154c768/EPISODE_IMAGE/1402690204000.png"
+            },
+            {
+                "id": "b2272f81-2e1f-4baf-a384-7c2396e77228",
+                "title": "Schweiz aktuell vom 12.06.2014",
+                "publishedDate": "2014-06-12T17:00:15.000Z",
+                "transcript": "transcripts/simple/b2272f81-2e1f-4baf-a384-7c2396e77228.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1972e1f5-c16c-4af0-9024-2f8841237904/EPISODE_IMAGE/1402601041000.png"
+            },
+            {
+                "id": "410fbe24-f516-484a-9022-f674bdacffcc",
+                "title": "Schweiz aktuell vom 11.06.2014",
+                "publishedDate": "2014-06-11T17:00:12.000Z",
+                "transcript": "transcripts/simple/410fbe24-f516-484a-9022-f674bdacffcc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5ff8d03a-6d5f-4a68-ba11-f27280aaf87a/EPISODE_IMAGE/1402511646000.png"
+            },
+            {
+                "id": "47624af3-e4ed-4c38-bce9-511ae1237953",
+                "title": "Schweiz aktuell vom 10.06.2014",
+                "publishedDate": "2014-06-10T17:00:39.000Z",
+                "transcript": "transcripts/simple/47624af3-e4ed-4c38-bce9-511ae1237953.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0c9257de-d80d-46a1-9435-788d8b2b214a/EPISODE_IMAGE/1402422689000.png"
+            },
+            {
+                "id": "5c28b859-5d8e-42c5-8420-8424360f96e4",
+                "title": "Schweiz aktuell vom 06.06.2014",
+                "publishedDate": "2014-06-06T16:59:53.000Z",
+                "transcript": "transcripts/simple/5c28b859-5d8e-42c5-8420-8424360f96e4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2dcf03c7-982e-4d47-af4e-4ee86af714b9/EPISODE_IMAGE/1402111610000.png"
+            },
+            {
+                "id": "366e7a86-a797-4a33-b887-a37ff895f710",
+                "title": "Schweiz aktuell vom 05.06.2014",
+                "publishedDate": "2014-06-05T17:00:10.000Z",
+                "transcript": "transcripts/simple/366e7a86-a797-4a33-b887-a37ff895f710.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b773ae3b-db83-4f3e-b774-1a057f8c87d3/EPISODE_IMAGE/1402022326000.png"
+            },
+            {
+                "id": "437e62b6-0845-405c-ac37-96b205c8a892",
+                "title": "Schweiz aktuell vom 04.06.2014",
+                "publishedDate": "2014-06-04T17:00:05.000Z",
+                "transcript": "transcripts/simple/437e62b6-0845-405c-ac37-96b205c8a892.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cfefa2f9-91fa-4706-b1bb-7df7ff1bea88/EPISODE_IMAGE/1401932456000.png"
+            },
+            {
+                "id": "a29aed11-689d-45ea-aa43-9ea0eafe3483",
+                "title": "Schweiz aktuell vom 03.06.2014",
+                "publishedDate": "2014-06-03T16:59:34.000Z",
+                "transcript": "transcripts/simple/a29aed11-689d-45ea-aa43-9ea0eafe3483.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4363a800-ed5e-4898-af0b-c7b2084f2ae2/EPISODE_IMAGE/1401852424000.png"
+            },
+            {
+                "id": "e008c0b8-b621-4db7-ae7e-4be99828cf72",
+                "title": "Schweiz aktuell vom 02.06.2014",
+                "publishedDate": "2014-06-02T17:00:11.000Z",
+                "transcript": "transcripts/simple/e008c0b8-b621-4db7-ae7e-4be99828cf72.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b8a41bbb-b38d-4b30-911b-d2c777eef56c/EPISODE_IMAGE/1401763371000.png"
+            },
+            {
+                "id": "bd97b3f5-144a-48ff-bc3c-c5e5b580a3dd",
+                "title": "Schweiz aktuell vom 30.05.2014",
+                "publishedDate": "2014-05-30T16:59:54.000Z",
+                "transcript": "transcripts/simple/bd97b3f5-144a-48ff-bc3c-c5e5b580a3dd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52fd82e0-c62d-4444-b97a-39c9a52af252/EPISODE_IMAGE/1401496410000.png"
+            },
+            {
+                "id": "c6c04392-e546-42b0-ae67-8b5f03cbdc41",
+                "title": "Schweiz aktuell vom 29.05.2014",
+                "publishedDate": "2014-05-29T17:00:01.000Z",
+                "transcript": "transcripts/simple/c6c04392-e546-42b0-ae67-8b5f03cbdc41.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a8a398c4-2816-43e0-8b1a-9519cc635fe0/EPISODE_IMAGE/1401407635000.png"
+            },
+            {
+                "id": "140cddca-8d8a-40bd-9de6-b6e57ba6a964",
+                "title": "Schweiz aktuell vom 28.05.2014",
+                "publishedDate": "2014-05-28T17:00:10.000Z",
+                "transcript": "transcripts/simple/140cddca-8d8a-40bd-9de6-b6e57ba6a964.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1696bc0c-27aa-4ac3-b4ab-8e355d74b9f2/EPISODE_IMAGE/1401318052000.png"
+            },
+            {
+                "id": "34474b3d-c2b6-47ec-a74d-53b0ca7bcc47",
+                "title": "Schweiz aktuell vom 27.05.2014",
+                "publishedDate": "2014-05-27T16:59:49.000Z",
+                "transcript": "transcripts/simple/34474b3d-c2b6-47ec-a74d-53b0ca7bcc47.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fc7b085e-84a9-49a9-ab13-35c77dfdd02f/EPISODE_IMAGE/1401228164000.png"
+            },
+            {
+                "id": "c8bfe8b0-eba3-4a63-b6bf-8df2696d6f96",
+                "title": "Schweiz aktuell vom 26.05.2014",
+                "publishedDate": "2014-05-26T16:59:59.000Z",
+                "transcript": "transcripts/simple/c8bfe8b0-eba3-4a63-b6bf-8df2696d6f96.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3cf272de-38f0-4f66-adc1-8e7ada759437/EPISODE_IMAGE/1401164556000.png"
+            },
+            {
+                "id": "b79e8555-f042-47a4-82a3-d315147416fe",
+                "title": "Schweiz aktuell vom 23.05.2014",
+                "publishedDate": "2014-05-23T16:59:47.000Z",
+                "transcript": "transcripts/simple/b79e8555-f042-47a4-82a3-d315147416fe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/db891a08-da01-496b-8e68-ff9ecc3ffda0/EPISODE_IMAGE/1400897821000.png"
+            },
+            {
+                "id": "b7dc99c2-003e-490f-9022-f3bc0b628a02",
+                "title": "Schweiz aktuell vom 22.05.2014",
+                "publishedDate": "2014-05-22T17:00:19.000Z",
+                "transcript": "transcripts/simple/b7dc99c2-003e-490f-9022-f3bc0b628a02.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4d80e291-9909-4981-85a5-0eb9cac864cf/EPISODE_IMAGE/1400808782000.png"
+            },
+            {
+                "id": "44b65acb-8e1a-4b7f-a5c4-54023d29ebc7",
+                "title": "Schweiz aktuell vom 21.05.2014",
+                "publishedDate": "2014-05-21T17:00:08.000Z",
+                "transcript": "transcripts/simple/44b65acb-8e1a-4b7f-a5c4-54023d29ebc7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/85e7a34a-6d33-48ce-91f7-6842e876c3e6/EPISODE_IMAGE/1400697871000.png"
+            },
+            {
+                "id": "a7d72edc-caed-4c15-b42e-c9b66dc47ed9",
+                "title": "Schweiz aktuell vom 20.05.2014",
+                "publishedDate": "2014-05-20T16:59:59.000Z",
+                "transcript": "transcripts/simple/a7d72edc-caed-4c15-b42e-c9b66dc47ed9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0861a18a-1dab-4e33-b36f-65d1314a9768/EPISODE_IMAGE/1400608549000.png"
+            },
+            {
+                "id": "087247df-8524-4d9e-8d63-a32920273e71",
+                "title": "Schweiz aktuell vom 19.05.2014",
+                "publishedDate": "2014-05-19T17:00:09.000Z",
+                "transcript": "transcripts/simple/087247df-8524-4d9e-8d63-a32920273e71.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3ffb59b9-77e7-4e51-a3bf-a9bfdc8401aa/EPISODE_IMAGE/1400563990000.png"
+            },
+            {
+                "id": "2bd28ba6-bed5-4ebb-8584-84f0a67cdc12",
+                "title": "Schweiz aktuell vom 16.05.2014",
+                "publishedDate": "2014-05-16T16:59:54.000Z",
+                "transcript": "transcripts/simple/2bd28ba6-bed5-4ebb-8584-84f0a67cdc12.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/580027a0-5882-4c5a-b0a5-916f1c3651fd/EPISODE_IMAGE/1400296067000.png"
+            },
+            {
+                "id": "c5d9a108-1fc7-41e5-8c80-d41defc1fd80",
+                "title": "Schweiz aktuell vom 15.05.2014",
+                "publishedDate": "2014-05-15T17:00:14.000Z",
+                "transcript": "transcripts/simple/c5d9a108-1fc7-41e5-8c80-d41defc1fd80.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/505fbe9d-52fc-4965-85ce-05c1ff0166e6/EPISODE_IMAGE/1400207069000.png"
+            },
+            {
+                "id": "de58f8ff-dab3-4dbc-bcde-472757859ceb",
+                "title": "Schweiz aktuell vom 14.05.2014",
+                "publishedDate": "2014-05-14T16:59:59.000Z",
+                "transcript": "transcripts/simple/de58f8ff-dab3-4dbc-bcde-472757859ceb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fb05922d-d570-4857-87a3-1eb09de406d1/EPISODE_IMAGE/1400118167000.png"
+            },
+            {
+                "id": "583f560f-57c4-468d-8833-f5ae92443b2a",
+                "title": "Schweiz aktuell vom 13.05.2014",
+                "publishedDate": "2014-05-13T17:00:08.000Z",
+                "transcript": "transcripts/simple/583f560f-57c4-468d-8833-f5ae92443b2a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c30ce864-ab12-410b-80da-e8c6ee5544e1/EPISODE_IMAGE/1400029319000.png"
+            },
+            {
+                "id": "d1f2d85b-ef69-4b2d-b9de-37eba3b418db",
+                "title": "Schweiz aktuell vom 12.05.2014",
+                "publishedDate": "2014-05-12T16:59:45.000Z",
+                "transcript": "transcripts/simple/d1f2d85b-ef69-4b2d-b9de-37eba3b418db.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9b46821d-b543-44c9-bae0-65c08af33ec4/EPISODE_IMAGE/1399940810000.png"
+            },
+            {
+                "id": "ce69a51f-daa6-4fcd-93ea-bb2d88c4c530",
+                "title": "Schweiz aktuell vom 09.05.2014",
+                "publishedDate": "2014-05-09T17:00:12.000Z",
+                "transcript": "transcripts/simple/ce69a51f-daa6-4fcd-93ea-bb2d88c4c530.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/aa87b29d-b67c-4686-b4ec-7e0d2bde14c3/EPISODE_IMAGE/1399673688000.png"
+            },
+            {
+                "id": "dbbe304b-cd99-4a53-9878-98218b8df157",
+                "title": "Schweiz aktuell vom 08.05.2014",
+                "publishedDate": "2014-05-08T16:59:45.000Z",
+                "transcript": "transcripts/simple/dbbe304b-cd99-4a53-9878-98218b8df157.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5d133550-4173-4626-b30e-88622f005ef7/EPISODE_IMAGE/1399584447000.png"
+            },
+            {
+                "id": "8ba20e33-0663-4dcc-b382-dbfeae83570d",
+                "title": "Schweiz aktuell vom 07.05.2014",
+                "publishedDate": "2014-05-07T17:00:04.000Z",
+                "transcript": "transcripts/simple/8ba20e33-0663-4dcc-b382-dbfeae83570d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/84682ce3-beb1-4464-be3a-c3be4aeb691c/EPISODE_IMAGE/1399495417000.png"
+            },
+            {
+                "id": "ec9b6156-9bbf-477f-bc64-821d67630878",
+                "title": "Schweiz aktuell vom 06.05.2014",
+                "publishedDate": "2014-05-06T16:59:48.000Z",
+                "transcript": "transcripts/simple/ec9b6156-9bbf-477f-bc64-821d67630878.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5facffae-e773-4375-9b70-eecccc2be07a/EPISODE_IMAGE/1399406097000.png"
+            },
+            {
+                "id": "5ff6effc-f4d8-40bd-a875-e83779ccd29f",
+                "title": "Schweiz aktuell vom 05.05.2014",
+                "publishedDate": "2014-05-05T16:59:59.000Z",
+                "transcript": "transcripts/simple/5ff6effc-f4d8-40bd-a875-e83779ccd29f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3345bc70-9c4d-4949-8241-81cc38348c2e/EPISODE_IMAGE/1399355989000.png"
+            },
+            {
+                "id": "d74bd215-42b6-4f19-badb-e1f8c7bec735",
+                "title": "Schweiz aktuell vom 02.05.2014",
+                "publishedDate": "2014-05-02T17:00:00.000Z",
+                "transcript": "transcripts/simple/d74bd215-42b6-4f19-badb-e1f8c7bec735.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0dbb8386-e6b6-40b2-bd45-06273b9d2950/EPISODE_IMAGE/1399090145000.png"
+            },
+            {
+                "id": "c0593f26-a907-4681-acd1-90231a0f422d",
+                "title": "Schweiz aktuell vom 30.04.2014",
+                "publishedDate": "2014-04-30T17:00:14.000Z",
+                "transcript": "transcripts/simple/c0593f26-a907-4681-acd1-90231a0f422d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/43cce145-37f2-4025-9b11-22191c0d93a8/EPISODE_IMAGE/1398912409000.png"
+            },
+            {
+                "id": "b4f0ff1f-44cd-4e27-97eb-c86c544f06e0",
+                "title": "Schweiz aktuell vom 29.04.2014",
+                "publishedDate": "2014-04-29T16:59:49.000Z",
+                "transcript": "transcripts/simple/b4f0ff1f-44cd-4e27-97eb-c86c544f06e0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7a7a050a-647b-46b3-aab2-c7ac2fc25e8c/EPISODE_IMAGE/1398823496000.png"
+            },
+            {
+                "id": "48ee1d73-eaa0-423c-a1f0-b56314d45f53",
+                "title": "Schweiz aktuell vom 25.04.2014",
+                "publishedDate": "2014-04-25T16:59:57.000Z",
+                "transcript": "transcripts/simple/48ee1d73-eaa0-423c-a1f0-b56314d45f53.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3b2704fa-a663-449e-8dc9-6f3a6711aa4b/EPISODE_IMAGE/1398467554000.png"
+            },
+            {
+                "id": "62f83198-ca3a-4aca-a6a5-628ff8beff76",
+                "title": "Schweiz aktuell vom 24.04.2014",
+                "publishedDate": "2014-04-24T16:59:57.000Z",
+                "transcript": "transcripts/simple/62f83198-ca3a-4aca-a6a5-628ff8beff76.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/51a5c684-9f19-4ab9-89b4-5188e551b101/EPISODE_IMAGE/1398378722000.png"
+            },
+            {
+                "id": "7299177b-66bf-4465-8ff7-be6f6501712d",
+                "title": "Schweiz aktuell vom 23.04.2014",
+                "publishedDate": "2014-04-23T16:59:56.000Z",
+                "transcript": "transcripts/simple/7299177b-66bf-4465-8ff7-be6f6501712d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b2c0ec4c-16d5-4e22-bfcb-11b3d90fcfb5/EPISODE_IMAGE/1398288853000.png"
+            },
+            {
+                "id": "847045bc-476a-431c-8280-7fd09ce1d2a0",
+                "title": "Schweiz aktuell vom 22.04.2014",
+                "publishedDate": "2014-04-22T17:00:04.000Z",
+                "transcript": "transcripts/simple/847045bc-476a-431c-8280-7fd09ce1d2a0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3a48af87-96eb-4dae-8d0e-dc8ede21120d/EPISODE_IMAGE/1398199352000.png"
+            },
+            {
+                "id": "39d111d7-a9db-47af-8ac1-52757fdb3dbf",
+                "title": "Schweiz aktuell vom 17.04.2014",
+                "publishedDate": "2014-04-17T16:59:59.000Z",
+                "transcript": "transcripts/simple/39d111d7-a9db-47af-8ac1-52757fdb3dbf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8a14c4c2-1241-4cfb-8f5a-48a2ec684f63/EPISODE_IMAGE/1397783828000.png"
+            },
+            {
+                "id": "cd4a1631-91ff-4714-8c18-58bcfff341df",
+                "title": "Schweiz aktuell vom 16.04.2014",
+                "publishedDate": "2014-04-16T17:00:09.000Z",
+                "transcript": "transcripts/simple/cd4a1631-91ff-4714-8c18-58bcfff341df.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/64bd64e6-f67a-4291-8002-cd0115dc256e/EPISODE_IMAGE/1397695124000.png"
+            },
+            {
+                "id": "a2a34880-30fa-4c0a-8579-095d2456ab76",
+                "title": "Schweiz aktuell vom 15.04.2014",
+                "publishedDate": "2014-04-15T16:59:59.000Z",
+                "transcript": "transcripts/simple/a2a34880-30fa-4c0a-8579-095d2456ab76.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/56dd6f3b-9cb8-4708-a20c-cb5570c63a5e/EPISODE_IMAGE/1397605045000.png"
+            },
+            {
+                "id": "d4a6466c-cbfc-45ad-ad2c-f02430baff61",
+                "title": "Schweiz aktuell vom 14.04.2014",
+                "publishedDate": "2014-04-14T17:00:00.000Z",
+                "transcript": "transcripts/simple/d4a6466c-cbfc-45ad-ad2c-f02430baff61.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/480c2c4a-46f7-4bd9-a899-a0411f8b24a9/EPISODE_IMAGE/1397516052000.png"
+            },
+            {
+                "id": "1cee3582-5837-48b1-afb1-f06c98f6f1ca",
+                "title": "Schweiz aktuell vom 11.04.2014",
+                "publishedDate": "2014-04-11T17:00:11.000Z",
+                "transcript": "transcripts/simple/1cee3582-5837-48b1-afb1-f06c98f6f1ca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9fa62c0d-b6f1-4625-89ce-f84c9017863a/EPISODE_IMAGE/1397249393000.png"
+            },
+            {
+                "id": "fbef5c08-0ed6-4743-899d-3b0ebf59d09b",
+                "title": "Schweiz aktuell vom 10.04.2014",
+                "publishedDate": "2014-04-10T17:00:00.000Z",
+                "transcript": "transcripts/simple/fbef5c08-0ed6-4743-899d-3b0ebf59d09b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b49da059-18f7-40d1-a1b2-74429db42188/EPISODE_IMAGE/1397160285000.png"
+            },
+            {
+                "id": "00a06292-c5da-410f-85ee-56f63ae1a04c",
+                "title": "Schweiz aktuell vom 09.04.2014",
+                "publishedDate": "2014-04-09T17:00:00.000Z",
+                "transcript": "transcripts/simple/00a06292-c5da-410f-85ee-56f63ae1a04c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/001d7ac4-1aed-468c-9d32-0b3ddf364fa8/EPISODE_IMAGE/1397068608000.png"
+            },
+            {
+                "id": "a90d6b76-13ef-4285-a8f7-183f6af56077",
+                "title": "Schweiz aktuell vom 08.04.2014",
+                "publishedDate": "2014-04-08T16:59:48.000Z",
+                "transcript": "transcripts/simple/a90d6b76-13ef-4285-a8f7-183f6af56077.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e3768961-0dc1-491f-b464-7e215d5eb155/EPISODE_IMAGE/1397023126000.png"
+            },
+            {
+                "id": "d3a36a60-c78d-4412-9f97-54aa8d8ce7d9",
+                "title": "Schweiz aktuell vom 07.04.2014",
+                "publishedDate": "2014-04-07T16:59:44.000Z",
+                "transcript": "transcripts/simple/d3a36a60-c78d-4412-9f97-54aa8d8ce7d9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c69e5a79-674d-400d-b400-8a644b38d6ea/EPISODE_IMAGE/1396933607000.png"
+            },
+            {
+                "id": "97b50a86-eb65-441c-a759-ed64d7e3fa47",
+                "title": "Schweiz aktuell vom 04.04.2014",
+                "publishedDate": "2014-04-04T16:59:54.000Z",
+                "transcript": "transcripts/simple/97b50a86-eb65-441c-a759-ed64d7e3fa47.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5c6726f1-5ed3-42df-b9fc-2b9632599393/EPISODE_IMAGE/1396665415000.png"
+            },
+            {
+                "id": "184420db-ee44-4f45-9dd7-2717ad467377",
+                "title": "Schweiz aktuell vom 03.04.2014",
+                "publishedDate": "2014-04-03T16:59:59.000Z",
+                "transcript": "transcripts/simple/184420db-ee44-4f45-9dd7-2717ad467377.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/409b6f87-4900-4ff1-9de0-5c662c2666af/EPISODE_IMAGE/1396576403000.png"
+            },
+            {
+                "id": "6a259c63-6331-461d-b5f3-2967924fd547",
+                "title": "Schweiz aktuell vom 02.04.2014",
+                "publishedDate": "2014-04-02T16:59:45.000Z",
+                "transcript": "transcripts/simple/6a259c63-6331-461d-b5f3-2967924fd547.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b0d89832-a54f-4ea5-acd1-8e0507134022/EPISODE_IMAGE/1396486555000.png"
+            },
+            {
+                "id": "0f3ffade-a82f-40b2-9fbd-3ba02d40215e",
+                "title": "Schweiz aktuell vom 01.04.2014",
+                "publishedDate": "2014-04-01T17:00:22.000Z",
+                "transcript": "transcripts/simple/0f3ffade-a82f-40b2-9fbd-3ba02d40215e.tsv"
+            }
+        ]
     }
 ]

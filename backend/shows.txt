@@ -1,0 +1,23 @@
+shows
+Abstimmungen c5e431c3-ab90-0001-3228-16001350159c
+Aeschbacher 0a7932df-dea7-4d8a-bd35-bba2fe2798b5
+Arena 09784065-687b-4b60-bd23-9ed0d2d43cdc
+Classe Politique 8d2bbf21-6bd4-4115-98fa-7c4e178cf195
+Club 0f532a74-d501-4470-be25-527a4fbb82fa
+ECO 7dd60977-fc2e-4b40-a533-eb9536cea736
+Einstein f005a0da-25ea-43a5-b3f8-4c5c23b190b3
+Giacobbo / Müller 53293a8d-dd13-4968-95fd-24a490bfb6b8
+Rundschau 49863a84-1ab7-4abb-8e69-d8e8bda6c989
+Schweiz aktuell cb28dd84-f0c8-4024-8f20-1a29f5a4ceb7
+
+
+
+no trans
+Tagesschau am Mittag 79711131-5a04-4238-804e-de46850b67de no
+Schawinski c4ce16da-3680-0001-3f54-bd601770c830 no
+Kulturplatz d70e9bb9-0cee-46b6-8d87-7cbd8317a9c7 no
+Handelszeitung Standpunkte 63a26f3a-9801-4a10-80c1-5ea49ba0572b no
+baz Standpunkte e2c72a57-50ad-461d-9c89-171e7b2651c1 no
+BILANZ Standpunkte c5890634-1340-0001-86e3-1cfb117b4bd0 no
+NZZ Standpunkte 80d0894d-b845-4339-b714-b223ffabd4eb no
+

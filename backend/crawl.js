@@ -28,19 +28,29 @@ function get(options) {
     return deferred.promise;
 }
 
-// detail of show
-// "http://il.srf.ch/integrationlayer/1.0/ue/srf/assetGroup/detail/c38cc259-b5cd-4ac1-b901-e3fddd901a3d.json";
-
-// list episodes
-// "http://il.srf.ch/integrationlayer/1.0/ue/srf/assetSet/listByAssetGroup/c38cc259-b5cd-4ac1-b901-e3fddd901a3d.json";
+exports.addShow = function(id) {
+    var exits = _.find(shows.srf, function(show) { return show.id === id; });
+    if(exits) {
+        console.log('already know about', exits.title);
+        return Q(0);
+    }
+    return get({
+        url: "http://il.srf.ch/integrationlayer/1.0/ue/srf/assetGroup/detail/"+id+".json",
+        json: true
+    }).then(function(data) {
+        shows.srf.push(data.Show);
+        fs.writeFileSync('shows.json', JSON.stringify(shows, null, 4), 'utf8');
+    });
+};
 
 var shows = require('./shows.json');
 var transcripts = fs.readdirSync('transcripts/raw');
+var transcriptsIntroDate = new Date(2014, 3, 1);
 
 function fetchAssetSet(show, page) {
     var deferred = Q.defer();
 
-    console.log('fetch', show.title, page);
+    console.log('queue', show.title, page);
     page = page || 1;
     // pageSize - max 100, pageNumber, maxPublishedDate
     get({
@@ -58,7 +68,10 @@ function fetchAssetSet(show, page) {
             'total', data.AssetSets['@total']
         );
 
-        if(page < data.AssetSets['@maxPageNumber'] && show.AssetSet.length < data.AssetSets['@total']) {
+        var lastDate = new Date(_.last(data.AssetSets.AssetSet).publishedDate);
+
+
+        if(page < data.AssetSets['@maxPageNumber'] && show.AssetSet.length < data.AssetSets['@total'] && lastDate > transcriptsIntroDate) {
             fetchAssetSet(show, page + 1).then(function() {
                 deferred.resolve();
             });
@@ -74,10 +87,9 @@ function fetchAssetSet(show, page) {
 exports.fetchShows = function() {
     return Q.allSettled(shows.srf.map(function(show) {
         if(!show.AssetSet) {
-            // need better logic later
-            // now just crawl shows without assets
             show.AssetSet = [];
         }
+        // need better logic later, maybe
         if(show.AssetSet.length < 1000) {
             return fetchAssetSet(show);
         }
@@ -108,6 +120,9 @@ function fetchTranscripts() {
             var mainVideo = getMainVideo(episode);
             if(mainVideo) {
                 if(transcripts.indexOf(episode.id+".ttml") !== -1) {
+                    return;
+                }
+                if(new Date(episode.publishedDate) < transcriptsIntroDate) {
                     return;
                 }
                 queue.push(
@@ -148,7 +163,7 @@ function parseTranscript(file) {
                 text: texts.join(' ')
             });
         });
-        fs.writeFileSync('transcripts/tsv/'+file.replace('.ttml', '.tsv'), d3.tsv.format(paragraphs), 'utf8');
+        fs.writeFileSync('transcripts/simple/'+file.replace('.ttml', '.tsv'), d3.tsv.format(paragraphs), 'utf8');
         return deferred.resolve();
     });
     return deferred.promise;
@@ -200,3 +215,33 @@ exports.parseShows = function() {
     });
     fs.writeFileSync('showsWithTranscripts.json', JSON.stringify(showsWithTranscripts, null, 4), 'utf8');
 };
+
+
+function showStats() {
+    shows.srf.forEach(function(rawShow) {
+        var episodes = (rawShow.AssetSet || []);
+        episodes.forEach(function(rawShow) {
+            rawShow.publishedDateParsed = new Date(rawShow.publishedDate);
+        });
+        var withTranscripts = episodes.filter(function(episode) {
+            return transcripts.indexOf(episode.id+".ttml") !== -1;
+        });
+
+        var afterIntro = episodes.filter(function(episode) {
+            return episode.publishedDateParsed > transcriptsIntroDate;
+        });
+        var afterIntroWithTranscripts = episodes.filter(function(episode) {
+            return episode.publishedDateParsed > transcriptsIntroDate && transcripts.indexOf(episode.id+".ttml") !== -1;
+        });
+
+        console.log('intro date', transcriptsIntroDate);
+        console.log({
+            title: rawShow.title,
+            count: episodes.length,
+            transcripts: withTranscripts.length,
+            afterIntro: afterIntro.length,
+            afterIntroWithTranscripts: afterIntroWithTranscripts.length
+        });
+    });
+}
+exports.showStats = showStats;

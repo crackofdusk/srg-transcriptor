@@ -26,4 +26,15 @@ module.exports = function(grunt) {
     srf.parseShows();
   });
 
+  grunt.registerTask('add:show', 'Add show by --id=x, see http://www.srf.ch/player/tv/sendungen', function() {
+    var done = this.async();
+    srf.addShow(grunt.option('id')).then(function() {
+      done();
+    });
+  });
+
+  grunt.registerTask('stats', 'Add show by --id=x, see http://www.srf.ch/player/tv/sendungen', function() {
+    srf.showStats();
+  });
+
 };
