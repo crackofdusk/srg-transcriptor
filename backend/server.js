@@ -39,6 +39,9 @@ app.get('/search', function(req, res) {
             clonedShow.episodes = clonedShow.episodes.filter(function(clonedEpisode) {
                 return clonedEpisode.matches;
             });
+            clonedShow.episodes = _.sortBy(clonedShow.episodes, function(episode) {
+                return episode.matches;
+            }).reverse();
         }
         clonedShow.total = show.episodes.length;
         clonedShow.matches = d3.sum(clonedShow.episodes, function(d) {
