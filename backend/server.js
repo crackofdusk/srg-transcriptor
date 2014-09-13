@@ -67,7 +67,6 @@ app.get('/transcripts/simple/:file', function(req, res) {
     }
     res.sendFile(__dirname + '/transcripts/simple/' + file[0]);
 });
-app.use(express.static('transcripts/simple', {
-    maxAge: oneDay
-}));
+app.use(express.static(__dirname + '/angular/dist'));
+
 app.listen(process.env.PORT || 3000);
