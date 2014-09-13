@@ -2,10 +2,12 @@
 
 var React = require('react');
 
-module.exports = React.createClass({
+var VideoTranscript = React.createClass({
   render: function() {
     return (
       <p>transcript goes here</p>
     );
   }
 });
+
+module.exports = VideoTranscript;

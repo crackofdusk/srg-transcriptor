@@ -8,3 +8,5 @@ React.renderComponent(
   <VideoLibrary />,
   document.getElementById('content')
 );
+
+window.React = React;

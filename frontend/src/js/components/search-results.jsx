@@ -4,7 +4,7 @@
 var React = require('react');
 var SearchResult = require('./search-result');
 
-module.exports = React.createClass({
+var SearchResults = React.createClass({
   render: function() {
     var results = [];
 
@@ -15,3 +15,5 @@ module.exports = React.createClass({
     );
   }
 });
+
+module.exports = SearchResults;

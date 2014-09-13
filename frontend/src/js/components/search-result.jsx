@@ -2,7 +2,7 @@
 
 var React = require('react');
 
-module.exports = React.createClass({
+var SearchResult = React.createClass({
   render: function() {
     var imageSource = "";
     var title = "Title";
@@ -17,3 +17,5 @@ module.exports = React.createClass({
     );
   }
 });
+
+module.exports = SearchResult;

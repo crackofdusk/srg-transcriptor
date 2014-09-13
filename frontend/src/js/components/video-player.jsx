@@ -2,10 +2,12 @@
 
 var React = require('react');
 
-module.exports = React.createClass({
+var VideoPlayer = React.createClass({
   render: function() {
     return (
       <p>player goes here</p>
     )
   }
 });
+
+module.exports = VideoPlayer;

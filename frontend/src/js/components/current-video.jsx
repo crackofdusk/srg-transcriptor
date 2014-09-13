@@ -5,7 +5,7 @@ var React = require('react');
 var VideoPlayer = require('./video-player');
 var VideoTranscript = require('./video-transcript');
 
-module.exports = React.createClass({
+var CurrentVideo = React.createClass({
   render: function() {
     return (
       <div>
@@ -15,3 +15,5 @@ module.exports = React.createClass({
     )
   }
 });
+
+module.exports = CurrentVideo;

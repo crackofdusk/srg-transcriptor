@@ -6,7 +6,7 @@ var SearchBar = require('./search-bar');
 var SearchResults = require('./search-results');
 var CurrentVideo = require('./current-video');
 
-module.exports = React.createClass({
+var VideoLibrary = React.createClass({
   render: function() {
     return (
       <div>
@@ -17,3 +17,5 @@ module.exports = React.createClass({
     );
   }
 });
+
+module.exports = VideoLibrary;

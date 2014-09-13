@@ -2,7 +2,7 @@
 
 var React = require('react');
 
-module.exports = React.createClass({
+var SearchBar = React.createClass({
   render: function() {
     return (
       <form>
@@ -11,3 +11,5 @@ module.exports = React.createClass({
     );
   }
 });
+
+module.exports = SearchBar;
