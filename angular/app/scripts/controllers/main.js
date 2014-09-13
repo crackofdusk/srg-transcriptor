@@ -15,6 +15,7 @@ angular.module('angularApp')
     $scope.$watch('query', _.debounce(function() {
       $scope.$apply(function() {
         $scope.active = undefined;
+        player.stop();
         if(timeout !== undefined) {
           clearTimeout(timeout);
         }
