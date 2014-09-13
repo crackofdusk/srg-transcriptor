@@ -12,6 +12,11 @@ shows.forEach(function(show) {
     });
 });
 
+var cors = require('express-cors');
+app.use(cors({
+    allowedOrigins: ['localhost:*']
+}));
+
 app.get('/search', function(req, res) {
     var query;
     if(req.query.q) {

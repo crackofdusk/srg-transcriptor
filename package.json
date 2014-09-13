@@ -16,7 +16,8 @@
     "d3": "^3.4.11",
     "xml2js": "^0.4.4",
     "express": "^4.9.0",
-    "compression": "^1.1.0"
+    "compression": "^1.1.0",
+    "express-cors": "0.0.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
