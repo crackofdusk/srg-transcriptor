@@ -86,6 +86,9 @@ angular.module('angularApp')
               scheduleParagraph();
             }, p.duration * 3);
           }
+          else {
+            player.pause();
+          }
         }
         scheduleParagraph();
       });
