@@ -126,7 +126,7 @@ angular.module('angularApp')
           if(urn !== 'urn:srf:ais:video:' + $scope.active.videoId) {
             // console.log('reactivate', urn, 'urn:srf:ais:video:' + $scope.active.videoId);
             $scope.$apply(function() {
-              $scope.activate(episode, true);
+              $scope.activate($scope.active, true);
             });
           }
         });
