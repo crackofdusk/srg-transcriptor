@@ -12,7 +12,7 @@ shows.forEach(function(show) {
     });
 });
 
-app.get('/', function(req, res) {
+app.get('/search', function(req, res) {
     var query;
     if(req.query.q) {
         query = new RegExp(
