@@ -8,7 +8,7 @@ var app = express();
 var shows = require('./showsWithTranscripts.json');
 shows.forEach(function(show) {
     show.episodes.forEach(function(episode) {
-        episode.transcriptText = d3.tsv.parse(fs.readFileSync(episode.transcript, {encoding: 'utf8'}), function(r) { return r.text; }).join(' ');
+        episode.transcriptText = d3.tsv.parse(fs.readFileSync(__dirname+'/'+episode.transcript, {encoding: 'utf8'}), function(r) { return r.text; }).join(' ');
     });
 });
 
