@@ -4,15 +4,13 @@ var React = require('react');
 
 var SearchResult = React.createClass({
   render: function() {
-    var imageSource = "";
-    var title = "Title";
-    var searchContext = "some text here including the search terms";
+    var episode = this.props.episode;
 
     return (
       <div>
-        <img src={imageSource} />
-        <h3>{title}</h3>
-        <p>{searchContext}</p>
+        <img src={episode.image} />
+        <h3>{episode.title}</h3>
+        <p>{episode.matches} matches</p>
       </div>
     );
   }

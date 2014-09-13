@@ -11,7 +11,7 @@ var SearchBar = React.createClass({
 
   search: function(query) {
     var results = reqwest({
-      url: "/search",
+      url: "http://localhost:3000/search",
       data: {
         q: query
       }
@@ -21,7 +21,7 @@ var SearchBar = React.createClass({
   },
 
   updateResults: function(results) {
-    console.log(results);
+    this.props.updateResults(results);
   },
 
   handleChange: function(event) {

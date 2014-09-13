@@ -5,7 +5,7 @@ var reactify = require('reactify');
 var source = require('vinyl-source-stream');
 var minifyCSS = require('gulp-minify-css');
 var express = require('express');
-var serverport = 3000;
+var serverport = 5000;
 
 var paths = {
   css: ['src/css/**/*.css'],
