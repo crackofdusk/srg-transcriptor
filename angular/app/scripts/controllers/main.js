@@ -22,7 +22,11 @@ angular.module('angularApp')
         $http({
           url: '/search',
           params: {q: $scope.query}
-        }).success(function(data) {
+        }).success(function(data, status, headers, config) {
+          if(config.params.q !== $scope.query) {
+            // race, outdated
+            return;
+          }
           $scope.shows = data;
           var result = data[0].episodes[0];
           if(result && result.matches) {
@@ -30,7 +34,7 @@ angular.module('angularApp')
           }
         });
       });
-    }), 100);
+    }), 200);
 
     $scope.seek = function(p) {
       if(timeout !== undefined) {
