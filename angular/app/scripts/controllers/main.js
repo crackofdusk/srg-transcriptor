@@ -10,15 +10,15 @@
 angular.module('angularApp')
   .controller('MainCtrl', function ($scope, $http, $location) {
     var player = SRG.PlayerManager.getPlayer('player');
+    player.stop();
+
     $scope.query = $location.search().q;
 
     $scope.$watch('query', _.debounce(function() {
       $scope.$apply(function() {
         $scope.active = undefined;
+        stopAutoplay();
         player.stop();
-        if(timeout !== undefined) {
-          clearTimeout(timeout);
-        }
         $location.search('q', $scope.query).replace();
         $http({
           url: '/search',
@@ -37,24 +37,97 @@ angular.module('angularApp')
       });
     }), 200);
 
-    $scope.seek = function(p) {
-      if(timeout !== undefined) {
-        clearTimeout(timeout);
-      }
+    // DEBUG PLAYER EVENTS
+    // player.addEventListener("ready", function() { console.log('ready', arguments); });
+    // player.addEventListener("loaded", function() { console.log('loaded', arguments); });
+    // player.addEventListener("media_seekable", function() { console.log('media_seekable', arguments); });
+    // player.addEventListener("seeking_change", function() { console.log('seeking_change', arguments); });
+    // player.addEventListener("playing", function() { console.log('playing', arguments); });
+    // player.addEventListener("segment_change", function() { console.log('segment_change', arguments); });
+    // player.addEventListener("ended", function() { console.log('ended', arguments); });
+    // player.addEventListener("stopped", function() { console.log('stopped', arguments); });
+    // player.addEventListener("paused", function() { console.log('paused', arguments); });
+
+    function seek(p) {
+      // console.log('seek', (+p.start - +p.duration) / 1000);
       player.seek((+p.start - +p.duration) / 1000);
+      player.play();
+    }
+    $scope.seek = function(p) {
+      // stop and clear autoplay on user interaction
+      stopAutoplay();
+      seek(p);
     };
 
     var timeout;
-    $scope.activate = function(episode) {
+    var pendingParagraphs = [];
+    function stopAutoplay() {
+      if(timeout !== undefined) {
+        clearTimeout(timeout);
+      }
+      pendingParagraphs = [];
+    }
+    player.addEventListener('paused', function() {
+      stopAutoplay();
+    });
+
+    function scheduleParagraph() {
+      if(timeout !== undefined) {
+        clearTimeout(timeout);
+      }
+      if(!ready) {
+        playerReadyCallback = scheduleParagraph;
+        return;
+      }
+      var p = pendingParagraphs.shift();
+      if(p) {
+        // console.log('issue', p);
+        seek(p);
+        timeout = setTimeout(function() {
+          scheduleParagraph();
+        }, p.duration * 3);
+      }
+      else {
+        player.pause();
+      }
+    }
+
+    var seekable, loaded, ready, playerReadyCallback;
+    function runReadyCallback() {
+      ready = seekable && loaded;
+      if(playerReadyCallback && ready) {
+        var cb = playerReadyCallback;
+        playerReadyCallback = undefined;
+        cb();
+      }
+    }
+    player.addEventListener('media_seekable', function() {
+      seekable = true;
+      runReadyCallback();
+    });
+    player.addEventListener('loaded', function() {
+      loaded = true;
+      seekable = false;
+      runReadyCallback();
+    });
+
+    $scope.activate = function(episode, forceReload) {
+      // only load new video if different episode
+      if($scope.active !== episode || forceReload) {
+        // console.log('stop and load video player');
+        ready = seekable = loaded = false;
+        player.stop();
+        player.load('urn:srf:ais:video:' + episode.videoId);
+      }
       $scope.active = episode;
       $scope.transcript = [];
-      player.load('urn:srf:ais:video:' + episode.videoId);
-      player.play();
       setTimeout(function() {
         player.getUrn(function(urn) {
           if(urn !== 'urn:srf:ais:video:' + $scope.active.videoId) {
             // console.log('reactivate', urn, 'urn:srf:ais:video:' + $scope.active.videoId);
-            $scope.activate($scope.active);
+            $scope.$apply(function() {
+              $scope.activate(episode, true);
+            });
           }
         });
       }, 1000);
@@ -72,24 +145,9 @@ angular.module('angularApp')
           p.matchText = p.text.replace(query, '<mark>$&</mark>');
         });
 
-        var pendingParagraphs = $scope.transcript.filter(function(p) {
+        pendingParagraphs = $scope.transcript.filter(function(p) {
           return p.matches;
         });
-        function scheduleParagraph() {
-          if(timeout !== undefined) {
-            clearTimeout(timeout);
-          }
-          var p = pendingParagraphs.shift();
-          if(p) {
-            $scope.seek(p);
-            timeout = setTimeout(function() {
-              scheduleParagraph();
-            }, p.duration * 3);
-          }
-          else {
-            player.pause();
-          }
-        }
         scheduleParagraph();
       });
     };
