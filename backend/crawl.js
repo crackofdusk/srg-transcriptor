@@ -195,7 +195,7 @@ exports.parseShows = function() {
             }
             var mainVideo = getMainVideo(episode);
             if(!mainVideo) {
-                console.log(show.title, episode.id);
+                console.log('no main video', show.title, episode.id);
             }
             var image;
             if(mainVideo.Image) {
@@ -206,6 +206,7 @@ exports.parseShows = function() {
             }
             show.episodes.push({
                 id: episode.id,
+                videoId: mainVideo.id,
                 title: episode.title,
                 publishedDate: (new Date(episode.publishedDate)).toISOString(),
                 transcript: 'transcripts/simple/' + episode.id + '.tsv',
