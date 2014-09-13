@@ -7,9 +7,11 @@ var VideoTranscript = require('./video-transcript');
 
 var CurrentVideo = React.createClass({
   render: function() {
+    var segmentId = this.props.segmentId;
+
     return (
       <div>
-        <VideoPlayer />
+        <VideoPlayer segmentId={segmentId} />
         <VideoTranscript />
       </div>
     )
