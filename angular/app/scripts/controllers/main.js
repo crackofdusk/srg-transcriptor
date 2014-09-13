@@ -12,23 +12,25 @@ angular.module('angularApp')
     var player = SRG.PlayerManager.getPlayer('player');
     $scope.query = $location.search().q;
 
-    $scope.$watch('query', function() {
-      $scope.active = undefined;
-      if(timeout !== undefined) {
-        clearTimeout(timeout);
-      }
-      $location.search('q', $scope.query).replace();
-      $http({
-        url: 'http://localhost:3000/search',
-        params: {q: $scope.query}
-      }).success(function(data) {
-        $scope.shows = data;
-        var result = data[0].episodes[0];
-        if(result) {
-          $scope.activate(result);
+    $scope.$watch('query', _.debounce(function() {
+      $scope.$apply(function() {
+        $scope.active = undefined;
+        if(timeout !== undefined) {
+          clearTimeout(timeout);
         }
+        $location.search('q', $scope.query).replace();
+        $http({
+          url: '/search',
+          params: {q: $scope.query}
+        }).success(function(data) {
+          $scope.shows = data;
+          var result = data[0].episodes[0];
+          if(result && result.matches) {
+            $scope.activate(result);
+          }
+        });
       });
-    });
+    }), 100);
 
     $scope.seek = function(p) {
       if(timeout !== undefined) {
@@ -57,7 +59,7 @@ angular.module('angularApp')
         'gi'
       );
 
-      $http.get('http://localhost:3000/'+episode.transcript).success(function(data) {
+      $http.get('/'+episode.transcript).success(function(data) {
         $scope.transcript = d3.tsv.parse(data);
         $scope.transcript.forEach(function(p) {
           p.matches = p.text.match(query);
