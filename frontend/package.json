@@ -12,6 +12,7 @@
     "express": "^4.9.0",
     "gulp-minify-css": "^0.3.8",
     "reactify": "^0.14.0",
+    "reqwest": "^1.1.2",
     "vinyl-source-stream": "^1.0.0",
     "zurb-foundation-npm": "0.0.1"
   }
