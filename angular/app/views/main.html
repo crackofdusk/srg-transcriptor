@@ -33,8 +33,6 @@
       <iframe id="player" src="http://www.technical-player-srg.ch/p/popup?urn=urn:srf:ais:video:c4927fcf-e1a0-0001-7edd-1ef01d441651" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
     </div>
     <h3>Untertitel</h3>
-    <div class="well well-lg transcript">
-      <p ng-repeat="p in transcript" ng-click="seek(p)" ng-bind-html="p.matchText"></p>
-    </div>
+    <div transcript="transcript" time="{{ time }}" seek="seek(to)" class="transcript"></div>
   </div>
 </div>

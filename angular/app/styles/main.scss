@@ -15,8 +15,39 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 }
 
 .transcript {
+  position: relative;
   max-height: 200px;
   overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 12px;  /* for vertical scrollbars */
+    height: 12px; /* for horizontal scrollbars */
+  }
+
+  &::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
+  }
+}
+
+.caption-paragraph {
+  cursor: pointer;
+  &.active {
+    background-color: #d9edf7;
+  }
+  &:hover {
+    background-color: lighten(#d9edf7, 4%);
+  }
+  padding: 2px 0;
+}
+.caption-time {
+  font-family: monospace;
+  margin-right: 5px;
 }
 
 .player-side {

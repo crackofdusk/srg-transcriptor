@@ -49,8 +49,8 @@ angular.module('angularApp')
     // player.addEventListener("paused", function() { console.log('paused', arguments); });
 
     function seek(p) {
-      // console.log('seek', (+p.start - +p.duration) / 1000);
-      player.seek((+p.start - +p.duration) / 1000);
+      // console.log('seek', (p.start - p.duration) / 1000);
+      player.seek((p.start - p.duration) / 1000);
       player.play();
     }
     $scope.seek = function(p) {
@@ -111,6 +111,40 @@ angular.module('angularApp')
       runReadyCallback();
     });
 
+
+    $scope.time = 0;
+    var palying;
+    function readTime() {
+      player.getCurrentTime(function(time) {
+        $scope.$apply(function() {
+          $scope.time = time;
+        });
+        if(palying) {
+          setTimeout(readTime, 500);
+        }
+      });
+    }
+    player.addEventListener('playing', function() {
+      palying = true;
+      readTime();
+    });
+    player.addEventListener('paused', function() {
+      palying = false;
+    });
+    player.addEventListener('stopped', function() {
+      palying = false;
+    });
+
+    var humanTimeFormat = (function() {
+      var base = d3.time.format('%X');
+
+      return function(ms) {
+        var formatted = base(new Date(0, 0, 0, 0, 0, 0, ms));
+        formatted = formatted.replace(/^[\:0]{0,4}/, '');
+        formatted = (new Array(9 - formatted.length)).join('&nbsp;') + formatted;
+        return formatted;
+      };
+    })();
     $scope.activate = function(episode, forceReload) {
       // only load new video if different episode
       if($scope.active !== episode || forceReload) {
@@ -123,6 +157,9 @@ angular.module('angularApp')
       $scope.transcript = [];
       setTimeout(function() {
         player.getUrn(function(urn) {
+          if(!$scope.active) {
+            return;
+          }
           if(urn !== 'urn:srf:ais:video:' + $scope.active.videoId) {
             // console.log('reactivate', urn, 'urn:srf:ais:video:' + $scope.active.videoId);
             $scope.$apply(function() {
@@ -138,11 +175,15 @@ angular.module('angularApp')
       );
 
       $http.get('/'+episode.transcript).success(function(data) {
-        $scope.transcript = d3.tsv.parse(data);
-        $scope.transcript.forEach(function(p) {
+        $scope.transcript = d3.tsv.parse(data, function(p) {
           p.matches = p.text.match(query);
-
           p.matchText = p.text.replace(query, '<mark>$&</mark>');
+          p.humanTime = humanTimeFormat(p.start);
+          // type cast to int
+          p.start = +p.start;
+          p.end = +p.end;
+          p.duration = +p.duration;
+          return p;
         });
 
         pendingParagraphs = $scope.transcript.filter(function(p) {
