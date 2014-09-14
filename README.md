@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-This will start the server on `localhost:3000` with the API and `angular/dist` (last frontend build).
+This will start the server on `localhost:3000` serving API endpoints for searching and recieving transcripts. Additionally `angular/dist` is served statically.
 
 Live Page:
 http://srf-transcriptor.herokuapp.com/
@@ -32,7 +32,7 @@ bower install
 grunt serve
 ```
 
-The front end will try to access the backend via [grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) at localhost:3000 - make sure to also run the main server from the root directory.
+The front end dev server will relay requests to the API endpoints to localhost:3000 via [grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) - make sure to also run the main server from the root directory.
 
 ### Dependencies
 - Node.js
