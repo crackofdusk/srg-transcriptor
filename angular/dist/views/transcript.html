@@ -1,0 +1,1 @@
+<div class="caption-paragraph" ng-repeat="p in transcript" ng-init="p.elementIndex = $index" ng-click="seek({to: p})" ng-class="{active: $index === activeIndex}"> <span class="caption-time" ng-bind-html="p.humanTime"></span> <span ng-bind-html="p.matchText"></span> </div>
