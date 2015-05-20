@@ -12,11 +12,11 @@ function get(options) {
         var requestDeferred = Q.defer();
         console.log('get', options.url, options);
         request.get(options, function(error, response, data) {
-            if(!error && response.statusCode === 200) {
+            if(!error && (response.statusCode === 200 || response.statusCode === 203)) {
                 deferred.resolve(data);
             }
             else {
-                console.log('fail', options, arguments);
+                console.log('HTTP ' + response.statusCode, error, options, arguments);
                 deferred.reject("Can't do it");
             }
             setTimeout(function() {

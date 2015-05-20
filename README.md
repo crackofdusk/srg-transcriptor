@@ -36,6 +36,39 @@ grunt serve
 
 The front end dev server will relay requests to the API endpoints to `localhost:3000` via [grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) - make sure to also run the main server from the root directory.
 
+## Crawler
+
+The crawler is part of the backend.
+
+```bash
+cd backend
+grunt --help
+```
+
+### Add a New Show
+
+```bash
+grunt add:show --id=3b016ffc-afa2-466d-a694-c48b7ffe1783
+```
+
+### Fetch Data and Transcripts
+
+This will fetch episode information and transcripts of all added shows.
+
+```bash
+grunt fetch:shows
+grunt fetch:transcripts
+```
+
+### Process Data for Delivery
+
+```
+grunt parse:transcripts
+grunt parse:shows
+```
+
+Currently the processed data needs to be checked in for deployment.
+
 ## Dependencies
 - Node.js
 - Grunt

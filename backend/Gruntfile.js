@@ -33,7 +33,7 @@ module.exports = function(grunt) {
     });
   });
 
-  grunt.registerTask('stats', 'Add show by --id=x, see http://www.srf.ch/player/tv/sendungen', function() {
+  grunt.registerTask('stats', 'Stats about shows', function() {
     srf.showStats();
   });
 
