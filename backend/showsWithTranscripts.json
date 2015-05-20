@@ -5273,6 +5273,1340 @@
                 "publishedDate": "2014-01-02T20:50:00.000Z",
                 "transcript": "transcripts/simple/a963921f-a2aa-4481-8470-1b8112cead18.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/4c13c9a3-26ec-4c24-b550-a2d8490153cc/EPISODE_IMAGE/1390048262000.png"
+            },
+            {
+                "id": "2ed500d7-779b-4f5e-8083-c55ad55c2603",
+                "videoId": "0b9ecf7e-0e14-43b6-b071-6320438b75d8",
+                "title": "10vor10 vom 20.05.2015",
+                "publishedDate": "2015-05-20T19:50:30.000Z",
+                "transcript": "transcripts/simple/2ed500d7-779b-4f5e-8083-c55ad55c2603.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5684478b-50eb-4992-9f7c-823a3c0f8a2e/EPISODE_IMAGE/1432154140000.png"
+            },
+            {
+                "id": "9006be68-48ae-40b1-a9e3-4fcf368d87c9",
+                "videoId": "7fbe0818-5ace-46f5-9da5-6d7f1e20f624",
+                "title": "10vor10 vom 19.05.2015",
+                "publishedDate": "2015-05-19T19:50:54.000Z",
+                "transcript": "transcripts/simple/9006be68-48ae-40b1-a9e3-4fcf368d87c9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f590aaaa-c3a5-4b4f-8533-bb0dd38a3cc8/EPISODE_IMAGE/1432068096000.png"
+            },
+            {
+                "id": "ae2d7bc6-7ea0-455c-80e0-48fece111115",
+                "videoId": "165331ed-1afb-4794-b5af-412edb4afee3",
+                "title": "10vor10 vom 18.05.2015",
+                "publishedDate": "2015-05-18T19:51:07.000Z",
+                "transcript": "transcripts/simple/ae2d7bc6-7ea0-455c-80e0-48fece111115.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0caacc1c-f3e9-4503-8d73-4408772e5ba8/EPISODE_IMAGE/1431981457000.png"
+            },
+            {
+                "id": "0465dd05-b068-4a38-ade6-c4e7afe0d9e6",
+                "videoId": "befa223e-235a-472c-aba2-cad6cfa1c411",
+                "title": "10vor10 vom 14.05.2015",
+                "publishedDate": "2015-05-14T19:50:00.000Z",
+                "transcript": "transcripts/simple/0465dd05-b068-4a38-ade6-c4e7afe0d9e6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8c75546b-74dc-42f8-bc8e-598d7b716c76/EPISODE_IMAGE/1431635564000.png"
+            },
+            {
+                "id": "cea233de-9d3f-4db4-a49b-ad89dcceec09",
+                "videoId": "3d01971d-daaa-42e6-b200-42e55ac676e7",
+                "title": "10vor10 vom 13.05.2015",
+                "publishedDate": "2015-05-13T19:50:00.000Z",
+                "transcript": "transcripts/simple/cea233de-9d3f-4db4-a49b-ad89dcceec09.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/84662918-8145-40e7-bf15-8e8976497418/EPISODE_IMAGE/1431549401000.png"
+            },
+            {
+                "id": "2ee82b59-11fb-4095-bc06-1f94ca41ce55",
+                "videoId": "520af0b5-7867-4901-a3c5-a2dbb12fdfa6",
+                "title": "10vor10 vom 12.05.2015",
+                "publishedDate": "2015-05-12T19:50:00.000Z",
+                "transcript": "transcripts/simple/2ee82b59-11fb-4095-bc06-1f94ca41ce55.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0ce41d5f-e889-44ec-91fe-0d3928a6c63f/EPISODE_IMAGE/1431462811000.png"
+            },
+            {
+                "id": "cd3336c5-1126-47d0-b679-9968945c8829",
+                "videoId": "f7cefee3-61f7-4f1d-8842-ad59540202d8",
+                "title": "10vor10 vom 11.05.2015",
+                "publishedDate": "2015-05-11T19:50:50.000Z",
+                "transcript": "transcripts/simple/cd3336c5-1126-47d0-b679-9968945c8829.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/54d3b198-d3ca-4a17-ab92-e2ecff1433b3/EPISODE_IMAGE/1431376410000.png"
+            },
+            {
+                "id": "cde2f392-92dd-417d-893e-b4c79df3d0fd",
+                "videoId": "394a2dc1-ca0b-4995-a8dd-1468457fc63b",
+                "title": "10vor10 vom 08.05.2015",
+                "publishedDate": "2015-05-08T19:51:00.000Z",
+                "transcript": "transcripts/simple/cde2f392-92dd-417d-893e-b4c79df3d0fd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/17a19ae3-4cd2-4a21-bbd8-8119ab5794d0/EPISODE_IMAGE/1431116946000.png"
+            },
+            {
+                "id": "dc2f434c-2476-4025-965d-3daec6156f4a",
+                "videoId": "4c07ed0d-36a0-480b-8dda-b50e88762e68",
+                "title": "10vor10 vom 07.05.2015",
+                "publishedDate": "2015-05-07T19:50:00.000Z",
+                "transcript": "transcripts/simple/dc2f434c-2476-4025-965d-3daec6156f4a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/30ea2812-845d-426c-87b3-04df92aa7e22/EPISODE_IMAGE/1431031750000.png"
+            },
+            {
+                "id": "36260efb-395b-440a-b9fd-0bfa148c4c48",
+                "videoId": "140be602-0ebf-43ac-934c-5127511a46ff",
+                "title": "10vor10 vom 06.05.2015",
+                "publishedDate": "2015-05-06T19:50:00.000Z",
+                "transcript": "transcripts/simple/36260efb-395b-440a-b9fd-0bfa148c4c48.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a669d02c-a7ae-4986-b4e3-70737645a81f/EPISODE_IMAGE/1430945710000.png"
+            },
+            {
+                "id": "5ca67b1d-4d36-4565-8444-9f0d400f34aa",
+                "videoId": "4398d314-e8e8-4b4c-9d80-7670bb4df0b8",
+                "title": "10vor10 vom 05.05.2015",
+                "publishedDate": "2015-05-05T19:50:00.000Z",
+                "transcript": "transcripts/simple/5ca67b1d-4d36-4565-8444-9f0d400f34aa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7fc69ccd-a7bc-43ac-a37b-109b5360e53d/EPISODE_IMAGE/1430857409000.png"
+            },
+            {
+                "id": "394867f4-43c4-4d93-a181-864b46e3e317",
+                "videoId": "91a4e42a-2794-4cf0-ad78-d5347df2ae44",
+                "title": "10vor10 vom 04.05.2015",
+                "publishedDate": "2015-05-04T19:50:52.000Z",
+                "transcript": "transcripts/simple/394867f4-43c4-4d93-a181-864b46e3e317.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/54f8f4a4-8cf5-4412-97f9-bba8c0a56bd9/EPISODE_IMAGE/1430771468000.png"
+            },
+            {
+                "id": "dfbdd2a8-8f31-4223-ad83-f4b0619c8e66",
+                "videoId": "15dc49b2-4eb5-478a-ad1a-886c34a489ae",
+                "title": "10vor10 vom 01.05.2015",
+                "publishedDate": "2015-05-01T19:50:00.000Z",
+                "transcript": "transcripts/simple/dfbdd2a8-8f31-4223-ad83-f4b0619c8e66.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2978de45-859d-449d-983b-1c5a8cbcc469/EPISODE_IMAGE/1430513186000.png"
+            },
+            {
+                "id": "dcd5aeec-ca52-4b5f-a045-450c983c6f3e",
+                "videoId": "09883e5f-2162-4eb7-981d-0f9c60fae771",
+                "title": "10vor10 vom 30.04.2015",
+                "publishedDate": "2015-04-30T19:50:00.000Z",
+                "transcript": "transcripts/simple/dcd5aeec-ca52-4b5f-a045-450c983c6f3e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2b67f00f-392b-4cb4-b46b-637dd0d56c6a/EPISODE_IMAGE/1430426964000.png"
+            },
+            {
+                "id": "72dc25e3-16ea-4a7b-8f3c-fc16abf69850",
+                "videoId": "42d39251-5b0b-4387-aa58-dc2210bc1f10",
+                "title": "10vor10 vom 28.04.2015",
+                "publishedDate": "2015-04-28T19:51:12.000Z",
+                "transcript": "transcripts/simple/72dc25e3-16ea-4a7b-8f3c-fc16abf69850.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2c583a04-2474-4df7-9a1e-84303eeab497/EPISODE_IMAGE/1430252897000.png"
+            },
+            {
+                "id": "22b79897-0e8b-47f3-83ec-df7d12143e76",
+                "videoId": "2b59ed28-2a3c-4d1e-95d2-148631964688",
+                "title": "10vor10 vom 27.04.2015",
+                "publishedDate": "2015-04-27T19:50:36.000Z",
+                "transcript": "transcripts/simple/22b79897-0e8b-47f3-83ec-df7d12143e76.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/507f521a-df53-49e3-a9b2-2ab2da2f09ac/EPISODE_IMAGE/1430167040000.png"
+            },
+            {
+                "id": "bdef0fc1-c3c2-489b-aac9-8b52a75d107e",
+                "videoId": "e6c808b7-8131-4a5d-9dc6-68812d58e7ae",
+                "title": "10vor10 vom 24.04.2015",
+                "publishedDate": "2015-04-24T19:50:00.000Z",
+                "transcript": "transcripts/simple/bdef0fc1-c3c2-489b-aac9-8b52a75d107e.tsv"
+            },
+            {
+                "id": "ceff2ab5-5e49-49b8-aeb3-1ff21c1beac7",
+                "videoId": "d29114bb-aa7c-461f-84c3-2247f5506263",
+                "title": "10vor10 vom 23.04.2015",
+                "publishedDate": "2015-04-23T19:52:27.000Z",
+                "transcript": "transcripts/simple/ceff2ab5-5e49-49b8-aeb3-1ff21c1beac7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/51be20ab-a3bc-421e-881d-cc7a381a4749/EPISODE_IMAGE/1429820658000.png"
+            },
+            {
+                "id": "70231f4c-9fb6-4ea1-8db4-d241cf052526",
+                "videoId": "454aea3c-7fe9-4cf1-bcc8-d5b96bb0b4e3",
+                "title": "10vor10 vom 22.04.2015",
+                "publishedDate": "2015-04-22T19:51:12.000Z",
+                "transcript": "transcripts/simple/70231f4c-9fb6-4ea1-8db4-d241cf052526.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4cbc376a-77ba-40d9-b809-e3be1beaf81f/EPISODE_IMAGE/1429735332000.png"
+            },
+            {
+                "id": "2dc1b7d3-4149-4d44-ad74-85817f33d182",
+                "videoId": "eed579ec-4f61-4351-8a93-4bfd072fa2fc",
+                "title": "10vor10 vom 21.04.2015",
+                "publishedDate": "2015-04-21T19:51:25.000Z",
+                "transcript": "transcripts/simple/2dc1b7d3-4149-4d44-ad74-85817f33d182.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f7fdb881-ebfa-4886-b572-881aa71fe214/EPISODE_IMAGE/1429647874000.png"
+            },
+            {
+                "id": "ebf234de-9153-4ead-abf6-d70e7e36ca3e",
+                "videoId": "a0eb5915-d788-4645-a7e0-8468b2d3e01b",
+                "title": "10vor10 vom 20.04.2015",
+                "publishedDate": "2015-04-20T19:50:30.000Z",
+                "transcript": "transcripts/simple/ebf234de-9153-4ead-abf6-d70e7e36ca3e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/73d9601a-f15c-4e77-bdf8-bc5f5b0db87f/EPISODE_IMAGE/1429561754000.png"
+            },
+            {
+                "id": "892326b5-15b9-4eaa-98d8-c9fcd805eff5",
+                "videoId": "d4ccb8d5-0f2e-41c3-8f40-4ad56806a08e",
+                "title": "10vor10 vom 17.04.2015",
+                "publishedDate": "2015-04-17T19:50:12.000Z",
+                "transcript": "transcripts/simple/892326b5-15b9-4eaa-98d8-c9fcd805eff5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f0c026ea-a88e-425a-a72d-ab13ddd3e810/EPISODE_IMAGE/1429303200000.png"
+            },
+            {
+                "id": "9b4f0c5d-65f0-4e96-8fb8-81bf1c01b7b6",
+                "videoId": "797c2531-3b21-4df7-8a19-bc819ad612d7",
+                "title": "10vor10 vom 16.04.2015",
+                "publishedDate": "2015-04-16T19:50:24.000Z",
+                "transcript": "transcripts/simple/9b4f0c5d-65f0-4e96-8fb8-81bf1c01b7b6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/badf4d05-debc-4f1e-a600-b2bc536c048f/EPISODE_IMAGE/1429216840000.png"
+            },
+            {
+                "id": "b49a7ddd-f9cf-47e6-b7eb-43df213b672c",
+                "videoId": "dbcf7275-1f79-463d-a434-24f55039f45a",
+                "title": "10vor10 vom 15.04.2015",
+                "publishedDate": "2015-04-15T19:50:00.000Z",
+                "transcript": "transcripts/simple/b49a7ddd-f9cf-47e6-b7eb-43df213b672c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/058e001e-7314-4adb-932d-0a7d5b8d8f71/EPISODE_IMAGE/1429129727000.png"
+            },
+            {
+                "id": "b13a379b-1a67-43a6-8c4d-d62bc3a556a5",
+                "videoId": "2204e883-1154-43f9-96d7-5f23e0d7036b",
+                "title": "10vor10 vom 14.04.2015",
+                "publishedDate": "2015-04-14T19:50:07.000Z",
+                "transcript": "transcripts/simple/b13a379b-1a67-43a6-8c4d-d62bc3a556a5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1314d7f7-e745-4508-b7f9-7b2ac914d424/EPISODE_IMAGE/1429043320000.png"
+            },
+            {
+                "id": "5878a878-14aa-44f0-b2d6-2c8632acfcbe",
+                "videoId": "d7852479-5b25-45d7-bd4b-55daf465a75a",
+                "title": "10vor10 vom 10.04.2015",
+                "publishedDate": "2015-04-10T19:50:00.000Z",
+                "transcript": "transcripts/simple/5878a878-14aa-44f0-b2d6-2c8632acfcbe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9c620e8c-f9e4-4e6f-8bd2-5651666573ec/EPISODE_IMAGE/1428698614000.png"
+            },
+            {
+                "id": "d1ec9a6b-f0ba-4476-814c-b88050255603",
+                "videoId": "5e5bfb3b-5918-4c82-81b0-c6c75fe43cb5",
+                "title": "10vor10 vom 09.04.2015",
+                "publishedDate": "2015-04-09T19:50:10.000Z",
+                "transcript": "transcripts/simple/d1ec9a6b-f0ba-4476-814c-b88050255603.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7ff6b3ea-0cab-4a2f-a699-b97c1f355df7/EPISODE_IMAGE/1428611271000.png"
+            },
+            {
+                "id": "f73bfc86-acf2-4506-ad1e-b86b6371c070",
+                "videoId": "4dc83b08-323b-49a2-934a-23fe0b9b54af",
+                "title": "10vor10 vom 08.04.2015",
+                "publishedDate": "2015-04-08T19:50:00.000Z",
+                "transcript": "transcripts/simple/f73bfc86-acf2-4506-ad1e-b86b6371c070.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fa22c53d-8bc1-42eb-bf2d-701891897a42/EPISODE_IMAGE/1428525609000.png"
+            },
+            {
+                "id": "2b552aba-d8e5-4526-8e28-092fbe2e5f44",
+                "videoId": "3e6809b9-74f6-4a4a-97d1-bc358a215f5f",
+                "title": "10vor10 vom 07.04.2015",
+                "publishedDate": "2015-04-07T19:50:00.000Z",
+                "transcript": "transcripts/simple/2b552aba-d8e5-4526-8e28-092fbe2e5f44.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/09509961-a810-41c6-ae21-4c15ca26629e/EPISODE_IMAGE/1428440164000.png"
+            },
+            {
+                "id": "06fa1557-d6c5-4ce4-98f0-c955465ec25f",
+                "videoId": "79636541-986e-45f2-8b3a-56f90ce31d7b",
+                "title": "10vor10 vom 02.04.2015",
+                "publishedDate": "2015-04-02T19:50:00.000Z",
+                "transcript": "transcripts/simple/06fa1557-d6c5-4ce4-98f0-c955465ec25f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2f505c52-7095-43c0-99c4-c3c57ac778b0/EPISODE_IMAGE/1428007607000.png"
+            },
+            {
+                "id": "a0f2e162-1910-4c17-80bd-75977efce497",
+                "videoId": "dc39f0db-b505-4fe9-bc0b-e496ce922b53",
+                "title": "10vor10 vom 01.04.2015",
+                "publishedDate": "2015-04-01T19:50:40.000Z",
+                "transcript": "transcripts/simple/a0f2e162-1910-4c17-80bd-75977efce497.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/45fffdbf-c644-4986-918c-a470f3849222/EPISODE_IMAGE/1427920544000.png"
+            },
+            {
+                "id": "f54b2425-65e7-46f2-bbe1-8af8fd6b34d5",
+                "videoId": "ed79bb47-42c1-46ef-84be-172a386684b1",
+                "title": "10vor10 vom 31.03.2015",
+                "publishedDate": "2015-03-31T19:52:33.000Z",
+                "transcript": "transcripts/simple/f54b2425-65e7-46f2-bbe1-8af8fd6b34d5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/da93222c-3172-4078-9b46-38c3f45c0f19/EPISODE_IMAGE/1427833513000.png"
+            },
+            {
+                "id": "35753457-d695-4132-bed5-8600ecdbfbec",
+                "videoId": "4da08969-651f-4cd9-bc8f-f695f6255539",
+                "title": "10vor10 vom 30.03.2015",
+                "publishedDate": "2015-03-30T19:50:00.000Z",
+                "transcript": "transcripts/simple/35753457-d695-4132-bed5-8600ecdbfbec.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f64e0b3f-67d5-492b-932f-a7d7b1a793b1/EPISODE_IMAGE/1427747141000.png"
+            },
+            {
+                "id": "16afe922-bd7b-401c-bedc-0fe04ded7894",
+                "videoId": "a40941fa-3e94-4733-9c1f-4c562c1ad9ee",
+                "title": "10vor10 vom 27.03.2015",
+                "publishedDate": "2015-03-27T20:50:00.000Z",
+                "transcript": "transcripts/simple/16afe922-bd7b-401c-bedc-0fe04ded7894.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/df26642a-e12e-482e-8fd7-01acf0c4b283/EPISODE_IMAGE/1427492549000.png"
+            },
+            {
+                "id": "3fd61134-29ef-4cd7-b54d-b01e17300b5c",
+                "videoId": "e657fb8c-649f-4539-acaa-5d18b11eeb1c",
+                "title": "10vor10 vom 26.03.2015",
+                "publishedDate": "2015-03-26T20:50:00.000Z",
+                "transcript": "transcripts/simple/3fd61134-29ef-4cd7-b54d-b01e17300b5c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f08b95da-515c-4e52-bcf7-82c467f6713c/EPISODE_IMAGE/1427472121000.png"
+            },
+            {
+                "id": "738f1c7b-bdf3-489a-a0ea-ad01f7dbda1c",
+                "videoId": "9332f5f7-df96-4218-b027-e2f80c0da7ca",
+                "title": "10vor10 vom 24.03.2015",
+                "publishedDate": "2015-03-24T20:50:20.000Z",
+                "transcript": "transcripts/simple/738f1c7b-bdf3-489a-a0ea-ad01f7dbda1c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9a47a886-435e-40d8-8b54-1c7c7d5e4f92/EPISODE_IMAGE/1427232197000.png"
+            },
+            {
+                "id": "4e01b8da-9883-4e12-8782-455d7a850ffa",
+                "videoId": "d0a6c3a7-ce30-40bf-9e73-c976ff9a8deb",
+                "title": "10vor10 vom 23.03.2015",
+                "publishedDate": "2015-03-23T20:50:00.000Z",
+                "transcript": "transcripts/simple/4e01b8da-9883-4e12-8782-455d7a850ffa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1d2ddd06-b1d6-4d97-bf0f-f66953584624/EPISODE_IMAGE/1427146747000.png"
+            },
+            {
+                "id": "84df36da-1b3a-4a30-a206-c8304c654c19",
+                "videoId": "f8557b65-5473-4d6b-bfa3-9e07227c9b8e",
+                "title": "10vor10 vom 20.03.2015",
+                "publishedDate": "2015-03-20T20:50:00.000Z",
+                "transcript": "transcripts/simple/84df36da-1b3a-4a30-a206-c8304c654c19.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3948dfb4-144c-408b-967e-2aaa69ff1b5f/EPISODE_IMAGE/1426887968000.png"
+            },
+            {
+                "id": "2d004cac-83d5-4555-a523-3341185c6d70",
+                "videoId": "77f2253e-98de-40a6-a2c6-0b6c7530d64b",
+                "title": "10vor10 vom 19.03.2015",
+                "publishedDate": "2015-03-19T20:50:15.000Z",
+                "transcript": "transcripts/simple/2d004cac-83d5-4555-a523-3341185c6d70.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/85dfcad9-ece8-45d6-a3f8-9fb589dc1e49/EPISODE_IMAGE/1426802063000.png"
+            },
+            {
+                "id": "d462b75d-6c43-45c0-9f3d-f26ddff9d66a",
+                "videoId": "f337abe4-9f9e-4d78-a1f0-3d4932401b16",
+                "title": "10vor10 vom 18.03.2015",
+                "publishedDate": "2015-03-18T20:50:48.000Z",
+                "transcript": "transcripts/simple/d462b75d-6c43-45c0-9f3d-f26ddff9d66a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8cb63463-7678-40ae-8cfb-5150dac13d2c/EPISODE_IMAGE/1426716061000.png"
+            },
+            {
+                "id": "9fcfdc5c-4e7f-442e-8122-ab6806dd5bc0",
+                "videoId": "9b4c952d-0967-4c44-b37d-ea74bea4d932",
+                "title": "10vor10 vom 17.03.2015",
+                "publishedDate": "2015-03-17T20:50:50.000Z",
+                "transcript": "transcripts/simple/9fcfdc5c-4e7f-442e-8122-ab6806dd5bc0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/da5a3aee-baf7-4676-adbf-3484763e2767/EPISODE_IMAGE/1426627843000.png"
+            },
+            {
+                "id": "1210bdff-5fe6-4e97-aa3b-3d8ac8be9b14",
+                "videoId": "349a7116-a274-4e17-a36b-47289baa704d",
+                "title": "10vor10 vom 16.03.2015",
+                "publishedDate": "2015-03-16T20:50:33.000Z",
+                "transcript": "transcripts/simple/1210bdff-5fe6-4e97-aa3b-3d8ac8be9b14.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4f314457-1f58-4e4d-9e59-c5ff79cc549d/EPISODE_IMAGE/1426542046000.png"
+            },
+            {
+                "id": "a1d112ab-2c6e-41ee-ad9e-4d4a88db3860",
+                "videoId": "40d26327-e156-4dca-aa4c-48c2526144d2",
+                "title": "10vor10 vom 12.03.2015",
+                "publishedDate": "2015-03-12T20:50:00.000Z",
+                "transcript": "transcripts/simple/a1d112ab-2c6e-41ee-ad9e-4d4a88db3860.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6f5c3d17-0694-4738-9641-ec958cbbd761/EPISODE_IMAGE/1426196680000.png"
+            },
+            {
+                "id": "a0ac1bf5-55f2-4dae-bad5-7f9b288f2958",
+                "videoId": "9615dd95-0d00-4954-b35b-b3ba868fb5c1",
+                "title": "10vor10 vom 11.03.2015",
+                "publishedDate": "2015-03-11T20:50:11.000Z",
+                "transcript": "transcripts/simple/a0ac1bf5-55f2-4dae-bad5-7f9b288f2958.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52ea909b-2d0a-4a09-a137-12e112facda2/EPISODE_IMAGE/1426109471000.png"
+            },
+            {
+                "id": "bac32013-bc50-46c4-8c0c-474e3634e5a8",
+                "videoId": "75715cac-99fb-4721-a4b7-f6160c9f4abb",
+                "title": "10vor10 vom 10.03.2015",
+                "publishedDate": "2015-03-10T20:51:18.000Z",
+                "transcript": "transcripts/simple/bac32013-bc50-46c4-8c0c-474e3634e5a8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e3f62971-0f4a-4027-a659-00815294533a/EPISODE_IMAGE/1426023780000.png"
+            },
+            {
+                "id": "efbe77f3-b67c-46c2-b390-3b82965a5f64",
+                "videoId": "8dc366fa-ae38-4296-a899-221e16dbc669",
+                "title": "10vor10 vom 09.03.2015",
+                "publishedDate": "2015-03-09T20:51:15.000Z",
+                "transcript": "transcripts/simple/efbe77f3-b67c-46c2-b390-3b82965a5f64.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3d908d11-1fa4-4a18-8248-743c1cf34035/EPISODE_IMAGE/1425938909000.png"
+            },
+            {
+                "id": "254c0a1a-6acc-414d-a8e0-9143663e8079",
+                "videoId": "5ce3b74f-ec04-471d-b8fa-62f867631c25",
+                "title": "10vor10 vom 06.03.2015",
+                "publishedDate": "2015-03-06T20:50:00.000Z",
+                "transcript": "transcripts/simple/254c0a1a-6acc-414d-a8e0-9143663e8079.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b772c6ae-3abb-4be4-98d1-b472e265056f/EPISODE_IMAGE/1425677518000.png"
+            },
+            {
+                "id": "255e329b-7452-4ceb-9be0-3243d7da396b",
+                "videoId": "e5c18245-60ee-4cae-ab94-166910aac760",
+                "title": "10vor10 vom 05.03.2015",
+                "publishedDate": "2015-03-05T20:50:00.000Z",
+                "transcript": "transcripts/simple/255e329b-7452-4ceb-9be0-3243d7da396b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5932d2f3-e614-434a-af9b-961b3dbab0ff/EPISODE_IMAGE/1425590949000.png"
+            },
+            {
+                "id": "0a7ef417-cf5c-4ba1-8e25-1a280c250738",
+                "videoId": "caae796a-d6ea-438d-b550-2063a4f01314",
+                "title": "10vor10 vom 04.03.2015",
+                "publishedDate": "2015-03-04T20:50:30.000Z",
+                "transcript": "transcripts/simple/0a7ef417-cf5c-4ba1-8e25-1a280c250738.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/083105ab-3b78-4816-a7d8-9079986d937b/EPISODE_IMAGE/1425506199000.png"
+            },
+            {
+                "id": "eac143ac-4843-4932-8fa0-1a1219aae228",
+                "videoId": "4a906cd5-df6b-40ea-8c7c-fad8ff21251a",
+                "title": "10vor10 vom 03.03.2015",
+                "publishedDate": "2015-03-03T20:50:00.000Z",
+                "transcript": "transcripts/simple/eac143ac-4843-4932-8fa0-1a1219aae228.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7172af3f-81ac-4104-8ed1-6543b59d5b57/EPISODE_IMAGE/1425417858000.png"
+            },
+            {
+                "id": "b8060244-b6f0-4d89-929a-f6a57093a249",
+                "videoId": "4ba489a0-1da9-4307-8cf8-e6162a840bb0",
+                "title": "10vor10 vom 02.03.2015",
+                "publishedDate": "2015-03-02T20:50:00.000Z",
+                "transcript": "transcripts/simple/b8060244-b6f0-4d89-929a-f6a57093a249.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f756d8a6-38bf-458d-a7d5-8d78df2e2b6d/EPISODE_IMAGE/1425378237000.png"
+            },
+            {
+                "id": "87ea64a6-c059-44ac-b7b7-ec321f021906",
+                "videoId": "20f7609c-200d-4130-8a5e-8e616287cd0d",
+                "title": "10vor10 vom 27.02.2015",
+                "publishedDate": "2015-02-27T20:50:00.000Z",
+                "transcript": "transcripts/simple/87ea64a6-c059-44ac-b7b7-ec321f021906.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7f75e5db-a3c4-4fd4-aead-e878fc4fa2bf/EPISODE_IMAGE/1425072108000.png"
+            },
+            {
+                "id": "573adeef-c350-4c28-816d-35838d5933a3",
+                "videoId": "ef14cf2f-b591-4e68-9168-cde8145b7acb",
+                "title": "10vor10 vom 26.02.2015",
+                "publishedDate": "2015-02-26T20:50:00.000Z",
+                "transcript": "transcripts/simple/573adeef-c350-4c28-816d-35838d5933a3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d83450b5-2738-4dce-8116-3b602fe4dfec/EPISODE_IMAGE/1424987021000.png"
+            },
+            {
+                "id": "fa6be2e5-6896-40b7-9106-e5dc8ceabb56",
+                "videoId": "2eb28ddd-0058-4b2b-bf10-78899c851980",
+                "title": "10vor10 vom 25.02.2015",
+                "publishedDate": "2015-02-25T20:51:00.000Z",
+                "transcript": "transcripts/simple/fa6be2e5-6896-40b7-9106-e5dc8ceabb56.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2ed84306-7b50-4a4d-954a-70eef0455bd4/EPISODE_IMAGE/1424900302000.png"
+            },
+            {
+                "id": "4e585e7b-737b-4d08-9051-4803ce2426d2",
+                "videoId": "3567cab7-f9bc-4627-8ab2-9bf76fbd9426",
+                "title": "10vor10 vom 24.02.2015",
+                "publishedDate": "2015-02-24T20:50:00.000Z",
+                "transcript": "transcripts/simple/4e585e7b-737b-4d08-9051-4803ce2426d2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b8586b2c-7a4a-4ae5-9b5c-dc364c7b8a9e/EPISODE_IMAGE/1424812949000.png"
+            },
+            {
+                "id": "4c266bb1-2b9c-447b-933f-244194605253",
+                "videoId": "5f66ae84-eec9-4633-9525-3f15edda13e3",
+                "title": "10vor10 vom 23.02.2015",
+                "publishedDate": "2015-02-23T20:50:30.000Z",
+                "transcript": "transcripts/simple/4c266bb1-2b9c-447b-933f-244194605253.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/95b7a277-4291-41d4-a846-877656deab12/EPISODE_IMAGE/1424728241000.png"
+            },
+            {
+                "id": "d46d93ba-ed0f-4a9b-a210-cc625837b4f5",
+                "videoId": "ea1f8843-a726-4a45-a11d-7fc63e21ab90",
+                "title": "10vor10 vom 20.02.2015",
+                "publishedDate": "2015-02-20T20:50:16.000Z",
+                "transcript": "transcripts/simple/d46d93ba-ed0f-4a9b-a210-cc625837b4f5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d7d1168a-42f3-4589-8b2a-d5c8834822f0/EPISODE_IMAGE/1424469607000.png"
+            },
+            {
+                "id": "5a7d7303-c8c8-4373-974b-6bd9192a4882",
+                "videoId": "337ce168-f96e-4023-b844-e6d8e02669b9",
+                "title": "10vor10 vom 19.02.2015",
+                "publishedDate": "2015-02-19T20:50:46.000Z",
+                "transcript": "transcripts/simple/5a7d7303-c8c8-4373-974b-6bd9192a4882.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f0e87604-78dd-46c2-8ee5-39edd4c192f8/EPISODE_IMAGE/1424381624000.png"
+            },
+            {
+                "id": "c6315955-27a9-46bc-829e-ca97eab62101",
+                "videoId": "78319884-6d5e-46c7-841d-909730699f3c",
+                "title": "10vor10 vom 18.02.2015",
+                "publishedDate": "2015-02-18T20:51:40.000Z",
+                "transcript": "transcripts/simple/c6315955-27a9-46bc-829e-ca97eab62101.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4ed2cc8e-415f-46a7-89f8-e644490eeb5a/EPISODE_IMAGE/1424295149000.png"
+            },
+            {
+                "id": "ca62bb21-aae9-460c-9ab8-46cecfdc3e09",
+                "videoId": "ecd3c10d-f3c9-4926-b631-272f715d34b9",
+                "title": "10vor10 vom 17.02.2015",
+                "publishedDate": "2015-02-17T20:50:00.000Z",
+                "transcript": "transcripts/simple/ca62bb21-aae9-460c-9ab8-46cecfdc3e09.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3b8acb7f-c3ae-48bc-9167-d4c839e938d6/EPISODE_IMAGE/1424209064000.png"
+            },
+            {
+                "id": "08c882c2-f916-4613-9e6e-748d97b848e1",
+                "videoId": "3aabe63a-5b3f-48e5-8bc9-39cf931f4bb5",
+                "title": "10vor10 vom 16.02.2015",
+                "publishedDate": "2015-02-16T20:50:00.000Z",
+                "transcript": "transcripts/simple/08c882c2-f916-4613-9e6e-748d97b848e1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6f5fa1d7-28c8-4b1e-b376-beac162dc522/EPISODE_IMAGE/1424122305000.png"
+            },
+            {
+                "id": "926085a7-3f9b-4eb2-bb7b-0b91f9087ae2",
+                "videoId": "a1ceb935-26f0-4ff3-b55a-2c47dac9241c",
+                "title": "10vor10 vom 13.02.2015",
+                "publishedDate": "2015-02-13T20:50:20.000Z",
+                "transcript": "transcripts/simple/926085a7-3f9b-4eb2-bb7b-0b91f9087ae2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/127542e6-bd69-45f6-9306-a88f89c73fc4/EPISODE_IMAGE/1423862697000.png"
+            },
+            {
+                "id": "85df19a3-c995-4af1-b823-bdd9daf22383",
+                "videoId": "6c974a39-ab71-4e63-b555-f8d24f24351d",
+                "title": "10vor10 vom 12.02.2015",
+                "publishedDate": "2015-02-12T20:50:00.000Z",
+                "transcript": "transcripts/simple/85df19a3-c995-4af1-b823-bdd9daf22383.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c63ab922-617f-4cff-af11-645dca2a911a/EPISODE_IMAGE/1423777543000.png"
+            },
+            {
+                "id": "c9e5453c-4584-4a28-80a2-7a09aeff8ae3",
+                "videoId": "d0eaebe7-b26a-4ea3-bbc7-1ae89c6e944d",
+                "title": "10vor10 vom 11.02.2015",
+                "publishedDate": "2015-02-11T20:50:00.000Z",
+                "transcript": "transcripts/simple/c9e5453c-4584-4a28-80a2-7a09aeff8ae3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/93a9b3c9-3f80-4669-bb2f-25e3d0a3e43f/EPISODE_IMAGE/1423690144000.png"
+            },
+            {
+                "id": "f97e45a7-f6bf-4b37-865e-82cedcad45fc",
+                "videoId": "198887cf-8a92-4dbe-bab3-3b0f7f1c10f2",
+                "title": "10vor10 vom 10.02.2015",
+                "publishedDate": "2015-02-10T20:51:31.000Z",
+                "transcript": "transcripts/simple/f97e45a7-f6bf-4b37-865e-82cedcad45fc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b1682a92-0a3d-46ba-be55-2c39a5e11de8/EPISODE_IMAGE/1423604935000.png"
+            },
+            {
+                "id": "b909b704-14aa-4590-a8b8-8f1444a9ac0e",
+                "videoId": "bf6b616d-383b-4b0a-88d7-754163ea1a36",
+                "title": "10vor10 vom 09.02.2015",
+                "publishedDate": "2015-02-09T20:50:32.000Z",
+                "transcript": "transcripts/simple/b909b704-14aa-4590-a8b8-8f1444a9ac0e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7c278817-2861-4eb7-898d-520a16187f7d/EPISODE_IMAGE/1423517342000.png"
+            },
+            {
+                "id": "9c4fecd5-352d-4ee7-ad1e-02f59be5e4d8",
+                "videoId": "bcb8ddb1-17e9-4d41-b956-67b5b6890adf",
+                "title": "10vor10 vom 06.02.2015",
+                "publishedDate": "2015-02-06T20:50:00.000Z",
+                "transcript": "transcripts/simple/9c4fecd5-352d-4ee7-ad1e-02f59be5e4d8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d5bd3e17-6863-424a-b012-ffe26bc2b9db/EPISODE_IMAGE/1423257831000.png"
+            },
+            {
+                "id": "0870bc20-ec5d-4b12-8254-b96308a85b40",
+                "videoId": "d0aa72b0-5f42-46ba-9d19-ee371d9298cf",
+                "title": "10vor10 vom 05.02.2015",
+                "publishedDate": "2015-02-05T20:50:00.000Z",
+                "transcript": "transcripts/simple/0870bc20-ec5d-4b12-8254-b96308a85b40.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7c64f83c-6c0e-4ed4-a365-2fb4b832252a/EPISODE_IMAGE/1423173268000.png"
+            },
+            {
+                "id": "4aa90f2e-1a51-4260-81d8-87bcbf513b8f",
+                "videoId": "abd5f83f-53b9-43ba-9fdd-72b7580fc13b",
+                "title": "10vor10 vom 04.02.2015",
+                "publishedDate": "2015-02-04T20:50:05.000Z",
+                "transcript": "transcripts/simple/4aa90f2e-1a51-4260-81d8-87bcbf513b8f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/99a5af7e-912a-4040-8a54-eafaf502c0b5/EPISODE_IMAGE/1423086698000.png"
+            },
+            {
+                "id": "a2d7ff37-c709-4604-8068-19e863753a60",
+                "videoId": "eb01909e-9c62-495a-ae37-1b1229c6f161",
+                "title": "10vor10 vom 03.02.2015",
+                "publishedDate": "2015-02-03T20:50:00.000Z",
+                "transcript": "transcripts/simple/a2d7ff37-c709-4604-8068-19e863753a60.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e5a6a7c8-9a37-4027-8cdd-3adf4154888e/EPISODE_IMAGE/1422998857000.png"
+            },
+            {
+                "id": "f05c8dc1-deb9-4325-8ede-d524b1e32901",
+                "videoId": "10ded5e0-2bca-4399-ac48-5f21ac56d411",
+                "title": "10vor10 vom 02.02.2015",
+                "publishedDate": "2015-02-02T20:50:00.000Z",
+                "transcript": "transcripts/simple/f05c8dc1-deb9-4325-8ede-d524b1e32901.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cdd0af4d-786e-4ae9-b55e-f88ea956bd2a/EPISODE_IMAGE/1422912713000.png"
+            },
+            {
+                "id": "86e17dc1-17fb-461c-9c75-80f3011867cb",
+                "videoId": "84133690-edb9-49a1-add4-a34b656df1f3",
+                "title": "10vor10 vom 30.01.2015",
+                "publishedDate": "2015-01-30T20:50:25.000Z",
+                "transcript": "transcripts/simple/86e17dc1-17fb-461c-9c75-80f3011867cb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b5cca57d-2c24-49db-99ce-dcb5e28710c1/EPISODE_IMAGE/1422654612000.png"
+            },
+            {
+                "id": "ce467eb8-2193-4fc6-b569-da06ae105931",
+                "videoId": "c47da558-0a77-4927-bec5-02a862dcbc5c",
+                "title": "10vor10 vom 29.01.2015",
+                "publishedDate": "2015-01-29T20:50:00.000Z",
+                "transcript": "transcripts/simple/ce467eb8-2193-4fc6-b569-da06ae105931.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cdb95b8e-000d-4d72-8b55-9b4070bfa894/EPISODE_IMAGE/1422566773000.png"
+            },
+            {
+                "id": "566f1f28-5818-4f8d-b26c-f7f9ef054682",
+                "videoId": "ab842f6f-cef1-4dc2-8c1a-c8720715eaaf",
+                "title": "10vor10 vom 28.01.2015",
+                "publishedDate": "2015-01-28T20:50:35.000Z",
+                "transcript": "transcripts/simple/566f1f28-5818-4f8d-b26c-f7f9ef054682.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/74df01cc-05c5-47dc-acc8-abce6c228806/EPISODE_IMAGE/1422622115000.png"
+            },
+            {
+                "id": "6d454143-8812-4dff-81d6-4ccd9239cbab",
+                "videoId": "69c45fe2-7602-48cf-b75a-3f756dc42b3a",
+                "title": "10vor10 vom 27.01.2015",
+                "publishedDate": "2015-01-27T20:50:50.000Z",
+                "transcript": "transcripts/simple/6d454143-8812-4dff-81d6-4ccd9239cbab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/26631ff5-7cec-4f2a-94f2-c3513c75c1f7/EPISODE_IMAGE/1422535509000.png"
+            },
+            {
+                "id": "f19453d5-c477-409f-8a65-f012e3e00f7c",
+                "videoId": "43852a29-770a-4c27-951f-9d03addaf5f3",
+                "title": "10vor10 vom 26.01.2015",
+                "publishedDate": "2015-01-26T20:51:00.000Z",
+                "transcript": "transcripts/simple/f19453d5-c477-409f-8a65-f012e3e00f7c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7b11c1d8-1448-4364-ac65-b8b0d91132f6/EPISODE_IMAGE/1422535763000.png"
+            },
+            {
+                "id": "cab43b71-3415-4ba3-af7e-d5fc30e72c10",
+                "videoId": "7ae87b9c-9152-41dc-8bfc-7b46efc03676",
+                "title": "10vor10 vom 23.01.2015",
+                "publishedDate": "2015-01-23T20:51:00.000Z",
+                "transcript": "transcripts/simple/cab43b71-3415-4ba3-af7e-d5fc30e72c10.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/912816cb-5e40-4fc0-b590-28300f8be002/EPISODE_IMAGE/1422536749000.png"
+            },
+            {
+                "id": "3154b77f-e589-4782-adb4-fd76e4a5da8c",
+                "videoId": "71464138-b31d-469a-bea1-247ed4dccc46",
+                "title": "10vor10 vom 22.01.2015",
+                "publishedDate": "2015-01-22T20:50:20.000Z",
+                "transcript": "transcripts/simple/3154b77f-e589-4782-adb4-fd76e4a5da8c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/751eca40-85be-41b2-af17-d7a1e25ea4ff/EPISODE_IMAGE/1422538006000.png"
+            },
+            {
+                "id": "f9bc3840-e238-46f1-968a-35f7e6de95cb",
+                "videoId": "b131c9ec-3966-45fb-b9a3-d18f4218d17c",
+                "title": "10vor10 vom 21.01.2015",
+                "publishedDate": "2015-01-21T20:53:01.000Z",
+                "transcript": "transcripts/simple/f9bc3840-e238-46f1-968a-35f7e6de95cb.tsv"
+            },
+            {
+                "id": "b4529453-7c2f-4393-ba2d-0ab2d606adf5",
+                "videoId": "f49ee6ba-dbc5-4452-a495-d9d3f3e1037f",
+                "title": "10vor10 vom 20.01.2015",
+                "publishedDate": "2015-01-20T20:50:52.000Z",
+                "transcript": "transcripts/simple/b4529453-7c2f-4393-ba2d-0ab2d606adf5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/309061c4-831a-4460-b7e0-8508e460c355/EPISODE_IMAGE/1422539617000.png"
+            },
+            {
+                "id": "b089ae99-159b-41e8-93f3-feca8d6167eb",
+                "videoId": "aab1a8d1-8d3e-4a83-8180-a31fba5c9fd8",
+                "title": "10vor10 vom 19.01.2015",
+                "publishedDate": "2015-01-19T20:50:00.000Z",
+                "transcript": "transcripts/simple/b089ae99-159b-41e8-93f3-feca8d6167eb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f1dee341-0c01-45f8-83d0-6252aa301260/EPISODE_IMAGE/1422538507000.png"
+            },
+            {
+                "id": "5c339529-4fc0-4943-ad97-e073fdadb707",
+                "videoId": "8638bb78-7659-4d29-a601-97aee2db919a",
+                "title": "10vor10 vom 16.01.2015",
+                "publishedDate": "2015-01-16T20:50:00.000Z",
+                "transcript": "transcripts/simple/5c339529-4fc0-4943-ad97-e073fdadb707.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/061cab27-3189-415a-98bd-cf250b20c311/EPISODE_IMAGE/1422540938000.png"
+            },
+            {
+                "id": "19fc6a99-691a-4753-9567-75a3d7717938",
+                "videoId": "8ec7afb3-7f24-48e7-960b-1da9fb47607e",
+                "title": "10vor10 vom 15.01.2015",
+                "publishedDate": "2015-01-15T20:50:42.000Z",
+                "transcript": "transcripts/simple/19fc6a99-691a-4753-9567-75a3d7717938.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/80fbe335-0101-40d7-8051-554fc4e6aaff/EPISODE_IMAGE/1422541024000.png"
+            },
+            {
+                "id": "cc612b44-2105-43c5-a320-a16d84f1b449",
+                "videoId": "e2613fd9-06b3-4567-a60d-69f18defcc1d",
+                "title": "10vor10 vom 14.01.2015",
+                "publishedDate": "2015-01-14T20:50:10.000Z",
+                "transcript": "transcripts/simple/cc612b44-2105-43c5-a320-a16d84f1b449.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c969911f-38d6-4e4b-a73d-f8a22b24dc8e/EPISODE_IMAGE/1422540769000.png"
+            },
+            {
+                "id": "5ccbceae-cd09-485a-b478-4ce5ebf2937e",
+                "videoId": "c9e7cd13-3262-4de3-9733-d5d03c049351",
+                "title": "10vor10 vom 13.01.2015",
+                "publishedDate": "2015-01-13T20:50:30.000Z",
+                "transcript": "transcripts/simple/5ccbceae-cd09-485a-b478-4ce5ebf2937e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5c23d610-e677-4195-ac83-31f2dbf827fd/EPISODE_IMAGE/1422540693000.png"
+            },
+            {
+                "id": "946f04c0-93cd-4603-b7c6-f4537d4c2d1f",
+                "videoId": "5b25309c-6570-4a3e-ae2f-a70f3e45f046",
+                "title": "10vor10 vom 12.01.2015",
+                "publishedDate": "2015-01-12T20:50:00.000Z",
+                "transcript": "transcripts/simple/946f04c0-93cd-4603-b7c6-f4537d4c2d1f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2a8e1218-b7a5-490e-b0e9-66e60354c131/EPISODE_IMAGE/1422541852000.png"
+            },
+            {
+                "id": "aae59ba7-8237-403b-ba01-8c0af8c09680",
+                "videoId": "d1233089-e143-41d3-8113-3c2c8f942e1f",
+                "title": "10vor10 vom 09.01.2015",
+                "publishedDate": "2015-01-09T20:50:10.000Z",
+                "transcript": "transcripts/simple/aae59ba7-8237-403b-ba01-8c0af8c09680.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9d07874a-72ad-4aec-8741-9afe42d85d0b/EPISODE_IMAGE/1422542338000.png"
+            },
+            {
+                "id": "30dee519-c55d-4267-8460-fedaa79f780e",
+                "videoId": "15f95303-6a1e-4fa4-8eba-6131ca35d1a0",
+                "title": "10vor10 vom 08.01.2015",
+                "publishedDate": "2015-01-08T20:50:00.000Z",
+                "transcript": "transcripts/simple/30dee519-c55d-4267-8460-fedaa79f780e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a38960ec-61c9-4b66-a1a9-b4fba39704e1/EPISODE_IMAGE/1422543987000.png"
+            },
+            {
+                "id": "0a6d338c-b9f5-43b2-99bb-50bb8e328b36",
+                "videoId": "9488f554-1e06-41e1-a4f4-fdc4f0440f27",
+                "title": "10vor10 vom 07.01.2015",
+                "publishedDate": "2015-01-07T20:50:40.000Z",
+                "transcript": "transcripts/simple/0a6d338c-b9f5-43b2-99bb-50bb8e328b36.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/25eb4a12-2d9c-48a2-b1f9-c37461a4317d/EPISODE_IMAGE/1422545638000.png"
+            },
+            {
+                "id": "d9c02d3d-e340-462a-86ba-4aa29bce031b",
+                "videoId": "e7654910-58c2-4097-aed4-c3f1d044773f",
+                "title": "10vor10 vom 06.01.2015",
+                "publishedDate": "2015-01-06T20:51:40.000Z",
+                "transcript": "transcripts/simple/d9c02d3d-e340-462a-86ba-4aa29bce031b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2bd1b17b-a028-4066-beac-26fa61262643/EPISODE_IMAGE/1422543538000.png"
+            },
+            {
+                "id": "78b0533e-9972-4a26-81ea-8bf6677980f7",
+                "videoId": "2dfee294-631f-4106-aabe-51156661079b",
+                "title": "10vor10 vom 05.01.2015",
+                "publishedDate": "2015-01-05T20:50:00.000Z",
+                "transcript": "transcripts/simple/78b0533e-9972-4a26-81ea-8bf6677980f7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2e612cff-3536-470d-8497-41b2886d8a2e/EPISODE_IMAGE/1422543381000.png"
+            },
+            {
+                "id": "5c302029-35cf-4f4e-85ce-c80c87dcb3e0",
+                "videoId": "844c03bd-793e-4313-a85c-b4e79e548f2c",
+                "title": "10vor10 vom 02.01.2015",
+                "publishedDate": "2015-01-02T20:50:00.000Z",
+                "transcript": "transcripts/simple/5c302029-35cf-4f4e-85ce-c80c87dcb3e0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a634d201-2bdf-4c72-9e7b-7f053995efa6/EPISODE_IMAGE/1422544315000.png"
+            },
+            {
+                "id": "e5c909eb-77fe-466b-af52-50b8d21e9703",
+                "videoId": "e620b320-e9be-45f8-87bf-069126f92f42",
+                "title": "10vor10 vom 30.12.2014",
+                "publishedDate": "2014-12-30T20:50:47.000Z",
+                "transcript": "transcripts/simple/e5c909eb-77fe-466b-af52-50b8d21e9703.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9687d52b-a3cf-432b-9a7a-f0f49379b42f/EPISODE_IMAGE/1422546226000.png"
+            },
+            {
+                "id": "0b07b800-9de0-4f16-b891-32b7dd0756e6",
+                "videoId": "241b8aa1-0de1-422f-8d99-4ab5f89c213e",
+                "title": "10vor10 vom 29.12.2014",
+                "publishedDate": "2014-12-29T20:50:48.000Z",
+                "transcript": "transcripts/simple/0b07b800-9de0-4f16-b891-32b7dd0756e6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/73533ab3-a0a0-4c39-a25e-d46cf427b18c/EPISODE_IMAGE/1419889062000.png"
+            },
+            {
+                "id": "1c062fda-c1b3-47b5-bc2c-7978e707cc7b",
+                "videoId": "d724d5ea-d1ca-481d-830e-602b28d0f0dc",
+                "title": "10vor10 vom 23.12.2014",
+                "publishedDate": "2014-12-23T20:51:25.000Z",
+                "transcript": "transcripts/simple/1c062fda-c1b3-47b5-bc2c-7978e707cc7b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/30f45d36-702d-4739-9e5e-7fde0acfdc43/EPISODE_IMAGE/1419509708000.png"
+            },
+            {
+                "id": "5659fd1d-5768-46a4-acca-7c09c2ebddff",
+                "videoId": "ef929157-71c4-4dc7-b205-3b9045b65e55",
+                "title": "10vor10 vom 22.12.2014",
+                "publishedDate": "2014-12-22T20:50:59.000Z",
+                "transcript": "transcripts/simple/5659fd1d-5768-46a4-acca-7c09c2ebddff.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2476ca44-1371-4cc9-8436-1ee612028259/EPISODE_IMAGE/1419285305000.png"
+            },
+            {
+                "id": "22c4017e-627f-468d-81e1-823703c04dca",
+                "videoId": "26b24cdc-4f3f-42dc-9d69-38e0dd4db72c",
+                "title": "10vor10 vom 19.12.2014",
+                "publishedDate": "2014-12-19T20:50:00.000Z",
+                "transcript": "transcripts/simple/22c4017e-627f-468d-81e1-823703c04dca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/68c86a8c-8139-4a1e-a360-b262acdf5cee/EPISODE_IMAGE/1419025969000.png"
+            },
+            {
+                "id": "e0ba4f43-0807-4b49-bfca-72cf7c8593da",
+                "videoId": "f8db180d-99a4-4f41-96c0-2871388f5b5b",
+                "title": "10vor10 vom 18.12.2014",
+                "publishedDate": "2014-12-18T20:50:00.000Z",
+                "transcript": "transcripts/simple/e0ba4f43-0807-4b49-bfca-72cf7c8593da.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/614a2b94-c71c-47b3-ac81-5df89745abf7/EPISODE_IMAGE/1418938908000.png"
+            },
+            {
+                "id": "062dfade-76b5-4ce9-be30-7fe6183386c8",
+                "videoId": "526548d3-18ba-4dbb-9136-07625e390f43",
+                "title": "10vor10 vom 17.12.2014",
+                "publishedDate": "2014-12-17T20:51:23.000Z",
+                "transcript": "transcripts/simple/062dfade-76b5-4ce9-be30-7fe6183386c8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7bc495bc-bebf-493f-8271-9f258d4dc4a1/EPISODE_IMAGE/1418852735000.png"
+            },
+            {
+                "id": "c330e9e3-7de3-4d9b-83d7-278d83d264c4",
+                "videoId": "9d2b6858-75c5-4e97-a68c-eccb4465f1ec",
+                "title": "10vor10 vom 16.12.2014",
+                "publishedDate": "2014-12-16T20:52:00.000Z",
+                "transcript": "transcripts/simple/c330e9e3-7de3-4d9b-83d7-278d83d264c4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/03e050fe-ade4-4e62-842d-f9637fd5ea73/EPISODE_IMAGE/1418765198000.png"
+            },
+            {
+                "id": "b1db0a56-a94c-4969-87d6-b3472659dc04",
+                "videoId": "af4195bf-f12c-43bc-808a-75c511aa2b7a",
+                "title": "10vor10 vom 15.12.2014",
+                "publishedDate": "2014-12-15T20:50:20.000Z",
+                "transcript": "transcripts/simple/b1db0a56-a94c-4969-87d6-b3472659dc04.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d80ab329-9a55-4b14-be6c-bae626ccf9d6/EPISODE_IMAGE/1418678806000.png"
+            },
+            {
+                "id": "5ec88742-8d67-47f2-b8dd-65aaa2380be8",
+                "videoId": "b082cfcb-b032-4725-bfc9-d761399c5e0b",
+                "title": "10vor10 vom 12.12.2014",
+                "publishedDate": "2014-12-12T20:50:29.000Z",
+                "transcript": "transcripts/simple/5ec88742-8d67-47f2-b8dd-65aaa2380be8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/769f8cd2-e4ca-44dc-9a26-2a37a7cf0ca9/EPISODE_IMAGE/1418420379000.png"
+            },
+            {
+                "id": "ba8ff650-21e4-4e91-8773-7f1d750162b6",
+                "videoId": "59495d14-0aa7-49b5-8ba9-0e379e0442bd",
+                "title": "10vor10 vom 11.12.2014",
+                "publishedDate": "2014-12-11T20:50:00.000Z",
+                "transcript": "transcripts/simple/ba8ff650-21e4-4e91-8773-7f1d750162b6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6fd7680e-6c10-4b25-99c0-25551d8cac96/EPISODE_IMAGE/1418332933000.png"
+            },
+            {
+                "id": "b9f80a2d-75d5-47b3-b393-b006cd54fff7",
+                "videoId": "4ad09e85-f12c-41e8-a867-3ed280ec3b9b",
+                "title": "10vor10 vom 10.12.2014",
+                "publishedDate": "2014-12-10T20:50:43.000Z",
+                "transcript": "transcripts/simple/b9f80a2d-75d5-47b3-b393-b006cd54fff7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/df47c084-170f-44b1-bc64-77dd1fa0886b/EPISODE_IMAGE/1418248327000.png"
+            },
+            {
+                "id": "75e52f28-7986-4aae-afce-006875571bc5",
+                "videoId": "06f08044-2570-47f3-b29c-1dfdd3e0564c",
+                "title": "10vor10 vom 09.12.2014",
+                "publishedDate": "2014-12-09T20:51:36.000Z",
+                "transcript": "transcripts/simple/75e52f28-7986-4aae-afce-006875571bc5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/087a7657-2136-4681-a3da-0b07b662a7fa/EPISODE_IMAGE/1418160338000.png"
+            },
+            {
+                "id": "29709dae-70a2-4a05-8b11-e94504c430c4",
+                "videoId": "4d6089e5-a134-48d2-bdf6-70279082572a",
+                "title": "10vor10 vom 08.12.2014",
+                "publishedDate": "2014-12-08T20:50:00.000Z",
+                "transcript": "transcripts/simple/29709dae-70a2-4a05-8b11-e94504c430c4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/88225f94-c062-4514-a43c-42a9df6c9996/EPISODE_IMAGE/1418115216000.png"
+            },
+            {
+                "id": "1ec2f70e-912b-46e0-b18e-75922e235879",
+                "videoId": "8bea7c5b-0a5f-4b92-90e7-8542fcabe2a9",
+                "title": "10vor10 vom 05.12.2014",
+                "publishedDate": "2014-12-05T20:50:34.000Z",
+                "transcript": "transcripts/simple/1ec2f70e-912b-46e0-b18e-75922e235879.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2a1545a7-ead9-4d9b-a7c9-71426cd663c1/EPISODE_IMAGE/1417815419000.png"
+            },
+            {
+                "id": "868ce100-9712-4d29-8a08-c62981ba39c9",
+                "videoId": "e6a4dbca-7bd2-4064-bcc4-0b7a97ab5d56",
+                "title": "10vor10 vom 04.12.2014",
+                "publishedDate": "2014-12-04T20:50:20.000Z",
+                "transcript": "transcripts/simple/868ce100-9712-4d29-8a08-c62981ba39c9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2af5c228-b192-4873-9535-0372ffcd259f/EPISODE_IMAGE/1417729210000.png"
+            },
+            {
+                "id": "1a8bfd8c-8098-4963-a4ea-864e65f8c4e9",
+                "videoId": "cc6c221f-ab4b-4df8-9bf9-26d96adc3147",
+                "title": "10vor10 vom 03.12.2014",
+                "publishedDate": "2014-12-03T20:50:15.000Z",
+                "transcript": "transcripts/simple/1a8bfd8c-8098-4963-a4ea-864e65f8c4e9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/96b71fe6-fcd4-4b94-93f8-a8e1c779fa96/EPISODE_IMAGE/1418123834000.png"
+            },
+            {
+                "id": "3db2dabf-3f4d-46ce-b8f9-916fc1afa372",
+                "videoId": "c939145e-501d-455f-b452-8756b0540534",
+                "title": "10vor10 vom 02.12.2014",
+                "publishedDate": "2014-12-02T20:51:13.000Z",
+                "transcript": "transcripts/simple/3db2dabf-3f4d-46ce-b8f9-916fc1afa372.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0faf8768-c121-4413-8daa-1b34c88eb8e7/EPISODE_IMAGE/1417769506000.png"
+            },
+            {
+                "id": "f3a79982-35a1-4a05-8981-1fa469769be4",
+                "videoId": "3976608d-324d-43b2-86fb-d6b918da51ec",
+                "title": "10vor10 vom 01.12.2014",
+                "publishedDate": "2014-12-01T20:50:20.000Z",
+                "transcript": "transcripts/simple/f3a79982-35a1-4a05-8981-1fa469769be4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d973cfba-a53d-475d-819f-e9c225d34820/EPISODE_IMAGE/1417471670000.png"
+            },
+            {
+                "id": "3c131ffe-da0a-4f3a-8256-0ee63c0e5380",
+                "videoId": "25fcf9ab-5aeb-4675-b1f0-a5d3318577e2",
+                "title": "10vor10 vom 28.11.2014",
+                "publishedDate": "2014-11-28T20:51:25.000Z",
+                "transcript": "transcripts/simple/3c131ffe-da0a-4f3a-8256-0ee63c0e5380.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b5be4a1d-c90a-48b1-b6c9-eec0018c34a6/EPISODE_IMAGE/1417241093000.png"
+            },
+            {
+                "id": "205d62b6-28f4-4430-b369-289f3791034e",
+                "videoId": "bb603665-5983-47b2-8653-cd2942c8f0fb",
+                "title": "10vor10 vom 27.11.2014",
+                "publishedDate": "2014-11-27T20:50:00.000Z",
+                "transcript": "transcripts/simple/205d62b6-28f4-4430-b369-289f3791034e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1781f911-daec-4141-8de6-6199990aa2a1/EPISODE_IMAGE/1417153410000.png"
+            },
+            {
+                "id": "450d0e86-8707-4e3c-88e6-2a388fe3851b",
+                "videoId": "dfba583c-fb0d-4703-924e-9187f689bd1c",
+                "title": "10vor10 vom 26.11.2014",
+                "publishedDate": "2014-11-26T20:50:40.000Z",
+                "transcript": "transcripts/simple/450d0e86-8707-4e3c-88e6-2a388fe3851b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0fd42b0a-0272-4f3f-99a3-a1e4da2c491c/EPISODE_IMAGE/1417065696000.png"
+            },
+            {
+                "id": "671c30da-e55d-4a53-b85d-dac5a2c4b212",
+                "videoId": "7962037a-c011-416e-8b5d-46bbeab6a3e2",
+                "title": "10vor10 vom 25.11.2014",
+                "publishedDate": "2014-11-25T20:50:00.000Z",
+                "transcript": "transcripts/simple/671c30da-e55d-4a53-b85d-dac5a2c4b212.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/88f77f26-fd85-4f74-8733-e50aad6ba5ef/EPISODE_IMAGE/1416977994000.png"
+            },
+            {
+                "id": "416f72e8-dae0-460f-8f26-37c55cd716e6",
+                "videoId": "f9bef5df-2702-4b0f-af80-49db45a1e42b",
+                "title": "10vor10 vom 24.11.2014",
+                "publishedDate": "2014-11-24T20:50:00.000Z",
+                "transcript": "transcripts/simple/416f72e8-dae0-460f-8f26-37c55cd716e6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/130e3f81-ce3e-45c9-892e-0caa0f1b045a/EPISODE_IMAGE/1416890112000.png"
+            },
+            {
+                "id": "77c35b0d-d454-4dbd-80fc-501133ce2292",
+                "videoId": "619ead75-f944-44b0-bd5b-58bbff003cdf",
+                "title": "10vor10 vom 21.11.2014",
+                "publishedDate": "2014-11-21T20:51:39.000Z",
+                "transcript": "transcripts/simple/77c35b0d-d454-4dbd-80fc-501133ce2292.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d0e9cc28-51fe-4c9d-b76a-12b9d39bf6f9/EPISODE_IMAGE/1416625730000.png"
+            },
+            {
+                "id": "462970d4-59f6-4c9b-8dfb-8836914159c0",
+                "videoId": "79404cb3-1129-4268-b68b-25a80b0ada5f",
+                "title": "10vor10 vom 20.11.2014",
+                "publishedDate": "2014-11-20T20:50:56.000Z",
+                "transcript": "transcripts/simple/462970d4-59f6-4c9b-8dfb-8836914159c0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b38a75bf-56d3-4644-b9e3-dfa5bc5ad9ca/EPISODE_IMAGE/1416537645000.png"
+            },
+            {
+                "id": "b73120d1-9bd6-45da-ad09-cae6a63eb422",
+                "videoId": "e692b3e7-1a15-4665-b7c1-483b50535773",
+                "title": "10vor10 vom 19.11.2014",
+                "publishedDate": "2014-11-19T20:50:50.000Z",
+                "transcript": "transcripts/simple/b73120d1-9bd6-45da-ad09-cae6a63eb422.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d038212d-fc85-4e26-a70b-9311faa44b99/EPISODE_IMAGE/1416449253000.png"
+            },
+            {
+                "id": "2d7a9816-1a6e-4b57-9778-82a23278b295",
+                "videoId": "24a65408-c3b7-424f-a3a7-ca533ce04ae3",
+                "title": "10vor10 vom 18.11.2014",
+                "publishedDate": "2014-11-18T20:50:20.000Z",
+                "transcript": "transcripts/simple/2d7a9816-1a6e-4b57-9778-82a23278b295.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/06e4b1db-c944-48cf-ba9e-adbb51e048d8/EPISODE_IMAGE/1416360626000.png"
+            },
+            {
+                "id": "468a1252-f869-4cc2-abd0-167578fe18b7",
+                "videoId": "59b67a3e-36fd-4b21-a07a-d810df152ae7",
+                "title": "10vor10 vom 17.11.2014",
+                "publishedDate": "2014-11-17T20:50:05.000Z",
+                "transcript": "transcripts/simple/468a1252-f869-4cc2-abd0-167578fe18b7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8491517b-2338-4389-8da1-555fdb7e91ce/EPISODE_IMAGE/1416272616000.png"
+            },
+            {
+                "id": "1388aa06-05b4-490a-9057-87afdcdc027c",
+                "videoId": "9cb603fb-99f0-459a-aba8-116cd8956b3d",
+                "title": "10vor10 vom 14.11.2014",
+                "publishedDate": "2014-11-14T20:50:03.000Z",
+                "transcript": "transcripts/simple/1388aa06-05b4-490a-9057-87afdcdc027c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2b6871c6-0022-46dd-bcec-9c8c9675ad5e/EPISODE_IMAGE/1416006396000.png"
+            },
+            {
+                "id": "e98bfb57-374b-4cfb-82c3-a6b5896fb0d7",
+                "videoId": "0bfbb063-b122-4f7c-8998-8f05524bfaaf",
+                "title": "10vor10 vom 13.11.2014",
+                "publishedDate": "2014-11-13T20:50:00.000Z",
+                "transcript": "transcripts/simple/e98bfb57-374b-4cfb-82c3-a6b5896fb0d7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7074f78b-f8fc-4c7e-8c62-f0376d6bffd4/EPISODE_IMAGE/1415917354000.png"
+            },
+            {
+                "id": "f7bed7e8-18dc-4a1e-ab6a-85d0bacc3a65",
+                "videoId": "889ec80a-6161-4dbf-8a45-def8947c7d14",
+                "title": "10vor10 vom 12.11.2014",
+                "publishedDate": "2014-11-12T20:51:06.000Z",
+                "transcript": "transcripts/simple/f7bed7e8-18dc-4a1e-ab6a-85d0bacc3a65.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/42d7f7ec-e7e3-42be-a9c9-e3473fb9d3b1/EPISODE_IMAGE/1415828592000.png"
+            },
+            {
+                "id": "0388df9a-01eb-4ff1-86ed-50d9465b4c65",
+                "videoId": "4d27fa3f-51ae-4ac8-85cb-4100695fafa5",
+                "title": "10vor10 vom 11.11.2014",
+                "publishedDate": "2014-11-11T20:50:44.000Z",
+                "transcript": "transcripts/simple/0388df9a-01eb-4ff1-86ed-50d9465b4c65.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4541fc4d-9a78-457f-b290-b802d9ccd13c/EPISODE_IMAGE/1415754641000.png"
+            },
+            {
+                "id": "6d3f77fd-e6a6-44df-b970-6f7799e3e000",
+                "videoId": "d5e7923c-ebee-4d51-8f37-941f0043e60c",
+                "title": "10vor10 vom 10.11.2014",
+                "publishedDate": "2014-11-10T20:50:00.000Z",
+                "transcript": "transcripts/simple/6d3f77fd-e6a6-44df-b970-6f7799e3e000.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e3e14576-609a-40c1-b863-a290bebfc4e0/EPISODE_IMAGE/1415666050000.png"
+            },
+            {
+                "id": "644edfa0-ab1b-4871-bf23-cf8c944ea5e9",
+                "videoId": "407171dd-af42-4992-ad2d-26b29a8e644e",
+                "title": "10vor10 vom 07.11.2014",
+                "publishedDate": "2014-11-07T20:50:34.000Z",
+                "transcript": "transcripts/simple/644edfa0-ab1b-4871-bf23-cf8c944ea5e9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/840ba8a4-8026-4742-b16d-db61745a1f83/EPISODE_IMAGE/1415399950000.png"
+            },
+            {
+                "id": "9eecf5e0-dad4-4f0f-a7e3-a3de6f015afa",
+                "videoId": "e67b1874-706f-435b-a23d-aa43d8fd982e",
+                "title": "10vor10 vom 06.11.2014",
+                "publishedDate": "2014-11-06T20:50:42.000Z",
+                "transcript": "transcripts/simple/9eecf5e0-dad4-4f0f-a7e3-a3de6f015afa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/742a9ad9-8d87-432f-a734-0505afb8b09e/EPISODE_IMAGE/1415311208000.png"
+            },
+            {
+                "id": "ba658ec8-5035-4074-979f-52909838d03a",
+                "videoId": "7db1840d-6a1f-4581-94ab-f644e1bfc35c",
+                "title": "10vor10 vom 05.11.2014",
+                "publishedDate": "2014-11-05T20:52:21.000Z",
+                "transcript": "transcripts/simple/ba658ec8-5035-4074-979f-52909838d03a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d457efd6-1dd0-4c3c-bc61-279646c5e47a/EPISODE_IMAGE/1415249744000.png"
+            },
+            {
+                "id": "fb8b4de2-04fe-4577-bc51-01d26514e5e4",
+                "videoId": "3c1cee61-86ae-44bd-ab93-7e48e7ae04e5",
+                "title": "10vor10 vom 04.11.2014",
+                "publishedDate": "2014-11-04T20:51:19.000Z",
+                "transcript": "transcripts/simple/fb8b4de2-04fe-4577-bc51-01d26514e5e4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/18268e9f-270e-4855-b3c7-4a3c27ce7484/EPISODE_IMAGE/1415161093000.png"
+            },
+            {
+                "id": "ebc60961-6261-468e-a22a-8be09c9160a8",
+                "videoId": "1cde5a30-5145-4b28-8394-5697d0411e6d",
+                "title": "10vor10 vom 03.11.2014",
+                "publishedDate": "2014-11-03T20:50:36.000Z",
+                "transcript": "transcripts/simple/ebc60961-6261-468e-a22a-8be09c9160a8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e07e0b28-b7ac-4759-8878-2fa6a163f4a2/EPISODE_IMAGE/1415096205000.png"
+            },
+            {
+                "id": "21cefbfd-9212-4af5-b7a1-de6320eb1ae6",
+                "videoId": "10b1595d-d2db-412a-bf7e-fcb19961abfa",
+                "title": "10vor10 vom 31.10.2014",
+                "publishedDate": "2014-10-31T20:50:36.000Z",
+                "transcript": "transcripts/simple/21cefbfd-9212-4af5-b7a1-de6320eb1ae6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0e986f36-1abe-47d4-9d9e-e4ead596cd52/EPISODE_IMAGE/1414805956000.png"
+            },
+            {
+                "id": "c01e779b-d56e-4760-9b2b-65cf5d648f59",
+                "videoId": "384dcab7-2968-4802-a2a9-ba5ec55df516",
+                "title": "10vor10 vom 30.10.2014",
+                "publishedDate": "2014-10-30T20:51:10.000Z",
+                "transcript": "transcripts/simple/c01e779b-d56e-4760-9b2b-65cf5d648f59.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1ca50686-98e0-4fc2-b294-61e102828285/EPISODE_IMAGE/1414717093000.png"
+            },
+            {
+                "id": "a68649f5-e57a-443d-a5d5-f561b2151ec9",
+                "videoId": "be3f28c0-04b0-4629-9844-aec19b912b51",
+                "title": "10vor10 vom 29.10.2014",
+                "publishedDate": "2014-10-29T20:50:54.000Z",
+                "transcript": "transcripts/simple/a68649f5-e57a-443d-a5d5-f561b2151ec9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b8350a3d-c372-43f4-83ef-23f65e1432c1/EPISODE_IMAGE/1414628233000.png"
+            },
+            {
+                "id": "79ba1321-79c4-444c-a83f-59dbdc8bf6eb",
+                "videoId": "4649dae8-c400-43d5-a5c0-6351ce54a43a",
+                "title": "10vor10 vom 28.10.2014",
+                "publishedDate": "2014-10-28T20:51:19.000Z",
+                "transcript": "transcripts/simple/79ba1321-79c4-444c-a83f-59dbdc8bf6eb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/905cb785-ac8d-49b1-aa3a-685139574cde/EPISODE_IMAGE/1414539322000.png"
+            },
+            {
+                "id": "56ac40bf-ece2-4eea-8436-495aba7a9b7e",
+                "videoId": "69e073a2-8c70-42e0-90c0-ebc6eb60fa0d",
+                "title": "10vor10 vom 27.10.2014",
+                "publishedDate": "2014-10-27T20:50:00.000Z",
+                "transcript": "transcripts/simple/56ac40bf-ece2-4eea-8436-495aba7a9b7e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b65a8b87-d991-4a5d-aa48-70251df505ed/EPISODE_IMAGE/1414450672000.png"
+            },
+            {
+                "id": "67b9b66f-286e-4eaa-96ea-5e8a0ec32ee6",
+                "videoId": "8e5a68a0-7a70-4fb8-939d-6f12635ea6c0",
+                "title": "10vor10 vom 24.10.2014",
+                "publishedDate": "2014-10-24T19:50:00.000Z",
+                "transcript": "transcripts/simple/67b9b66f-286e-4eaa-96ea-5e8a0ec32ee6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/30219135-90eb-4671-8cbe-b15dfc864ec3/EPISODE_IMAGE/1414201847000.png"
+            },
+            {
+                "id": "54eee5f1-6b60-47a8-9f7d-bdcb2dff22f2",
+                "videoId": "27ac7929-b83c-464f-8b7c-44b239fb427f",
+                "title": "10vor10 vom 23.10.2014",
+                "publishedDate": "2014-10-23T19:50:31.000Z",
+                "transcript": "transcripts/simple/54eee5f1-6b60-47a8-9f7d-bdcb2dff22f2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bcc26107-9bcb-4c83-ac93-b4e4e40406a5/EPISODE_IMAGE/1414113223000.png"
+            },
+            {
+                "id": "72f8e483-7049-452a-813e-60a1962ccd56",
+                "videoId": "3457e32e-0caa-4098-9311-4d13f7f25521",
+                "title": "10vor10 vom 22.10.2014",
+                "publishedDate": "2014-10-22T19:51:04.000Z",
+                "transcript": "transcripts/simple/72f8e483-7049-452a-813e-60a1962ccd56.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/72ec90e9-67f8-4296-92c4-be70aeb98be5/EPISODE_IMAGE/1414049715000.png"
+            },
+            {
+                "id": "e4df7e81-8368-4b51-a0b0-235b0412b741",
+                "videoId": "8d28ad97-f398-46a2-a95d-aae688c74411",
+                "title": "10vor10 vom 21.10.2014",
+                "publishedDate": "2014-10-21T19:50:39.000Z",
+                "transcript": "transcripts/simple/e4df7e81-8368-4b51-a0b0-235b0412b741.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f5a15611-5ca7-40a4-aa99-907108a1b917/EPISODE_IMAGE/1413936286000.png"
+            },
+            {
+                "id": "d3d888ce-cbe1-44b0-afd1-c62e79319eaf",
+                "videoId": "306adfa6-96b5-4c1c-9105-e46b7ac0cedf",
+                "title": "10vor10 vom 20.10.2014",
+                "publishedDate": "2014-10-20T19:51:03.000Z",
+                "transcript": "transcripts/simple/d3d888ce-cbe1-44b0-afd1-c62e79319eaf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5cb836f1-02c6-47db-b073-cc3911681e32/EPISODE_IMAGE/1413847600000.png"
+            },
+            {
+                "id": "61bae87a-9ff3-4407-b5d6-0669f05c939d",
+                "videoId": "89decf15-dd79-4fe8-b777-daea0a1c2a74",
+                "title": "10vor10 vom 17.10.2014",
+                "publishedDate": "2014-10-17T19:50:26.000Z",
+                "transcript": "transcripts/simple/61bae87a-9ff3-4407-b5d6-0669f05c939d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/67abba9d-c995-4585-bf02-6c0b2a1357ec/EPISODE_IMAGE/1413582273000.png"
+            },
+            {
+                "id": "0f5770ff-aba9-4b69-b560-8ccf3c5b9a93",
+                "videoId": "9b2aa57d-abd4-4cd4-83e2-ce41c7e8f298",
+                "title": "10vor10 vom 16.10.2014",
+                "publishedDate": "2014-10-16T19:51:20.000Z",
+                "transcript": "transcripts/simple/0f5770ff-aba9-4b69-b560-8ccf3c5b9a93.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2f93d68b-adef-4ec5-8861-f8b8254ae126/EPISODE_IMAGE/1413493778000.png"
+            },
+            {
+                "id": "e19cd258-e96e-4f41-aba5-50bb945fe391",
+                "videoId": "bad1258c-3494-4a1b-964e-cfc4b7ccbadf",
+                "title": "10vor10 vom 15.10.2014",
+                "publishedDate": "2014-10-15T19:50:52.000Z",
+                "transcript": "transcripts/simple/e19cd258-e96e-4f41-aba5-50bb945fe391.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/590cd4a9-9637-450f-8cf0-de2f08be5fce/EPISODE_IMAGE/1413449432000.png"
+            },
+            {
+                "id": "04d22871-0f3d-4999-b6d9-89d24c2131ab",
+                "videoId": "36f6f9da-657c-4d79-80ad-d6559ff3586d",
+                "title": "10vor10 vom 14.10.2014",
+                "publishedDate": "2014-10-14T19:50:00.000Z",
+                "transcript": "transcripts/simple/04d22871-0f3d-4999-b6d9-89d24c2131ab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f3140598-fd75-45b3-9514-a5ca089586b2/EPISODE_IMAGE/1413360835000.png"
+            },
+            {
+                "id": "cc71a734-f593-4308-b25c-55de45da60ed",
+                "videoId": "925ec96c-c7ef-467e-9e22-9ea0e1ecf42e",
+                "title": "10vor10 vom 13.10.2014",
+                "publishedDate": "2014-10-13T19:50:39.000Z",
+                "transcript": "transcripts/simple/cc71a734-f593-4308-b25c-55de45da60ed.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f0872cba-a326-4561-b510-74f9eb3f689c/EPISODE_IMAGE/1413233677000.png"
+            },
+            {
+                "id": "da028cc7-a4ff-4d6a-a5c2-3ccd54fdbd24",
+                "videoId": "9ed4b028-16b4-453c-9a82-9c6123a7cd30",
+                "title": "10vor10 vom 10.10.2014",
+                "publishedDate": "2014-10-10T19:50:00.000Z",
+                "transcript": "transcripts/simple/da028cc7-a4ff-4d6a-a5c2-3ccd54fdbd24.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8e4555b1-88f1-403d-997a-e2e4f4dcd394/EPISODE_IMAGE/1413006780000.png"
+            },
+            {
+                "id": "efb9a52f-5e0f-4b98-9ecd-c52b3aa7448b",
+                "videoId": "255f3ce2-88a6-4888-8564-54b189542d95",
+                "title": "10vor10 vom 09.10.2014",
+                "publishedDate": "2014-10-09T19:51:03.000Z",
+                "transcript": "transcripts/simple/efb9a52f-5e0f-4b98-9ecd-c52b3aa7448b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b58db514-cc8c-4d4e-8a18-24b8200324fd/EPISODE_IMAGE/1412918061000.png"
+            },
+            {
+                "id": "5f25e115-d63c-431d-8d5e-0ca71a497f7e",
+                "videoId": "e801f56f-d475-4049-8b2c-0956859b580d",
+                "title": "10vor10 vom 08.10.2014",
+                "publishedDate": "2014-10-08T19:50:41.000Z",
+                "transcript": "transcripts/simple/5f25e115-d63c-431d-8d5e-0ca71a497f7e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9cbe5548-3d90-4a94-93b9-73fa8cf3696f/EPISODE_IMAGE/1412829651000.png"
+            },
+            {
+                "id": "e0dd180f-3b7d-42dd-a653-8d72195d292a",
+                "videoId": "8152b342-d38e-41c9-bcb9-0bb5e138fb44",
+                "title": "10vor10 vom 07.10.2014",
+                "publishedDate": "2014-10-07T19:51:40.000Z",
+                "transcript": "transcripts/simple/e0dd180f-3b7d-42dd-a653-8d72195d292a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ae04986f-950a-44b5-938d-04c044d882cd/EPISODE_IMAGE/1412741042000.png"
+            },
+            {
+                "id": "2fae1b7a-702f-4ee8-95d3-b00984f7f68a",
+                "videoId": "b137cf24-2e68-4443-87c6-75e98a67d77a",
+                "title": "10vor10 vom 06.10.2014",
+                "publishedDate": "2014-10-06T19:50:37.000Z",
+                "transcript": "transcripts/simple/2fae1b7a-702f-4ee8-95d3-b00984f7f68a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d564d710-6d04-4f1f-a20c-75d9a090deb9/EPISODE_IMAGE/1412652385000.png"
+            },
+            {
+                "id": "e9c1a6df-0a75-4746-85c5-0ef84b4f2bab",
+                "videoId": "1dd8a3ce-f0a0-495b-a88f-08ff8c00dfee",
+                "title": "10vor10 vom 03.10.2014",
+                "publishedDate": "2014-10-03T19:50:01.000Z",
+                "transcript": "transcripts/simple/e9c1a6df-0a75-4746-85c5-0ef84b4f2bab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1c6c4dcb-de58-40f5-95f7-eab5e23c1508/EPISODE_IMAGE/1412386825000.png"
+            },
+            {
+                "id": "213f71cb-6e32-49ad-a175-e577f0a323aa",
+                "videoId": "fc0da6e0-17a8-4102-817a-80725e0a70c1",
+                "title": "10vor10 vom 02.10.2014",
+                "publishedDate": "2014-10-02T19:50:00.000Z",
+                "transcript": "transcripts/simple/213f71cb-6e32-49ad-a175-e577f0a323aa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c126b551-4213-42da-8f4e-98781fbe12df/EPISODE_IMAGE/1418290256000.png"
+            },
+            {
+                "id": "8ceaf20f-3a14-4751-94ae-2c514c1d046c",
+                "videoId": "6d15945c-03c6-43d4-8d97-6848582ed62f",
+                "title": "10vor10 vom 01.10.2014",
+                "publishedDate": "2014-10-01T19:50:46.000Z",
+                "transcript": "transcripts/simple/8ceaf20f-3a14-4751-94ae-2c514c1d046c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4489977d-fe58-4932-9899-e32c33b73ca8/EPISODE_IMAGE/1412209935000.png"
+            },
+            {
+                "id": "f7203f5a-f2d4-4088-a424-d7e5f677e8f3",
+                "videoId": "67a2ec33-e051-4d84-a256-162a4b41570d",
+                "title": "10vor10 vom 30.09.2014",
+                "publishedDate": "2014-09-30T19:50:35.000Z",
+                "transcript": "transcripts/simple/f7203f5a-f2d4-4088-a424-d7e5f677e8f3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0661e88c-fb09-4be3-b4ae-424a5652ee11/EPISODE_IMAGE/1412121569000.png"
+            },
+            {
+                "id": "967b21f0-17f4-4eb7-b3e0-435f4e49849d",
+                "videoId": "a9148753-ecbe-478a-b3b9-b0b96714b59b",
+                "title": "10vor10 vom 29.09.2014",
+                "publishedDate": "2014-09-29T19:50:00.000Z",
+                "transcript": "transcripts/simple/967b21f0-17f4-4eb7-b3e0-435f4e49849d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b5b3d662-14a7-4b6c-a9e9-38a51414b3fc/EPISODE_IMAGE/1412033030000.png"
+            },
+            {
+                "id": "b087e129-41c9-4286-bdb7-9cc7fc829715",
+                "videoId": "62cb5a9e-81e4-4755-b685-37cbd8a18b3c",
+                "title": "10vor10 vom 26.09.2014",
+                "publishedDate": "2014-09-26T19:50:10.000Z",
+                "transcript": "transcripts/simple/b087e129-41c9-4286-bdb7-9cc7fc829715.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/db6387f6-b422-4a24-8572-187634d5b016/EPISODE_IMAGE/1411767596000.png"
+            },
+            {
+                "id": "975dbfe3-6cb0-461f-848b-89f09f744092",
+                "videoId": "21136f2a-d8cc-4fba-a3bd-f9b873863376",
+                "title": "10vor10 vom 25.09.2014",
+                "publishedDate": "2014-09-25T19:50:00.000Z",
+                "transcript": "transcripts/simple/975dbfe3-6cb0-461f-848b-89f09f744092.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/96d93c6a-eeae-4e04-9514-54ace8d8e600/EPISODE_IMAGE/1411679098000.png"
+            },
+            {
+                "id": "5c9cbf73-26ea-416c-9d1e-ae9efa562f18",
+                "videoId": "feffe37e-b00b-4989-be0c-e85165b5ed93",
+                "title": "10vor10 vom 24.09.2014",
+                "publishedDate": "2014-09-24T19:50:37.000Z",
+                "transcript": "transcripts/simple/5c9cbf73-26ea-416c-9d1e-ae9efa562f18.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0cd8a058-c848-4f17-b536-a9c53a092f43/EPISODE_IMAGE/1411634728000.png"
+            },
+            {
+                "id": "3359e6e6-fbc4-441f-beab-c30f64d7c720",
+                "videoId": "8f578e21-8717-4887-8533-1500e3b4d0cf",
+                "title": "10vor10 vom 23.09.2014",
+                "publishedDate": "2014-09-23T19:50:11.000Z",
+                "transcript": "transcripts/simple/3359e6e6-fbc4-441f-beab-c30f64d7c720.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/be089e06-4907-4a6d-9bd7-4b52c64801c8/EPISODE_IMAGE/1411546153000.png"
+            },
+            {
+                "id": "6c413b9e-ec5a-4887-8425-6a1acb3e3f27",
+                "videoId": "9b1c05d7-07c3-4a81-bfc3-8d00db2e5982",
+                "title": "10vor10 vom 22.09.2014",
+                "publishedDate": "2014-09-22T19:50:42.000Z",
+                "transcript": "transcripts/simple/6c413b9e-ec5a-4887-8425-6a1acb3e3f27.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/43b5dfe5-459d-4049-9538-e6e7adb8b880/EPISODE_IMAGE/1411457679000.png"
+            },
+            {
+                "id": "b8525287-c7d2-4f0e-b8c3-4709c29d08e9",
+                "videoId": "a0ad0966-f09e-4f75-b810-42b7c775b034",
+                "title": "10vor10 vom 19.09.2014",
+                "publishedDate": "2014-09-19T19:50:56.000Z",
+                "transcript": "transcripts/simple/b8525287-c7d2-4f0e-b8c3-4709c29d08e9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/676875ec-fac7-4de9-95d6-f23fd636c81e/EPISODE_IMAGE/1411192010000.png"
+            },
+            {
+                "id": "3f3228c8-6a88-4f7b-a919-a6695a50ea7f",
+                "videoId": "24545e5a-f0cc-4a56-8e47-3227266ffb0f",
+                "title": "10vor10 vom 18.09.2014",
+                "publishedDate": "2014-09-18T19:50:20.000Z",
+                "transcript": "transcripts/simple/3f3228c8-6a88-4f7b-a919-a6695a50ea7f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4d443e28-39ff-4df5-b88b-5d23bc1fc2f3/EPISODE_IMAGE/1411103374000.png"
+            },
+            {
+                "id": "142c8a57-1e19-4049-88c0-632ce0a90d92",
+                "videoId": "809cd1fd-0d1b-4048-ad85-3c0cddc5f6cb",
+                "title": "10vor10 vom 17.09.2014",
+                "publishedDate": "2014-09-17T19:51:34.000Z",
+                "transcript": "transcripts/simple/142c8a57-1e19-4049-88c0-632ce0a90d92.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/81975e33-000a-4c2c-a052-d3d854f9aa33/EPISODE_IMAGE/1411014813000.png"
+            },
+            {
+                "id": "0ec723ce-0e0a-4289-8475-29d5803a6427",
+                "videoId": "c1f68290-6c7e-4333-96c9-c89cad580879",
+                "title": "10vor10 vom 16.09.2014",
+                "publishedDate": "2014-09-16T19:50:00.000Z",
+                "transcript": "transcripts/simple/0ec723ce-0e0a-4289-8475-29d5803a6427.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/629ddf9d-a8d3-4d66-be2d-1ecaa3a27919/EPISODE_IMAGE/1410926115000.png"
+            },
+            {
+                "id": "d9e61101-a73d-4aa1-bea2-f0446f960760",
+                "videoId": "c5a3c95f-98a2-4cf1-a047-e882cff6a8af",
+                "title": "10vor10 vom 15.09.2014",
+                "publishedDate": "2014-09-15T19:50:42.000Z",
+                "transcript": "transcripts/simple/d9e61101-a73d-4aa1-bea2-f0446f960760.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b4ef6485-350c-4f4a-bd62-bdad969f1fcc/EPISODE_IMAGE/1410834426000.png"
+            },
+            {
+                "id": "be3b37ba-1e25-4fa9-a3c6-cf73e003685c",
+                "videoId": "407a41c5-d664-49b1-8598-d0a67fe9f3a1",
+                "title": "10vor10 vom 12.09.2014",
+                "publishedDate": "2014-09-12T19:50:40.000Z",
+                "transcript": "transcripts/simple/be3b37ba-1e25-4fa9-a3c6-cf73e003685c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/14f90b78-033c-4b55-b6fb-e92e75be3961/EPISODE_IMAGE/1410569164000.png"
             }
         ]
     },
@@ -10235,6 +11569,13 @@
                 "publishedDate": "2014-04-03T18:08:25.000Z",
                 "transcript": "transcripts/simple/d2e20200-cadc-4432-b89f-106e3d9b0ac5.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/0a4b5fa7-2223-4ba3-8076-d029a5200288/EPISODE_IMAGE/1396576404000.png"
+            },
+            {
+                "id": "9ec4343c-2111-4c3c-8d44-b4e9dc5f6653",
+                "videoId": "2e8325e5-c819-406c-8348-a3fc0480c1db",
+                "title": "DOK vom 20.05.2015",
+                "publishedDate": "2015-05-20T20:56:46.000Z",
+                "transcript": "transcripts/simple/9ec4343c-2111-4c3c-8d44-b4e9dc5f6653.tsv"
             }
         ]
     }
