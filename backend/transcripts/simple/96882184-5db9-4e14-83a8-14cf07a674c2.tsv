@@ -1,0 +1,620 @@
+start	end	duration	text
+28530	30570	2040	MIT TELETEXT-UNTERTITELUNG
+31430	34130	2700	"Willkommen zu ""Einstein"". Schön, dass Sie dabei sind."
+34320	36410	2090	Die Schweiz ist Weltmeister im Zugfahren.
+36530	38090	1560	In keinem anderen Land
+38320	40850	2530	ist das Schienennetz so dicht befahren wie bei uns.
+41080	42980	1900	Da lohnt es sich, darüber nachzudenken,
+43140	45380	2240	wie man dabei künftig Energie sparen könnte.
+46540	48700	2160	Die grüne Welle auf den Schienen:
+48910	52620	3710	Wie die SBB Tausende ungeplante Stopps bei Signalen verhindern
+52830	53220	390	und so deutlich weniger Energie verbrauchen will.
+57100	62100	5000	Wenn wir einen 1'000 t schweren Güterzug nicht anhalten müssen,
+62220	64459.99999999999	2240	spart das so viel Energie,
+64680.00000000001	68180	3500	wie ein Haushalt in einer Woche Strom verbraucht - ungefähr.
+69450	71580	2130	Trick gegen Schädlinge:
+71700	74300	2600	Wie die Maispflanze Insekten anlockt,
+74420	76500	2080	die Pflanzenschädlinge angreifen
+77680	81580	3900	und wie dieser Mechanismus helfen soll, Pestizide zu ersetzen.
+83090	83220	130	Die Schweiz, ein Schlarattenland:
+85700	89740	4040	Wenn es zu viele werden, müssen Ratten rigoros bekämpft werden.
+91100	93780	2680	Ich darf natürlich keine Körner verschütten.
+93940	97380	3440	Wenn die Vögel sie fressen, fallen die auch vom Dach.
+101080	103140	2060	Für viele Zugpassagiere ist es ein Ärger,
+103400	107020.00000000001	3620	wenn der Zug mitten auf der Strecke für eine gewisse Zeit anhalten muss
+107180	109900	2720	und man mit etwas Pech noch den Anschluss verpasst.
+110000	113020.00000000001	3020	Der häufigste Grund für so einen Halt ist ein anderer Zug,
+113050	113270.00000000001	220	der sonst in die Quere kommen würde.
+115110	117670	2560	Jeden Tag kommt es auf dem Schweizer Schienennetz
+117759.99999999999	119950	2190	zu etwa 2'000 ungeplanten Stopps.
+120040	124590	4550	Diese kosten nicht nur Nerven, sondern die SBB auch viel Geld,
+124790	128110.00000000001	3320	denn wenn ein tonnenschwerer Zug auf Null bremsen
+128220	128270.00000000001	50	und dann wieder voll beschleunigen muss,
+131039.99999999999	133760	2720	verpufft er viel Energie. Also, wer bremst, verliert.
+133930	136560	2630	Wie man ungeplanten Stopps verhindern kann
+136740	139840	3100	und ob dadurch die Züge pünktlicher werden:
+144360	147480	3120	Im Intercity von Zürich nach St. Gallen.
+147680	152120	4440	Ein Tablett im Führerstand ist seit Anfang Jahr Standard bei der SBB.
+152250	154360	2110	Es ist Teil des Konzepts grüne Welle,
+154540	157800	3260	im Fachjargon adaptive Lenkung ADL genannt.
+157970	158280	310	Kurzes Piepsignal Jetzt ist die Meldung gekommen.
+160780	163760	2980	Die optimale Geschwindigkeit wäre 80 km/h.
+163940	167480	3540	Jetzt fahren wir die maximale Geschwindigkeit, 115.
+167620	169160	1540	Ich werde jetzt ...
+170250	173360	3110	... leicht elektrisch auf 80 km/h bremsen.
+174560	176840	2280	Das ist vorausschauend.
+177040	178960	1920	Der Fahrdienstleiter sieht mehr als ich.
+179130	180960	1830	Ich sehe nur bis zum nächsten Signal.
+181090	183060	1970	Der Fahrdienstleiter weiss,
+183210	186790	3580	dass vorne ein Zug ist, der langsamer fährt.
+186890	188390	1500	Er kann so einen Signalhalt vermeiden,
+189770	192430	2660	der viel mehr Energie verbrauchen würde -
+192530	195910	3380	v.a. die Beschleunigung nach dem Halt, das Anfahren.
+197490	201950	4460	Je flüssiger Züge fahren können, desto sparsamer sind sie unterwegs.
+202090	203310	1220	Bei der hohen Netzauslastung eine Herausforderung.
+205050	208210	3160	Jedes Lichtsignal sendet eine Nachricht an die Zentrale,
+208329.99999999997	210290	1960	wenn ein Zug durchfährt.
+210450	214010	3560	So lassen sich Position, Geschwindigkeit und Verspätung
+214110	216170.00000000003	2060	jedes einzelnen Zuges ermitteln.
+217040	218290	1250	Die Betriebszentrale Ost bei Zürich.
+219010	221340	2330	4 solcher Zentralen gibt es in der Schweiz.
+221500	224900	3400	Sie überwachen und steuern den kompletten Zugbetrieb.
+225050	227710	2660	Neu ist hier die Software der grünen Welle.
+227900	232190	4290	Jede Sekunde analysiert diese 5'000 Parameter und erstellt eine Prognose.
+232380	233310	930	Hier beispielsweise,
+234480	237750	3270	wo die Züge zwischen Zürich und Schaffhausen unterwegs sind
+237840	240310	2470	und wann sie sich wo kreuzen werden.
+240540	243870	3330	Der Disponent erkennt so im Voraus potenzielle Konflikte,
+244080	247470	3390	z.B. einen Kreuzungspunkt mit einem anderen, verspäteten Zug.
+247610	248350	740	Wir haben gerade ein Beispiel für einen Konflikt.
+250850	254230	3380	Und zwar sind das 2 Schnellzüge,
+254450	258470.00000000003	4020	die sich auf der Strecke zwischen Oerlikon und Schaffhausen treffen.
+258680	263310	4630	Dort, wo in Rafz unsere Doppel- in eine Einspurstrecke übergeht,
+264150	266910	2760	muss der eine Schnellzug logischerweise warten,
+267010	269980	2970	damit der nächste auf den freien Abschnitt fahren kann.
+270130	273180	3050	Die obere Linie zeigt, wie der Zug fahren würde,
+273300	275100	1800	wenn wir ihn nicht lenken würden.
+275250	278140	2890	Er würde auf Rafz zufahren, dann müsste er warten.
+278360	278620	260	bis der Gegenzug kommt. Dann könnte er weiterfahren.
+282980	287740	4760	Das System hat dem Lokführer die Geschwindigkeit 85 km/h angegeben.
+287900	292620	4720	Wenn er 85 fährt, fährt er nach dieser grauen Prognoselinie.
+292720	293420	700	Wenn er langsam genug fährt, kann er durchfahren,
+296040	299100	3060	muss nicht anhalten und ist gleich schnell am Ziel.
+299210	301020	1810	Das Konzept der grünen Welle
+301130	305940	4810	entwickelte die SBB während 4 Jahren. Kostenpunkt: 34 Mio. Fr.
+306090	308340	2250	Die hohen Entwicklungskosten sollen sich aber bald auszahlen.
+310460	315820	5360	Wenn wir einen 1'000 t schweren Güterzug nicht anhalten müssen,
+316380	318100	1720	spart das so viel Energie,
+318250	321980	3730	wie ein Haushalt in einer Woche Strom verbraucht - ungefähr.
+322860	323340	480	10 % weniger ungeplante Stopps
+324970	329260	4290	konnte die SBB dank der grünen Welle bislang erreichen.
+329420	332140	2720	Die gelenkten Züge fahren nun allerdings langsamer
+332250	334340.00000000006	2090	als nach Fahrplan vorgesehen.
+334500	337540	3040	Ohne Zeitreserve führt das zu Verspätungen.
+338110	338340.00000000006	230	Die Verspätung hat er aber auch, wenn wir nicht lenken.
+341380	343980	2600	Er muss einfach mehr anfahren und wieder abbremsen.
+344130	346659.99999999994	2530	Wenn wir lenken, kann er durchfahren ...
+347780	349780	2000	... und ist gleich spät im Ziel.
+351690	353460	1770	Man gewinnt Energie, aber keine Zeit? Korrekt.
+355140	356740	1600	Bis zu 2'000 Züge
+356890	359860	2970	sollen dank der neuen Software pro Tag optimiert werden,
+359960	361820	1860	so das Ziel bis Ende Jahr.
+361980	363900	1920	Dass die fortschreitende Technisierung
+364050	368220	4170	bald seinen Job überflüssig macht, daran glaubt Lokführer Ammann nicht.
+368330	368420	90	Es wird immer Lokführer brauchen.
+372210	375430	3220	Man sagt einfach: Die Bremskompetenz liegt beim Lokführer.
+375550	377870	2320	Das kann keine Maschine übernehmen.
+379260	381310	2050	Das Bremsen ist so verschieden.
+381530	383390	1860	Jeder Zug ist anders, jede Strecke ist anders,
+384750	388150	3400	es gibt Witterungseinflüsse und diverse Einflüsse,
+388300	391590	3290	die das Verhalten des Zugs v.a. beim Bremsen beeinflussen.
+391700	394110	2410	Offen. Losfahren! Türen gut? Zeit?
+395050	396710	1660	Alles gut.
+396930	398430	1500	Im Idealfall kann die SBB mit der grünen Welle
+400260	402630	2370	den durchschnittlichen Energieverbrauch
+402730	405550	2820	von rund 22'000 Haushalten einsparen.
+405650	411190	5540	Das sind eingesparte Stromkosten von über 20'000 Fr. pro Tag.
+414490	417350	2860	Jetzt ohne Halt zum nächsten Thema:
+417570	419630	2060	Pestizide sind heute ein gängiges Mittel,
+419810	422470	2660	um Getreidepflanzen vor Schädlingen zu schützen.
+422620	425830	3210	Aber wenn es ohne gehen würde, wäre das natürlich besser,
+425950	427510	1560	denn wer will schon,
+427670	428390	720	dass das Gift im schlimmsten Fall auf unseren Tellern landet?
+430980	434870	3890	Aber wie können wir die Schädlinge ohne Pestizide loswerden?
+434980	437830	2850	Beim Mais, einem der wichtigsten Getreide
+437930	440590	2660	und Grundnahrungsmittel in vielen Ländern,
+440700	443470	2770	arbeiten Wissenschaftler an einem Lösungsansatz.
+443880	445550	1670	Es gibt Maissorten,
+445710	449030	3320	die von Natur aus sehr resistent gegen Schädlinge sind.
+449180	451990	2810	Jetzt gilt es für die Wissenschaftler, herauszufinden,
+452100	455510	3410	welche natürlichen Waffen diese Maissorten einsetzen.
+456860	458430	1570	Dies ist eine Maispflanze.
+459680	463150	3470	Und dies war auch mal eine Maispflanze.
+463270	465350	2080	Doch was hat sie ...
+467100	469070	1970	... was sie nicht hat?
+471820	473470	1650	Man weiss, dass Maispflanzen unzählige Düfte aussenden,
+475490	478070	2580	wenn sie von Schädlingen befallen werden.
+478220	481150	2930	Matthias Erb von der Uni Bern will herausfinden,
+481370	486080	4710	ob es ein konkreter Duftstoff ist, der die Maispflanze resistent macht.
+486770	488560	1790	Als nächstes versuchen wir,
+489060	491000	1940	die Duftstoffe der Pflanzen zu messen.
+491100	492640	1540	Ich versuche, festzustellen,
+492820	495440	2620	welche Duftstoffe die Pflanzen überhaupt aussendet
+495540	497520	1980	und ob es vielleicht Unterschiede gibt
+497730	500800	3070	zwischen der resistenten und der anfälligen Pflanze.
+501650	503440	1790	Für das Experiment benötigt der Biologe Raupenspucke.
+505680	509400	3720	Zu der kommt er, indem er eine Raupe sanft kitzelt.
+510470	513080.00000000006	2610	Das Tier verteidigt sich, indem es spuckt.
+515539.99999999994	518559.99999999994	3020	Im Labor werden die Maispflanzen für die Duftstoffmessung vorbereitet.
+521650	524720	3070	Eine der Pflanzen ist eine schädlingsresistente,
+524830	527800	2970	die andere eine anfällige Maissorte.
+538770	541920	3150	Um die Pflanze dazu zu bringen, ihre Warnsignale auszusenden,
+542100	545560	3460	gaukeln wir ihr vor, dass sie von einem Schädling angegriffen wird,
+545690	547680	1990	indem wir sie verwunden
+547880	548480	600	und Insektenspucke auf die Wunde schmieren.
+551140	553200	2060	In der Spucke sind gewisse Substanzen,
+553350	555880	2530	die die Pflanze erkennt und die ihr ermöglichen,
+555990	558360	2370	dass ein Schädling an ihr frisst.
+558500	560540	2040	Indem wir die Spucke künstlich drauftun,
+560700	563460	2760	bringen wir die Pflanze dazu, ihr Abwehrsystem zu aktivieren.
+565570	569180	3610	Der Forscher steckt die beiden verletzten Maispflanzen
+569300	571580	2280	je in eine luftdichte Glasglocke.
+572790	575820	3030	Darin steckt ein empfindlicher Spezialfilter,
+576010	578500	2490	der die Duftstoffe auffängt, die darin vorkommen.
+582580	585070	2490	Das ist unsere Duftstoff-Sammelanlage.
+585220	587870	2650	Hier reinigen wir die Luft aus der Umwelt,
+588080	590670	2590	indem wir sie durch verschiedene Filter schicken.
+590830	593510	2680	Die Luft wird dann über die Pflanze geblasen,
+593840	596550	2710	wo sie sich mit den Duftstoffen der Pflanze vermischt.
+596760	600070	3310	Das ganz Gemisch wird dann im Filter aufgefangen.
+600180	601830	1650	Alles, was im Filter ist,
+601990	604670	2680	stammt von der Pflanze und nicht aus der Umwelt.
+604780	608310	3530	Was unterscheidet die beiden Maispflanzen voneinander?
+608460	608550	90	Steckt der Unterschied tatsächlich im Duft?
+612340	615110	2770	Die Lösung steckt in solchen Filtern.
+615690	619750	4060	Darin stecken nun die Düfte, die die Pflanzen ausgesendet haben.
+619970	623510	3540	Mit einem speziellen Lösungsmittel lassen sie sich extrahieren.
+626900	628870	1970	In diesem Flakon
+629090	632550	3460	steckt nun der Hilferuf einer angegriffenen Maispflanze
+632760	634910	2150	in konzentrierter, flüssiger Form.
+636090	638590	2500	Das Massenspektrometer kann die Filter lesen und entschlüsselt,
+640180	644390	4210	welche Düfte sich im Hilferuf einer befallenen Maispflanze befinden.
+646540	650030	3490	Jeder einzelne Duft wird als Peak dargestellt.
+650690	652670	1980	Es sind mehr als 30.
+653220	653550	330	Ein Duftstoff sticht jedoch besonders heraus: das Indol.
+657830	661030	3200	Diesen Duft sondert nur die resistente Pflanze ab.
+661590	664350	2760	Das Besondere hier war, dass wir sehen,
+664530	668030	3500	wenn wir resistente und anfällige Pflanzen vergleichen,
+668180	668590	410	dass die resistenten Pflanzen Indol produzieren
+672010	673990	1980	und die anfälligen nicht.
+674690	677230	2540	Man kann das hier zeigen.
+677390	679990	2600	Das ist der Vergleich der beiden Profile.
+681580	683550	1970	Eine anfällige und eine resistente Pflanze.
+684400	687670	3270	Da sticht dieser einzelne Peak hier klar heraus.
+687770	690030	2260	Er wird von der resistenten Pflanze gemacht.
+690180	692790	2610	Anfällige Pflanzen produzieren kein Indol,
+693010	696510	3500	wenn sie angeknabbert werden - im Gegensatz zu resistenten.
+696630	698550	1920	So die Erkenntnis.
+698770	701110	2340	Sendet eine Maispflanze Indol aus,
+701230	703510	2280	vergeht der Raupe die Lust aufs Fressen.
+703620	705790	2170	Indol macht das Blatt bitter.
+708060	712110	4050	Solche Duftstoffe stossen in der Regel nicht nur Schädlinge ab,
+712210	713590	1380	sie ziehen gleichzeitig Nützlinge an.
+715410	717830	2420	Ein Beispiel: die Schlupfwespe.
+718990	722350	3360	Die Wespe braucht die Raupe als Wirt, um zu überleben.
+723650	727830	4180	Deshalb sticht sie zu und legt ihre Eier im Körper der Raupe ab.
+729440	731350	1910	Die Raupe stirbt bald.
+733570	737710	4140	Gehört auch Indol zu den Düften, die Schlupfwespen anziehen?
+737820	740510	2690	Das will der Biologe als Nächstes herausfinden.
+740610	743110	2500	Diese Anlage soll ihm dabei helfen.
+743180	743550	370	Zuunterst sind Flaschen, die Düfte abgeben.
+745740	749150	3410	Rechts hinten befindet sich die Maispflanze, die Indol aussendet,
+749260	751950	2690	links vorne die Pflanze ohne Indol.
+755180	758590	3410	Durch Schläuche strömen diese Düfte via die Mittelstation hoch
+759320	761470	2150	bis in die birnenförmigen Gläser.
+761940	765670	3730	In diese Mittelstation kommen nun die Schlupfwespen.
+766560	768750	2190	Ihr Weg führt nur nach oben.
+768860	771830	2970	Wählen sie das Glas mit dem Indol-Duft?
+772970	773670	700	Das Resultat ist eindeutig.
+774890	776550	1660	Indol zieht die Wespen an
+776640	779270	2630	und vertreibt gleichzeitig die Schädlinge.
+780090	781910	1820	Für uns war es schon überraschend,
+782090	785750	3660	dass eine einzelne Substanz ein so potentes Warnsignal ist.
+786770	788430	1660	Für uns ist es fast,
+788530	788790	260	als hätten wir ein sehr wichtiges Wort
+790670	793750	3080	im Sprachbouquet der Pflanze verstanden,
+793900	796510	2610	"nämlich das Wort für ""Achtung!"" oder ""Gefahr!"""
+797180	798950	1770	Indol ist nicht nur ein Duft,
+799140	801790	2650	es ist sozusagen das Vitamin C der Maispflanze,
+801890	803590	1700	haben die Forscher herausgefunden.
+804660	807670	3010	Indol aktiviert das Abwehrsystem der Pflanze,
+807780	810950	3170	zieht Helfer an und vertreibt die Feinde.
+813940	817710	3770	In unserer Serie über problematische tierische Einwanderer
+817880	818590	710	gingen wir in den letzten Wochen um die Welt.
+820300	823550	3250	Von der Agakröte in Australien über die Sumpfratte in den USA
+823760	825910	2150	bis zu den Grauhörnchen in Grossbritannien.
+826010	827790	1780	Heute kommen wir in die Schweiz.
+827940	831670	3730	Hier lebt ein Einwanderer unter uns, den wir kaum zu Gesicht bekommen
+831740	833630	1890	und trotzdem ist er hier, sehr zahlreich sogar.
+834330	836230	1900	Meine Kollegin Kathrin Hönegger
+836390	838790	2400	hat den tierischen Immigranten gesucht
+838940	842950	4010	und wollte mit einem Exemplar eine Moderation machen -
+843050	845060	2010	"Betonung auf ""wollte""."
+845940	848620	2680	Eigentlich würden Ratten total auf Käse stehen, aber ... ähm ...
+850850	852860	2010	Wir haben extra Emmentaler gekauft.
+854810	856820	2010	Jetzt nehmen wir uns zusammen.
+857220	859740	2520	Ich glaube, sie frisst eben meine Haare.
+860450	861420	970	Showtime!
+861880	863620	1740	Sie hören richtig: Auch in unserem so sauberen Land gibt es Ratten.
+866340	869340	3000	Diese sind allerdings eingewandert, sogar 2-mal.
+870560	874700	4140	Die Hausratte lebte ursprünglich auf dem indischen Subkontinent.
+875780	878620	2840	Schon in der Bronzezeit folgte sie den Händlern
+879000	881580	2580	über den heutigen Irak bis nach Palästina.
+881800	884140	2340	Die Römer brachten sie dann per Schiff
+884300	887540	3240	zusammen mit exotischen Köstlichkeiten nach Europa.
+888140	891460	3320	Vor mehr als 1'000 Jahren erreichte die Ratte die Schweiz.
+892020	893740	1720	Die Hausratte lebt bevorzugt im Trockenen
+894740	896710	1970	und schätzt pflanzliche Kost.
+897300	901830	4530	Anders die grössere Wanderratte: Sie stammt ursprünglich aus Ostasien.
+903010	906470	3460	Auch sie kam entlang der Handelsrouten in die Schweiz.
+907960	908750	790	Seit dem 18 Jh. verdrängte sie hier die kleinere Hausratte fast komplett.
+914820	918830	4010	Die Wanderratte ist ein Allesfressers und sucht die Nähe des Wassers.
+918970	921870	2900	Sie kann gut schwimmen, tauchen und klettern.
+922980	923750	770	Dieser kleine Kerl ist eine Farbratte.
+925560	928550	2990	Er entstand aus einer Zucht einer Wanderratte.
+928640	930430	1790	Die Wanderratte gilt
+930590	933950	3360	als einer der grössten Schädlinge unter den eingewanderten Säugetieren
+934100	938670	4570	Sie leben mitten unter uns - und zwar wortwörtlich unter uns.
+939870	943910	4040	Hier leben sie - für uns fast unsichtbar - in der Kanalisation.
+944550	946910	2360	Gelangen sie aber an die Oberfläche,
+947500	949470	1970	dann ist er zur Stelle:
+949670	952550	2880	Marcus Schmidt, Schädlingsbekämpfer der Stadt Zürich.
+952680	953710	1030	Er führt mich zu einem Ort, wo es von Ratten nur so wimmelt.
+956930	958910	1980	Dort läuft eine.
+959820	962910	3090	Aber sie wird nun in einem Loch verschwunden sein.
+964880	967110	2230	Das ist ein Deckel eines Containers.
+967900	968670	770	Man sieht hier sehr gut die Nagespuren der Zähne.
+973430	976550	3120	Das haben sie binnen ein paar Minuten durchgenagt.
+977330	979790	2460	Für uns ist das relativ hart.
+980510	983710	3200	Was können sie alles mit ihren Zähnen durchbeissen?
+984030	985830	1800	Ich habe schon gesehen,
+985940	989950	4010	dass sie sich durch lockeren Beton genagt haben, durch Mauern.
+990090	993470	3380	Es ist wirklich erstaunlich, wo sie überall durchkommen.
+993820	995790	1970	Wir sind mitten in Zürich.
+996000	998710	2710	In der Nähe ein kleiner Park, daneben ein Restaurant:
+999170	1001150	1980	Ein wahres Schlaraffenland für Ratten!
+1002170	1005390	3220	Nicht einmal die lärmige Baustelle stoppt die Tiere.
+1006530	1010030	3500	In Gruppen machen sie sich auf zu ihren Fresstouren -
+1012410	1013710	1300	bis wir uns nähern.
+1015910	1018270	2360	Hier sieht man deutlich ihre Spuren.
+1020400	1022470	2070	Das sind quasi ihre Wohnungen? Ja.
+1022570	1024790	2220	Es geht sicher relativ weit runter.
+1024980	1028030	3050	Hier führt eine Abwasserleitung bis zur Strasse.
+1028940	1030510	1570	Ich denke, sie ist defekt.
+1030660.0000000001	1033710	3050	Sie haben sich vermutlich hier hinaufgegraben.
+1034800	1037670.0000000001	2870	Hier draussen hat es doch immer wieder Leute.
+1037810	1040310	2500	Da ist auch der Eingang zum Restaurant.
+1040460	1043109.9999999999	2650	Die müssten sich doch vor uns mehr verstecken?
+1043250	1043750	500	Es sind auch Gewohnheitstiere, wie wir Menschen auch.
+1047089.9999999999	1051270	4180	Etwas Lärm stört sie nicht. Sie merken, dass er keine Bedrohung ist.
+1052510	1055830	3320	Für einen Beizer ist es sicher ziemlich unangenehm,
+1056030	1057910	1880	wenn er Ratten im Garten hat. Ist er schuld daran?
+1058020	1058830	810	Nein, dafür kann er nichts,
+1060130	1064070	3940	denn er hat seine Lebensmittel richtig im Container entsorgt.
+1064900	1068110	3210	Ich denke, das ist die Situation mit der Baustelle
+1068250	1070670	2420	und der defekten Kanalisationsleitung.
+1070820	1073790	2970	Das alles ist die Ursache für die Anwesenheit der Ratten.
+1074490	1076510	2020	Der Beizer kann nichts dafür.
+1076710	1079750	3040	Aber wenn es die Ratten hinein schaffen, hat er ein Problem?
+1079940	1084150	4210	Ja, denn der Lebensmittelkontrol- leur schliesst dann seinen Laden.
+1084850	1088110	3260	Die Ratten trippeln über das immer gleiche Wegnetz.
+1088970	1092710	3740	Hier sieht man das Weglein, auf dem die Ratten entlanglaufen.
+1093680	1095670	1990	Das ist ein schöner Trampelpfad.
+1096290	1098750	2460	Es wird immer derselbe Weg genommen.
+1099870	1101870	2000	Auf einem solchen Rattenpfad
+1101960	1103750	1790	hat Marcus Schmidt vor Tagen eine Falle platziert.
+1105220	1108270	3050	Hier ist der ungiftige Köder drin.
+1108860	1112950	4090	Jetzt tausche ich ihn mit einem Köder, der sie vergiftet, aus.
+1113890	1116470	2580	Warum müssen Sie die Ratten überhaupt töten?
+1116560	1118630	2070	Ratten sind Gesundheitsschädlinge.
+1119290	1121830	2540	Sie verbreiten Krankheiten
+1122830	1126710	3880	und durch das Nagen verursachen sie natürlich Schäden.
+1127430	1129390	1960	Wie qualvoll ist der Tod für die Ratte?
+1130040	1132110	2070	Man hat das im Labor untersucht.
+1135040	1139550	4510	es braucht 3-4 Tage, bis das Gift bei der Ratte wirkt.
+1140740	1144550	3810	Sie haben nicht wirkliche Schmerzen, aber angenehm ist das sicher nicht.
+1145920	1148750	2830	Wieso setzen Sie auf die Methode, die so langsam geht?
+1149460	1151470	2010	Früher brauchte man Akutgift,
+1151600	1154870	3270	durch das die Ratte sofort Krämpfe und Schmerzen hatte.
+1155010	1159670	4660	Wenn eine das gefressen hat, haben die anderen das gesehen und gemerkt,
+1159780	1163230	3450	dass das vergiftet ist und haben nichts mehr gefressen.
+1163540	1163750	210	Das Gift lässt die Ratten innerlich verbluten.
+1166630	1169230	2600	Schmidt streut es auch direkt in den Bau.
+1169820	1172350	2530	Das ist aber viel, das sie runterlassen.
+1172480	1174630	2150	Wie viele Ratten sind hier unten?
+1174740	1176710	1970	Zwischen 5 und 10 Ratten.
+1177380	1178830	1450	Ich darf natürlich keine Körner verschütten.
+1180330	1183830	3500	Wenn die Vögel sie fressen, würden sie auch vom Dach fallen.
+1184590	1187910	3320	Ratten kommen bei ihren Streifzügen durch den Abfall
+1188010	1192360	4350	mit krankmachenden Keimen in Kontakt und können diese verschleppen.
+1192480	1193800	1320	Z.B. Salmonellen und Toxoplasmen,
+1194860	1197760	2900	die zu schweren Infektionskrankheiten führen können.
+1197970	1200440	2470	Dringen Ratten gar in Vorratslager ein,
+1200620	1204120	3500	können sie mit ihrem Urin und Kot die Nahrungsmittel verschmutzen.
+1204290	1207240	2950	Um das zu verhindern, schiebt Markus Schmidt das Gift
+1207370	1208840	1470	in jedes Rattenloch der Umgebung.
+1212450	1214600	2150	Es ist logisch, dass die Ratten verschwinden,
+1214740	1216920	2180	wenn wir mit der Filmcrew kommen,
+1217000	1220600	3600	darum haben wir solche getarnte Filmfallen aufgestellt.
+1221650	1223880	2230	Mit Erfolg - die Aufnahmen zeige ich nun Marcus Schmidt.
+1226160	1228280	2120	Hier sind sie relativ geschützt -
+1228810	1230760	1950	von der Hausmauer her.
+1230960	1233440	2480	Sie schauen genau, bevor sie herauskommen.
+1233490	1236440	2950	Ja, sie schauen, sie horchen und husch!
+1237070	1238880	1810	Was man hier eben nicht sieht,
+1239770	1243160	3390	ist der Geruch. Ratten kommunizieren über den Geruch.
+1244400	1246360	1960	Sie riechen auch relativ stark.
+1247410	1250320	2910	Sie will hier nun ... Nein, das ist ein Vogel.
+1250940	1253800	2860	Wenn eine Ratte Hunger hat, würde sie auch diesen Vogel fressen.
+1256800	1258720	1920	Sie fressen wirklich alles.
+1258950	1263000	4050	Ich lege Schokolade in die Fallen. Schokolade haben sie sehr gerne.
+1271880	1274400	2520	Wie schwer fällt es Ihnen, sie zu töten?
+1276710	1281520	4810	Wenn ich sie jetzt so sehe, macht es mir natürlich keine Freude.
+1281620	1283640	2020	Es sind Lebewesen wie wir auch.
+1285710	1288560	2850	Es ist eben so, da gibt es eben einen Konflikt
+1288650	1291680	3030	zwischen persönlichen Gefühlen und meinem Job.
+1291860	1296160	4300	Ich muss dafür sorgen, dass in der Stadt Zürich die Hygiene stimmt.
+1296720	1298880	2160	Nicht nur in Zürich treffe ich auf Ratten,
+1299870	1302880	3010	auch am Wohlensee bei Bern finde ich welche.
+1303050	1306600	3550	Idyllisch gelegen ist der Arbeitsort der Verhaltensbiologen der Uni Bern.
+1306780	1309520	2740	Sie arbeiten hier mit 160 Forschungsratten.
+1310410	1313040	2630	Diese haben aber nichts von der schönen Aussicht,
+1313090	1313840	750	denn sie sind in der Rotlichtabteilung.
+1316490	1319560	3070	Hier treffe ich die Biologin Manon Schweinfurth.
+1319690	1323080	3390	Sie zeigt mir ein erstaunliches Verhaltensexperiment,
+1323250	1326600	3350	das sie in den letzten Monaten mit Wanderraten durchführte.
+1328550	1328850	300	Wieso arbeiten Sie hier mit den Ratten im Rotlicht?
+1334940	1337340	2400	Die Ratten sehen die Farbe Rot nicht.
+1337930	1341340	3410	Für sie ist es dunkel, aber wir sehen trotzdem etwas.
+1341640	1343740	2100	Die Ratten sind nachtaktiv. Genau.
+1344100	1345780	1680	Dann schlafen sie nicht. Genau.
+1346170	1349820	3650	Bei Tageslicht würden wir sie eigentlich immer aufwecken.
+1351990	1356060	4070	Die Biologin wollte herausfinden, ob und wie Ratten kooperieren.
+1356850	1358940	2090	Dazu setzt sie 2 Tiere in getrennte, benachbarte Käfige.
+1360610	1363270	2660	Auf der einen Seite klemmt die Doktorandin
+1363380	1365630	2250	ein Stäbchen auf die Futterplatte.
+1365800	1369230	3430	Auf der anderen Seite legt sie ein Futterhäppchen hin.
+1369970	1372510	2540	Zieht die vordere Ratte nun am Stäbchen,
+1372720	1373880	1160	dann kriegt die hintere was zum Futtern.
+1375310	1377560	2250	Die vordere aber geht leer aus.
+1377760	1379840	2080	Wie konditioniert sind die Tiere?
+1379990	1384120	4130	Ich nehme an, Sie haben die Versuche schon ein paar Mal gemacht.
+1385020	1386960	1940	Sie sind so konditioniert,
+1387140	1388960	1820	dass sie verstehen, wie der Mechanismus funktioniert.
+1390720	1393240	2520	Aber sie entscheiden selber, ob sie daran ziehen.
+1394180	1398160	3980	Die Ratten lassen sich auch von unserem Kamerateam nicht irritieren
+1398350	1400760	2410	und zeigen sich von der sozialen Seite.
+1402260	1403920	1660	Nach ein paar Minuten wird gewechselt.
+1404850	1408920	4070	Nun muss die hintere Ratte ziehen und die vordere kriegt Futter.
+1410100	1414600	4500	"Und tatsächlich: Das Prinzip ""wie du mir, so ich dir"" funktioniert."
+1416930	1418920	1990	Ratten unterscheiden sehr wohl, wie oft sie an dem Stäbchen ziehen.
+1423100	1425320	2220	Die Entscheidung treffen sie deshalb,
+1425470	1427960	2490	weil die andere Ratte vorher sehr kooperativ war.
+1428140	1430560	2420	Sie hat das Stäbchen sehr oft gezogen,
+1430790	1433920	3130	deshalb hat sie besonders viel oder wenig Futter bekommen.
+1435020	1437720	2700	Sie können sich über mehrere Tage merken,
+1437810	1439760	1950	welche Ratte nett zu ihnen war.
+1440420	1444240	3820	Wer zusammen an einem Strick ziehen kann, dem gelingt eher,
+1444380	1446840	2460	die Welt zu erobern und sich zu verbreiten.
+1446940	1449000	2060	Das erklärt der Leiter der Forschungsstation,
+1450010	1452400	2390	der Verhaltensbiologe Michael Taborsky.
+1453140	1455440	2300	Ratten sind sehr soziale Tiere.
+1456930	1460680	3750	Das ist auch ein Grund dafür, dass sie so erfolgreich sind,
+1461200	1463520	2320	weil sie in grossen Gruppen leben,
+1464260	1468280	4020	weil sie in der Brutpflege und in der Eroberung ihres Habitats
+1468370	1470360	1990	auch kooperieren.
+1470500	1474080	3580	Dadurch sind sie unter Umständen sehr viel effizienter als Tiere,
+1474090	1476080	1990	die solitär leben.
+1476650	1479040	2390	Ich habe grosse Mühe, wenn ich die Tiere hier sehe.
+1480600	1484400	3800	Wie vertretbar finden Sie die Forschungsarbeit mit Ratten?
+1484650	1486720	2070	Ich denke, unsere Haltung
+1486810	1490560	3750	ist eher so etwas wie ein Rattenhimmel als eine Rattenhölle.
+1490750	1493920	3170	Sie können alle soziallen Leistungen zeigen und haben Kontakt.
+1494940	1498560	3620	Und zusätzlich werden sie auch noch versorgt.
+1498660	1501080	2420	Hier betreibt man Verhaltensforschung.
+1501220	1505600	4380	Es gibt aber auch noch Laborratten, mit denen man invasiv arbeitet.
+1505720	1508480	2760	Dabei sind das doch sehr empfindsame Tiere.
+1509210	1511200	1990	Das ist so.
+1511350	1514800	3450	Da stellt sich immer die Frage, inwieweit der Gewinn an Wissen
+1515050	1518560	3510	im Verhältnis dazu steht, was man einem Tier zumuten kann oder will.
+1519220	1522240	3020	"Man sagt manchmal salopp: ""Du bist eine Ratte."""
+1522380	1524000	1620	Je mehr ich über die Tiere weiss, umso mehr merke ich,
+1525380	1527920	2540	das ist eigentlich eher ein Kompliment.
+1528450	1530440	1990	Das sehe ich auch so.
+1530800	1534720	3920	Wenn man das Tier und seine Leistungen als Ganzes betrachtet,
+1534910	1537880	2970	dann ist das immer ein Kompliment und kein Schimpfwort.
+1539200	1542400	3200	Zurück in Zürich. Eine Woche nach dem Gifteinsatz.
+1545220	1547720	2500	Ich schaue Holger Kunz über die Schultern.
+1547870	1551520	3650	Der Kanalfernsehinspekteur begutachtet die Kanalisation:
+1552130	1553960	1830	Wenn wir die Kamera reinschwenken,
+1554500	1556520	2020	können wir diesen Bereich untersuchen.
+1556730	1560080	3350	Und dort könnte es Ratten haben? Ja, das könnte sein.
+1561430	1565240	3810	Die Kamera wird langsam durch die Abwasserleitung geschoben.
+1566010	1568240	2230	15 cm Durchmesser hat dieses Rohr.
+1570570	1572680	2110	Wir kriegen Dinge vor die Linse,
+1572780	1575400	2620	die ich so eigentlich gar nicht sehen will.
+1576130	1578120	1990	Dann werden wir fündig.
+1580100	1583000	2900	Das ist aber ein richtiges Loch. Sehe ich das richtig?
+1583140	1584000	860	Das wäre eine solche Stelle, an der die Ratten raus könnten.
+1587670	1591720	4050	Wie gross ist das? Wir sind ja mit der Kamera im Rohr.
+1592640	1596200	3560	3, 4 cm stark - schätze ich von hier aus.
+1596330	1598720	2390	Das müsste eine schlanke Ratte sein.
+1599480	1602400	2920	Sie sehen Ecken und Orte, an die wir nie kommen.
+1602910	1605440	2530	Hatten Sie schon Begegnungen mit Ratten?
+1606020	1609480	3460	Wir haben z.B. schon ganze Rattenfamilien angetroffen,
+1610080	1613960	3880	die sich in Rohrbeschädigungen ihre Behausungen gegraben haben.
+1614090	1615960	1870	Sie haben sich auch wohlgefühlt.
+1616100	1619480	3380	Erschrecken sie nicht, wenn Sie mit der Kamera kommen?
+1619650	1621160	1510	Die sind recht neugierig.
+1621420	1625040	3620	Sie schnüffeln zuerst an der Kamera. Das ist etwas Neues für sie.
+1625220	1627960	2740	Haben Sie gedacht, wir finden hier Ratten,
+1628050	1629000	950	weil es an der Erdoberfläche Ratten hat?
+1630510	1633320	2810	Ja, ich habe gedacht, wir sehen heute welche.
+1633570	1635960	2390	Auch aufgrund der Beschädigung im Rohr.
+1636570	1639560	2990	Es hätte sein können, dass wir welche antreffen.
+1640840	1642880	2040	Aus die Maus: Nicht nur unter-,
+1643090	1644000	910	auch oberirdisch ist keine Ratte mehr zu sehen.
+1646180	1648920	2740	Das Gift des Schädlingsbekämpfers hat gewirkt.
+1649650	1651960	2310	Bei allen Problemen, die sie machen,
+1652100	1656480	4380	bin ich fasziniert von diese sehr sozialen und intelligenten Tieren.
+1656670	1659040	2370	Wenn Sie mehr über das Leben der Ratten wissen wollen,
+1659620	1661720	2100	sehen Sie sie noch bis im November
+1661900	1664960	3060	im Besucherzentrum des Wildnisparks in Zürich.
+1665080	1667760	2680	Und dann geht es ab ins Rattenaltersheim.
+1668290	1670280	1990	Dann bist du schon 2. Tschüss!
+1673750	1674120	370	Im Rattenaltersheim wären sie ja gut aufgehoben.
+1677100	1681000	3900	Aber was tun, wenn so eine Ratte den Weg aus der Kanalisation
+1681090	1683480	2390	in die heimische Kloschüssel findet?
+1683660	1686720	3060	Oder geht das gar nicht? Ist das nur ein Mythos?
+1686860	1689120	2260	Schädlingsbekämpfer Marcus Schmidt hat dazu einiges zu erzählen -
+1691030	1693360	2330	auf der SRF-Wissensplattform.
+1694900	1697720	2820	Ja, die Ratte ist einer der sehr alten Einwanderer
+1697870	1699480	1610	bei uns in der Schweiz.
+1699580	1703360	3780	Seither sind noch etliche andere Arten dazugekommen.
+1703930	1704080	150	Wir haben uns gefragt, welche eingeschleppten Einwanderer
+1707810	1709920	2110	der eidgenössischen Fauna und Flora
+1710010	1712040	2030	im Moment die meiste Mühe bereiten.
+1712170	1716040	3870	Wie stark hat sich die Zahl der invasiven Arten verändert,
+1716180	1719120	2940	v.a. weil immer mehr Waren und damit vielleicht auch
+1719340	1723430	4090	blinde Passagiere in die Schweiz importiert werden.
+1724770	1729150	4380	Es ist eine anspruchsvolle Arbeit und ein riesiger Aufwand:
+1729820	1732750	2930	Baumkletterer suchen an Baumstämmen und Ästen
+1732850	1734070	1220	nach den Spuren eines gefährlichen Schädlings.
+1736510	1740030	3520	Allein in Winterthur müssen Baum- pfleger Stefan Rütten und sein Team
+1740210	1743830	3620	rund 1'500 Bäume 2-mal pro Jahr kontrollieren.
+1746340	1749070	2730	Das ist der gefährliche Eindringling: der Asiatische Laubholzbockkäfer.
+1751500	1754630	3130	Er stammt aus China, Korea, Taiwan.
+1754840	1758910	4070	In der Schweiz wurde er 2011 im Kanton Freiburg erstmals entdeckt.
+1759010	1761750	2740	Er befällt fast alle Arten von Laubbäumen.
+1763730	1764110	380	In Winterthur müssen die Spezialisten der Stadtgärtnerei seit 2012
+1767570	1770990	3420	gegen die Ausbreitung des invasiven Schädlings kämpfen.
+1771770	1774230	2460	Damals richtete der asiatische Käfer
+1774410	1777110	2700	hier die schweizweit grössten Schäden an.
+1777410	1779070	1660	Es ist eine aufwendige Spurensuche.
+1781650	1787230	5580	Das eine, das man sieht, sind solche Bohrspäne, die die Larve produziert.
+1787650	1790830	3180	Sie fallen aus einem sog. Plätzefrass heraus,
+1790920	1794110	3190	dort, wo die Larve unter der Rinde arbeitet und ihn produziert.
+1796010	1801070	5060	Die Rindenstruktur löst sich mit der Zeit, je länger die Larve arbeitet.
+1801260	1805550	4290	Das gibt eine nekrotische, offene Wunde,
+1805660	1807950	2290	die man sehr gut erkennen kann.
+1809130	1812520	3390	Die Larven des Käfers bohren sich tief ins Holz.
+1814010	1819040	5030	Solche Funde hatten vor 3 Jahren in Winterthur einschneidende Folgen.
+1820530	1823120	2590	Eine Vielzahl von Bäumen war befallen.
+1823690	1824080	390	Wir fanden in kurzer Zeit insgesamt 160 Käfer.
+1828090	1831760	3670	Das war für Schweizer Verhältnisse ein sehr grosser Befall.
+1831930	1835360	3430	Man fällte und häckselte alle befallenen Bäume sofort.
+1835530	1839120	3590	Man hat sie vor Ort gehäckselt, in die Verbrennungsanlage gebracht
+1839890	1841840	1950	und gleich verbrannt.
+1842730	1844680	1950	In diesem Gebiet müssen die Bäume nun
+1844770	1847400	2630	während 4 Jahren aufwendig kontrolliert werden.
+1847570	1852000	4430	Auch mit speziell ausgebildeten Spürhunden, die den Käfer riechen.
+1852090	1853720	1630	Wenn die Hunde reagieren,
+1853950	1854120	170	müssen die Baumpfleger den Baum ganz genau überprüfen,
+1857290	1859560	2270	damit sicher kein Käfer unentdeckt bleibt.
+1862770	1864960	2190	Die ganze Kontrollaktion in Winterthur
+1865090	1868040	2950	kostet jedes Jahr rund 900'000 Fr.
+1869190	1871960	2770	Der Asiatische Laubholzbockkäfer
+1872050	1876720	4670	ist nur eine von über 100 sog. invasiven Tier- und Pflanzenarten.
+1877070	1881120	4050	Diese können vielfältige Schäden anrichten, nicht nur bei Bäumen.
+1882500	1884120	1620	Auf nationaler Ebene ist das Bundesamt für Umwelt
+1885460	1889760	4300	für die Bekämpfung der eingeschlepp- ten, invasiven Arten zuständig.
+1890800	1894360	3560	Invasiv deutet darauf hin, dass von diesen Arten ein Schaden ausgeht.
+1894540	1896760	2220	Es geht nicht darum, woher eine Art kommt,
+1896850	1899120	2270	sondern man versucht, die von der Art verursachten Schäden
+1899930	1902450	2520	zu verhindern, zu vermeiden oder zu verringern.
+1902490	1904890	2400	Die Schäden können vielerlei Natur sein:
+1904970	1906730	1760	Es können Gesundheitsschäden sein,
+1906890	1909050	2160	die Biodiversität kann geschädigt werden,
+1909130	1910850	1720	Wälder oder die Landwirtschaft.
+1911030	1913610	2580	Manche Arten schädigen sogar die Infrastruktur.
+1914340	1915930	1590	Das Bundesamt für Umwelt
+1916090	1919290	3200	listet 107 invasive Pflanzen- und Tierarten auf.
+1921620	1923770	2150	Die Ambrosia z.B.
+1923970	1926250	2280	Sie setzt Milliarden von Pollen frei,
+1926410	1929130	2720	die bei vielen Menschen zu starken Allergien führen.
+1931680	1934290	2610	Oder der Amerikanische Sumpfkrebs.
+1935220	1939730	4510	Er überträgt die tödliche Krebspest auf die einheimischen Krebse.
+1939840	1941770	1930	Er selbst stirbt nicht daran.
+1945050	1947980	2930	Gefährlich für die Menschen ist die Tigermücke.
+1948090	1951980	3890	Sie überträgt Krankheiten wie das Denguefieber.
+1954130	1956860	2730	Die meisten der invasiven Tiere und Pflanzen
+1957010	1959180	2170	werden durch den globalen Handel in die Schweiz gebracht.
+1961130	1965540	4410	Eine Statistik von eingeschleppten Gehölzinsekten verdeutlicht dies.
+1965680	1968660	2980	Ihre Zahl hat in der Schweiz stark zugenommen.
+1968880	1973340	4460	Heute sind es 50 Arten, die von anderen Kontinenten stammen.
+1974760	1977620	2860	Was auffällt: Die Kurve steigt ähnlich an
+1977760	1980100	2340	wie jene der Warenimporte in die Schweiz.
+1980260	1982980	2720	Der globale Handel ist der wichtigste Treiber
+1983080	1986020	2940	bei der weltweiten Verbreitung von Pflanzen und Tieren.
+1986170	1988460	2290	Die Massnahmen im Kampf gegen die Schädlinge
+1988590	1989180	590	sind vielfältig und aufwendig.
+1991130	1993140	2010	Es gibt sicher nicht nur eine Massnahme,
+1993300	1995940	2640	die man auf alle verschiedenen Arten anwenden kann.
+1996090	1999140	3050	Man muss genau schauen, was die Eigenheiten der Arten sind,
+1999290	2001460	2170	und spezifische Massnahmen erarbeiten.
+2001680	2004100	2420	Wenn es neue Arten sind, wo man noch wenig weiss,
+2004280	2006140	1860	beginnt das bereits in der Forschung.
+2006300	2009180	2880	Man muss dort die entsprechenden Grundlagen aufarbeiten,
+2009290	2011300	2010	um Massnahmen ableiten zu können.
+2012880	2015780	2900	Die mit Abstand grössten Schäden in den letzten Jahren
+2015900	2018140	2240	richtete ein kleines Insekt an:
+2019090	2019180	90	die Kirschessigfliege.
+2021210	2024420	3210	Sie stammt aus Ostasien und befällt seit 2011
+2024590	2028780	4190	in der ganzen Schweiz sowohl Trauben- als auch Beeren- und Obstkulturen.
+2032250	2034180	1930	Am Forschungsinstitut Agroscope in Wädenswil
+2034850	2038620	3770	testet Stefan Kuske unterschiedliche flüssige Köder,
+2038700	2040900	2200	um das invasive Insekt in Fallen zu locken.
+2043450	2046140	2690	Es geht u.a. darum, herauszufinden,
+2046290	2049219.9999999998	2930	wo und wie die Kirschessigfliege den Winter überlebt.
+2053360.0000000002	2056340.0000000002	2980	Man weiss eigentlich sehr vieles nicht so genau,
+2056469.9999999998	2058420	1950	darum sind wir auf der Suche.
+2058570.0000000002	2061300.0000000002	2730	Man weiss nicht genau, wie sie überwintert.
+2061420	2063380	1960	Man weiss nicht genau,
+2063550.0000000002	2064219.9999999998	670	wie sie ihre geliebten Pflanzen in der Landschaft findet.
+2068230	2071820.0000000002	3590	Es ist auch eine Frage, wie wir sie überlisten können.
+2071929.9999999998	2075460	3530	Darum verfolgt die Forschung diverse Ansätze.
+2075639.9999999998	2078860.0000000002	3220	Wir suchen nach natürlichen Gegenspielern
+2079020	2079219.9999999998	200	und nach umweltschonenden Pflanzenschutzstrategien,
+2083280.0000000002	2089860.0000000002	6580	sodass wir in der Zukunft bessere Strategien entwickeln können.
+2091250	2094219.9999999998	2970	In den ersten Frühlingstagen will Kuske auch wissen,
+2094969.9999999998	2098780	3810	wie viele Tiere den eher milden Winter überstanden haben.
+2098880	2101740	2860	Klar ist: die Fliegen schwärmen schon aus
+2101980	2104900	2920	und werden im Sommer sicher erneut für Schäden sorgen,
+2105010	2106980	1970	selbst wenn die Forscher
+2107080	2109290	2210	mit den neuen Lockstoffen erfolgreich sein sollten.
+2113300	2116490	3190	"Nächste Woche geht ""Einstein"" mit Galileo ins All."
+2119020	2121890	2870	Im August 2014 hat die ESA eine Trägerrakete
+2122070	2124250	2180	mit 2 Satelliten des europäischen Navigationssystems Galileo an Bord
+2125900	2127850	1950	ins All geschickt.
+2128010	2131410	3400	Der Start verlief wunderbar, doch dann gab es Probleme.
+2131560	2133090	1530	Die Sojus-Rakete
+2133260	2136170	2910	koppelte die Satelliten in einer falschen Umlaufbahn ab.
+2139040	2139250	210	Für die Europäer ein herber Rückschlag,
+2141340	2145170	3830	denn bei dieser Technologie geht es um weit mehr als nur ums Prestige.
+2146470	2151290	4820	Jemand, der das Satelliten- navigationssystem im Griff hat,
+2152090	2154250	2160	bestimmt eigentlich, wer Raum und Zeit beherrschen kann.
+2157420	2159850	2430	Darum treibt die ESA die Mission voran.
+2159960	2163450	3490	Morgen werden 2 weitere Galileo- Satelliten auf den Weg geschickt,
+2163620	2166250	2630	und dieses Mal soll es nicht schief gehen.
+2170290	2172820	2530	"Wir von ""Einstein"" sind bei dieser Mission dabei."
+2172970	2175780	2810	Ob es wirklich klappt, sehen Sie heute in einer Woche.
+2175890	2178180	2290	Bis dahin finden Sie uns auf srf.ch/einstein,
+2178340	2180820	2480	und einen Blick in unseren Redaktionsalltag
+2180920	2184300	3380	"gibt es auf der ""Einstein""-Facebookpage."
+2184490	2187300	2810	"Hier auf SRF 1 ist heute Abend bei ""Aeschbacher"""
+2187410	2189580	2170	Bastian Eichenberger zu Gast.
+2189740	2192700	2960	Er ist 14 und beherrscht schon 9 Sprachen.
+2192860	2196060	3200	Ein Wunderkind, das viel schneller lernt als andere.
+2196210	2199300	3090	"Zunächst aber ""10vor10"" mit Aktuellem und Hintergründen."
+2200030	2204180	4150	Ich danke fürs Zuschauen und wünsche einen schönen Abend.
+2204340	2207780	3440	SWISS TXT / UT-Redaktion Zürich Liz Lei, Daniel McMinn
