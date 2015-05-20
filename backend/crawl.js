@@ -16,7 +16,10 @@ function get(options) {
                 deferred.resolve(data);
             }
             else {
-                console.log('HTTP ' + response.statusCode, error, options, arguments);
+                console.log('HTTP ' + response.statusCode, error, options);
+                if(response.statusCode !== 404) {
+                    console.log(arguments);
+                }
                 deferred.reject("Can't do it");
             }
             setTimeout(function() {
@@ -89,10 +92,7 @@ exports.fetchShows = function() {
         if(!show.AssetSet) {
             show.AssetSet = [];
         }
-        // need better logic later, maybe
-        if(show.AssetSet.length < 1000) {
-            return fetchAssetSet(show);
-        }
+        return fetchAssetSet(show);
     }));
 };
 
