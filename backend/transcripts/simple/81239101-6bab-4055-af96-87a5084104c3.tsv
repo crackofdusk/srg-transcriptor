@@ -1,0 +1,408 @@
+start	end	duration	text
+1060	3080	2020	.
+3280	11840	8560	1:1-Untertitelung. Livepassagen können Fehler enthalten.
+11960	16440	4480	Das Gesundheitswesen ist teuer.
+16560	21040	4480	Mittlerweile haben sich die von Krankenkassen übernommenen Leistungen
+21210	28000	6790	von Spitälern und Ärzten auf 30 Mrd. Fr. aufgebläht.
+28100	31720	3620	Doch nicht jeder Posten auf den Rechnungen ist gerechtfertigt.
+31940	37520	5580	Dank raffinierter Software sparen Versicherer über 3 Mrd. Fr.
+37620	40920	3300	"Guten Abend und herzlich willkommen bei ""ECO""."
+42320	48400	6080	Schweizer Kranken- und Unfall- versicherer setzen neu auf Big Data.
+50020	56600	6580	"Die Erbschaftssteuer spaltet die KMUs in der Schweiz. Die ""ECO""-Debatte."
+59110	61720	2610	Stop, stop, stop! That's bullshit.
+61830	65920	4090	Ein Coach macht Schweizer Start-up- Unternehmer zu besseren Verkäufern.
+66010	68280	2270	"Teil 2 der ""ECO""-Serie."
+71840	74280	2440	Unfall- und Krankenversicherer müssen pro Jahr
+74430	78520	4090	Millionen von Rechnungen von Ärzten und Spitälern verarbeiten,
+78610	81720	3110	und längst nicht jede davon ist korrekt.
+81800	84360	2560	Um das bewältigen zu können,
+84490	88760	4270	setzen die Versicherungen schon heute auf ausgeklügelte Software.
+89020	92720	3700	Jetzt gehen sie einen Schritt weiter: Big Data ist das Schlüsselwort -
+92890	96920	4030	die Fähigkeit, riesige Datenmengen zu analysieren
+97080	101240.00000000001	4160	und daraus neue Erkenntnisse zu gewinnen. Bruno Bonometti.
+105740.00000000001	110039.99999999999	4300	Ein schwerer Unfall im Haushalt, beim Sport, im Strassenverkehr.
+110180	113840	3660	Für die Betroffenen ein traumatisches Erlebnis,
+113940	116520.00000000001	2580	für Unfallversicherer und Krankenkassen
+116780	120480	3700	eine finanzielle und bürokratische Herausforderung.
+120720	126280	5560	Die Schweizerische Unfall- versicherungsanstalt Suva in Luzern,
+126440	129440	3000	eine traditionsreiche Institution.
+129590	133960	4370	Jährlich treffen bei der Suva 2 Mio. Rechnungen ein,
+134140	137000	2860	hauptsächlich von Spitälern und Ärzten.
+137150	141650	4500	Rechnungen für die Behandlung von Unfallfolgen aller Art.
+141800	145970	4170	Millionen von Rechnungsdaten, kontrolliert mit spezieller Software.
+146060	149210	3150	Wurde die Konsultation richtig verrechnet?
+149350	154730	5380	Stimmt der Ansatz für Röntgen oder Schmerzmittel?
+154870	157130	2260	Oder wurde doppelt abgerechnet?
+157260	159290	2030	Das Programm findet Fehler
+159470	162130	2660	und die Suva spart damit 100 Mio. Fr. jährlich.
+162340	166610	4270	Rolf Schmidiger ist Strategiemanager der Suva.
+166810	171770	4960	Seit Jahren treibt er die Entwicklung der elektronischen Kontrolle voran.
+171940	175210	3270	Für ihn ein zentrales Thema,
+175380	179690	4310	denn es geht letztlich um die Prämiengelder der Versicherten.
+179900	184410	4510	Die aktuelle Kontrollsoftware ist wirksam und nötig.
+184660	187970	3310	Mit dem bestehenden System können wir die formalen Kontrollen machen.
+188060	190650	2590	Gibt es die Leistung überhaupt? Gibt es die Medikamente?
+190740	193250	2510	Sind es die richtigen Preise? Sind die Verträge eingehalten?
+193400	195810	2410	Sind die Regeln des Tarifes eingehalten?
+195970	198130	2160	Stimmen Mengen und zeitliche Limiten?
+198290	202610	4320	Was kommt im Alltag rein, das nicht legitim ist?
+202760	207050	4290	Oft kommt es vor, dass eine Rechnung, die zurückgewiesen wird,
+207140	209650	2510	nochmals eingereicht wird.
+209800	212810	3010	Das erste Mal vielleicht elek- tronisch, das zweite Mal auf Papier.
+212960	215450	2490	Das kann mehrfach vorkommen.
+215540	218570	3030	Jetzt will Rolf Schmidiger noch genauer hinschauen.
+218700	221410	2710	Er hat die Software weiterentwickeln lassen.
+221560	225250	3690	Diese soll den kompletten Verlauf medizinischer Fälle analysieren.
+225380	230810	5430	Ein Beispiel: ein Selbstunfall mit dem Fahrrad.
+230980	235810	4830	Die Folgen: typische Knochen- und Zahnverletzungen.
+235980	239210	3230	Die verunfallte Person muss ins Spital.
+239380	244730	5350	Die neue Kontrollsoftware vergleicht mit Tausenden ähnlichen Fällen.
+244940	247890	2950	Entdeckt sie z.B. auf der Abrechnung Medikamente,
+248060	253650	5590	die für solche Fälle nicht typisch sind, so schlägt sie Alarm.
+253740	257450	3710	Wir haben z.B. 50'000 Knieverletzungen im Jahr.
+257529.99999999997	261209.99999999997	3680	Die haben immer eine gleiche Therapieanalogie untereinander.
+261399.99999999997	264930	3530	Und wenn jetzt eine neue Knieverletzung kommt
+265040	267570	2530	und nicht in dieses Muster passt,
+267780	270890	3110	so werden diese Rechnungen durch das System als auffällig klassifiziert
+271030	273690	2660	und es wird geschaut, was da los ist.
+273900	277409.99999999994	3510	Die Kontrollsoftware der Suva
+277580	280770	3190	wird in Zürich von der Informatikfirma ELCA entwickelt.
+280860	286850	5990	ELCA ist ein grosser Schweizer Infor- matikspezialist mit 700 Angestellten.
+286940	290050	3110	Die Mitarbeiter schreiben die Software.
+290230	292890	2660	Sie programmieren elektronische Fahnder,
+292980	296690	3710	die im Datenmeer der Rechnungen nach Unstimmigkeiten suchen.
+299050	303210	4160	Felix Musterle leitet die Abteilung Gesundheit und Versicherungen.
+303360	306810	3450	Sein Schlüsselwort heisst Big Data: die Wissenschaft,
+306950	312610	5660	mit der man aus Millionen von Daten völlig neue Erkenntnisse gewinnt.
+312760	315970	3210	Mit jeder neuen Abrechnung haben wir ja neue Informationen,
+316070	317940	1870	die wir analysieren können.
+318090	320060	1970	Und die Analyse mit diesen statistischen Methoden
+320170	322540	2370	generiert auch Wissen oder Fragestellungen,
+322690	324740	2050	bei denen man vorher gar nicht wusste,
+324840	326820	1980	dass man diese Frage stellen will.
+326930	329580	2650	Man kriegt Erkenntnisse, von denen man vorher gar nicht wusste.
+329790	334300	4510	Erkenntnisse über Abrechnungsmuster und über abweichendes Verhalten.
+334409.99999999994	339740	5330	Je differenzierter die Kontrolle, umso grösser der Spareffekt.
+339909.99999999994	343220	3310	Es sind relativ grosse Summen in der Rechnungs-
+343400	347540	4140	oder Leistungsverarbeitung, die hier eingespart werden können.
+347670	351380	3710	Es ist nicht unbedingt nur gewerbsmässiger Betrug.
+351560	354820	3260	Unser System schaut v.a. auch auf falsche Abrechnungen,
+354960	357220	2260	optimierte Abrechnungen.
+357320	359220	1900	Es geht um viel Geld.
+359420	362220	2800	Deshalb haben Krankenkassen wie die Luzerner Concordia
+362370	366860	4490	die Suva-Software übernommen und passen sie auf ihre Bedürfnisse an.
+367090	372380	5290	Jürg Vontobel ist Mitglied der Concordia-Geschäftsleitung
+372510	374140	1630	und selber Mediziner.
+374350	377460	3110	Er verantwortet die Einführung der neuen Kontrollsoftware.
+377580	380460	2880	Was heute als Pilotprojekt läuft,
+380600	384500	3900	will er nächstes Jahr routinemässig einsetzen.
+384630	388100	3470	Der Arzt erwartet in Zukunft mehr Kriminalität
+388220	391420	3200	im Milliardenmarkt der Gesundheit.
+391570	395420	3850	Wir rechnen damit, dass das Thema Cyberkriminalität
+395510	398620	3110	auch vor dem Gesundheitswesen nicht haltmacht.
+398790	402220	3430	Im Gesundheitswesen werden sehr grosse Summen bewegt.
+402370	405580	3210	Allein letztes Jahr haben alle Krankenkassen zusammen
+405790	409780	3990	ca. 30 Mrd. Fr. für medizinische Behandlungen bezahlt.
+409980	414300	4320	Das wird zwangsläufig Betrüger bis hin zur organisierten Kriminalität
+414430	416780	2350	auf den Plan rufen.
+417030	420100	3070	Hier müssen wir uns als Treuhänder unserer Kundinnen und Kunden
+420260	425140	4880	ganz klar vorbereiten und die Prüf- systeme auf die Zukunft ausrichten.
+425320	429540	4220	30'000 Rechnungen laufen bei der Concordia täglich ein.
+429690	433460	3770	Sie müssen aufbereitet und kontrolliert werden.
+433670	437860	4190	Eine Arbeit, die ohne effiziente Software unmöglich wäre.
+438070	442820	4750	Mit der Kontrollsoftware spart allein die Concordia Millionen.
+443030	446500	3470	Die 240 Mio. Fr., die wir jährlich bei der Concordia sparen,
+446610	451060	4450	sind hochgerechnet auf die Schweiz, auf die ganze Branche,
+451230	455980	4750	Einsparungen von 3,5 Mrd. Fr. jährlich.
+456100	458820	2720	Die eingesparten 3,5 Mrd.
+458950	462980	4030	sollen um mindestens weitere 200 Mio. Fr. wachsen,
+463070	465820	2750	dank neuer Kontrollsoftware.
+465930	468420	2490	Bleibt die Frage des Datenschutzes.
+468600	471420	2820	Die ganzen Modelle, die wir berechnen,
+471610	475220	3610	die kommen völlig ohne den Patientennamen aus
+475340.00000000006	477620	2280	oder sie sind völlig anonymisiert.
+477820	482460	4640	Es geht um Fallverläufe, es geht um Therapiemuster zu Verletzungsarten,
+482580	486220	3640	worin der Patient nicht vorkommt
+486430	489820	3390	und auch nicht identifiziert werden kann.
+489960	496660	6700	Big Data: die elektronische Fahndung im Meer der Rechnungsdaten.
+496870	498700	1830	Auffällige Ärzte und Spitäler
+498860	502740	3880	werden künftig noch stärker von den Versicherern unter die Lupe genommen.
+505950	509900	3950	Demnächst will die Suva übrigens eine App für Handys vorstellen,
+510030	514100	4070	die Arzt- und Spitalrechnungen für Patienten verständlich macht.
+515280	518340.00000000006	3060	Am nächsten Sonntag entscheiden die Stimmberechtigten,
+518520	524140	5620	ob sie eine nationale Erbschafts- steuer annehmen wollen oder nicht.
+524330	527460	3130	Der Abstimmungskampf wird emotional geführt.
+527620	530460	2840	Die Wogen gehen v.a. deshalb hoch, weil unklar ist,
+530580	534540	3960	wie stark KMUs von der neuen Steuer betroffen wären.
+534730	538540	3810	Bei uns im Studio kreuzen gleich zwei KMU-Unternehmer die Klinge.
+538630	541060	2430	Zuerst aber einige Fakten.
+542060	544220	2160	Die Initiative zur Erbschaftssteuer sieht vor,
+544360	548980	4620	dass Erbschaften ab 2 Mio. Fr. mit 20 % besteuert werden.
+549060	551460	2400	Bezahlen müssen die Erben.
+551640	554860	3220	Vorgesehen sind Steuererleichterungen bei Erbschaften,
+555070	557860	2790	die Unternehmen oder Landwirtschaftsbetriebe betreffen.
+558090	560700	2610	Diese sind im Initiativtext nicht genau definiert.
+560870	563660	2790	Die Initianten gehen davon aus,
+563820	565700	1880	dass ein reduzierter Steuersatz von 5 %
+565900	569830	3930	und ein Freibetrag von 50 Mio. Fr. ins Gesetz aufgenommen werden.
+570030	574830	4800	Die Initianten rechnen mit Einnahmen in der Höhe von 3 Mrd. Fr.
+575060	577950	2890	Diese sollen zu einem Drittel den Kantonen,
+578090	581190	3100	zu zwei Dritteln der AHV zugutekommen.
+581370	585030	3660	Er befürwortet die Initiative, und zwar wegen der AHV-Finanzierung:
+585250	588750	3500	Markus Wenger führt die Firma Wenger Fenster in Wimmis
+588830	590470	1640	in dritter Generation.
+590750	593230	2480	Bald übernimmt die vierte den 140-Mann-Betrieb.
+593960	595790	1830	Die Erbschaftssteuermilliarden
+595890	597950	2060	helfen den Schweizer Produktionsbetrieben.
+598090	601710	3620	Unternehmer Urs Berner lehnt die Erbschaftssteuer ab.
+601970	604390	2420	Bei seiner Werkzeugfirma Urma in Rupperswil
+604570	607150	2580	steht die Übergabe an die dritte Generation an.
+607320	610030	2710	Zusätzliche Steuern für Arbeitgeber bedeuten automatisch
+610210	613070	2860	einen Verlust von Arbeitsplätzen auf dem Werkplatz Schweiz.
+613210	616230	3020	In der Schweizer KMU-Landschaft
+616410	620430	4020	sind die Meinungen über die Erbschaftssteuer-Initiative geteilt.
+623360	628230	4870	Jetzt sind Markus Wenger und Urs Berner bei mir im Studio.
+628390	630750	2360	Wenn man der Werbung in den Zeitungen glauben darf,
+630950	634830	3880	bedroht die Initiative die Schweizer KMU-Welt.
+634980	638630	3650	Trotzdem sind Sie dafür, Herr Wenger. Weshalb?
+638750	641630	2880	Wir untertiteln live:
+646070	649110	3040	Unserer Unternehmung wäre bei den Gewinnern,
+649200	654710	5510	wenn die Initiative angenommen würde.
+654850	660790	5940	Wegen der AHV-Finanzierung.
+665910	669310	3400	Das würde 60'000-100'000 Fr. kosten abverlangen ohne Erbschaftssteuer.
+669320	672030	2710	Warum sind Sie dagegen?
+672110	675750	3640	Wir verlieren langfristig.
+675900	680950	5050	Der Werkplatz Schweiz verliert langfristig.
+681060	686990	5930	Es fehlen dann die Mittel für den Ausbau, für Investitionen.
+688830	690950	2120	Es ist momentan kein Thema, über das zu reden.
+691060	692510	1450	Wir haben ganz andere Sorgen.
+692620	696870	4250	Das stimmt.
+697020	699750	2730	Der Wechselkurs fordert uns hart heraus.
+699890	702590	2700	Darum brauchen wir eine Entlastung.
+702680	707910	5230	Wir müssen die zusätzlichen Gelder,
+708100	711550	3450	die die AHV braucht, über Alternativen finanzieren.
+711700	717630	5930	Die bisherigen Lohnkosten, die wir haben,
+719210	722590	3380	dürfen nicht erhöht werden und auch nicht gesenkt.
+722810	727470	4660	Da bin ich nicht einverstanden.
+727570	730830	3260	Die AHV ist ein grosses Sozialwerk,
+730910	734910	4000	das unterstützt werden muss.
+735070	740990	5920	Aber auf Panik zu machen ist falsch.
+743210	749110	5900	Fakt ist, dass wir seit 1995 jedes Jahr in der AHV Gewinn machten.
+749640	754190	4550	Bis 2014 hatte man über 7 Mrd. Überschuss.
+754410	759990	5580	Zuvor auch jeweils einen Überschuss.
+760170	765710	5540	Wir müssen darüber reden, ab 2023 wird es eng,
+765890	770910	5020	aber jetzt Geld generieren, das noch auf Jahre zurück
+771070	776710	5640	Mrd. sammeln soll, ist für mich Panikmache.
+776940	782190	5250	Die Frage ist aber, wen trifft eigentlich die neue Steuer.
+782430	787150	4720	Die Befürworter können das nicht klar sagen.
+787280	791630	4350	Es heisst, das Parlament soll Ausnahmen genehmigen.
+791790	795790	4000	Von 50 Mio. Abzug ist die Rede usw.
+795990	801830	5840	Herr Wenger, ist das nicht problematisch?
+804000	807510	3510	Abs. 5 sagt klar,
+807680	813590	5910	dass Arbeitsplätze nicht gefährdet werden sollen.
+817210	819920	2710	Wenn wir unseren Betrieb, Wenger Fenster,
+820000	825800	5800	verkaufen,
+825980	829040	3060	und wir haben in den 80er-Jahren viel in Aktien investiert,
+829160	831520	2360	würden wir Vermögensgewinn machen,
+831630	836320	4690	und das ist steuerfrei.
+836400	840040	3640	Wenn ich das Unternehmen verkaufe,
+840120	842280	2160	mache ich Vermögensgewinn.
+842430	848360	5930	Es macht Sinn,
+850020	855120	5100	wenn dort solche Ressourcen frei werden.
+855290	860480	5190	Ich finde es darum eine gute Lösung für die KMU.
+860680	863120	2440	Von 50 Mio. Fr. wären sie gar nicht betroffen.
+863260	867760	4500	Die meisten KMU nicht.
+867960	872120	4160	Ich mache keinen Unterschied zwischen KMU oder nicht.
+872290	875120	2830	Ich sehe einfach die Unternehmer, die investieren,
+875180	879890	4710	die muss man schützen, wo man kann.
+880110	884690	4580	Ob das die Folgegeneration ist oder nicht,
+884850	888250	3400	ist nicht relevant, alle Abgaben sind störend.
+888430	894330	5900	Das fördert den Werkplatz Schweiz nicht.
+895810	901810	6000	Man kann es so oder so rechnen, es geht in die falsche Richtung.
+903200	906730	3530	Unserer Sozialwerke sind über 70 Jahre entstanden.
+906910	910050	3140	Früher hatte man einen reinen Binnenmarkt.
+910180	914130	3950	Jetzt braucht es neue Steuerformen,
+914250	918370	4120	die uns Produzenten nicht plagen.
+918480	923770	5290	Wenn wir etwas verändern,
+924000	929810	5810	liessen wir die Steuern andernorts erheben.
+931210	934490	3280	Die Erbschaftssteuer ist die am wenigsten gefährliche Steuer.
+934680	940090	5410	Es ist eine der gefährlichen.
+940260	943250	2990	Man besteuert etwas, das schon oft besteuert wurde.
+943370	949410	6040	Ich sage noch einmal,
+951040	955490	4450	ich glaube nicht, mit Steuern könne man einen Impuls auslösen.
+955710	959410	3700	Jede Steuer ist an und für sich nicht optimal.
+959640	962130	2490	Zum Teil sind sie notwendig, aber diese ist es nicht.
+962250	965370	3120	Wir hatten diese Debatte schon oft.
+965550	969530	3980	Man hat es im Bund abgeschafft,
+969760	973010	3250	weil man das damals aus ähnlichen Gründen diskutierte.
+973170	979090	5920	Wir müssen uns mit dem Problem befassen,
+982420	988090	5670	das der Werkplatz Schweiz hat, und nicht über etwas anderes reden.
+988300	991130	2830	Ein grosser Teil der grossen Vermögen sind Vermögensgewinne.
+991240	995540	4300	Diese sind steuerfrei.
+995720	1001420	5700	Man bezahlt keinen Fr. Steuern oder AHV darauf.
+1001580	1007500	5920	Ein leichtes Vermögen kann man an der Quelle nicht versteuern,
+1007660	1013540	5880	aber beim Erbe kann man etwas abholen, das ist gerecht.
+1016740	1019380	2640	Ich will nicht übermässig viel besteuern.
+1019530	1024140.0000000001	4610	Aber etwas braucht es.
+1024329.9999999999	1027819.9999999999	3490	Markus Wenger hat den Anfang gemacht,
+1027920.0000000001	1032780	4860	ich gebe das Schlusswort Urs Berner.
+1032920.0000000001	1037140.0000000001	4220	Macht diese Initiative Arbeitsplätze kaputt?
+1037290	1040420.0000000001	3130	Sie fördert den Werkplatz sicher nicht.
+1040490	1044540	4050	Wie viel es wirklich schade,
+1044640.0000000001	1047140.0000000001	2500	--schadet
+1047270	1050380	3110	sieht man nachher.
+1050640	1052580	1940	Ich bin überzeugt, es ist schädlich.
+1052670	1055690	3020	Ich bin überzeugt,
+1055850	1058810	2960	es darf nicht in diese Richtung gehen.
+1058910	1064810	5900	Wir haben wirklich andere Sorgen,
+1068610	1071020	2410	als auf diesem Gebiet noch ein Kampf-Feld aufzutun.
+1071140	1075150	4010	Wir werden es sehen.
+1075350	1078150	2800	Die Stimmbürger fällen diese Wahl am nächsten Sonntag.
+1078280	1080270	1990	Wir werden es sehen.
+1082770	1086510	3740	Und nun zu Unternehmern, die von der Erbschaftssteuer kaum betroffen sind,
+1086640	1089750	3110	weil sie noch ganz am Anfang stehen.
+1094090	1095310	1220	Ladies and gentlemen ...
+1095500	1097710	2210	Viele versuchen es, aber nur wenige schaffen es.
+1097930	1100350	2420	Jungunternehmer in der Schweiz.
+1100510	1102990	2480	99 von 100 Mal stösst man auf Desinteresse.
+1103110	1108510	5400	Dann, irgendwann vielleicht,
+1108650	1109990	1340	kommt mal der Punkt, wo jemand interessiert ist.
+1110150	1111630	1480	"""ECO"" zeigt den steinigen Weg von Start-ups."
+1111850	1113550	1700	If you're interested in that, join us!
+1114960	1116870	1910	Wer als Start-up den Durchbruch schaffen will,
+1117050	1118710	1660	braucht zunächst einmal eine gute Idee.
+1118880	1120790	1910	Dann allerdings müssen Jungunternehmer
+1120960	1123950	2990	in einem zweiten Schritt ihre Idee möglichst gut verkaufen -
+1124060	1126070	2010	und das fällt vielen schwer.
+1126280	1128470	2190	Harry Stitzel hat einen Mann getroffen,
+1128560	1130830	2270	der Jungunternehmern Beine macht.
+1132580	1134950	2370	Er begleitet Schweizer Jungunternehmer
+1135050	1137710	2660	auf dem Weg nach oben: Jean-Pierre Vuilleumier.
+1137880	1141070	3190	Der Start-up-Coach stellt bei jungen Firmen in der ganzen Schweiz
+1141210	1143070	1860	immer dasselbe fest:
+1143240	1148070	4830	Was unsere Schweizer Start-ups wirklich nicht können,
+1148140	1150750	2610	und ich meine, wirklich nicht können:
+1150860	1153790	2930	Sich präsentieren.
+1153960	1160870	6910	Heute sind Vuilleumiers Dienste unter der Kuppel der ETH Zürich gefragt.
+1161040	1166110	5070	Hier bringt er Jungunternehmer auf seine Linie.
+1166330	1169310	2980	Ist das wirklich Ihr Projekt? Ihr Baby?
+1169460	1174710	5250	Kämpfen Sie darum wie um Ihr Kind? Kämpfen Sie schlau?
+1174780	1177990	3210	Die Teilnehmer des Start-up-Wettbewerbs Venture
+1178140	1181110	2970	wollen von ihm lernen, wie sie ihre Ideen am besten pitchen,
+1181220	1183270	2050	d.h. anpreisen müssen.
+1183490	1187190	3700	Jean-Pierre Vuillemier bereitet sie auf Gespräche mit Investoren vor.
+1187340	1191310	3970	Alles auf Englisch - die Start-up-Welt ist international:
+1191530	1196550	5020	Jeder von Ihnen hat einen Empfänger dabei: das Smartphone.
+1196650	1200310	3660	Und einen Kopfhörer. Damit können wir Inhalte streamen.
+1200490	1203030	2540	Der Übersetzer muss nicht im Raum sein,
+1203210	1209790	6580	braucht keine schwere Ausrüstung und kann sich von überall her verbinden.
+1210050	1213150	3100	Stop, stop, stop! That's bullshit. Total bullshit.
+1213300	1215950	2650	Die Zuhörer erwarten etwas, aber nichts folgt.
+1216090	1220950	4860	Aber ...
+1221060	1224190	3130	Ja, ja, ja. Widersprich nicht!
+1224360	1229590	5230	Die Teilnehmer müssen damit rechnen, zerpflückt zu werden:
+1229700	1234190	4490	Das ist eine sehr langweilige Präsentation.
+1234310	1237870	3560	Auch Charme alleine genügt nicht.
+1238090	1241960	3870	Ich erzähle Ihnen eine kurze Geschichte über meine Geschäftsidee.
+1242050	1245760	3710	Ich wollte mit dem Boot von Japan nach Russland reisen.
+1245970	1250560	4590	Ja, ich höre immer noch zu. Im Moment, äh ...
+1250740	1253440	2700	Ist diese Geschichte nicht etwas zu lang?
+1253610	1258720	5110	Vereinfachen, kürzen und neugierig machen ist sein Motto.
+1258900	1261400	2500	Es geht nicht darum, mein Leben zu erzählen
+1261560	1264320	2760	oder von meiner Technologie zu schwärmen,
+1264500	1266960	2460	sondern darum, dem Investor zu zeigen:
+1267090	1269920	2830	Hier ist ein Problem, und ich habe eine geniale Lösung,
+1270100	1272440	2340	mit der du viel Geld verdienen kannst.
+1272550	1274960	2410	Vuilleumier ist nicht nur Coach,
+1275100	1278320	3220	sondern auch Chef einer Finanzierungsplattform für Start-ups
+1278500	1283480	4980	und von daher ein Bindeglied zwischen Investoren und Jungunternehmen.
+1283640	1286720	3080	Finanziert wird er vom Bund und von Privaten.
+1286910	1290840	3930	Präsentiert vor eurer Grossmutter oder den Kindern!
+1291020	1293880	2860	Wenn sie es verstehen, steigen die Chancen,
+1293990	1296680	2690	dass es auch Investoren verstehen.
+1296770	1298800	2030	Make it simple!
+1298890	1303920	5030	Das ist eine hochkomplexe Grafik für eine blödsinnige Botschaft.
+1304030	1309080	5050	Wir brauchen keinen Text. Sind wir dumm oder was?
+1310720	1311920	1200	We are not!
+1312060	1314280	2220	Wir sagen immer ganz zu Beginn:
+1314430	1316800	2370	Jedes Feedback von uns ist nicht persönlich.
+1317010	1320730	3720	Und es muss direkt und geradeheraus sein, sonst kommen wir nirgends hin.
+1320910	1326530	5620	Beim Apero reflektieren die Jungunternehmer
+1326610	1329570	2960	die teils harsche Kritik.
+1329780	1333490	3710	Sie kriegten Ihr Fett weg, wie alle hier.
+1333630	1336330	2700	Richtig. Dafür kamen wir hierher. Wir wollten lernen:
+1336500	1340070	3570	Was machen wir falsch? Was kann man besser machen?
+1340170	1343750	3580	Was er mir sagte, leuchtete von Anfang an ein,
+1343980	1346070	2090	und daran kann man effektiv arbeiten.
+1346250	1349710	3460	Ich lasse mich gern beschimpfen oder zusammenscheissen,
+1349810	1351630	1820	solange ich etwas lernen kann.
+1351800	1355870	4070	Die meisten sind eigentlich positiv und sagen, es bringe wirklich viel,
+1355980	1358790	2810	weil endlich mal Klarheit herrsche
+1358900	1361470	2570	und nicht das typisch schweizerisch Nette,
+1361620	1363950	2330	bei dem man niemandem an den Karren fährt.
+1364110	1366150	2040	Es gibt sicher auch solche, die das nicht schätzen,
+1366330	1368910	2580	aber von denen höre ich meistens auch nichts.
+1369040	1372510	3470	Es ist ein langer Weg von der Idee zum Erfolg.
+1372730	1376390	3660	Jungunternehmer müssen dabei einiges einstecken.
+1378940	1381190	2250	Am Start-up-Wettbewerb Venture
+1381340	1384190	2850	hat eine Jury inzwischen die Finalisten bestimmt.
+1384320	1386470	2150	Diese sind noch geheim.
+1386630	1389630	3000	Nächste Woche, im dritten Teil unserer Serie, sagen wir Ihnen,
+1389740	1391710	1970	wer gewonnen hat.
+1391830	1394710	2880	Schon jetzt erfahren Sie auf unserer Website,
+1394870	1398270	3400	nach welchen Kriterien die Jury die Start-ups ausgewählt hat.
+1400820	1403670	2850	Ein Unternehmen aufbauen ist ein schöner,
+1403800	1406590	2790	aber auch ein mühseliger Prozess.
+1406750	1410230	3480	Wer nun - vielleicht bei einem Bier - auf die Idee kommen sollte,
+1410410	1412950	2540	statt zu arbeiten eine Bank zu überfallen,
+1413140	1416200	3060	der sollte sich das nochmals überlegen.
+1416370	1419920	3550	"""ECO"" mit einem etwas anderen - ökonomischen - Blick"
+1420020	1422200	2180	auf eine strafbare Handlung.
+1423550	1426840	3290	* Dynamische Krimimusik *
+1426940	1429880	2940	Ein paar Stunden Arbeit, Lastwagenladungen voller Geld,
+1430030	1435680	5650	und danach ein Leben im Luxus. Ein Traumberuf: Bankräuber.
+1435860	1438960	3100	"""Stimmt gar nicht"", sagen drei britische Wirtschaftswissenschaftler."
+1439090	1441920	2830	Streng geheime Bankdaten wurden ihnen zugespielt,
+1442020	1444600	2580	und sie lassen die Zahlen sprechen.
+1444750	1450080	5330	35'000 Euro bringt ein erfolgreicher Banküberfall in Grossbritannien
+1450190	1452480	2290	im Durchschnitt.
+1452630	1455480	2850	Aber jeder dritte Überfall geht schief und bringt gar nichts ein.
+1455660	1458520	2860	Damit schrumpft der Gewinn auf 24'000 Euro.
+1458730	1462080	3350	Bei statistischen 1,6 Räubern pro Überfall
+1462230	1466360	4130	macht das pro Bankräuber nur noch 15'000 Euro.
+1466580	1469960	3380	Einfach öfter mal eine Bank ausrauben bringt nichts.
+1470110	1472640	2530	Jeder fünfte Bankraub wird aufgeklärt.
+1472850	1474880	2030	Die Drahtzieher landen im Gefängnis.
+1475030	1478360	3330	Macht durchschnittlich drei Jahre totaler Verdienstausfall.
+1478520	1482480	3960	Diese Faktoren sind ausserdem im Spiel: Feuerwaffen.
+1482610	1486120	3510	Wer ballert oder damit droht, kriegt mehr raus,
+1486280	1490720	4440	nämlich ein sattes Plus von 12'000 Euro pro Überfall.
+1490810	1493880	3070	Aber das Risiko steigt mit,
+1494100	1497680	3580	denn bewaffnete Überfälle werden deutlich härter bestraft.
+1497940	1501320	3380	Ausserdem beeinflusst die Grösse der Gang den Gewinn.
+1501480	1505880	4400	Jedes zusätzliche Bandenmitglied bringt ein Plus von 10'600 Euro.
+1506070	1510040	3970	Jedoch muss die Beute dann durch mehr Köpfe geteilt werden.
+1510150	1511680	1530	Eine Minusrechnung,
+1511850	1514640	2790	denn am Ende springt für jeden sogar weniger heraus.
+1514790	1517920	3130	Es sei denn, der Bandenchef entledigt sich der Mittäter,
+1518040	1521120	3080	bevor die Beute verteilt wird.
+1521230	1523200	1970	Ob ein Bankjob sich lohnt oder nicht,
+1523370	1526880	3510	ist am Ende für jeden Bankräuber eine einfache Rechnung.
+1526970	1530400	3430	Der erwartete Gewinn, also die Beute, mal die Wahrscheinlichkeit,
+1530540	1535040	4500	sie zu kriegen und zu behalten, minus die erwarteten Kosten.
+1535240	1539800	4560	Also Gefängnisstrafe mal Risiko, geschnappt und verurteilt zu werden.
+1539900	1541600	1700	Alles klar?
+1541700	1545240	3540	Anders gesagt: Statistische 15'000 Euro pro Überfall
+1545440	1549520	4080	bei einer Wahrscheinlichkeit von 20 %, geschnappt zu werden,
+1549780	1553720	3940	macht bei rund fünf Überfällen pro Jahr inklusive Gefängnisaufenthalt
+1553860	1560920	7060	ein Jahreseinkommen von gerade einmal 15'000 Euro. Nicht gerade viel.
+1561030	1563400	2370	Wirklich erstaunlich ist es nicht,
+1563660	1567240	3580	dass Bankräuber ein aussterbender Beruf ist.
+1570030	1572610	2580	"Morgen um diese Zeit der ""Club"" mit dem Thema,"
+1572850	1577890	5040	was Menschen voranbringt und welche Rolle dem freien Willen zukommt.
+1578040	1581690	3650	Hier folgt jetzt gleich Roger Schawinski.
+1581860	1585490	3630	Sein Gast ist der Mediendirektor der FIFA, Walter de Gregorio.
+1585560	1589210	3650	Unsere nächste Sendung gibt es wieder in einer Woche.
+1589360	1591610	2250	Wir freuen uns, wenn Sie auch dann dabei sind.
+1591710	1593610	1900	Schönen Abend und eine gute Woche.
+1593830	1596490	2660	SWISS TXT / UT-Redaktion Zürich A. Duttweiler, L. Zbinden

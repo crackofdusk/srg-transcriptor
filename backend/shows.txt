@@ -10,14 +10,20 @@ Giacobbo / Müller 53293a8d-dd13-4968-95fd-24a490bfb6b8
 Rundschau 49863a84-1ab7-4abb-8e69-d8e8bda6c989
 Schweiz aktuell cb28dd84-f0c8-4024-8f20-1a29f5a4ceb7
 Dok 3b016ffc-afa2-466d-a694-c48b7ffe1783
-
+Tagesschau Spezial c4b213cd-9790-0001-3063-e4001037ebe0
+Tagesschau am Mittag 79711131-5a04-4238-804e-de46850b67de
+Wort zum Sonntag 5a841437-ed70-4d41-ad16-44a92ef91417
+Volkskultur d6a2b8f4-d749-4d97-a433-040952f80489
+Unterhaltung c5ff8b75-51c0-0001-a4ec-15b01f4fcfe0
+Puls 709898cb-2dba-45da-8e21-b1f416c39dc9
+Reporter 18477e06-560d-4305-85f0-fd397d43ad1c
 
 no trans
-Tagesschau am Mittag 79711131-5a04-4238-804e-de46850b67de no
 Schawinski c4ce16da-3680-0001-3f54-bd601770c830 no
 Kulturplatz d70e9bb9-0cee-46b6-8d87-7cbd8317a9c7 no
 Handelszeitung Standpunkte 63a26f3a-9801-4a10-80c1-5ea49ba0572b no
 baz Standpunkte e2c72a57-50ad-461d-9c89-171e7b2651c1 no
 BILANZ Standpunkte c5890634-1340-0001-86e3-1cfb117b4bd0 no
 NZZ Standpunkte 80d0894d-b845-4339-b714-b223ffabd4eb no
-
+SRFglobal c6a639e7-97a0-0001-5112-19c512b01474 no
+Tagesschau Spätausgabe Wochenende 279705ff-5dd0-47de-8bf6-6e6798b9b283 no

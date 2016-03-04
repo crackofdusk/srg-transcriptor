@@ -10,6 +10,7 @@ function get(options) {
     var deferred = Q.defer();
     requestQueue = requestQueue.then(function() {
         var requestDeferred = Q.defer();
+        options.gzip = true;
         console.log('get', options.url, options);
         request.get(options, function(error, response, data) {
             if(!error && (response.statusCode === 200 || response.statusCode === 203)) {
