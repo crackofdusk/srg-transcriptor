@@ -114,19 +114,18 @@ angular.module('angularApp')
 
     $scope.time = 0;
     var palying;
-    function readTime() {
-      player.getCurrentTime(function(time) {
-        $scope.$apply(function() {
-          $scope.time = time;
-        });
-        if(palying) {
-          setTimeout(readTime, 500);
-        }
+    var time = 0;
+    var updateTime = _.throttle(function() {
+      $scope.$apply(function() {
+        $scope.time = time;
       });
-    }
+    }, 500, {leading: true, trailing: true});
+    player.addEventListener('time_update', function(event) {
+      time = event.data.seconds;
+      updateTime();
+    });
     player.addEventListener('playing', function() {
       palying = true;
-      readTime();
     });
     player.addEventListener('paused', function() {
       palying = false;
