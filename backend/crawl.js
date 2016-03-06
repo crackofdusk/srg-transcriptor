@@ -3,6 +3,7 @@ var request = require('request');
 var _ = require('lodash');
 var Q = require('q');
 
+var here = require('path').join.bind(null, __dirname)
 var waitTime = 1000;
 var requestQueue = Q(0);
 
@@ -43,12 +44,12 @@ exports.addShow = function(id) {
         json: true
     }).then(function(data) {
         shows.srf.push(data.Show);
-        fs.writeFileSync('shows.json', JSON.stringify(shows, null, 4), 'utf8');
+        fs.writeFileSync(here('shows.json'), JSON.stringify(shows, null, 4), 'utf8');
     });
 };
 
 var shows = require('./shows.json');
-var transcripts = fs.readdirSync('transcripts/raw');
+var transcripts = fs.readdirSync(here('transcripts/raw'));
 var transcriptsIntroDate = new Date(2014, 3, 1);
 
 function fetchAssetSet(show, page) {
@@ -65,7 +66,7 @@ function fetchAssetSet(show, page) {
         show.AssetSet = _.uniq(show.AssetSet, function(asset) {
             return asset.id;
         });
-        fs.writeFileSync('shows.json', JSON.stringify(shows, null, 4), 'utf8');
+        fs.writeFileSync(here('shows.json'), JSON.stringify(shows, null, 4), 'utf8');
         console.log(
             show.title,
             'got', show.AssetSet.length,
@@ -95,6 +96,22 @@ exports.fetchShows = function() {
         }
         return fetchAssetSet(show);
     }));
+};
+
+var videos = require('./videos.json');
+exports.fetchPlayInformation = function(videoId) {
+    var exits = videos[videoId];
+    if(exits) {
+        return Q(exits);
+    }
+    return get({
+        url: "http://il.srf.ch/integrationlayer/1.0/ue/srf/video/play/"+videoId+".json",
+        json: true
+    }).then(function(data) {
+        videos[videoId] = data;
+        fs.writeFileSync(here('videos.json'), JSON.stringify(videos, null, 4), 'utf8');
+        return data;
+    });
 };
 
 function getMainVideo(episode) {
@@ -128,7 +145,7 @@ function fetchTranscripts() {
                 }
                 queue.push(
                     get({wait: 200, url: "http://www.srf.ch/player/subtitles/"+mainVideo.urn+"/subtitle.ttml"}).then(function(data) {
-                        fs.writeFileSync('transcripts/raw/'+episode.id+'.ttml', data, 'utf8');
+                        fs.writeFileSync(here('transcripts/raw/'+episode.id+'.ttml'), data, 'utf8');
                     })
                 );
             }
@@ -151,7 +168,7 @@ function timeToMs(time) {
 
 function parseTranscript(file) {
     var deferred = Q.defer();
-    parseXml(fs.readFileSync('transcripts/raw/' + file, {encoding: 'utf8'}), function(err, result) {
+    parseXml(fs.readFileSync(here('transcripts/raw/' + file), {encoding: 'utf8'}), function(err, result) {
         var paragraphs = [];
         result.tt.body[0].div[0].p.forEach(function(paragraph) {
             var texts = paragraph.span.map(function(span) {
@@ -164,7 +181,7 @@ function parseTranscript(file) {
                 text: texts.join(' ')
             });
         });
-        fs.writeFileSync('transcripts/simple/'+file.replace('.ttml', '.tsv'), d3.tsv.format(paragraphs), 'utf8');
+        fs.writeFileSync(here('transcripts/simple/'+file.replace('.ttml', '.tsv')), d3.tsv.format(paragraphs), 'utf8');
         return deferred.resolve();
     });
     return deferred.promise;
@@ -215,7 +232,7 @@ exports.parseShows = function() {
             });
         });
     });
-    fs.writeFileSync('showsWithTranscripts.json', JSON.stringify(showsWithTranscripts, null, 4), 'utf8');
+    fs.writeFileSync(here('showsWithTranscripts.json'), JSON.stringify(showsWithTranscripts, null, 4), 'utf8');
 };
 
 

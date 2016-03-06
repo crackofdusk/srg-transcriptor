@@ -1,20 +1,19 @@
 var d3 = require('d3');
 var _ = require('lodash');
 var fs = require('fs');
+var util = require('./util');
 
 var shows = require('./showsWithTranscripts.json');
 shows.forEach(function(show) {
     show.episodes.forEach(function(episode) {
-        episode.transcriptText = d3.tsv.parse(fs.readFileSync(__dirname+'/'+episode.transcript, {encoding: 'utf8'}), function(r) { return r.text; }).join(' ');
+        episode.transcriptData = d3.tsv.parse(fs.readFileSync(__dirname+'/'+episode.transcript, {encoding: 'utf8'}));
+        episode.transcriptText = episode.transcriptData.map(function(r) { return r.text; }).join(' ');
     });
 });
 
-module.exports = function(query) {
+module.exports = function(query, withTranscripts) {
     if(query) {
-        query = new RegExp(
-            query.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&"),
-            'gi'
-        );
+        query = util.queryRegex(query);
     }
     var result = shows.map(function(show) {
         var clonedShow = _.clone(show);
@@ -23,7 +22,10 @@ module.exports = function(query) {
             if(query) {
                 clonedEpisode.matches = (episode.transcriptText.match(query) || {}).length;
             }
-            clonedEpisode.transcriptText = undefined;
+            if(!withTranscripts) {
+                clonedEpisode.transcriptData = undefined;
+                clonedEpisode.transcriptText = undefined;
+            }
             return clonedEpisode;
         });
         if(query) {
