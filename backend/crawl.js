@@ -144,7 +144,7 @@ function fetchTranscripts() {
                     return;
                 }
                 queue.push(
-                    get({wait: 200, url: "http://www.srf.ch/player/subtitles/"+mainVideo.urn+"/subtitle.ttml"}).then(function(data) {
+                    get({wait: 200, url: "http://ws.srf.ch/subtitles/"+mainVideo.urn+"/subtitle.ttml"}).then(function(data) {
                         fs.writeFileSync(here('transcripts/raw/'+episode.id+'.ttml'), data, 'utf8');
                     })
                 );
