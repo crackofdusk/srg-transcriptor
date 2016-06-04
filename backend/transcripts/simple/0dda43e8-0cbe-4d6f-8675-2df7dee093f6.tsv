@@ -1,0 +1,641 @@
+start	end	duration	text
+12140	12840	700	.
+28180	29000	820	MIT TELETEXT-UNTERTITELUNG
+31640	34160	2520	Die digitale Revolution verändert die Welt.
+34300	37360	3060	Doch was heisst das konkret für uns und unseren Alltag?
+37510	40120	2610	Wir zeigen, wie man dank Daten in Zukunft
+40220	42200	1980	anders Auto fährt,
+42540	44000	1460	und wie wir dank smarter Brillen plötzlich zu Experten werden.
+46140	48240	2100	Experiment 1, next.
+48440	49680	1240	Next!
+50420	52720	2300	Was aber bedeutet die Digitalisierung
+52940	56280	3340	für unsere Arbeitsplätze? Werden wir ersetzbar?
+56390	58480	2090	Wir zeigen, in welchen Bereichen
+58700	59080	380	Computer auch erfahrene Mediziner heute schon schlagen.
+62580	67000	4420	Die digitale Revolution verändert Generationen - und ganze Branchen.
+67620	70840	3220	Dank ihr wird derzeit auch die Finanzwelt durchgeschüttelt.
+70940	74080	3140	Wir sind zu Besuch bei den innovativsten Start-ups.
+74660	76160	1500	Wenn man Finanzwirtschaft studiert,
+76270	78400	2130	ist man hier und nicht bei Goldman Sachs.
+78539.99999999999	83640	5100	Radikal digital - wir nehmen Sie mit ins neue Zeitalter!
+87060	89000	1940	Und darum: Bitte einsteigen, meine Damen und Herren!
+89970	94280	4310	Wir machen eine Spritztour mit einem Auto, das gewöhnlich aussieht,
+94440	98880	4440	das aber die Verschmelzung von der physischen und digitalen Welt ist.
+99020.00000000001	103200	4180	"Was das bedeutet, erfahren wir jetzt. Willkommen bei ""Einstein""."
+104500	108840	4340	Dieses Auto gehört zu einem Projekt, das sich Connected Car nennt.
+108940	113039.99999999999	4100	Es ist Teil der Forschung am sog. Bosch-Internet-der-Dinge-Labor
+113150	115160	2010	der Universität St. Gallen.
+115910	119039.99999999999	3130	Es geht ums vernetzte Fahren und die Möglichkeiten,
+119270.00000000001	121240	1970	die das mit sich bringt.
+121400	124120	2720	Neben Tobias Müller sitzt Andre Dahlinger,
+124220	125800	1580	er leitet dieses Projekt.
+125900	131080	5180	Ein Auto zeichnet bereits heute kontinuierlich Daten auf.
+131420	133600	2180	Die Forscher lesen diese Daten aus
+133920	134040	120	und machen sie für die Fahrer sichtbar.
+137780	140360	2580	Herr Dahlinger, es ist ein normales Auto.
+140460	142200	1740	Ja. - Ausser ...
+142290	144280	1990	Ich habe hier ein Display.
+144370	146480	2110	Hier beginnt ein Baum zu wachsen.
+147280	148640	1360	Genau.
+148740	149120	380	Der Baum reflektiert den Spritverbrauch.
+152420.00000000003	154320	1900	Und wächst ...
+154780	157079.99999999997	2300	... je weniger Sprit man verbraucht.
+158610	160640	2030	Er bekommt sogar Äpfel.
+160860	164079.99999999997	3220	Wir wollen verschiedene Feedback-Designs untersuchen
+164660	166640	1980	und wie sie wirken.
+167910	171400	3490	D.h., wie gut sie dazu dienen, den Fahrer zu motivieren,
+171500	172920.00000000003	1420	nachhaltig zu fahren.
+173010	174880	1870	Ein Baum, der wächst, ist sinnlicher
+175079.99999999997	177160	2080	als eine Durchschnittszahl des Verbrauchs
+177310	179040	1730	Genau. Gleichzeitig ist der Baum ein Symbol für das eigentliche Ziel,
+181910	186160	4250	das hinter dem Microdriving steht: nämlich nachhaltiger zu fahren.
+187140	191160	4020	Es geht also nicht nur um Technik, sondern auch um Psychologie.
+191630	194040	2410	Also darum, relevante Daten anschau- lich und emotional zu vermitteln.
+195700	199720	4020	Neben Umweltschutz steht die Sicherheit im Fokus der Forscher.
+199940	202800	2860	In Zukunft könnte das Auto den Fahrer nämlich warnen,
+202940	206240	3300	sobald er sich einer besonders gefährlichen Stelle nähert.
+206440	208960	2520	"Ah, jetzt kommt eine Meldung: ""Gefahr."""
+209060	209240	180	D.h., ich muss hier aufpassen?
+210940	212960	2020	Ja. - Woher kommt diese Meldung?
+213050	215040	1990	Ganz simpel gefragt?
+215130	217400	2270	Die Daten haben wir von der ASTRA.
+217540	221280	3740	In einem ASTRA-Datenset sieht man in unserem Fall
+221380	224120	2740	über die letzten vier Jahre alle registrierten Unfälle.
+225860	228840	2980	Mit Zusatzinformationen, wann sie geschehen sind,
+228930	230960	2030	wie viele Leute, welche Autos,
+231060	233800	2740	welche Verkehrsteilnehmer involviert waren.
+233890	236120	2230	Und was die Ursache war.
+236220	239079.99999999997	2860	Und wenn mehrere solche Unfälle am gleichen Ort passiert sind,
+240370	244360	3990	wird ein solcher Ort eben zu einem Gefahren-Hotspot im System.
+244530	247120	2590	Wie etwa an dieser Stelle in St. Gallen.
+247820	251640	3820	"Jetzt kommt eine Meldung: ""Ein- und ausparkende Fahrzeuge""."
+251780	254080	2300	An diesem Ort gibt es oft Unfälle, weil Autos rückwärts rausfahren.
+256310	260320	4010	An dieser Stelle gibt es drei Spuren und links einen Parkplatz.
+260470.00000000003	262400	1930	Man sucht einen Parkplatz.
+262560	266680	4120	Es gibt auch Autos, die bremsen, weil sie hier einparken wollen.
+266840	269120	2280	Der Hintermann muss das mit den Spuren auf die Reihe kriegen.
+270860	273120	2260	Da ist es kein Wunder.
+276409.99999999994	279840.00000000006	3430	Mit 72 Fahrzeugen macht der TCS in diesem Projekt mit.
+279990	284080	4090	Auch er will von der Digitalisierung des Verkehrs profitieren.
+284920	286560	1640	Für uns ist entscheidend,
+286710	289640	2930	dass unsere Mitarbeiter sicher unterwegs sind.
+289860	293360	3500	Und auch vor bestimmten Gefahrenzonen gewarnt werden können.
+293450	296000	2550	Und wir wollen einen nachhaltigen Beitrag
+296140	299040	2900	an die Entwicklung von neuen Produkten leisten,
+299260	301680	2420	die in Zukunft unsere Welt prägen werden.
+301780	305170	3390	Denn die Vision Connected Car geht noch viel weiter:
+305340	308850	3510	Künftig sollen viele vernetzte Fahrzeuge in den Strassen
+309060	311810	2750	sogar Daten live untereinander austauschen.
+311900	314090	2190	Das bietet ganz neue Möglichkeiten.
+314730	317770	3040	So könnte etwa eine Vollbremsung eines Fahrzeugs
+317860	319890	2030	die Autos in der Nähe warnen.
+321430	323370	1940	Es wäre sogar möglich,
+323540	326810	3270	aktuelle Karten von Beinahe-Unfällen zu erstellen.
+329390	332090.00000000006	2700	Alle sprechen von selbstfahrenden Autos.
+332210	334250	2040	Doch bis diese wirklich kommen,
+334420	337250	2830	heisst Digitalisierung im Verkehr v.a. eines:
+337430	343450	6020	ein noch engeres Verhältnis zwischen Mensch ... und Maschine.
+343900	344170	270	Dieses Auto ist eines der Projekte
+346250	348570	2320	am Internet-der-Dinge-Labor in St. Gallen.
+348770	352210	3440	Das Internet der Dinge steht für alle möglichen Gegenstände,
+352380	356290	3910	die online gehen und immer vernetzter und intelligenter werden,
+356409.99999999994	359010	2600	wie dieses Auto. Aber es gibt noch mehr.
+361490	364010	2520	Z.B. diese vermeintlich simple Glühbirne.
+364180	366890	2710	Dieser Prototyp hat eine WLAN-Verbindung,
+366980	370610	3630	dadurch kann man sie von überall per Smartphone steuern.
+370700	374130	3430	Es gibt noch einen anderen Clou: Hier drin ist ein Bewegungsmelder.
+375200	378010	2810	Wenn ich nicht zu Hause bin, registriert er,
+378210	380930	2720	falls jemand in der Wohnung ist, macht Licht
+381150	384010	2860	und gibt mir das über mein Smartphone bekannt.
+384240	388290	4050	Es ist nicht nur eine Glühbirne, sondern auch eine Alarmanlage.
+388400	389170	770	Aus etwas Altbewährtem wird etwas Neues.
+391090	394850	3760	Das ist ein entscheidender Faktor bei der Digitalisierung,
+394900	396970	2070	der aber auch Angst machen kann.
+397120	399250	2130	Denken wir an unsere Arbeitswelt.
+399430	402690	3260	Wenn uns smarte Fabriken und intelligente Maschinen
+402790	404170	1380	die Arbeit wegnehmen.
+404900	407930	3030	Was heisst das für die Arbeitswelt der Zukunft?
+408070	410010	1940	Wie könnte sie aussehen?
+410150	414170	4020	Kathrin Hönegger hat es erlebt und fühlte sich ferngesteuert.
+415860	419250	3390	Seit über zehn Jahren hatte Kathrin keinen Chemieunterricht mehr
+420160	423810	3650	und trotzdem läuft jeder ihrer Handgriffe routiniert ab.
+423900	426810	2910	Denn sie wird angeleitet ... über ihre Brille.
+426960	428970	2010	Von einer Software,
+429170	433450	4280	entwickelt am Fraunhofer-Institut für Angewandte Informationstechnik
+433600	434170	570	in Sankt Augustin bei Bonn.
+435700	439050	3350	Eingeblendet in ihr Sichtfeld sieht sie Texte, die ihr sagen,
+439170	441670	2500	was als Nächstes zu tun ist.
+441800	444190	2390	"Also: ""Beobachten Sie die Reaktion!"""
+447000	449190	2190	Perfekt. Next!
+450420	454870	4450	Genau so stellen sich die Forscher den Arbeitsplatz der Zukunft vor.
+455330	459230	3900	Fast alle Berufe sollen künftig davon profitieren.
+459380	461390	2010	Herr Prinz! - Ja.
+461480	463870	2390	Ich machte ein ganzes Chemieexperiment
+464000	464190	190	nur mit Anleitung dieser Brille.
+466330	468550	2220	Das ist die Idee, die dahintersteckt.
+468700	469790	1090	Unglaublich! - Ja.
+469940	473150	3210	Wir sind hier in einer Laborumgebung als Beispiel.
+473320	475830	2510	Angenommen Sie reparieren eine Maschine.
+475980	478590.00000000006	2610	Währenddessen reden Sie mit einem Experten.
+478740	479220	480	Sie bekommen Anleitungen aus dem System,
+481420	483980	2560	wie die Maschine am besten zu reparieren ist.
+484090	487780	3690	Oder Sie rufen einen Experten an und starten eine Videkonferenz.
+487900	492060	4160	Während der Arbeit kann Ihnen das Gerät Hilfestellung geben.
+492180	493660	1480	Aber auch zur Ausbildung.
+494430	497820	3390	Auch das Bauwesen soll mithilfe der Digitalisierung
+498050	500340	2290	revolutioniert werden. Was das heisst,
+500500	503700	3200	zeigen die Fraunhofer-Forscher in ihrem Bau-Labor.
+503860	506380	2520	Kathrin muss sich wieder eine Brille aufsetzen,
+506550	509230	2680	mit der sie in die virtuelle Welt eintauchen kann.
+509900	512549.99999999994	2650	Direkt auf dem Bauplan erscheinen Objekte,
+512679.99999999994	514870	2190	die das Geplante in 3-D anzeigen.
+515690.00000000006	519470	3780	Damit haben Sie die Möglichkeit, beides zu vergleichen.
+519650	522429.99999999994	2780	Jetzt fliegen Sie in das Gebäude rein.
+522590.00000000006	524230	1640	Ich bin hier ja schon in der Cafeteria.
+525250	528510	3260	Wenn Sie sich aufrichten, können Sie sich umschauen.
+528860	530910	2050	Dann sehen Sie hier ...
+531010	534470	3460	Ich sehe Sie in der Cafeteria. - Genau, so wird das aussehen.
+536370	539230	2860	Das digitale Modell hält viele Informationen bereit,
+539820	543270	3450	die per Tablet jederzeit zur Verfügung stehen sollen.
+544050	546630	2580	Programmiererin Deniz Bicer zeigt Kathrin,
+546790	550910	4120	wie alle, vom Bauleiter über die Abbruchfirma bis zu Elektrikern
+551070	554230	3160	buchstäblich in Wände und Decken hinein schauen werden.
+557810	559790	1980	Das Tolle ist:
+559970	563910	3940	Wenn ich hochschaue, sehe ich hinter die Wände,
+564140	567670	3530	wohin die Rohre verlaufen und wo sie durchlaufen.
+567840	569310	1470	Das ist super praktisch für jeden, der hier arbeitet
+571290	574270	2980	und die Baupläne ausführen muss.
+575200	578750	3550	Für die nächsten Generationen wird es selbstverständlich sein,
+578890	581510	2620	mithilfe von Virtual Reality zu arbeiten.
+581730	584310	2580	Ihnen könnte sogar etwas fehlen, ohne digitales Werkzeug.
+586870	589910	3040	Doch nicht allein der Mensch wird optimiert.
+590140	593590	3450	Auch die Maschinen selbst entwickeln sich immer weiter.
+594610	597910	3300	Hier, am Fraunhofer-Institut für Materialfluss und Logistik
+598010	599270	1260	in Dortmund, entwickeln Ingenieure Lösungen,
+601050	604390	3340	um die Mitarbeiter von Logistikzentren zu entlasten.
+604520	606460	1940	Denn die Kundschaft fordert:
+606690	609740	3050	Lieferung am besten gleich oder innert weniger Stunden.
+609880	612340	2460	Okay, glas. Scan!
+612650	614260	1610	Immer direkter werden die Wege, die die Produkte heute nehmen,
+616750	618660	1910	immer schneller zum Kunden.
+618770	621380	2610	Millionenfach und am liebsten gleichzeitig.
+622930	626460	3530	Roboter klettern frei und autonom in den Regalen herum,
+626690	628940	2250	ohne sich gegenseitig zu behindern.
+629050	629260	210	Heutige Systeme verursachen genau hier noch zeitraubende Staus.
+633620	636020	2400	Schwärme von intelligenten Fahrzeugen:
+636250	640260	4010	Jedes Einzelne weiss, woher es kommt und wohin es fahren muss:
+640430	644060	3630	Sie orientieren sich digital selbst und verteilen die Waren
+644170	644340	170	auf dem effizientesten Weg zur Lieferstation oder zum Lkw.
+648850	652660	3810	Sie sind so programmiert, dass sich die Menschen völlig frei
+652810	655420	2610	zwischen den rollenden Fahrzeugen bewegen
+655530	657620	2090	und jederzeit eingreifen können.
+657770	659300	1530	Die Lageristen werden die Abläufe noch überwachen
+661210	662940	1730	und sie allenfalls anpassen.
+663090	665580	2490	Die Forscher lassen sich gar Geräte einfallen,
+665690	668620	2930	die auf den ersten Blick ziemlich schräg daher kommen.
+668780	672300	3520	Wie dieser Prototyp: In Zukunft könnten energiesparend
+672440	674300	1860	rollende und nur bei Bedarf fliegende Drohnen
+675380	679300	3920	innerhalb von Logistik-Zentren tatsächlich zum Einsatz kommen
+679470	682780	3310	und dringend benötigte Waren abholen und ausliefern.
+683070	687300	4230	Aber: Wo bleibt eigentlich der Mensch in dieser Logistikwelt 4.0?
+687410	689340	1930	Und was heisst das für die Arbeitsplätze?
+691150	696020	4870	Wir sind recht optimistisch, dass es am Ende sogar mehr Jobs geben wird.
+696130	698220	2090	Aber es werden andere Jobs sein.
+698400	702820	4420	Es gibt ein anderes Verhältnis zwischen Mensch und Maschine.
+703050	704300	1250	Vereinfacht gesagt: Es wird normal werden, mit Dingen zu reden,
+707140	709180	2040	z.B. mit einem Regal
+709260	712740	3480	oder mit einem Fahrerlosen Transportfahrzeug.
+712850	714740	1890	Der Arbeiter der Zukunft:
+714920	718460	3540	Ständig im Austausch mit Mobiliar und Technologie.
+720500	724540	4040	Die Digitalisierung der Arbeit lässt sich nicht mehr aufhalten.
+724690	727140	2450	Wir werden neue Berufe erfinden müssen.
+727250	728980	1730	Und das werden wohl Jobs sein,
+729130	731500	2370	die für Computer weniger berechenbar sind.
+733150	734340	1190	Next! Feierabend.
+737970	739940	1970	Neue Welt neue Jobs.
+740170	743700	3530	Zwei Drittel der Kinder, die heute in die Schule kommen,
+743880	747660	3780	werden später in Jobs arbeiten, die es noch gar nicht gibt.
+747890	749340	1450	Laut einer Studie des WEF werden allein in den nächsten vier Jahren
+752330	756140	3810	durch die Digitalisierung rund 2 Mio. neue Jobs geschaffen.
+756340	759260	2920	Der Haken: 7 Mio. Jobs gehen dadurch verloren.
+759370	761940	2570	Das macht immer noch ein Minus von 5 Mio.
+762170	764380	2210	Es sind in erster Linie einfache, repetitive Jobs
+765400	769100	3700	in der Industrie und der Administration, die verschwinden.
+769230	771460	2230	Aber nicht nur die einfachen Jobs.
+771610	774420	2810	Computer und Algorithmen dringen immer öfter
+774560	776780	2220	in hochspezialisierte Fachgebiete,
+776960	779340	2380	in denen es ohne Mensch nicht gegangen wäre.
+782260	784820	2560	Das geübte Auge des Spezialisten.
+784980	787780	2800	Wir sind in der Radiologie des Unispitals Basel.
+789270	792340	3070	Der Radiologe muss Tomografie-Bilder analysieren
+792410	794380	1970	und eine Diagnose stellen.
+794560	796980	2420	Das ist ein zeitraubender 10-Std.-Job,
+797090	799820	2730	der einen Menschen an seine Grenzen bringt.
+800400	803140	2740	Das ist sehr monotone Arbeit.
+803250	806500	3250	Die wird durch den einzelnen Patienten
+806610	809380	2770	und sein konkretes Problem abwechslungsreich.
+809610	814660	5050	Aber das Aufmerksamkeitsdefizit, v.a. am Abend,
+814780	817140	2360	ist sicher ein Problem.
+817350	821020	3670	Für einen einfachen Fall braucht der Spezialist etwa 10 Min.
+821200	824380	3180	Kompliziertere Diagnosen dauern dann vielleicht eine halbe Stunde.
+825580	827620	2040	Insgesamt schauen sich die Radiologen -
+827790	831700	3910	allein hier in Basel - 10'000 Fälle pro Monat an.
+832330	834260	1930	Und es werden immer mehr.
+834810	838380	3570	Da eine Hilfe zu haben, automatischer Art,
+838600	839380	780	dass uns das Gerät oder irgendeine Software
+841370	843740	2370	z.B. Pathologien vorher rausfiltert,
+843900	846500	2600	uns aufmerksam macht auf bestimmte Dinge,
+846650	849780	3130	die bei bestimmten Patienten nicht normal sind -
+849890	852020	2130	das wäre eine sehr grosse Hilfe.
+852970	854380	1410	Computerpower soll also Abhilfe schaffen:
+855690	858770	3080	Bram Stjelties ist in der Basler Radiologie
+858890	861130	2240	zuständig für Innovationsprojekte.
+861370	865050	3680	Zusammen mit einem Zürcher Big-Data-Start-up überlegt er,
+865140	868850	3710	wie schlaue Computer-Algorithmen die Arbeit der Radiologen
+869050	869410	360	beschleunigen und vereinfachen könnten.
+871730	875690	3960	Die Vision ist, dass Dinge, die der Mensch nicht trainiert hat,
+875870	878290	2420	trotzdem in den Bildern erkannt werden.
+878450	882410	3960	Und eben viel mehr als das, was wir trainiert haben,
+882520	884380	1860	an den Daten zu erkennen.
+884620	888580	3960	Und dann zu nutzen, um die Diagnosen für die Patienten zu verbessern.
+889770	892900	3130	Tatsächlich erkennen Algorithmen heute sehr gezielt
+893000	895540	2540	und v.a. viel schneller als der Mensch,
+895690	898100	2410	wo die Anomalien in einem Scan liegen.
+898210	899420	1210	Wie in diesem Beispiel:
+900930	905580	4650	Hier wird der Tumor sekundenschnell und präzise vom Computer lokalisiert.
+906280	909700	3420	"Heute müssen die Scans zuerst einmal ""gelesen"" werden,"
+909800	911740	1940	das kostet Zeit und Aufwand.
+911890	914460	2570	Ziel ist es - genau wie bei einem Blutbild -
+914930	917500	2570	gleich mehrere Werte aufs Mal zu bekommen.
+919290	921780	2490	Zudem haben Computer die Möglichkeit,
+921890	925900	4010	viele verschiedene Fälle in Sekundenbruchteilen zu vergleichen
+926030	928020	1990	und Ähnlichkeiten zu finden.
+928140	929420	1280	Auch über Jahre hinweg.
+930420	933980	3560	Was man in den Bildern sieht, ist nach der Auswertung,
+934090	936900	2810	dass es gesundes und krankes Gewebe erkennt,
+937050	941300	4250	also in Rosa gesundes Gewebe, in Grün Tumorgewebe.
+941480	943780	2300	Ich sehe jetzt direkt in den Bildern,
+943940	944420	480	wie viel gesund und wie viel krank ist. Ich erkenne es auf Anhieb.
+948910	953620	4710	Die Frage drängt sich auf: Braucht es den Radiologen künftig noch?
+954490	957380	2890	Wenn man sich dafür interessiert und einsetzt,
+957500	959420	1920	und in diese Entwicklung mitzieht,
+959900	963420	3520	wird es auch später einen Radiologen durchaus brauchen.
+963570	967460	3890	Zudem wird es den Radiologen immer noch für die Übertragung
+967570	970900	3330	der Information zu den anderen Disziplinen brauchen,
+971010	973900	2890	die von der Technik keine Ahnung haben.
+974690	977660	2970	Er ist der Kopf hinter dieser technischen Lösung:
+977790	979740	1950	Kevin Mäder.
+980690	983980	3290	Der Big-Data-Spezialist kennt sich mit Bildanalysen
+984090	985980	1890	und lernenden Algorithmen aus.
+986250	989460	3210	Und er ist beeindruckt, wie sich die Basler Radiologen
+989810	992540	2730	auf diese Herausforderung eingelassen haben:
+992700	995260	2560	Das Wichtigste für uns am Anfang war,
+995370	998060	2690	dass sie ganz offen waren.
+998180	1000180	2000	Sie haben gesehen,
+1000290	1003980	3690	dass die Medizin in 20 Jahren ganz anders aussehen wird.
+1004090	1004460	370	Statt ihren Platz als Arzt verteidigen zu wollen,
+1008830	1012180	3350	wollten sie Teil dieses Umbruchs sein.
+1012250	1014700	2450	Also wie kann man sich jetzt ausbilden,
+1014920	1017860	2940	damit man nicht von einem Rechner ersetzt wird.
+1018070	1019460	1390	Welche neuen Skills muss man aufbauen und lernen,
+1021320	1024099.9999999999	2780	damit man in diesen Bereich einsteigen kann.
+1025750	1027980	2230	Und dieser Schritt ist nur logisch,
+1028160.0000000001	1031460	3300	denn schon heute liegen alle wichtigen Informationen
+1031589.9999999999	1033780	2190	in den Radiologie-Bildern selbst.
+1033890.0000000001	1034460	570	Nur muss sich ein Mensch diese Infos erst mühsam zusammensetzen.
+1038230	1042300	4070	Solche Arbeiten kann ein Computer sehr viel schneller erledigen.
+1042460	1044980	2520	Und der Facharzt hätte wieder mehr Zeit,
+1045210	1047780	2570	sich dem ganzen Krankheitsbild zu widmen.
+1047890.0000000001	1049460	1570	Fakt ist: Die Digitalisierung
+1050010	1053300	3290	macht auch vor hochspezialisierten Jobs nicht Halt.
+1055570	1057500	1930	Wissen Sie was das ist?
+1057730	1061500	3770	Es sieht nach minimalistischer Kunst aus, ist es aber nicht.
+1061650	1064180	2530	Das ist das Krankheitsbild der Zukunft:
+1064370	1064620	250	Depressionsfrüherkennung mithilfe Maus und Mausmatte.
+1068410	1071820	3410	Tobias Kowatsch, Sie sind der Künstler dieser Bilder.
+1071960	1073820	1860	Wie funktioniert das?
+1073980	1077540	3560	Wir sehen hier die ersten Ergebnisse einer Laborstudie.
+1077650	1079500	1850	Wir fragten uns, ob es möglich ist, anhand von Mausbewegungen
+1082310	1085380	3070	Stress am Arbeitsplatz zu identifizieren.
+1085540	1090180	4640	Und man sieht hier eigentlich visuell sehr schöne Unterschiede.
+1090370	1092940	2570	Der Teilnehmer hier war extrem gestresst.
+1093110	1094580	1470	Es galt Matheaufgaben unter Zeitdruck zu lösen,
+1095650	1100500	4850	dann eine Mausaufgabe bearbeiten: ein Quadrat nachfahren.
+1100590	1103580	2990	Hier durften sie eine Entspannungsübung machen.
+1103690	1106140	2450	Und erhielten dann dieselbe Aufgabe.
+1106290	1109500	3210	Wie man visuell sehr gut sieht, gibt es direkte Unterschiede.
+1110250	1113300	3050	Das sind für uns erste Indizien, um herauszufinden
+1113460	1116860	3400	anhand von bestimmten Mustern bei der Mausinteraktion,
+1117000	1118780	1780	ob und wie jemand gestresst ist.
+1119850	1123020	3170	Die Mausbewegungen von Gestressten und Entspannten
+1123150	1124500	1350	unterscheiden sich deutlich.
+1125210	1127380	2170	Getestet wurden Büroangestellte.
+1127490	1129460	1970	Die Daten sollen Auskunft geben
+1129690	1132340	2650	über den Stresslevel des jeweiligen Mitarbeiters.
+1132460	1134500	2040	Ist das nicht Kaffeesatzlesen?
+1134650	1138060	3410	Wir versuchen, mit unseren wissenschaftlichen
+1138170	1139540	1370	Instrumenten und Methoden valide Studien durchzuführen,
+1142320	1144620	2300	damit es eben nicht Richtung Kaffeesatzlesen geht.
+1144850	1148100	3250	Wir messen z.B. auch die Herzfrequenz, Hautleitwerte
+1148260	1150580	2320	und andere neurophysiologische Daten,
+1150760	1154580	3820	die uns anzeigen, ob und wie stark jemand gestresst ist.
+1155540	1158980	3440	Ich weiss aber nicht, ob mein Chef immer wissen soll,
+1159210	1161460	2250	wann ich gestresst bin. - Genau.
+1161570	1164180	2610	Deswegen gibt es einen wichtigen Ansatz,
+1164220	1166180	1960	den man hier erklären muss.
+1166360	1169540	3180	Solange wir hier wissenschaftliche, klinische Studien durchführen,
+1171770	1173700	1930	lernen wir diese Muster.
+1173850	1177100	3250	Wenn wir aber wissen, welches die relevanten Muster
+1177210	1180940	3730	bei der Mausinteraktion sind, bekommt jeder Mitarbeiter
+1181090	1183540	2450	diese Daten in erster Linie nur für sich selber
+1183770	1184540	770	und kann damit eigenverantwortlich umgehen.
+1186640	1188980	2340	Vielen Dank, Tobias Kowatsch. - Gerne.
+1189230	1193060	3830	Was man der Idee lassen muss: Sie ist innovativ und kreativ.
+1193270	1196940	3670	Genau das braucht es in dieser neuen digitalisierten Welt.
+1197170	1199540	2370	Nur, wie kommt man auf solch ausgefallenen,
+1199940	1202300	2360	vielleicht auch mal radikalen Ideen?
+1202440	1204860	2420	Wie wäre es mithilfe von 350 Hackern?
+1206210	1210180	3970	Und einem, der die Digitalisierung mit Hochdruck vorantreibt:
+1210200	1212060	1860	Jonathan Isenring.
+1212220	1214620	2400	Er gehört zu den Erfindern des wichtigsten Hackathons Europas:
+1216340	1218300	1960	dem HackZurich.
+1218450	1222060	3610	Bei einem Hackathon kommen junge Technikfreaks zusammen,
+1222220	1224900	2680	um zu programmieren und Neues zu schaffen.
+1225010	1226940	1930	Und das innert kürzester Zeit.
+1228730	1229540	810	Das Ziel ist, dass innerhalb 40 Std., Freitag bis Sonntag,
+1232190	1235060	2870	einen funktionierenden Prototyp zu entwickeln.
+1235220	1239540	4320	Prototypen, die zur Basis neuer digitaler Produkte werden könnten.
+1239650	1243700	4050	Ausgewählte Unternehmen stellen darum ihre Daten und Ressourcen
+1243810	1244580	770	für solche Veranstaltungen zur Verfügung.
+1246550	1248780	2230	Sie lassen sich davon überraschen,
+1248950	1251540	2590	was die jungen Entwickler damit anfangen.
+1251770	1254540	2770	Denn die grosse Stärke solcher kleinen Teams:
+1254690	1257780	3090	Sie stellen frei von allen Zwängen völlig neue Geräte
+1257870	1259580	1710	und Software-Lösungen auf die Beine.
+1260030	1262580	2550	Nicht jeder schafft es an den HackZurich,
+1262690	1265060	2370	die Teilnehmer müssen sich bewerben.
+1265160	1267580	2420	Aber wer zu den Auserwählten gehört,
+1267810	1271620	3810	der wird in dieser Zeit gehegt und gepflegt - an nichts soll es fehlen.
+1271770	1274580	2810	Der Event ist bereits weltweit bekannt in der Szene.
+1275270	1277900	2630	Dafür wird gehackt bis zur völligen Erschöpfung.
+1281730	1284740	3010	Nach 40 Std. prämiert eine Jury die Gewinner.
+1284850	1288060	3210	Und nicht selten entsteht aus einem solchen Projekt
+1288160	1289660	1500	auch gleich ein Start-up-Unternehmen.
+1291240	1293780	2540	Einerseits profitieren die Teilnehmer.
+1293890	1297420	3530	Sie haben Gelegenheit, sich untereinander zu vernetzen.
+1297590	1302100	4510	Sie haben eine gute Atmosphäre, einen Prototyp zu entwickeln.
+1302210	1304620	2410	Dann die verschiedenen Firmen, die insofern profitieren,
+1306030	1310780	4750	dass sie neue Inputs für ihre Innovationsprobleme bekommen.
+1312010	1316060	4050	Ziel ist es, die guten Ideen auch in der Praxis umzusetzen.
+1316240	1319620	3380	Deshalb ist Isenring v.a. auch in der Start-up-Szene gut vernetzt.
+1322870	1326380	3510	Es werden immer mehr Produkte von Start-ups entwickelt,
+1326530	1329860	3330	die für gewisse Unternehmen gefährlich sein können.
+1329970	1333860	3890	Aber wenn man versucht, mit den Start-ups, zusammenzuarbeiten,
+1334030	1334620	590	kann man die Chance nutzen und vom Innovationsgeist
+1337410	1342340	4930	und der technologischen Affinität der Start-ups profitieren.
+1342610	1345500	2890	Er ist ständig auf der Suche nach neuen Ideen:
+1345660	1347140	1480	Hilmar Scheel, der Innovations- entwickler des Konzerns Valora.
+1347260	1347540	280	Hilmar Scheel, der Innovations- entwickler des Konzerns Valora.
+1347650	1349620	1970	Hilmar Scheel, der Innovations- entwickler des Konzerns Valora.
+1349930	1352980	3050	Auch den HackZurich unterstützt das Unternehmen,
+1353090	1355100	2010	es gilt als digital sehr aktiv.
+1355310	1359460	4150	Es gibt sehr viele Start-ups, viele junge talentierte Entwickler,
+1359650	1361540	1890	die eigene Ideen haben.
+1361770	1364620	2850	Genau diese Entwickler treffen wir am HackZurich.
+1365890	1369100	3210	Valora ist ein Riese im Schweizer Retail-Geschäft.
+1369260	1372060	2800	Seine Marken sind an Bahnhöfen allgegenwärtig:
+1372280	1374660	2380	Kioske, Brezelbuden, Cafe-Ketten.
+1378350	1379660	1310	Doch trotz mehr als 900'000 Kunden pro Tag
+1381130	1383740	2610	kämpft der Konzern mit Umsatzrückgängen.
+1384730	1389340	4610	V.a. das Tabak-, Presse- und Buchgeschäft ist rückläufig.
+1389450	1392900	3450	Deshalb setzt Valora zunehmend auf digitale Produkte,
+1393010	1394620	1610	um v.a. junge Kunden zu gewinnen.
+1395960	1397700	1740	Die aktuellste Innovation:
+1397810	1401140	3330	Kleinkredite, die man direkt am Kiosk beziehen kann.
+1401780	1405580	3800	Cash ist ein online Kleinkredit, den Sie beantragen können.
+1405730	1408140	2410	Damit richten wir uns an unsere Kunden
+1408290	1409660	1370	und passen uns an den digitalen Lebensstil unserer Kunden an.
+1412110	1414540	2430	Sie können online den Kredit beantragen
+1414690	1418540	3850	und ihn sich dann im Kiosk auf ihre ok.-Prepaidkarte aufladen.
+1419250	1423020	3770	Kredit beantragen, Code bekommen, Karte aufladen:
+1423130	1424660	1530	bis zu einem Maximum von 3'000 Fr.
+1426650	1430500	3850	Ein komplett digitales Finanzprodukt und das: am Kiosk.
+1431170	1435420	4250	Bei Valora ist man überzeugt, damit im Trend der Kunden zu liegen.
+1437030	1439420	2390	Valora, der Betreiber von Kiosken,
+1439580	1439660	80	ist also kurzerhand ins Banking eingestiegen,
+1442610	1444700	2090	hat sein Geschäftsfeld erweitert.
+1444810	1446420	1610	In einen Zukunftsmarkt,
+1446570	1449780	3210	der eben v.a. digital gut funktioniert.
+1452730	1454700	1970	Das Valora-Lab ist die hauseigene Innovationsschmiede.
+1457210	1460820	3610	Hier werden verschiedene Geschäfts- modelle angedacht und getestet.
+1460940	1463260	2320	Und im Zweifel auch wieder verworfen.
+1463420	1467740	4320	Das ist wichtig, denn je nach Branche drängt bereits die Zeit.
+1467840	1469740	1900	Die Herausforderung besteht darin,
+1470310	1473020	2710	einerseits ein gewisses Know-how zu haben,
+1473120	1476780	3660	um diese neuen Technologien und Produkte zu entwickeln.
+1476950	1480580	3630	Darüber hinaus muss aufgrund der Schnelligkeit der Märkte
+1480790	1483420	2630	schnell mit den Kunden interagiert werden,
+1483530	1484700	1170	um Produkte schnell an den Markt zu bringen.
+1486500	1489910	3410	Nicht, dass sich der Markt schon weiterentwickelt hat.
+1491350	1493470	2120	Wie das bei Valora funktioniert,
+1493660	1496910	3250	zeigt diese jüngste App der Kaffee-Kette Spettacolo.
+1497130	1499710	2580	Damit ist es erstmals möglich, seinen Kaffee vorzubestellen,
+1501160	1503790	2630	von unterwegs und auf eine bestimmte Zeit -
+1504020	1506190	2170	etwa, kurz vor Abfahrt des nächsten Zuges.
+1506290	1508430	2140	Das Anstehen an der Kaffeebar entfällt.
+1508590	1512230	3640	Bezahlt wird vor Ort oder schon mit der App.
+1512340	1514630	2290	Der Stellenwert der Digitalisierung
+1514820	1517150	2330	wird für die Wirtschaft immer grösser.
+1517350	1519790	2440	Doch wie gut sind Schweizer Unternehmen
+1519900	1522030	2130	für diese Veränderungen gerüstet?
+1522290	1526870	4580	Dies untersucht Eva-Maria Spreitzer an der Hochschule für Wirtschaft
+1527100	1529710	2610	in Zürich. Im Fokus ihrer Studie: die Digitalisierung bei Schweizer KMUs.
+1531660	1535950	4290	Eva-Maria Spreitzer, Sie arbeiten an der Studie Digital Switzerland.
+1536130	1538110	1980	Sind die Unternehmen in der Schweiz
+1538330	1540710	2380	digitale Dinosaurier oder digitale Master?
+1540860	1544310	3450	Die gute Nachricht ist: 30 % der Schweizer Unternehmen
+1544460	1544710	250	meistern die digitale Transformation sehr gut.
+1547550	1550910	3360	Aber leider sind fast 60 % der Schweizer Unternehmen
+1551020	1553270	2250	noch Dinosaurier auf diesem Gebiet.
+1553420	1558070	4650	60 % digitale Dinosaurier, und das in einem Innovationsland Schweiz. Warum?
+1558290	1559750	1460	Wir fragten nach den Herausforderungen
+1560820	1564750	3930	und warum sie sich bei der digitalen Transformation schwertun.
+1564900	1568910	4010	Die meistgenannten Antworten waren fehlende Veränderungskultur
+1569120	1572150	3030	und regulatorische, gesetzliche Unsicherheiten.
+1572220	1574750	2530	Was bräuchte es, damit die Schweizer Unternehmen besser gerüstet sind?
+1576900	1580950	4050	Was eng mit Veränderungskultur zusammenhängt, ist Fehlerkultur.
+1581110	1583470	2360	Man kann nach Silicon Valley schauen.
+1583700	1587790	4090	Dort wird eine Fehlerkultur ganz anders verstanden.
+1587960	1589750	1790	Und zwar in dem Sinne, dass man Fehler machen darf,
+1591250	1593550	2300	um weiterzukommen und zu reagieren.
+1593730	1597070	3340	Da sind die Schweizer Unternehmen noch nicht so stark
+1597260	1601070	3810	wie z.B. amerikanische. - Vielen Dank, Eva-Maria Spreitzer.
+1601220	1604790	3570	Ein Schweizer Traditionsgeschäft wird durch die Digitalisierung
+1605140	1606670	1530	kräftig durchgeschüttelt.
+1606850	1610190	3340	Es weiss, was es heisst, wenn durch die Digitalisierung
+1610270	1612510	2240	eine neue Währung den Markt verändert.
+1614620	1616590	1970	Die Rede ist vom Banking.
+1616740	1618750	2010	Kaum ein anderer Geschäftszweig
+1618910	1619790	880	wird so eng mit der Schweizer Wirtschaft verknüpft.
+1622830	1625270	2440	Doch viele Innovationen im Finanzsektor
+1625440	1629270	3830	werden heute von Technik-affinen Kleinfirmen vorangetrieben.
+1629840	1632150	2310	Immer mehr findet rein digital statt:
+1632270	1634430	2160	bis hin zu schlauen Algorithmen,
+1634590	1634790	200	die bereits Anlagestrategien vorschlagen.
+1637330	1639950	2620	Finanzexperte Andreas Dietrich weiss:
+1640110	1644470	4360	Solche Fintech-Angebote - eine Kombination aus Finanz und Technik -
+1644540	1646510	1970	werden immer wichtiger.
+1646680	1649790	3110	Aber wo steht die Schweiz im Rennen um den digitalen Kunden?
+1650750	1653590	2840	Wir sind vielleicht etwa im oberen Drittel
+1653710	1655750	2040	der Welt bei den Finanzplätzen.
+1655860	1657830	1970	Wir sind nicht abgeschlagen.
+1657970	1661830	3860	Aber gleichzeitig muss man vom Finanzplatz Schweiz erwarten,
+1661970	1664830	2860	dass wir zu den Top 5 gehören oder zumindest zu den Top 10
+1665830	1667790	1960	oder auf dem 35. Rang.
+1667940	1672150	4210	Wir haben also noch Luft nach oben und müssen alles daran setzen,
+1672320	1675030	2710	dass wir im Fintech- und Innovationsbereich
+1675130	1676910	1780	ganz vorne mitspielen.
+1678900	1679790	890	Die Speerspitze dieser Industrie: Berlin.
+1682120	1684110	1990	Hier entstehen immer mehr
+1684220	1687270	3050	solche schnellen und agilen Fintech-Unternehmen.
+1687410	1691110	3700	Start-ups, die mit frechen Ideen in die Geschäftsbereiche
+1691220	1693310	2090	klassischer Bankhäuser vorstossen.
+1695140	1698030	2890	Ein wichtiger Player ist hier die Firma FinLeap.
+1698170	1700950	2780	Sie ist eine Art Triebwerk für Fintech-Start-ups.
+1701630	1703870	2240	Ihr Zweck ist es, Firmen zu gründen:
+1704010	1706350	2340	eine neue Gilde von Finanzdienstleistern,
+1706470	1709790	3320	die vieles anders und schneller machen als die grossen Banken.
+1711780	1714510	2730	Ramin Niroumand ist Mitgründer von FinLeap.
+1714700	1718270	3570	Gerade in der Finanzbranche können Start-ups gut mitmischen,
+1718390	1721030	2640	weil derzeit alle nach Innovationen suchen.
+1722410	1724830	2420	Die Finanzwirtschaft hat eine sehr spezielle Chance,
+1725920	1730030	4110	weil sie die einzige Branche ist, die 100 % digitalisierbar ist.
+1730170	1733190	3020	Sie ist eine Informations- und eine Meta-Branche,
+1733420	1735830	2410	d.h., sie ist in anderen Branchen drin.
+1735940	1738790	2850	Wenn wir irgendwann Kredite, Zahlungsverkehr
+1738910	1739920	1010	für E-Commerce-Marktplätze übernehmen,
+1741380	1744600	3220	wird dieses Thema Finanzbranche aktiv in Branchen,
+1744760	1748040	3280	die man heute gar nicht da reinrechnet.
+1748260	1751600	3340	FinLeap ist ein wahrer Brutofen für Finanz-Start-ups.
+1751830	1754920	3090	Die Firma berät die Gründer mit Expertenwissen aus allen Bereichen,
+1755970	1760120	4150	stösst Start-ups mit Kapital zwischen 500'000 und 5 Mio. Euro an.
+1760230	1762640	2410	Und das mit einer Geschwindigkeit,
+1762870	1766320	3450	die so manch traditionellem Bankhaus Angst machen kann.
+1766470	1769840	3370	Ende 2014 gegründet hat FinLeap sein erstes Start-up in Deutschland
+1770950	1775200	4250	und Österreich an den Markt gebracht, für Festgeldanlagen, rein digital.
+1775430	1779480	4050	Zwei Monate später gründen sie eine Plattform für App-Entwickler
+1779580	1781560	1980	und Investoren.
+1781710	1784800	3090	Gefolgt von einem Online-Pfandhaus für Luxuswaren
+1784990	1788240	3250	und einer Firma für Marketing in der Finanzbranche.
+1788410	1790800	2390	Nur zwei Monate später ein Unternehmen
+1790950	1795480	4530	für Versicherungsberatung und ein Vergleichsdienst für Versicherungen.
+1795580	1797560	1980	Und im August eine Firma,
+1797720	1799920	2200	die schnellen Kontowechsel möglich machen soll.
+1800870	1802800	1930	Letzten Monat kam Start-up,
+1802950	1805960	3010	das Inkassowesen mit Big Data kombinieren will.
+1806110	1807680	1570	Doch zurück zu Savedo.
+1807830	1811640	3810	Knapp 14 Monate am Markt hat die Firma bereits 40 Mitarbeiter.
+1811760	1814880	3120	Gründer ist der Jungunternehmer Christian Tiessen.
+1815070	1817640	2570	Es ist bereits seine dritte Firma.
+1818080	1821880	3800	"Das Magazin ""Forbes"" hat ihn unter die 30 einflussreichsten"
+1821980	1824280	2300	Finanzunternehmer unter 30 gewählt.
+1825270	1827040	1770	Das Geschäftsmodell ist simpel:
+1827270	1829880	2610	Savedo sucht für die Festgelder ihrer Kunden die besten Zinsen in Europa.
+1833150	1836160	3010	Die Kundenbeziehung läuft möglichst digital ab.
+1836870	1838800	1930	Das fängt schon bei der Anmeldung an:
+1839030	1842480	3450	Man wird hier online mit einem Kundenberater verbunden.
+1842720	1844880	2160	Sogar seinen Ausweis hält man nur in die Kamera
+1845950	1848120	2170	und schon ist das Konto eröffnet.
+1848420	1850920	2500	Bankgeschäfte - alles nur rein digital?
+1852030	1855480	3450	Digital heisst nicht immer schlechterer Kundenservice.
+1855580	1857400	1820	Ganz im Gegenteil:
+1857550	1859880	2330	Wir bei Savedo achten extrem darauf, dass jeder Kunde
+1861120	1864760	3640	eine individuelle Beratung über den Kundenservice erhält,
+1864870	1866600	1730	wenn er sie denn wünscht.
+1866750	1870160	3410	Wir gehen auch viel transparenter mit Informationen um.
+1870260	1873680	3420	Wir versuchen alles sehr klar und deutlich zu erläutern,
+1873950	1874880	930	was unser Produkt betrifft und was der Kunde wissen muss,
+1877470	1879480	2010	um eine Festgeldanlage zu tätigen.
+1879630	1882120	2490	Der Erfolg scheint ihm Recht zu geben:
+1882210	1884960	2750	Nach knapp einem Jahr verwaltet seine Firma
+1885070	1887680	2610	nach eigenen Angaben bereits Kundengelder
+1888030	1889920	1890	im dreistelligen Millionenbereich.
+1890310	1892000	1690	Die Branche ist so spannend,
+1892210	1895600	3390	dass bereits ein Rennen um die kreativsten Köpfe begonnen hat.
+1895750	1898840	3090	Wir bekommen mehr als 1'000 Bewerbungen pro Monat
+1899050	1901320	2270	und können aus den Besten auswählen.
+1901550	1904000	2450	Ich verbringe fast 30 % meiner Zeit für Recruiting.
+1904150	1904920	770	Die Idee ist nicht so entscheidend, wie die Leute, die sie antreiben.
+1909130	1911080	1950	Der Run wird immer grösser.
+1911710	1914680	2970	Marc Bernegger ist ein Kenner der Fintech-Szene
+1914780	1916880	2100	und berät auch die Berliner mit.
+1917230	1919920	2690	Dass diese Veränderung in Berlin viel stärker passiert als in der Schweiz,
+1922150	1923760	1610	erstaunt ihn nicht.
+1923990	1927320	3330	In der Schweiz wird oft weniger ambitioniert gedacht.
+1927430	1929400	1970	Man macht es solide,
+1929550	1932800	3250	aber nicht mit dem Gedanken, die Welt zu verändern.
+1932960	1934920	1960	Das ist in Berlin und v.a. im Silicon Valley anders.
+1936420	1939680	3260	Dort hat man mehr visionäre Unternehmen,
+1939830	1944000	4170	die ambitioniert die ganze Welt auf den Kopf stellen.
+1944130	1947840	3710	Das ganze Thema der Digitalisierung in der Finanzindustrie
+1948000	1949960	1960	ist für mich kein Hype, sondern eine nachhaltige Entwicklung,
+1952080	1954160	2080	die das Banking revolutionieren wird.
+1956030	1959160	3130	Mit Konsequenzen auch für den Finanzplatz Schweiz.
+1959800	1962440	2640	Je nachdem, wie stark auch hierzulande
+1962600	1964960	2360	in den digitalen Wandel investiert wird.
+1967550	1970520	2970	Digitalisierungen bringen grosse Veränderungen,
+1970700	1973120	2420	die im Moment noch in Männerhand sind.
+1973290	1976360	3070	Der Technologiesektor ist von Männern dominiert.
+1976470	1979920	3450	Warum es auch Frauen braucht und was dafür getan wird,
+1980030	1982240	2210	erfahren Sie auf unserer Website.
+1983190	1987160	3970	Und dass die Digitalisierung mitunter am besten funktioniert,
+1987260	1990290	3030	wenn man sie kaum bemerkt, zeigt dieses Projekt
+1990490	1992970	2480	der St. Galler Forscher an einer Schule.
+1993130	1995010	1880	Ein Bild von Albert Einstein
+1995310	1999250	3940	misst über eingebaute Sensoren das Raumklima im Klassenzimmer.
+1999440	2002530	3090	Wird der CO2-Gehalt zu hoch, färbt sich Herr Einstein grün.
+2002760	2008370	5610	Für die Schüler das Zeichen, wieder mal zu lüften. Simpel, aber effektiv.
+2008910	2009970	1060	Felix Wortmann, Sie sind der Leiter dieses Kunstprojekts,
+2012790	2016250	3460	in dem die Digitalisierung tatsächlich die Kunst erobert,
+2016330	2017890	1560	auch etwas Sinnliches hat.
+2018030	2020690	2660	Aber ehrlich: Ist es mehr als nur ein Gag?
+2020810	2022530	1720	Ja, ist es.
+2022630	2024770	2140	Wir setzen das in der Schule ein,
+2024910	2025090	180	um Schüler zu unterstützen, ihr Raumklima besser zu managen.
+2028950	2032130	3180	Es zeigt aber auch deutlich, wo der Trend hinführt.
+2032280	2036090	3810	Wir haben nicht die physische Welt gegen die digitale Welt,
+2036280	2039450	3170	sondern die beiden verschmelzen, kommen zusammen.
+2039550	2040050	500	Ich bin etwas hin- und hergerissen, ob es mir schlecht wird wie Einstein,
+2044510	2048090.0000000002	3580	weil mich irgendwann ein Moderationsroboter ersetzen wird
+2048230	2051889.9999999998	3660	oder ob ich mich über die Chancen der Digitalisierung freuen soll.
+2052050.0000000002	2055010.0000000002	2960	Was meinen Sie? - Technologie ist etwas Neutrales.
+2055400	2059730	4330	Wenn Sie an Ihr Küchenmesser denken, können Sie es dafür verwenden,
+2059889.9999999998	2063330	3440	um ein Schnitzel zu essen und es zu geniessen.
+2063429.9999999998	2065409.9999999998	1980	Es bereichert Sie.
+2065550.0000000002	2069170	3620	Andererseits können Sie Ihren Gast damit auch erstechen.
+2069310	2070010.0000000002	700	Die Entscheidung liegt ein Stück weit bei Ihnen.
+2072480	2074449.9999999998	1970	Und auch bei der Gesellschaft.
+2074600	2077050.0000000002	2450	Welche Rahmenbedingungen schaffen wir?
+2077150	2080409.9999999998	3260	Nutzen wir das Ganze positiv, z.B. für die Medizin?
+2080510.0000000002	2082690	2180	Oder negativ, um Leute zu ersetzen,
+2082889.9999999998	2085090.0000000002	2200	um sie zu beobachten oder gar zu töten im Bereich Militär.
+2086280.0000000002	2088929.9999999998	2650	Wir müssen das Beste aus der Technologie machen.
+2089050.0000000002	2090850	1800	Danke, Felix Wortmann.
+2090989.9999999998	2094969.9999999998	3980	Nächste Woche gehen wir zusammen einkaufen.
+2095230	2098890	3660	"""Einstein"" nimmt den Supermarkt ganz genau unter die Lupe"
+2099000	2100130	1130	und zeigt mithilfe der Wissenschaft,
+2101580	2105970	4390	wie wir tagtäglich verführt werden und mit welchen Strategien wir uns
+2106190	2108930	2740	im Konsumdschungel überhaupt zurecht finden.
+2109090	2111970	2880	Zudem beweist unser grosses Experiment,
+2112120	2115010	2890	wie viel schon ein einziger Einkauf über uns verrät.
+2115560	2117970	2410	"Und: ""Einstein"" geht dem Mythos"
+2118120	2121570	3450	der Unzerstörbarkeit von Einkaufswägeli auf den Grund.
+2122330	2123970	1640	(Mann) Wir legen los!
+2124190	2126770	2580	Was passiert, wenn man den Einkaufswagen
+2126900	2128490	1590	mit 120 in eine Wand fährt?
+2128600	2130010	1410	"Uns auch. Die Antwort: Nächste Woche bei ""Einstein""."
+2135050	2137490	2440	"Auf diesem Sender gleich ""Aeschbacher"","
+2137710	2141130	3420	"zuerst aber ""10vor10"" mit Aktuellem und Hintergründen."
+2141340	2145050	3710	Ich, der echte Müller, kein Roboter, wünsche Ihnen einen schönen Abend.
+2145950	2147850	1900	Auf Wiedersehen.
+2148430	2151810	3380	SWISS TXT / UT-Redaktion Zürich Sabine Näpflin - 2016

@@ -6170,6 +6170,718 @@
                 "publishedDate": "2016-03-04T18:30:00.000Z",
                 "transcript": "transcripts/simple/415a881b-b986-44e9-a516-c49e2fb27e06.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/be2eab06-edce-413a-a2ce-a1b6ec189990/EPISODE_IMAGE/1457125240000.png"
+            },
+            {
+                "id": "869b7d53-85c5-4414-99f9-6cfbc32a640b",
+                "videoId": "54857ef0-559e-40e1-b74b-eaed306a546a",
+                "title": "Tagesschau vom 03.06.2016, 19:30",
+                "publishedDate": "2016-06-03T17:30:00.000Z",
+                "transcript": "transcripts/simple/869b7d53-85c5-4414-99f9-6cfbc32a640b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7a705825-89d0-4c49-b43e-9e42586b5663/EPISODE_IMAGE/1464978486000.png"
+            },
+            {
+                "id": "32ec559f-b476-46ef-b581-58a47240bf2f",
+                "videoId": "ce4de8b0-2bb1-4cf8-be65-906b805f458a",
+                "title": "Tagesschau vom 02.06.2016, 19:30",
+                "publishedDate": "2016-06-02T17:30:00.000Z",
+                "transcript": "transcripts/simple/32ec559f-b476-46ef-b581-58a47240bf2f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e700a916-6c67-4e6c-ae29-060626c5491c/EPISODE_IMAGE/1464890666000.png"
+            },
+            {
+                "id": "99471abd-d703-4f3b-bf16-f8de7c8f7802",
+                "videoId": "f9991682-f778-429a-b203-0aa42502a652",
+                "title": "Tagesschau vom 01.06.2016, 19:30",
+                "publishedDate": "2016-06-01T17:30:00.000Z",
+                "transcript": "transcripts/simple/99471abd-d703-4f3b-bf16-f8de7c8f7802.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5a7af68b-65ae-4b40-a796-c69b5f987e3e/EPISODE_IMAGE/1464805397000.png"
+            },
+            {
+                "id": "9d4b5784-7ece-45bc-b260-c35acbb2e535",
+                "videoId": "cc9e9e8a-0c5a-467c-81a3-05122f929d61",
+                "title": "Tagesschau vom 31.05.2016, 19:30",
+                "publishedDate": "2016-05-31T17:30:00.000Z",
+                "transcript": "transcripts/simple/9d4b5784-7ece-45bc-b260-c35acbb2e535.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/463eb1a1-8428-4854-86cb-c04a23f00083/EPISODE_IMAGE/1464718062000.png"
+            },
+            {
+                "id": "b3edc127-9466-4915-ad7e-52bb4694d6b6",
+                "videoId": "eab10bb9-f17c-42a7-adac-f4c3da1b36f8",
+                "title": "Tagesschau vom 30.05.2016, 19:30",
+                "publishedDate": "2016-05-30T17:30:00.000Z",
+                "transcript": "transcripts/simple/b3edc127-9466-4915-ad7e-52bb4694d6b6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ee131cf7-2c4e-4fe6-81e9-f0c07c7bd354/EPISODE_IMAGE/1464633011000.png"
+            },
+            {
+                "id": "f10f627a-adbc-4335-8b0b-be8555af8b03",
+                "videoId": "84a833b9-f12f-4715-8ea9-17ab4f866bbb",
+                "title": "Tagesschau vom 29.05.2016, 19:30",
+                "publishedDate": "2016-05-29T17:30:00.000Z",
+                "transcript": "transcripts/simple/f10f627a-adbc-4335-8b0b-be8555af8b03.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ea73b085-888b-4f8c-bde2-6658321d525d/EPISODE_IMAGE/1464545655000.png"
+            },
+            {
+                "id": "350000b7-a197-45d0-a461-c0a29f79c519",
+                "videoId": "f5b650b6-2be3-4616-87cd-b9d3c255753a",
+                "title": "Tagesschau vom 28.05.2016, 19:30",
+                "publishedDate": "2016-05-28T17:30:00.000Z",
+                "transcript": "transcripts/simple/350000b7-a197-45d0-a461-c0a29f79c519.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4af497f1-6269-4dc6-9c91-78fcd5c22e1a/EPISODE_IMAGE/1464460251000.png"
+            },
+            {
+                "id": "6babb174-fcfe-48c3-9916-f31142c003be",
+                "videoId": "3613ebb9-4451-4f2d-9d46-01851dd441d8",
+                "title": "Tagesschau vom 27.05.2016, 19:30",
+                "publishedDate": "2016-05-27T17:30:00.000Z",
+                "transcript": "transcripts/simple/6babb174-fcfe-48c3-9916-f31142c003be.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ab1a984c-6b92-40d8-8453-38be9ff165c8/EPISODE_IMAGE/1464372625000.png"
+            },
+            {
+                "id": "185d79c8-6eb8-40c3-95af-e9ad201d74ab",
+                "videoId": "595091a6-0818-41a8-b4ca-9661c9f84bc4",
+                "title": "Tagesschau vom 26.05.2016, 19:30",
+                "publishedDate": "2016-05-26T17:30:00.000Z",
+                "transcript": "transcripts/simple/185d79c8-6eb8-40c3-95af-e9ad201d74ab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/472d3185-3202-48c9-adc0-2ebe5af956f1/EPISODE_IMAGE/1464289907000.png"
+            },
+            {
+                "id": "9af586b2-50f2-4e7d-9f8e-bc824b95a2bd",
+                "videoId": "7d25b271-7e85-4c6d-af48-17ebed2ee72b",
+                "title": "Tagesschau vom 25.05.2016, 19:30",
+                "publishedDate": "2016-05-25T17:30:00.000Z",
+                "transcript": "transcripts/simple/9af586b2-50f2-4e7d-9f8e-bc824b95a2bd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/67d00df6-7a9a-4fb0-a636-808d7a35a880/EPISODE_IMAGE/1464199846000.png"
+            },
+            {
+                "id": "8b68bb99-da09-4e0c-b305-c30c8659837d",
+                "videoId": "ffd2799d-045f-4a87-a898-59a388d449af",
+                "title": "Tagesschau vom 24.05.2016, 19:30",
+                "publishedDate": "2016-05-24T17:30:00.000Z",
+                "transcript": "transcripts/simple/8b68bb99-da09-4e0c-b305-c30c8659837d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/00d44814-920f-4541-83eb-a6b792db6cd1/EPISODE_IMAGE/1464113322000.png"
+            },
+            {
+                "id": "5b08a1ec-ff5e-415c-8265-6f72b2383894",
+                "videoId": "bf855ff9-a450-4247-93a2-41f841cfdc48",
+                "title": "Tagesschau vom 23.05.2016, 19:30",
+                "publishedDate": "2016-05-23T17:30:00.000Z",
+                "transcript": "transcripts/simple/5b08a1ec-ff5e-415c-8265-6f72b2383894.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d6d57b1e-59c0-42c0-898a-2aaac8e1e707/EPISODE_IMAGE/1464027363000.png"
+            },
+            {
+                "id": "8e5d1d84-b296-4e74-a02e-e1c13e5fe9d2",
+                "videoId": "d85ddd59-9176-4968-ab7a-cb2ec637633e",
+                "title": "Tagesschau vom 22.05.2016, 19:30",
+                "publishedDate": "2016-05-22T17:30:00.000Z",
+                "transcript": "transcripts/simple/8e5d1d84-b296-4e74-a02e-e1c13e5fe9d2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8fcd246b-0b0a-4748-bd16-eafd679b8021/EPISODE_IMAGE/1463948134000.png"
+            },
+            {
+                "id": "8689a162-aa87-43cc-8b42-10ad1c3cd710",
+                "videoId": "484cd9f8-77d9-4769-84e2-30abf5392642",
+                "title": "Tagesschau vom 21.05.2016, 19:30",
+                "publishedDate": "2016-05-21T17:30:00.000Z",
+                "transcript": "transcripts/simple/8689a162-aa87-43cc-8b42-10ad1c3cd710.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/74aec7ea-2644-4a8b-8637-59746932c440/EPISODE_IMAGE/1463864446000.png"
+            },
+            {
+                "id": "e2d27f59-0f50-4a92-b0f2-f2fd3b2f39a8",
+                "videoId": "9ac784ed-ff39-461e-b32a-8de13d544071",
+                "title": "Tagesschau vom 20.05.2016, 19:30",
+                "publishedDate": "2016-05-20T17:30:00.000Z",
+                "transcript": "transcripts/simple/e2d27f59-0f50-4a92-b0f2-f2fd3b2f39a8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3c220126-bbc5-4a72-b915-00b4442a6b88/EPISODE_IMAGE/1463807737000.png"
+            },
+            {
+                "id": "a68e7aca-2ffe-4b7d-94f0-d748666dbe52",
+                "videoId": "67e90fc6-727a-4958-a9af-a3760b439f3b",
+                "title": "Tagesschau vom 19.05.2016, 19:30",
+                "publishedDate": "2016-05-19T17:30:00.000Z",
+                "transcript": "transcripts/simple/a68e7aca-2ffe-4b7d-94f0-d748666dbe52.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9c48a6a5-6b5c-4e32-b58d-0ec3252053c7/EPISODE_IMAGE/1463684417000.png"
+            },
+            {
+                "id": "79c29417-df58-417a-9c7a-8656b7735b30",
+                "videoId": "0c2398f5-82b5-45a0-bb02-9a52d75af5cc",
+                "title": "Tagesschau vom 18.05.2016, 19:30",
+                "publishedDate": "2016-05-18T17:30:00.000Z",
+                "transcript": "transcripts/simple/79c29417-df58-417a-9c7a-8656b7735b30.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/50490892-1760-48ef-9cba-843cbacd6524/EPISODE_IMAGE/1463630419000.png"
+            },
+            {
+                "id": "a8eab6e0-b36b-43fb-b8b4-ec3b5f581883",
+                "videoId": "c154d49c-0ea2-4dcc-bbcb-8dbc3d537afb",
+                "title": "Tagesschau vom 17.05.2016, 19:30",
+                "publishedDate": "2016-05-17T17:30:00.000Z",
+                "transcript": "transcripts/simple/a8eab6e0-b36b-43fb-b8b4-ec3b5f581883.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9fd21ca1-c3c0-4baf-8d79-0d1c03816d35/EPISODE_IMAGE/1463557549000.png"
+            },
+            {
+                "id": "4c536e4c-5ef2-4673-a8e6-d5c557c69605",
+                "videoId": "dde33067-c85c-4e9e-bd75-7b98e8b41347",
+                "title": "Tagesschau vom 16.05.2016, 19:30",
+                "publishedDate": "2016-05-16T17:30:00.000Z",
+                "transcript": "transcripts/simple/4c536e4c-5ef2-4673-a8e6-d5c557c69605.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2d406317-c920-41c4-9985-638ed83e308a/EPISODE_IMAGE/1463428838000.png"
+            },
+            {
+                "id": "15140314-1573-4155-9547-a86c433e99cc",
+                "videoId": "9045b1e2-0333-4750-9941-ba34f869e171",
+                "title": "Tagesschau vom 15.05.2016, 19:30",
+                "publishedDate": "2016-05-15T17:30:00.000Z",
+                "transcript": "transcripts/simple/15140314-1573-4155-9547-a86c433e99cc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/066519d7-8885-4585-a5e4-320c5f2451c5/EPISODE_IMAGE/1463383823000.png"
+            },
+            {
+                "id": "5dba998f-2efb-477e-83d2-01c549a03ee9",
+                "videoId": "eb05dd1b-f4d8-42e9-b87f-cf9b0ee70a38",
+                "title": "Tagesschau vom 14.05.2016, 19:30",
+                "publishedDate": "2016-05-14T17:30:00.000Z",
+                "transcript": "transcripts/simple/5dba998f-2efb-477e-83d2-01c549a03ee9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/45e00a77-77e3-4051-a777-2a3900d63d15/EPISODE_IMAGE/1463283918000.png"
+            },
+            {
+                "id": "2bd339c4-a848-4688-ac90-d81dff467eb8",
+                "videoId": "50fa7420-aabf-4725-ac6e-456e5174d471",
+                "title": "Tagesschau vom 13.05.2016, 19:30",
+                "publishedDate": "2016-05-13T17:30:00.000Z",
+                "transcript": "transcripts/simple/2bd339c4-a848-4688-ac90-d81dff467eb8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5c171dee-1c95-4582-8f6c-90550654d23d/EPISODE_IMAGE/1463199334000.png"
+            },
+            {
+                "id": "207ba5fa-661e-4726-9046-98bc5630cb3e",
+                "videoId": "b35150c0-4e10-4c57-8153-7c439d13a8bf",
+                "title": "Tagesschau vom 12.05.2016, 19:30",
+                "publishedDate": "2016-05-12T17:30:00.000Z",
+                "transcript": "transcripts/simple/207ba5fa-661e-4726-9046-98bc5630cb3e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f62ad32c-a2b1-44f9-864e-12ec30b55727/EPISODE_IMAGE/1463137216000.png"
+            },
+            {
+                "id": "87ab6c6f-a2f1-4157-87cd-278bc7ded573",
+                "videoId": "a1295186-1dc5-4373-8d0a-7d3b19622361",
+                "title": "Tagesschau vom 11.05.2016, 19:30",
+                "publishedDate": "2016-05-11T17:30:00.000Z",
+                "transcript": "transcripts/simple/87ab6c6f-a2f1-4157-87cd-278bc7ded573.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/72d4df2e-c346-481b-85ab-03c332f0a704/EPISODE_IMAGE/1462999558000.png"
+            },
+            {
+                "id": "0ab62109-4591-499f-acd3-a65387c3dddf",
+                "videoId": "aae3b84a-6d39-4c43-b414-1a446db685d4",
+                "title": "Tagesschau vom 10.05.2016, 19:30",
+                "publishedDate": "2016-05-10T17:30:00.000Z",
+                "transcript": "transcripts/simple/0ab62109-4591-499f-acd3-a65387c3dddf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2c1dbfef-2097-4f89-8af2-05a88085a224/EPISODE_IMAGE/1462942824000.png"
+            },
+            {
+                "id": "a80ddcb9-12a4-4550-bc82-7790d26ed7be",
+                "videoId": "13b1680d-152a-49a2-8cb9-d2ff6b2675ce",
+                "title": "Tagesschau vom 09.05.2016, 19:30",
+                "publishedDate": "2016-05-09T17:30:00.000Z",
+                "transcript": "transcripts/simple/a80ddcb9-12a4-4550-bc82-7790d26ed7be.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/16c27246-c729-4a36-a7ed-63bd2b8bba7d/EPISODE_IMAGE/1462824036000.png"
+            },
+            {
+                "id": "570fb752-0690-4954-bc8c-38aac8dfd341",
+                "videoId": "33bf654c-0571-4bdb-b490-1911fa40e2f4",
+                "title": "Tagesschau vom 08.05.2016, 19:30",
+                "publishedDate": "2016-05-08T17:30:00.000Z",
+                "transcript": "transcripts/simple/570fb752-0690-4954-bc8c-38aac8dfd341.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1ea87ec5-3db4-4c87-a85b-90d97587165e/EPISODE_IMAGE/1462796156000.png"
+            },
+            {
+                "id": "40644ac3-9ab3-4a04-96ef-8c0934455cbf",
+                "videoId": "834e956e-b9f5-4a6a-a91d-fa293d56d831",
+                "title": "Tagesschau vom 07.05.2016, 19:30",
+                "publishedDate": "2016-05-07T17:30:00.000Z",
+                "transcript": "transcripts/simple/40644ac3-9ab3-4a04-96ef-8c0934455cbf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/835af450-6984-41d2-bbc4-28d3e990ce34/EPISODE_IMAGE/1462690827000.png"
+            },
+            {
+                "id": "4696dc93-d92d-4a3d-b9e7-0eb558f9e078",
+                "videoId": "696c94f3-83f0-4d2f-bb83-47406fa90b31",
+                "title": "Tagesschau vom 06.05.2016, 19:30",
+                "publishedDate": "2016-05-06T17:30:00.000Z",
+                "transcript": "transcripts/simple/4696dc93-d92d-4a3d-b9e7-0eb558f9e078.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c39aed70-31a2-4c6c-8c72-7dc415eff126/EPISODE_IMAGE/1462776325000.png"
+            },
+            {
+                "id": "f109ed1b-a3a3-4ae5-91a3-b09bb25ca3cf",
+                "videoId": "6c2c6f92-8f82-449c-bdc8-4bbe9769e1af",
+                "title": "Tagesschau vom 05.05.2016, 19:30",
+                "publishedDate": "2016-05-05T17:30:00.000Z",
+                "transcript": "transcripts/simple/f109ed1b-a3a3-4ae5-91a3-b09bb25ca3cf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dbb84159-7dc7-4a47-9235-3673893f5611/EPISODE_IMAGE/1462478433000.png"
+            },
+            {
+                "id": "74cf35bb-20d6-4370-bd32-0a23ba543ed7",
+                "videoId": "e3f0c437-178c-4743-a3fb-cd8372866f2e",
+                "title": "Tagesschau vom 04.05.2016, 19:30",
+                "publishedDate": "2016-05-04T17:30:00.000Z",
+                "transcript": "transcripts/simple/74cf35bb-20d6-4370-bd32-0a23ba543ed7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/afc9b52a-85e1-43ee-a7b8-98e71bc242ad/EPISODE_IMAGE/1462397428000.png"
+            },
+            {
+                "id": "4e4afb13-0436-4338-9e05-69f6580efe3e",
+                "videoId": "c8ccb88b-8f93-4d53-9c38-5c44153af1ed",
+                "title": "Tagesschau vom 03.05.2016, 19:30",
+                "publishedDate": "2016-05-03T17:30:00.000Z",
+                "transcript": "transcripts/simple/4e4afb13-0436-4338-9e05-69f6580efe3e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/92097db0-cc8e-4490-b8db-a46598dd81ab/EPISODE_IMAGE/1462303018000.png"
+            },
+            {
+                "id": "b71c042f-b645-47b2-947d-835f813ec0e8",
+                "videoId": "56ac6a56-0ce6-4bb8-bb16-cbe52cbd8020",
+                "title": "Tagesschau vom 02.05.2016, 19:30",
+                "publishedDate": "2016-05-02T17:30:00.000Z",
+                "transcript": "transcripts/simple/b71c042f-b645-47b2-947d-835f813ec0e8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7ca23925-c8d7-4d4e-a7ec-da6e47b85320/EPISODE_IMAGE/1462250721000.png"
+            },
+            {
+                "id": "6307759b-1e65-42d2-96dc-01dbc14036ec",
+                "videoId": "159b26be-949c-4276-ba17-ca247cde54cf",
+                "title": "Tagesschau vom 01.05.2016, 19:30",
+                "publishedDate": "2016-05-01T17:30:00.000Z",
+                "transcript": "transcripts/simple/6307759b-1e65-42d2-96dc-01dbc14036ec.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/448e6e30-7aa0-42de-9673-eed63d6c0e04/EPISODE_IMAGE/1462132828000.png"
+            },
+            {
+                "id": "60c8febc-7fb7-4e11-b3a9-b9b8acb9d070",
+                "videoId": "d0caabfa-8813-4639-9bd1-d0afe3b049b2",
+                "title": "Tagesschau vom 30.04.2016, 19:30",
+                "publishedDate": "2016-04-30T17:30:00.000Z",
+                "transcript": "transcripts/simple/60c8febc-7fb7-4e11-b3a9-b9b8acb9d070.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b05c6f6c-cf11-4c0d-8600-2da300d4636d/EPISODE_IMAGE/1462077020000.png"
+            },
+            {
+                "id": "3531cf8d-22a1-4d6f-b8bd-4d33bc40a5fd",
+                "videoId": "c6051f4b-c2ed-4a01-95b1-271483da7383",
+                "title": "Tagesschau vom 29.04.2016, 19:30",
+                "publishedDate": "2016-04-29T17:30:00.000Z",
+                "transcript": "transcripts/simple/3531cf8d-22a1-4d6f-b8bd-4d33bc40a5fd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1175b3ee-ee19-4f1c-a0ec-8660bed218f7/EPISODE_IMAGE/1461992415000.png"
+            },
+            {
+                "id": "211c8717-a110-4d55-a9c6-4a48ce76f41c",
+                "videoId": "34203987-6026-40a2-b797-7376336af9eb",
+                "title": "Tagesschau vom 28.04.2016, 19:30",
+                "publishedDate": "2016-04-28T17:30:00.000Z",
+                "transcript": "transcripts/simple/211c8717-a110-4d55-a9c6-4a48ce76f41c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/66c06e0b-cb8f-4e19-b01b-19e328b37eb7/EPISODE_IMAGE/1461905125000.png"
+            },
+            {
+                "id": "8aec5f08-f91a-41db-9ff2-77aee40d31e7",
+                "videoId": "7c471a82-5f98-4e1f-b064-a8e1d1788973",
+                "title": "Tagesschau vom 27.04.2016, 19:30",
+                "publishedDate": "2016-04-27T17:30:00.000Z",
+                "transcript": "transcripts/simple/8aec5f08-f91a-41db-9ff2-77aee40d31e7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a351bf4b-b441-4117-b67a-65053f90b739/EPISODE_IMAGE/1461783625000.png"
+            },
+            {
+                "id": "5a691e3e-ecca-41d8-b04e-c6e9e9e85af9",
+                "videoId": "5ee0d670-6527-472e-b7f1-2b289e4bde3e",
+                "title": "Tagesschau vom 26.04.2016, 19:30",
+                "publishedDate": "2016-04-26T17:30:00.000Z",
+                "transcript": "transcripts/simple/5a691e3e-ecca-41d8-b04e-c6e9e9e85af9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2fcdc4fa-4efa-4393-a929-13a23e7e6162/EPISODE_IMAGE/1461729628000.png"
+            },
+            {
+                "id": "38498ce5-0305-43bf-9c24-298871695ed7",
+                "videoId": "59b9b4d4-3c6a-478b-9556-1876560a4106",
+                "title": "Tagesschau vom 25.04.2016, 19:30",
+                "publishedDate": "2016-04-25T17:30:00.000Z",
+                "transcript": "transcripts/simple/38498ce5-0305-43bf-9c24-298871695ed7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/996a60f0-1a52-42d4-af0d-9a83954435ef/EPISODE_IMAGE/1461646828000.png"
+            },
+            {
+                "id": "1148055c-237a-42f8-b8a7-4ff1670f529f",
+                "videoId": "40d98906-c676-4111-8a6c-e9f0cf7bd7f9",
+                "title": "Tagesschau vom 24.04.2016, 19:30",
+                "publishedDate": "2016-04-24T17:30:00.000Z",
+                "transcript": "transcripts/simple/1148055c-237a-42f8-b8a7-4ff1670f529f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ace9b241-6074-46ac-ab7c-114e56cf9ee1/EPISODE_IMAGE/1461591940000.png"
+            },
+            {
+                "id": "9fa7a26a-d59e-45d1-bd44-2f8b60880301",
+                "videoId": "65455089-538d-4155-8572-a51315de3640",
+                "title": "Tagesschau vom 23.04.2016, 19:30",
+                "publishedDate": "2016-04-23T17:30:00.000Z",
+                "transcript": "transcripts/simple/9fa7a26a-d59e-45d1-bd44-2f8b60880301.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ec07bb65-006f-4ec3-bc63-9b88fdd0da5b/EPISODE_IMAGE/1461472226000.png"
+            },
+            {
+                "id": "656ef2f9-d853-4081-b308-8935d11df9e8",
+                "videoId": "cbf766cd-113d-4cdc-a50c-3bee3fb4285d",
+                "title": "Tagesschau vom 22.04.2016, 19:30",
+                "publishedDate": "2016-04-22T17:30:00.000Z",
+                "transcript": "transcripts/simple/656ef2f9-d853-4081-b308-8935d11df9e8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/40f700a1-2c4d-4ac7-80fc-272d2ba45618/EPISODE_IMAGE/1461354328000.png"
+            },
+            {
+                "id": "f0ac2d2f-24f5-4a3f-bc37-e5b9c26ac8fe",
+                "videoId": "3b5afaa0-be52-4be0-8893-a70c9f87d425",
+                "title": "Tagesschau vom 21.04.2016, 19:30",
+                "publishedDate": "2016-04-21T17:30:00.000Z",
+                "transcript": "transcripts/simple/f0ac2d2f-24f5-4a3f-bc37-e5b9c26ac8fe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/78927140-f5ee-4248-aa53-c6fd9231c55c/EPISODE_IMAGE/1461269739000.png"
+            },
+            {
+                "id": "272999c8-2580-4fa1-8a8e-48bad03d9bda",
+                "videoId": "fc79874d-18d9-4f9d-8a28-22a7e2baeadd",
+                "title": "Tagesschau vom 20.04.2016, 19:30",
+                "publishedDate": "2016-04-20T17:30:00.000Z",
+                "transcript": "transcripts/simple/272999c8-2580-4fa1-8a8e-48bad03d9bda.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d2fa4694-10a8-4f6c-a337-93d30aa847e2/EPISODE_IMAGE/1461213936000.png"
+            },
+            {
+                "id": "9860de9a-84e6-458a-bb1d-d9a3d2e3249e",
+                "videoId": "86824181-537c-4bbe-b809-dcfff50f0552",
+                "title": "Tagesschau vom 19.04.2016, 19:30",
+                "publishedDate": "2016-04-19T17:30:00.000Z",
+                "transcript": "transcripts/simple/9860de9a-84e6-458a-bb1d-d9a3d2e3249e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/685bf13f-6939-4217-9071-da679572642e/EPISODE_IMAGE/1461094243000.png"
+            },
+            {
+                "id": "e7b91632-0e9d-49be-8ba1-992b6a0e833d",
+                "videoId": "82204fca-4826-4580-ad46-cdd60bf95f1f",
+                "title": "Tagesschau vom 18.04.2016, 19:30",
+                "publishedDate": "2016-04-18T17:30:00.000Z",
+                "transcript": "transcripts/simple/e7b91632-0e9d-49be-8ba1-992b6a0e833d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d8e13c94-f283-4c63-979c-be8e76b7497d/EPISODE_IMAGE/1461006026000.png"
+            },
+            {
+                "id": "5c16fdd5-e989-4042-9a7a-cc222bdd433f",
+                "videoId": "5fdea642-4a7e-4b3e-aa21-991037d32580",
+                "title": "Tagesschau vom 17.04.2016, 19:30",
+                "publishedDate": "2016-04-17T17:30:00.000Z",
+                "transcript": "transcripts/simple/5c16fdd5-e989-4042-9a7a-cc222bdd433f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9e1df55c-707b-4a65-b792-1d2747b110f0/EPISODE_IMAGE/1460964630000.png"
+            },
+            {
+                "id": "041d9e36-9e08-4d60-a0da-2ff46724e310",
+                "videoId": "a57279e9-1f46-4cfb-869c-13adc03f6e69",
+                "title": "Tagesschau vom 16.04.2016, 19:30",
+                "publishedDate": "2016-04-16T17:30:00.000Z",
+                "transcript": "transcripts/simple/041d9e36-9e08-4d60-a0da-2ff46724e310.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5e671a19-b853-410b-9182-c4f95cc52093/EPISODE_IMAGE/1460867420000.png"
+            },
+            {
+                "id": "23394a5c-6ecc-4bd8-9df9-d405de969d7a",
+                "videoId": "7f07964e-5b95-4fe2-9444-bfae0d66d682",
+                "title": "Tagesschau vom 15.04.2016, 19:30",
+                "publishedDate": "2016-04-15T17:30:00.000Z",
+                "transcript": "transcripts/simple/23394a5c-6ecc-4bd8-9df9-d405de969d7a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/24c33e93-4db8-46a5-b3cb-7bbe259d8192/EPISODE_IMAGE/1460747736000.png"
+            },
+            {
+                "id": "0a6b05f2-8282-4db8-afe8-b60646679f02",
+                "videoId": "3c3700b8-73cb-46bb-9abb-f5d3c1fd9d80",
+                "title": "Tagesschau vom 14.04.2016, 19:30",
+                "publishedDate": "2016-04-14T17:30:00.000Z",
+                "transcript": "transcripts/simple/0a6b05f2-8282-4db8-afe8-b60646679f02.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9a71c063-8b0f-453d-a958-7930bcb1bbaf/EPISODE_IMAGE/1460695522000.png"
+            },
+            {
+                "id": "89d749b8-a8cc-4b9b-90d4-519ca0d2943a",
+                "videoId": "0fa5eb2e-c8e0-4748-98c0-bf31318b42a3",
+                "title": "Tagesschau vom 13.04.2016, 19:30",
+                "publishedDate": "2016-04-13T17:30:00.000Z",
+                "transcript": "transcripts/simple/89d749b8-a8cc-4b9b-90d4-519ca0d2943a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2927620f-ac70-49a0-b0b8-c7e1724873d0/EPISODE_IMAGE/1460572221000.png"
+            },
+            {
+                "id": "34631757-e9c5-4e90-ba1d-dc1ccbdf6ea9",
+                "videoId": "a0fa840b-b28d-4982-bde5-22722f0a94b9",
+                "title": "Tagesschau vom 12.04.2016, 19:30",
+                "publishedDate": "2016-04-12T17:30:00.000Z",
+                "transcript": "transcripts/simple/34631757-e9c5-4e90-ba1d-dc1ccbdf6ea9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2149a97f-096d-4f4d-9a39-2d09899be424/EPISODE_IMAGE/1460522727000.png"
+            },
+            {
+                "id": "80faf173-1f7b-4a43-8054-c0b7d43e9fd1",
+                "videoId": "9ea88c63-b3f9-46e8-a3e7-a4e0efb4d111",
+                "title": "Tagesschau vom 11.04.2016, 19:30",
+                "publishedDate": "2016-04-11T17:30:00.000Z",
+                "transcript": "transcripts/simple/80faf173-1f7b-4a43-8054-c0b7d43e9fd1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d2f61a70-42f6-48e6-9ca2-bfe35109d58d/EPISODE_IMAGE/1460436321000.png"
+            },
+            {
+                "id": "3314f740-1464-43cf-b675-8dd69ecc7ba6",
+                "videoId": "ad32035c-c0b3-465f-8d6e-b8a40814ad50",
+                "title": "Tagesschau vom 10.04.2016, 19:30",
+                "publishedDate": "2016-04-10T17:30:00.000Z",
+                "transcript": "transcripts/simple/3314f740-1464-43cf-b675-8dd69ecc7ba6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a3dca827-209e-4fbe-9acc-668eea514444/EPISODE_IMAGE/1460380534000.png"
+            },
+            {
+                "id": "647a7209-2048-4939-a636-e125bdf0fe7b",
+                "videoId": "9c23bb5f-2e24-4fbb-b787-18fc79810be6",
+                "title": "Tagesschau vom 09.04.2016, 19:30",
+                "publishedDate": "2016-04-09T17:30:00.000Z",
+                "transcript": "transcripts/simple/647a7209-2048-4939-a636-e125bdf0fe7b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/74243606-7da8-498d-9dd0-e135f197ae5d/EPISODE_IMAGE/1460264418000.png"
+            },
+            {
+                "id": "1a93ed2f-b84a-4003-bdc1-95404a818998",
+                "videoId": "71e7baec-bba8-4690-96df-98facc1f0043",
+                "title": "Tagesschau vom 08.04.2016, 19:30",
+                "publishedDate": "2016-04-08T17:30:00.000Z",
+                "transcript": "transcripts/simple/1a93ed2f-b84a-4003-bdc1-95404a818998.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b8f00871-f95a-4315-8ee8-55e0f176219f/EPISODE_IMAGE/1460142022000.png"
+            },
+            {
+                "id": "40fbcda1-f28d-4337-97ae-5a3dc3204a7b",
+                "videoId": "9fa86fc1-f95b-45dc-a81f-f2b5f98b9b1e",
+                "title": "Tagesschau vom 07.04.2016, 19:30",
+                "publishedDate": "2016-04-07T17:30:00.000Z",
+                "transcript": "transcripts/simple/40fbcda1-f28d-4337-97ae-5a3dc3204a7b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d7d2a0c3-fcc9-4499-a6cb-3e0a48defb9b/EPISODE_IMAGE/1460056534000.png"
+            },
+            {
+                "id": "5494f69d-fe5d-4d41-9eb3-2e945bf94edd",
+                "videoId": "a6166c2a-74d6-4e6e-abb5-39ccfc3d7d50",
+                "title": "Tagesschau vom 06.04.2016, 19:30",
+                "publishedDate": "2016-04-06T17:30:00.000Z",
+                "transcript": "transcripts/simple/5494f69d-fe5d-4d41-9eb3-2e945bf94edd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d0706a7e-575d-4d41-8041-d6f813f93b9d/EPISODE_IMAGE/1459971028000.png"
+            },
+            {
+                "id": "97bda451-77e9-4d7c-9a1d-b5a235a67c2a",
+                "videoId": "8509f43f-e01d-4dfc-9565-977cdfe34267",
+                "title": "Tagesschau vom 05.04.2016, 19:30",
+                "publishedDate": "2016-04-05T17:30:00.000Z",
+                "transcript": "transcripts/simple/97bda451-77e9-4d7c-9a1d-b5a235a67c2a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f3b7de19-19c9-48f3-b47a-2b85ae88d8d4/EPISODE_IMAGE/1460106028000.png"
+            },
+            {
+                "id": "a51843c9-9afe-4148-a8a3-97888ffc5f5a",
+                "videoId": "778ad228-7526-4fb2-bca6-bf08228087c8",
+                "title": "Tagesschau vom 04.04.2016, 19:30",
+                "publishedDate": "2016-04-04T17:30:00.000Z",
+                "transcript": "transcripts/simple/a51843c9-9afe-4148-a8a3-97888ffc5f5a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6b9f38c9-4076-4e0b-b514-7ce6ab4d2fd3/EPISODE_IMAGE/1459795526000.png"
+            },
+            {
+                "id": "4efff501-65c3-4654-b3b5-e6498501d402",
+                "videoId": "fc46c8ac-15b4-4f07-8cba-080304dca1a1",
+                "title": "Tagesschau vom 03.04.2016, 19:30",
+                "publishedDate": "2016-04-03T17:30:00.000Z",
+                "transcript": "transcripts/simple/4efff501-65c3-4654-b3b5-e6498501d402.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e8b46401-cfd6-4be3-9d74-858078805a7b/EPISODE_IMAGE/1459710022000.png"
+            },
+            {
+                "id": "1efae063-8a21-4d8b-a87f-818ec4f3ca58",
+                "videoId": "58ccee43-aa88-45b6-91da-b7983b224068",
+                "title": "Tagesschau vom 02.04.2016, 19:30",
+                "publishedDate": "2016-04-02T17:30:00.000Z",
+                "transcript": "transcripts/simple/1efae063-8a21-4d8b-a87f-818ec4f3ca58.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1422182b-b9f5-46d4-b6f3-09b52174ba4a/EPISODE_IMAGE/1459623626000.png"
+            },
+            {
+                "id": "0867090a-ccae-482a-894f-d7c3136e98f9",
+                "videoId": "350142ef-94ce-4984-b3a6-d3ead3dc9506",
+                "title": "Tagesschau vom 01.04.2016, 19:30",
+                "publishedDate": "2016-04-01T17:30:00.000Z",
+                "transcript": "transcripts/simple/0867090a-ccae-482a-894f-d7c3136e98f9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5635f98f-58a8-4196-b935-3c2ee1a45b87/EPISODE_IMAGE/1459536321000.png"
+            },
+            {
+                "id": "b65ebbe6-19a5-41dd-9467-9cda426327a7",
+                "videoId": "b46fb143-5d10-4cd4-82c1-3410033d27ed",
+                "title": "Tagesschau vom 31.03.2016, 19:30",
+                "publishedDate": "2016-03-31T17:30:00.000Z",
+                "transcript": "transcripts/simple/b65ebbe6-19a5-41dd-9467-9cda426327a7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8237b64e-5270-4115-aafe-69e98eab8719/EPISODE_IMAGE/1459449027000.png"
+            },
+            {
+                "id": "e1db3cf6-abc0-45e2-aed6-473349431433",
+                "videoId": "dc94fbb9-a46a-40b8-8f01-a384e5c63623",
+                "title": "Tagesschau vom 30.03.2016, 19:30",
+                "publishedDate": "2016-03-30T17:30:00.000Z",
+                "transcript": "transcripts/simple/e1db3cf6-abc0-45e2-aed6-473349431433.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5763b7cf-2c8a-4b25-822c-2c86e7fc52cf/EPISODE_IMAGE/1459401316000.png"
+            },
+            {
+                "id": "90f5e0ca-999e-4a9b-afec-80aeae58af1e",
+                "videoId": "307dc362-3869-49ff-a03f-c81c23889cb1",
+                "title": "Tagesschau vom 29.03.2016, 19:30",
+                "publishedDate": "2016-03-29T17:30:00.000Z",
+                "transcript": "transcripts/simple/90f5e0ca-999e-4a9b-afec-80aeae58af1e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/13b7df6e-0112-416f-bedd-b58766fad9e0/EPISODE_IMAGE/1459278919000.png"
+            },
+            {
+                "id": "2f5f0ba6-a40b-4af3-9441-d8a3f2d4c7d8",
+                "videoId": "83500c89-163a-48aa-a2cc-f2d3145ca6ee",
+                "title": "Tagesschau vom 28.03.2016, 19:30",
+                "publishedDate": "2016-03-28T17:30:00.000Z",
+                "transcript": "transcripts/simple/2f5f0ba6-a40b-4af3-9441-d8a3f2d4c7d8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b7e52f50-bb2e-4721-916c-ad2c698cbf4c/EPISODE_IMAGE/1459251929000.png"
+            },
+            {
+                "id": "25d9760f-facc-4191-9264-0bc2b52e410e",
+                "videoId": "3633972f-d2e6-4432-9134-4b5be1d734cc",
+                "title": "Tagesschau vom 27.03.2016, 19:30",
+                "publishedDate": "2016-03-27T17:30:00.000Z",
+                "transcript": "transcripts/simple/25d9760f-facc-4191-9264-0bc2b52e410e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8b6c39f4-04dd-4a4c-89e9-89ba34a44b38/EPISODE_IMAGE/1459176320000.png"
+            },
+            {
+                "id": "277b061b-8adb-48bb-b488-2a92adb43b0a",
+                "videoId": "2a2d0c02-7575-41ec-b4aa-34ece29870fe",
+                "title": "Tagesschau vom 26.03.2016, 19:30",
+                "publishedDate": "2016-03-26T18:30:00.000Z",
+                "transcript": "transcripts/simple/277b061b-8adb-48bb-b488-2a92adb43b0a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/03bb688d-d2a9-4d91-a00b-bdc098c76b0a/EPISODE_IMAGE/1459054818000.png"
+            },
+            {
+                "id": "e9990d0b-8056-4c39-90da-67898a28f221",
+                "videoId": "e68dba45-cb13-49c6-9c79-d86e8a93831d",
+                "title": "Tagesschau vom 24.03.2016, 19:30",
+                "publishedDate": "2016-03-24T18:30:00.000Z",
+                "transcript": "transcripts/simple/e9990d0b-8056-4c39-90da-67898a28f221.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d3e4fa81-9ef5-437f-98e9-72455354d315/EPISODE_IMAGE/1458851423000.png"
+            },
+            {
+                "id": "e9db6d9e-66ee-410a-b282-2cd7e27411d5",
+                "videoId": "21f5d43d-7c44-4ebd-9723-f766f8a9d6f2",
+                "title": "Tagesschau vom 23.03.2016, 19:30",
+                "publishedDate": "2016-03-23T18:30:00.000Z",
+                "transcript": "transcripts/simple/e9db6d9e-66ee-410a-b282-2cd7e27411d5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8251ecac-ced3-4d0c-8985-eefcc6cee9c6/EPISODE_IMAGE/1458798317000.png"
+            },
+            {
+                "id": "1c3bef3f-4e6b-4d0f-aac7-4d7fb1149d82",
+                "videoId": "51fd591d-654c-4ab0-9902-13da91bfdcb4",
+                "title": "Tagesschau vom 22.03.2016, 19:30",
+                "publishedDate": "2016-03-22T18:30:00.000Z",
+                "transcript": "transcripts/simple/1c3bef3f-4e6b-4d0f-aac7-4d7fb1149d82.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9f2101f1-3b1e-4612-ad17-2ef83c36617b/EPISODE_IMAGE/1458679525000.png"
+            },
+            {
+                "id": "88819823-cd76-4484-875b-6d353d9842c6",
+                "videoId": "fc747f0b-5404-4fa5-94e9-faa793e447b9",
+                "title": "Tagesschau vom 21.03.2016, 19:30",
+                "publishedDate": "2016-03-21T18:30:00.000Z",
+                "transcript": "transcripts/simple/88819823-cd76-4484-875b-6d353d9842c6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ac5769ce-3c3a-4f8f-859f-5294f0484104/EPISODE_IMAGE/1458625527000.png"
+            },
+            {
+                "id": "031cf17e-c5fe-4313-aabd-7650c66879b8",
+                "videoId": "4f38ecf7-e7d4-425b-bedf-8a5b18642c58",
+                "title": "Tagesschau vom 20.03.2016, 19:30",
+                "publishedDate": "2016-03-20T18:30:00.000Z",
+                "transcript": "transcripts/simple/031cf17e-c5fe-4313-aabd-7650c66879b8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ab4ca448-2be2-4a20-9f3f-ef45dbf3700d/EPISODE_IMAGE/1458513033000.png"
+            },
+            {
+                "id": "4f0f7964-450a-414e-b649-4b5e84523993",
+                "videoId": "2acc89b8-2e95-41fa-bbf3-5bf4e15e4887",
+                "title": "Tagesschau vom 19.03.2016, 19:30",
+                "publishedDate": "2016-03-19T18:30:00.000Z",
+                "transcript": "transcripts/simple/4f0f7964-450a-414e-b649-4b5e84523993.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9cd36f81-2288-486f-94c9-c8f91b8d64ec/EPISODE_IMAGE/1458513917000.png"
+            },
+            {
+                "id": "99d276c6-8f2a-4a77-9747-0dd12bc7d428",
+                "videoId": "bac9f77b-fdce-497e-a8fa-23273804a97f",
+                "title": "Tagesschau vom 18.03.2016, 19:30",
+                "publishedDate": "2016-03-18T18:30:00.000Z",
+                "transcript": "transcripts/simple/99d276c6-8f2a-4a77-9747-0dd12bc7d428.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/214bd4a6-062b-4547-8428-3b66bfef6a1a/EPISODE_IMAGE/1458335713000.png"
+            },
+            {
+                "id": "5253db5c-7468-49cc-8523-be7c8543c47c",
+                "videoId": "3bb42511-9a5d-47bb-b8d1-1bdd848df16f",
+                "title": "Tagesschau vom 17.03.2016, 19:30",
+                "publishedDate": "2016-03-17T18:30:00.000Z",
+                "transcript": "transcripts/simple/5253db5c-7468-49cc-8523-be7c8543c47c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/02f7e55a-1d81-43bc-a6d8-7289d501c897/EPISODE_IMAGE/1458279936000.png"
+            },
+            {
+                "id": "f6d2aa70-9d91-4f79-b71c-cec96f9e59a7",
+                "videoId": "bbbcb695-9e06-471f-abca-cbf6bc307fc8",
+                "title": "Tagesschau vom 16.03.2016, 19:30",
+                "publishedDate": "2016-03-16T18:30:00.000Z",
+                "transcript": "transcripts/simple/f6d2aa70-9d91-4f79-b71c-cec96f9e59a7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c6f38562-5a79-401e-aeb2-ade837a05c12/EPISODE_IMAGE/1458210621000.png"
+            },
+            {
+                "id": "93133a7d-1ab4-4381-81b5-c54fc0ce8f8d",
+                "videoId": "a778d84b-7ce4-47fe-b2e0-fd5e46b14671",
+                "title": "Tagesschau vom 15.03.2016, 19:30",
+                "publishedDate": "2016-03-15T18:30:00.000Z",
+                "transcript": "transcripts/simple/93133a7d-1ab4-4381-81b5-c54fc0ce8f8d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/46469e29-e1c0-46d6-a732-926ac0916606/EPISODE_IMAGE/1458120636000.png"
+            },
+            {
+                "id": "ea488edd-b759-4ba1-8f9b-8f192804ff23",
+                "videoId": "75fb7895-6037-484c-9ace-40bf15656c00",
+                "title": "Tagesschau vom 14.03.2016, 19:30",
+                "publishedDate": "2016-03-14T18:30:00.000Z",
+                "transcript": "transcripts/simple/ea488edd-b759-4ba1-8f9b-8f192804ff23.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/65c2f0c4-90f6-4220-87c5-c5712b46e9fa/EPISODE_IMAGE/1458037835000.png"
+            },
+            {
+                "id": "4921ae58-daa6-47b6-bcc1-5301f2fb9e59",
+                "videoId": "f8de41c8-19d4-4d1d-a142-a3d635fdcb07",
+                "title": "Tagesschau vom 13.03.2016, 19:30",
+                "publishedDate": "2016-03-13T18:30:00.000Z",
+                "transcript": "transcripts/simple/4921ae58-daa6-47b6-bcc1-5301f2fb9e59.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/989f2e6d-d72c-4ad1-a77d-5f02b1362c24/EPISODE_IMAGE/1457950529000.png"
+            },
+            {
+                "id": "de4ddfd7-e352-4396-a25d-89d02df1b976",
+                "videoId": "063b83bb-2922-478c-bdb3-97719dd085f3",
+                "title": "Tagesschau vom 12.03.2016, 19:30",
+                "publishedDate": "2016-03-12T18:30:00.000Z",
+                "transcript": "transcripts/simple/de4ddfd7-e352-4396-a25d-89d02df1b976.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c136b14e-6294-46fd-ba5e-be34652056c5/EPISODE_IMAGE/1462050076000.png"
+            },
+            {
+                "id": "a3c6b753-2d51-4420-aab1-5e1b5cecaf15",
+                "videoId": "26983270-e47b-4618-8a5a-2bb912b81983",
+                "title": "Tagesschau vom 11.03.2016, 19:30",
+                "publishedDate": "2016-03-11T18:30:00.000Z",
+                "transcript": "transcripts/simple/a3c6b753-2d51-4420-aab1-5e1b5cecaf15.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/122b2f37-58f3-478e-902f-521e574bf308/EPISODE_IMAGE/1457730025000.png"
+            },
+            {
+                "id": "9072d18c-a3be-4e32-9737-7864de7c22b0",
+                "videoId": "5b38873e-fc33-4ba4-91ed-0591213a327c",
+                "title": "Tagesschau vom 10.03.2016, 19:30",
+                "publishedDate": "2016-03-10T18:30:00.000Z",
+                "transcript": "transcripts/simple/9072d18c-a3be-4e32-9737-7864de7c22b0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d077a37a-dc86-4736-b60e-79d6086d295d/EPISODE_IMAGE/1457647219000.png"
+            },
+            {
+                "id": "ba362fa9-8905-424c-8c54-0e9b4abcabf4",
+                "videoId": "baa94700-6554-4a80-a52a-76e4e7dfeea5",
+                "title": "Tagesschau vom 09.03.2016, 19:30",
+                "publishedDate": "2016-03-09T18:30:00.000Z",
+                "transcript": "transcripts/simple/ba362fa9-8905-424c-8c54-0e9b4abcabf4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0ab7c6b0-5370-4c6a-aa5d-c8760e221c3b/EPISODE_IMAGE/1457618444000.png"
+            },
+            {
+                "id": "602078d6-7309-4845-b65e-b4c9d720ede9",
+                "videoId": "e8a005aa-cd88-4a48-9d76-8c47bccb3c07",
+                "title": "Tagesschau vom 08.03.2016, 19:30",
+                "publishedDate": "2016-03-08T18:30:00.000Z",
+                "transcript": "transcripts/simple/602078d6-7309-4845-b65e-b4c9d720ede9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d3af1068-a49e-41e1-a0af-be1dd6b22022/EPISODE_IMAGE/1457467251000.png"
+            },
+            {
+                "id": "51bc65fa-aa8a-4011-b567-a9eaa693db2d",
+                "videoId": "40583b7d-a3ad-44d0-b2e5-db8a93c475b6",
+                "title": "Tagesschau vom 07.03.2016, 19:30",
+                "publishedDate": "2016-03-07T18:30:00.000Z",
+                "transcript": "transcripts/simple/51bc65fa-aa8a-4011-b567-a9eaa693db2d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c07549b6-af0a-4b78-8e78-9e193f09fa86/EPISODE_IMAGE/1457439337000.png"
+            },
+            {
+                "id": "a3647653-3acc-4671-a0d6-26bf4134c1c8",
+                "videoId": "5696c05b-e3c4-490a-83a1-8d3875c2a229",
+                "title": "Tagesschau vom 06.03.2016, 19:30",
+                "publishedDate": "2016-03-06T18:30:00.000Z",
+                "transcript": "transcripts/simple/a3647653-3acc-4671-a0d6-26bf4134c1c8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6ab45a7c-3316-4fd0-9363-bb60788c60f2/EPISODE_IMAGE/1457329535000.png"
             }
         ]
     },
@@ -10438,6 +11150,461 @@
                 "publishedDate": "2016-03-04T20:50:00.000Z",
                 "transcript": "transcripts/simple/a716228d-2738-457e-8bce-5d13ea366920.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/8f757f51-0ad1-469a-83ce-5fbe18fb19ad/EPISODE_IMAGE/1457182823000.png"
+            },
+            {
+                "id": "5baf06a0-52ae-4e11-aca5-1d88f3995f50",
+                "videoId": "d5a360f3-bbbc-4c37-897b-f7548a027e75",
+                "title": "10vor10 vom 03.06.2016",
+                "publishedDate": "2016-06-03T19:50:00.000Z",
+                "transcript": "transcripts/simple/5baf06a0-52ae-4e11-aca5-1d88f3995f50.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/56c1a773-23dc-412e-a347-05fecd5d032c/EPISODE_IMAGE/1464985581000.png"
+            },
+            {
+                "id": "4b1816c8-1ce4-44db-877b-99f72085e69e",
+                "videoId": "d1ed54a2-5015-4afe-9495-ecf5dd721f98",
+                "title": "10vor10 vom 02.06.2016",
+                "publishedDate": "2016-06-02T19:50:00.000Z",
+                "transcript": "transcripts/simple/4b1816c8-1ce4-44db-877b-99f72085e69e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f0d36784-84da-4719-9348-291d7c2057f3/EPISODE_IMAGE/1464901617000.png"
+            },
+            {
+                "id": "e5b6575a-b86c-4558-b055-21d2bf855dc3",
+                "videoId": "5eaedabb-bff3-4ed8-9140-620e4bc5758b",
+                "title": "10vor10 vom 01.06.2016",
+                "publishedDate": "2016-06-01T19:50:00.000Z",
+                "transcript": "transcripts/simple/e5b6575a-b86c-4558-b055-21d2bf855dc3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/338e7739-c1cf-4dfa-aff7-c41899e48ff9/EPISODE_IMAGE/1464857278000.png"
+            },
+            {
+                "id": "75865630-707e-43fa-955c-ba538f3a77d8",
+                "videoId": "8371ab8d-f3cb-4e3f-8874-5ae9e0250be7",
+                "title": "10vor10 vom 31.05.2016",
+                "publishedDate": "2016-05-31T19:50:47.000Z",
+                "transcript": "transcripts/simple/75865630-707e-43fa-955c-ba538f3a77d8.tsv"
+            },
+            {
+                "id": "92094f6c-f86d-4a08-8009-75eeea95a6f6",
+                "videoId": "8f753f71-04ad-4316-a10c-f0ca62e11722",
+                "title": "10vor10 vom 30.05.2016",
+                "publishedDate": "2016-05-30T19:50:00.000Z",
+                "transcript": "transcripts/simple/92094f6c-f86d-4a08-8009-75eeea95a6f6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/df9789b7-515b-4902-9a84-44722383230a/EPISODE_IMAGE/1464639890000.png"
+            },
+            {
+                "id": "7d9f797b-f0b8-4714-b23a-a5db539a8015",
+                "videoId": "c8660032-de46-44ad-b88f-1692fd982187",
+                "title": "10vor10 vom 27.05.2016",
+                "publishedDate": "2016-05-27T19:50:11.000Z",
+                "transcript": "transcripts/simple/7d9f797b-f0b8-4714-b23a-a5db539a8015.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1680f350-ef4c-495e-9057-5c0c5b8577d3/EPISODE_IMAGE/1464380680000.png"
+            },
+            {
+                "id": "d7e8f67f-02c1-43f2-ab0f-f05f90522145",
+                "videoId": "45abf6ee-9ba2-46cb-b125-1928479dbfc4",
+                "title": "10vor10 vom 20.05.2016",
+                "publishedDate": "2016-05-20T19:50:00.000Z",
+                "transcript": "transcripts/simple/d7e8f67f-02c1-43f2-ab0f-f05f90522145.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/72664e14-e3f1-4eef-a2e8-af602b35fbc6/EPISODE_IMAGE/1463810414000.png"
+            },
+            {
+                "id": "9cfccb7a-33d1-45ac-a4e6-0c55f164d6da",
+                "videoId": "d7770297-df42-44b8-ac4b-f1231d895700",
+                "title": "10vor10 vom 19.05.2016",
+                "publishedDate": "2016-05-19T19:50:00.000Z",
+                "transcript": "transcripts/simple/9cfccb7a-33d1-45ac-a4e6-0c55f164d6da.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c005c160-8c85-4026-bf2d-5c77f6dd6dd6/EPISODE_IMAGE/1463752821000.png"
+            },
+            {
+                "id": "9de6723b-51aa-4559-96e5-916297293116",
+                "videoId": "ac2479f5-9c98-4962-9389-07258759594b",
+                "title": "10vor10 vom 18.05.2016",
+                "publishedDate": "2016-05-18T19:50:15.000Z",
+                "transcript": "transcripts/simple/9de6723b-51aa-4559-96e5-916297293116.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d3474c2b-e712-4735-92c7-66c27bd1793e/EPISODE_IMAGE/1463644826000.png"
+            },
+            {
+                "id": "5656f482-6d55-4a78-b0a1-12f74ff15250",
+                "videoId": "ae662bdd-b44a-42ab-8b52-4448d5a772fe",
+                "title": "10vor10 vom 17.05.2016",
+                "publishedDate": "2016-05-17T19:50:05.000Z",
+                "transcript": "transcripts/simple/5656f482-6d55-4a78-b0a1-12f74ff15250.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/be448b0d-1c16-4f7e-9a9f-daae64877275/EPISODE_IMAGE/1463517924000.png"
+            },
+            {
+                "id": "395aee37-731b-448f-a157-2d443caa5648",
+                "videoId": "606f0016-ff52-4894-955f-0d27815624ab",
+                "title": "10vor10 vom 13.05.2016",
+                "publishedDate": "2016-05-13T19:50:00.000Z",
+                "transcript": "transcripts/simple/395aee37-731b-448f-a157-2d443caa5648.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9f720b54-faf6-4093-8cb1-e8a3f54dc3f4/EPISODE_IMAGE/1463172314000.png"
+            },
+            {
+                "id": "df10804a-b311-4e81-9238-a675feb83793",
+                "videoId": "34937553-878f-44ff-bead-c496ad79d3ef",
+                "title": "10vor10 vom 12.05.2016",
+                "publishedDate": "2016-05-12T19:50:00.000Z",
+                "transcript": "transcripts/simple/df10804a-b311-4e81-9238-a675feb83793.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e1253dca-a4fd-49de-8062-801988d15491/EPISODE_IMAGE/1463086838000.png"
+            },
+            {
+                "id": "35d7403d-37aa-4526-827e-c834e63ba209",
+                "videoId": "4355bcef-5b31-4264-b405-40fdd248cbbb",
+                "title": "10vor10 vom 11.05.2016",
+                "publishedDate": "2016-05-11T19:50:00.000Z",
+                "transcript": "transcripts/simple/35d7403d-37aa-4526-827e-c834e63ba209.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/129492f1-9e75-4a83-b1c5-5b6b5cc43bf9/EPISODE_IMAGE/1463065239000.png"
+            },
+            {
+                "id": "32e9c423-9465-4822-b889-1f7a7f651e30",
+                "videoId": "0351a468-11a3-4358-9381-2be4e20a4812",
+                "title": "10vor10 vom 10.05.2016",
+                "publishedDate": "2016-05-10T19:50:00.000Z",
+                "transcript": "transcripts/simple/32e9c423-9465-4822-b889-1f7a7f651e30.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8a32a461-0165-44e8-bae4-6ba98f3c51d4/EPISODE_IMAGE/1462913133000.png"
+            },
+            {
+                "id": "b36bed6e-103c-4f9f-be49-6840ee062351",
+                "videoId": "2a2fb840-d9f3-4914-8991-56b200daef16",
+                "title": "10vor10 vom 09.05.2016",
+                "publishedDate": "2016-05-09T19:50:00.000Z",
+                "transcript": "transcripts/simple/b36bed6e-103c-4f9f-be49-6840ee062351.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f179a59d-6637-48e7-a0ec-3b5585a83b87/EPISODE_IMAGE/1462829428000.png"
+            },
+            {
+                "id": "cb7faa8a-635e-4ec2-826e-d2077b9e3210",
+                "videoId": "073e9320-e8ec-415d-8693-ec123a012fc5",
+                "title": "10vor10 vom 06.05.2016",
+                "publishedDate": "2016-05-06T19:50:00.000Z",
+                "transcript": "transcripts/simple/cb7faa8a-635e-4ec2-826e-d2077b9e3210.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d0306be3-cd2e-4359-b37d-b70b0f4525ab/EPISODE_IMAGE/1462568434000.png"
+            },
+            {
+                "id": "48ad1705-e21d-4dfd-991d-1ad15510b215",
+                "videoId": "837e8c91-6885-49a5-8d1d-1f6dd310a920",
+                "title": "10vor10 vom 05.05.2016",
+                "publishedDate": "2016-05-05T19:50:00.000Z",
+                "transcript": "transcripts/simple/48ad1705-e21d-4dfd-991d-1ad15510b215.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b805b19e-e36a-475a-ae80-d533cc7bf21c/EPISODE_IMAGE/1462482011000.png"
+            },
+            {
+                "id": "1d302910-04e5-4bf0-96f6-ac81d285b7ad",
+                "videoId": "a847dbf5-33f8-4967-a6e7-3af91946f4cb",
+                "title": "10vor10 vom 04.05.2016",
+                "publishedDate": "2016-05-04T19:50:00.000Z",
+                "transcript": "transcripts/simple/1d302910-04e5-4bf0-96f6-ac81d285b7ad.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8ec4ac89-b8d5-4499-bed4-dbd8022b7347/EPISODE_IMAGE/1462464917000.png"
+            },
+            {
+                "id": "2b84b572-fa89-4363-adb9-bafc0a20631b",
+                "videoId": "f1387bd9-b7da-4bda-94a8-7583f026e9d4",
+                "title": "10vor10 vom 03.05.2016",
+                "publishedDate": "2016-05-03T19:50:00.000Z",
+                "transcript": "transcripts/simple/2b84b572-fa89-4363-adb9-bafc0a20631b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5fc38c22-17c8-4e0e-b481-b694b6b11b55/EPISODE_IMAGE/1462344315000.png"
+            },
+            {
+                "id": "0608a64a-707b-45b8-a75d-df7999da243e",
+                "videoId": "c3006260-8199-4043-909c-9f95f30f23f9",
+                "title": "10vor10 vom 02.05.2016",
+                "publishedDate": "2016-05-02T19:50:00.000Z",
+                "transcript": "transcripts/simple/0608a64a-707b-45b8-a75d-df7999da243e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6741b9ac-5c66-4c3a-afdf-4491073884b2/EPISODE_IMAGE/1462222828000.png"
+            },
+            {
+                "id": "f365e29c-fb79-4bfa-8523-5d2536b3660e",
+                "videoId": "520ce4bf-239c-46ad-b33b-42cd49d3ddee",
+                "title": "10vor10 vom 29.04.2016",
+                "publishedDate": "2016-04-29T19:50:00.000Z",
+                "transcript": "transcripts/simple/f365e29c-fb79-4bfa-8523-5d2536b3660e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8a3d8b9f-ea27-43ba-9273-a32ef3fe235f/EPISODE_IMAGE/1461962712000.png"
+            },
+            {
+                "id": "02def539-e6d5-45d5-ab92-580127ee46af",
+                "videoId": "a7620182-ee04-4dd4-a0b7-b7bec85ab893",
+                "title": "10vor10 vom 28.04.2016",
+                "publishedDate": "2016-04-28T19:50:00.000Z",
+                "transcript": "transcripts/simple/02def539-e6d5-45d5-ab92-580127ee46af.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d05f3742-2af6-4891-8588-70fe0855d015/EPISODE_IMAGE/1461877217000.png"
+            },
+            {
+                "id": "a4bc4e0d-b7e3-4a59-b58f-be21a056e053",
+                "videoId": "d6719c5f-4950-42b4-b201-ed5fcad5f797",
+                "title": "10vor10 vom 27.04.2016",
+                "publishedDate": "2016-04-27T19:50:30.000Z",
+                "transcript": "transcripts/simple/a4bc4e0d-b7e3-4a59-b58f-be21a056e053.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c0ea7a11-0c3e-463b-a229-a7010637133e/EPISODE_IMAGE/1461789916000.png"
+            },
+            {
+                "id": "72017449-10b4-407a-bc7b-17ac40556e11",
+                "videoId": "90350199-4b73-4433-b8d8-ae1eda4e095f",
+                "title": "10vor10 vom 25.04.2016",
+                "publishedDate": "2016-04-25T19:50:48.000Z",
+                "transcript": "transcripts/simple/72017449-10b4-407a-bc7b-17ac40556e11.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/944d84c6-ded8-44bd-bfbd-f6883b5f4889/EPISODE_IMAGE/1461618021000.png"
+            },
+            {
+                "id": "98e0e34a-0709-4bab-87fd-4b6dfe09c741",
+                "videoId": "d616f247-c1ca-4d7a-8e65-a96f4a638522",
+                "title": "10vor10 vom 22.04.2016",
+                "publishedDate": "2016-04-22T19:50:00.000Z",
+                "transcript": "transcripts/simple/98e0e34a-0709-4bab-87fd-4b6dfe09c741.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2b6d3f45-1229-4bc0-8d40-d5212a919b35/EPISODE_IMAGE/1461358824000.png"
+            },
+            {
+                "id": "51d10219-1e02-470f-a374-f7d0602fb2a2",
+                "videoId": "d4b51466-284b-4bf3-a3ea-adae7075d1bf",
+                "title": "10vor10 vom 21.04.2016",
+                "publishedDate": "2016-04-21T19:50:00.000Z",
+                "transcript": "transcripts/simple/51d10219-1e02-470f-a374-f7d0602fb2a2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/411d7c52-dc70-4b00-b653-d0b93e0e88cb/EPISODE_IMAGE/1461337216000.png"
+            },
+            {
+                "id": "776fe4fd-a3e0-4ad3-8653-40ebde3a814b",
+                "videoId": "c00df956-34e9-486b-bef7-d83f01a6c656",
+                "title": "10vor10 vom 20.04.2016",
+                "publishedDate": "2016-04-20T19:50:17.000Z",
+                "transcript": "transcripts/simple/776fe4fd-a3e0-4ad3-8653-40ebde3a814b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fd7c9358-9935-461f-93ef-1c9501784291/EPISODE_IMAGE/1461186052000.png"
+            },
+            {
+                "id": "48b7737c-bba7-4d93-9d27-48f9ef5ef8af",
+                "videoId": "010fc225-48e4-461d-9cde-396de8c49e62",
+                "title": "10vor10 vom 19.04.2016",
+                "publishedDate": "2016-04-19T19:50:00.000Z",
+                "transcript": "transcripts/simple/48b7737c-bba7-4d93-9d27-48f9ef5ef8af.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/43e33774-002d-4aad-92b8-de0c13b5ba6f/EPISODE_IMAGE/1461098739000.png"
+            },
+            {
+                "id": "be43e677-0827-404b-b283-afc773ca2000",
+                "videoId": "ca815a6c-788b-4962-8f73-39e4da61753a",
+                "title": "10vor10 vom 18.04.2016",
+                "publishedDate": "2016-04-18T19:50:00.000Z",
+                "transcript": "transcripts/simple/be43e677-0827-404b-b283-afc773ca2000.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/51528a93-0f02-48f8-b7c4-a2c2d81793ed/EPISODE_IMAGE/1461012321000.png"
+            },
+            {
+                "id": "73a2e049-804c-470f-9b91-e1835ededcf5",
+                "videoId": "87580ab8-2b42-4f34-9433-63c21a4ca90e",
+                "title": "10vor10 vom 15.04.2016",
+                "publishedDate": "2016-04-15T19:50:27.000Z",
+                "transcript": "transcripts/simple/73a2e049-804c-470f-9b91-e1835ededcf5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7785a4d1-d9e3-4cb7-8b25-3361af6ddba3/EPISODE_IMAGE/1460753119000.png"
+            },
+            {
+                "id": "ac64cab9-c84f-4863-ac43-981b8c28d652",
+                "videoId": "38415df1-b5fe-4986-bb6c-04b1339de456",
+                "title": "10vor10 vom 14.04.2016",
+                "publishedDate": "2016-04-14T19:50:00.000Z",
+                "transcript": "transcripts/simple/ac64cab9-c84f-4863-ac43-981b8c28d652.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b2a49aec-9d28-4b12-befb-5c153f06670b/EPISODE_IMAGE/1460667615000.png"
+            },
+            {
+                "id": "612cb606-3211-4a5e-965b-98b1c3393eb8",
+                "videoId": "56eff6db-dd77-4fff-956c-eef3963e035d",
+                "title": "10vor10 vom 13.04.2016",
+                "publishedDate": "2016-04-13T19:50:40.000Z",
+                "transcript": "transcripts/simple/612cb606-3211-4a5e-965b-98b1c3393eb8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/81714665-8c4a-42dd-aa3d-86f8f6b6db35/EPISODE_IMAGE/1460581227000.png"
+            },
+            {
+                "id": "da9c91e0-bb22-4835-a1e4-817fc82f5cce",
+                "videoId": "f2d240dc-3484-4602-9d93-85e655ddf2e8",
+                "title": "10vor10 vom 12.04.2016",
+                "publishedDate": "2016-04-12T19:51:22.000Z",
+                "transcript": "transcripts/simple/da9c91e0-bb22-4835-a1e4-817fc82f5cce.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f65550dc-45ea-4348-8bc1-17d83d6b4eae/EPISODE_IMAGE/1460493915000.png"
+            },
+            {
+                "id": "add45024-2a96-4167-9bef-79d277d72358",
+                "videoId": "0977a06c-3082-40e7-8edc-ad97ee799a52",
+                "title": "10vor10 vom 11.04.2016",
+                "publishedDate": "2016-04-11T19:50:54.000Z",
+                "transcript": "transcripts/simple/add45024-2a96-4167-9bef-79d277d72358.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/33b352b7-232b-4fbc-832e-2fbed07176b3/EPISODE_IMAGE/1460408415000.png"
+            },
+            {
+                "id": "fdc38005-d5dc-4503-a205-934d4f1b2ae9",
+                "videoId": "f0f68067-f53f-4483-ad00-43f5df862242",
+                "title": "10vor10 vom 08.04.2016",
+                "publishedDate": "2016-04-08T19:50:10.000Z",
+                "transcript": "transcripts/simple/fdc38005-d5dc-4503-a205-934d4f1b2ae9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/90f4f5aa-90ef-4575-affa-6a5bed6d8fe6/EPISODE_IMAGE/1460149232000.png"
+            },
+            {
+                "id": "885aac57-c167-4b73-a2b1-93880d54f4bc",
+                "videoId": "a0ef6eb4-0c8b-4250-b90a-4605c1b51b56",
+                "title": "10vor10 vom 07.04.2016",
+                "publishedDate": "2016-04-07T19:50:00.000Z",
+                "transcript": "transcripts/simple/885aac57-c167-4b73-a2b1-93880d54f4bc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/aa4ece7b-cc69-42ae-8627-89d9dff87e6c/EPISODE_IMAGE/1460061919000.png"
+            },
+            {
+                "id": "2f9c620c-2cc0-4111-bd6e-47a1b49fb589",
+                "videoId": "a81248e2-b2b3-49b4-b1db-442b1449c1ce",
+                "title": "10vor10 vom 06.04.2016",
+                "publishedDate": "2016-04-06T19:50:00.000Z",
+                "transcript": "transcripts/simple/2f9c620c-2cc0-4111-bd6e-47a1b49fb589.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/62f4fc2b-15bb-4804-9bcb-5a5096ad61d9/EPISODE_IMAGE/1459977336000.png"
+            },
+            {
+                "id": "84f227b5-c4b2-4928-bf85-94791f10d3d3",
+                "videoId": "8489c59f-feb2-4a86-8eb3-0c9c3187bc47",
+                "title": "10vor10 vom 05.04.2016",
+                "publishedDate": "2016-04-05T19:50:32.000Z",
+                "transcript": "transcripts/simple/84f227b5-c4b2-4928-bf85-94791f10d3d3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f1e2ac4d-e38a-4233-a0c8-356a75260185/EPISODE_IMAGE/1459890016000.png"
+            },
+            {
+                "id": "adcec845-0fae-4cdc-8f44-f81448c80fb9",
+                "videoId": "32a2f818-332c-47d1-bae4-6a330eb1e0ce",
+                "title": "10vor10 vom 04.04.2016",
+                "publishedDate": "2016-04-04T19:49:59.000Z",
+                "transcript": "transcripts/simple/adcec845-0fae-4cdc-8f44-f81448c80fb9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dfb0beb1-d1d9-42c9-803f-3507a8f56782/EPISODE_IMAGE/1459803616000.png"
+            },
+            {
+                "id": "f801f74e-a30c-4cd6-adb2-3343f3f5ea65",
+                "videoId": "41c2286b-b3a0-42c3-a272-cebb47c5e8af",
+                "title": "10vor10 vom 01.04.2016",
+                "publishedDate": "2016-04-01T19:50:10.000Z",
+                "transcript": "transcripts/simple/f801f74e-a30c-4cd6-adb2-3343f3f5ea65.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3a04c7d6-f34d-4e2a-9b63-4cb39abfd15d/EPISODE_IMAGE/1459543513000.png"
+            },
+            {
+                "id": "601bb9a5-ff85-462a-9f3b-24f4ecbe38a6",
+                "videoId": "3b230e96-c7bb-455f-9e09-e5b8b2211556",
+                "title": "10vor10 vom 31.03.2016",
+                "publishedDate": "2016-03-31T19:50:00.000Z",
+                "transcript": "transcripts/simple/601bb9a5-ff85-462a-9f3b-24f4ecbe38a6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f4837b3a-749b-4103-b351-395f78adbb1e/EPISODE_IMAGE/1459458027000.png"
+            },
+            {
+                "id": "21c51c35-ae36-431c-b35a-29524e8619e0",
+                "videoId": "a9e0c364-f108-473e-a448-b517f2bb5b2c",
+                "title": "10vor10 vom 30.03.2016",
+                "publishedDate": "2016-03-30T19:50:55.000Z",
+                "transcript": "transcripts/simple/21c51c35-ae36-431c-b35a-29524e8619e0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ba107e12-ce6b-4440-8f92-51df8d177a02/EPISODE_IMAGE/1459370725000.png"
+            },
+            {
+                "id": "a98da767-96b3-438d-9721-e0cd460654c7",
+                "videoId": "dd544015-4d22-4226-863f-98cffe57d1d4",
+                "title": "10vor10 vom 29.03.2016",
+                "publishedDate": "2016-03-29T19:50:45.000Z",
+                "transcript": "transcripts/simple/a98da767-96b3-438d-9721-e0cd460654c7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/781e65be-f554-40b7-9d80-32d3e14d34d4/EPISODE_IMAGE/1459285210000.png"
+            },
+            {
+                "id": "dc00d640-a707-4e43-8cbe-19a8ff0fae1b",
+                "videoId": "0b93857d-8b99-4813-8d9d-3a0d88f296bf",
+                "title": "10vor10 vom 24.03.2016",
+                "publishedDate": "2016-03-24T20:50:50.000Z",
+                "transcript": "transcripts/simple/dc00d640-a707-4e43-8cbe-19a8ff0fae1b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/86de2141-13fb-425a-800b-0f2e9cd3513d/EPISODE_IMAGE/1458857715000.png"
+            },
+            {
+                "id": "2136e655-9a4e-4434-a54b-2ff31e593177",
+                "videoId": "65127c8b-1e5b-4ae2-81a8-bacef41b400e",
+                "title": "10vor10 vom 23.03.2016",
+                "publishedDate": "2016-03-23T20:50:00.000Z",
+                "transcript": "transcripts/simple/2136e655-9a4e-4434-a54b-2ff31e593177.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d8ee4793-c4a3-4257-a5f8-d24ebb5f9cbc/EPISODE_IMAGE/1458770424000.png"
+            },
+            {
+                "id": "741678bf-c9c7-4efa-ae0a-b15a0255113e",
+                "videoId": "f2c8a811-11f5-4e02-967e-27068b1962f0",
+                "title": "10vor10 vom 22.03.2016",
+                "publishedDate": "2016-03-22T20:50:00.000Z",
+                "transcript": "transcripts/simple/741678bf-c9c7-4efa-ae0a-b15a0255113e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fb44df88-6f40-4fcf-acf1-4106753aa8e0/EPISODE_IMAGE/1458690317000.png"
+            },
+            {
+                "id": "2a489ac1-70fd-4bc5-a2f3-e4983fb1d22e",
+                "videoId": "e2c408a0-8b31-4c0e-9318-591d58d6284e",
+                "title": "10vor10 vom 21.03.2016",
+                "publishedDate": "2016-03-21T20:50:25.000Z",
+                "transcript": "transcripts/simple/2a489ac1-70fd-4bc5-a2f3-e4983fb1d22e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5e66cfa6-c2e3-41b2-9655-b19591f59375/EPISODE_IMAGE/1458599421000.png"
+            },
+            {
+                "id": "5ef30462-9dd3-4033-b197-9ee133ae5423",
+                "videoId": "536d6916-fb36-4b29-aaaa-f3894c04d3cf",
+                "title": "10vor10 vom 18.03.2016",
+                "publishedDate": "2016-03-18T20:50:00.000Z",
+                "transcript": "transcripts/simple/5ef30462-9dd3-4033-b197-9ee133ae5423.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3ead2750-6716-4ffa-9705-56f35fc031e6/EPISODE_IMAGE/1458571516000.png"
+            },
+            {
+                "id": "069b2ee2-85fc-4b68-be15-3fdb88c1cb55",
+                "videoId": "11a4441a-e2fe-4b28-8752-47c21b50760f",
+                "title": "10vor10 vom 17.03.2016",
+                "publishedDate": "2016-03-17T20:50:00.000Z",
+                "transcript": "transcripts/simple/069b2ee2-85fc-4b68-be15-3fdb88c1cb55.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/10c2a6c4-98ac-4722-921b-0f88729cd65a/EPISODE_IMAGE/1458321327000.png"
+            },
+            {
+                "id": "aa5016d2-9c4b-4d38-b6f7-2f338bc5f0da",
+                "videoId": "cc25f266-2de1-425b-8e49-70ee0d17f305",
+                "title": "10vor10 vom 16.03.2016",
+                "publishedDate": "2016-03-16T20:50:27.000Z",
+                "transcript": "transcripts/simple/aa5016d2-9c4b-4d38-b6f7-2f338bc5f0da.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f021f813-2e7f-4f1b-989e-fbdb4423b9e0/EPISODE_IMAGE/1458165619000.png"
+            },
+            {
+                "id": "44c4e227-fb82-4ebf-8e54-5298737f5a27",
+                "videoId": "ec7e7396-1d23-4964-b1eb-e9dff3e7cf82",
+                "title": "10vor10 vom 15.03.2016",
+                "publishedDate": "2016-03-15T20:51:15.000Z",
+                "transcript": "transcripts/simple/44c4e227-fb82-4ebf-8e54-5298737f5a27.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7568c0cb-3a98-4675-a3dc-a72a0d667314/EPISODE_IMAGE/1458081013000.png"
+            },
+            {
+                "id": "b4bda05d-8881-4097-805f-6ec9502953a1",
+                "videoId": "0cbb1b9a-191a-4bf9-9379-bc5dcf5845b5",
+                "title": "10vor10 vom 14.03.2016",
+                "publishedDate": "2016-03-14T20:50:00.000Z",
+                "transcript": "transcripts/simple/b4bda05d-8881-4097-805f-6ec9502953a1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/383ce485-0a3a-4977-b820-3dd45cbc4b49/EPISODE_IMAGE/1457994615000.png"
+            },
+            {
+                "id": "a57820d6-3087-42ab-a2e4-7953fd694df4",
+                "videoId": "c01c02a7-adc0-41b0-b80b-2f053092eedf",
+                "title": "10vor10 vom 11.03.2016",
+                "publishedDate": "2016-03-11T20:50:00.000Z",
+                "transcript": "transcripts/simple/a57820d6-3087-42ab-a2e4-7953fd694df4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ca6873a2-299d-4327-84ce-4ae85db70158/EPISODE_IMAGE/1457966727000.png"
+            },
+            {
+                "id": "bc5d7c4a-b7f3-4d63-b8cc-16a3c4b935b9",
+                "videoId": "9b097354-6260-4d3e-ab96-8b562c046746",
+                "title": "10vor10 vom 10.03.2016",
+                "publishedDate": "2016-03-10T20:50:00.000Z",
+                "transcript": "transcripts/simple/bc5d7c4a-b7f3-4d63-b8cc-16a3c4b935b9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bff8f3b1-5e0c-4033-9848-ce9473854704/EPISODE_IMAGE/1457732719000.png"
+            },
+            {
+                "id": "40670a7f-6603-475c-a8be-465999ce8ae0",
+                "videoId": "a9a70f99-4822-4af8-a2d2-c787570c77d1",
+                "title": "10vor10 vom 09.03.2016",
+                "publishedDate": "2016-03-09T20:50:10.000Z",
+                "transcript": "transcripts/simple/40670a7f-6603-475c-a8be-465999ce8ae0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/454a020d-2f98-42a3-a910-37266cdff1ce/EPISODE_IMAGE/1457609418000.png"
+            },
+            {
+                "id": "97431f3a-cbd1-47fb-9485-6bf26aba3d16",
+                "videoId": "68700709-937b-43ad-aed2-ab244045ce39",
+                "title": "10vor10 vom 08.03.2016",
+                "publishedDate": "2016-03-08T20:50:00.000Z",
+                "transcript": "transcripts/simple/97431f3a-cbd1-47fb-9485-6bf26aba3d16.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6d157b42-e303-4b46-9e0b-7798a6b16e97/EPISODE_IMAGE/1457473535000.png"
+            },
+            {
+                "id": "a83617e8-55df-491c-8fec-651367ed6375",
+                "videoId": "b64c2376-0a68-47c0-a5f9-d9d6f4492ebe",
+                "title": "10vor10 vom 07.03.2016",
+                "publishedDate": "2016-03-07T20:50:00.000Z",
+                "transcript": "transcripts/simple/a83617e8-55df-491c-8fec-651367ed6375.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bec1b3c2-529b-4f06-a1f3-6183ec5a088b/EPISODE_IMAGE/1457388036000.png"
             }
         ]
     },
@@ -10795,6 +11962,46 @@
                 "publishedDate": "2015-05-24T17:24:42.000Z",
                 "transcript": "transcripts/simple/125ae88f-6408-4d46-9ab8-027d97a4457d.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/6d138ed6-9bca-45d9-97b3-144f86fa5025/EPISODE_IMAGE/1433146012000.png"
+            },
+            {
+                "id": "e0891c50-94b4-4708-8bad-d6958ebcac68",
+                "videoId": "cbbecc0d-c210-41a9-8190-4d282926c3a8",
+                "title": "BR Ueli Maurer zum FMedG vom 22.5.2016",
+                "publishedDate": "2016-05-22T17:25:56.000Z",
+                "transcript": "transcripts/simple/e0891c50-94b4-4708-8bad-d6958ebcac68.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1aa942c4-ccc9-4ebf-ad14-791a38cd0c8d/EPISODE_IMAGE/1463991517000.png"
+            },
+            {
+                "id": "39b12eed-6a63-4577-aad8-2944e0bc2b19",
+                "videoId": "f709788d-3cf8-4533-b2f3-c6feb22616c7",
+                "title": "BP J.Schneider-Ammann zur Abstimmung vom 14.5.2016",
+                "publishedDate": "2016-05-14T17:26:05.000Z",
+                "transcript": "transcripts/simple/39b12eed-6a63-4577-aad8-2944e0bc2b19.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/275aa561-97d2-4f56-b81f-5d373f017c82/EPISODE_IMAGE/1463497234000.png"
+            },
+            {
+                "id": "c12d6a23-887b-4ede-aba8-9bdc907373c0",
+                "videoId": "2db35c57-6250-40a7-9edd-a987a5064cac",
+                "title": "BP J.Schneider-Ammann zur Abstimmung vom 14.5.2016",
+                "publishedDate": "2016-05-14T17:26:04.000Z",
+                "transcript": "transcripts/simple/c12d6a23-887b-4ede-aba8-9bdc907373c0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a73d424c-2759-45e6-a037-be7b9decc9a1/EPISODE_IMAGE/1463497228000.png"
+            },
+            {
+                "id": "bdfd4478-26ef-4d3c-aea9-92186dfb2b01",
+                "videoId": "14b325d1-9b6e-4a38-9ddf-223efd32aa5f",
+                "title": "BR Sommaruga: Änderung Asylgesetz vom 8.5.2016",
+                "publishedDate": "2016-05-08T17:26:05.000Z",
+                "transcript": "transcripts/simple/bdfd4478-26ef-4d3c-aea9-92186dfb2b01.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c27356e5-5fdc-4de3-b148-c1cc1cab8f8a/EPISODE_IMAGE/1462779019000.png"
+            },
+            {
+                "id": "ac29feba-1894-4812-b967-a0e4e3b64a21",
+                "videoId": "a5cdcdb5-abb1-45b8-961e-1be09832cd7a",
+                "title": "BR Sommaruga: Änderung Asylgesetz (Geb.) vom 8.5.",
+                "publishedDate": "2016-05-08T17:26:00.000Z",
+                "transcript": "transcripts/simple/ac29feba-1894-4812-b967-a0e4e3b64a21.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7a7ce7fd-b04d-46b2-9bb1-75bfe056882b/EPISODE_IMAGE/1462779015000.png"
             }
         ]
     },
@@ -10828,6 +12035,14 @@
                 "publishedDate": "2015-05-23T18:13:12.000Z",
                 "transcript": "transcripts/simple/ce7910a3-84d0-45a1-8880-4bf1955c65cb.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/5fdca639-cf36-4970-b17e-60e32bf3f7d6/EPISODE_IMAGE/1434961852000.png"
+            },
+            {
+                "id": "1dda1a6d-b815-4049-8cb6-060a186b9946",
+                "videoId": "50dcf71c-c67d-499d-9b0b-e1df5ab0d342",
+                "title": "Aeschbacher vom 14.05.2016",
+                "publishedDate": "2016-05-14T18:12:45.000Z",
+                "transcript": "transcripts/simple/1dda1a6d-b815-4049-8cb6-060a186b9946.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7d28f899-e367-4397-b912-bcb7e70a7c32/EPISODE_IMAGE/1463496266000.png"
             }
         ]
     },
@@ -11458,6 +12673,101 @@
                 "publishedDate": "2016-03-04T21:25:21.000Z",
                 "transcript": "transcripts/simple/242fc511-4335-408e-99ef-126d622cf10a.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/d705f457-3b43-4769-8bb7-71522cb9891d/EPISODE_IMAGE/1457133324000.png"
+            },
+            {
+                "id": "07c2b52a-95a5-4383-bd27-24a9e32ced37",
+                "videoId": "5d9b3f92-375f-4c66-aa6f-525ba403a1a9",
+                "title": "Unternehmenssteuer-Reform III – wir schaffen Klarheit!",
+                "publishedDate": "2016-06-03T20:25:33.000Z",
+                "transcript": "transcripts/simple/07c2b52a-95a5-4383-bd27-24a9e32ced37.tsv"
+            },
+            {
+                "id": "7503e4de-7123-436b-b9cd-fb58d08eb35e",
+                "videoId": "3152092c-9ff3-4830-a656-75109bcfe462",
+                "title": "Service Public – die Publikumsdebatte",
+                "publishedDate": "2016-05-27T20:27:44.000Z",
+                "transcript": "transcripts/simple/7503e4de-7123-436b-b9cd-fb58d08eb35e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/71047192-fcd1-4fed-af5a-7950bdb1ebc3/EPISODE_IMAGE/1464682858000.png"
+            },
+            {
+                "id": "1cca6c9c-42f7-44b7-81e3-fa23ad001d78",
+                "videoId": "d41ba688-2c07-456f-a799-507cd5333eb5",
+                "title": "Abstimmungs-Arena: Initiative Grundeinkommen",
+                "publishedDate": "2016-05-20T20:26:55.000Z",
+                "transcript": "transcripts/simple/1cca6c9c-42f7-44b7-81e3-fa23ad001d78.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/26c3be39-3379-4c63-a3e7-8c09c50feff1/EPISODE_IMAGE/1463822780000.png"
+            },
+            {
+                "id": "ebfe899c-9b09-4637-a0a5-bb92526feb66",
+                "videoId": "c4d4bd0c-94a8-4f85-a4ef-c49825c05c28",
+                "title": "Abstimmungs-Arena: Service-Public-Initiative",
+                "publishedDate": "2016-05-13T20:26:17.000Z",
+                "transcript": "transcripts/simple/ebfe899c-9b09-4637-a0a5-bb92526feb66.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/49112726-2f11-4650-8ef4-1a6ab78b0e8a/EPISODE_IMAGE/1463486414000.png"
+            },
+            {
+                "id": "1f569819-c105-43ed-b82b-12d0b34f000b",
+                "videoId": "abc95bd2-55de-4869-b207-0306fa9ebf95",
+                "title": "Arena vom 06.05.2016",
+                "publishedDate": "2016-05-06T20:27:18.000Z",
+                "transcript": "transcripts/simple/1f569819-c105-43ed-b82b-12d0b34f000b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f0ad1aa7-ef8d-45e1-b375-8ebf603eb875/EPISODE_IMAGE/1462883418000.png"
+            },
+            {
+                "id": "c593e0e8-d875-4419-b4f1-0c5e33865df5",
+                "videoId": "0541018b-c7c6-4250-b61f-c8e13ddddb90",
+                "title": "Arena vom 29.04.2016",
+                "publishedDate": "2016-04-29T20:28:01.000Z",
+                "transcript": "transcripts/simple/c593e0e8-d875-4419-b4f1-0c5e33865df5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9c1341dc-8da1-48d0-b3cb-9771ea951cc1/EPISODE_IMAGE/1462215073000.png"
+            },
+            {
+                "id": "23c51044-9766-441d-a212-4bf8c6387ebe",
+                "videoId": "8c1350de-7a2b-414f-bec5-46dce492ed29",
+                "title": "Arena vom 22.04.2016",
+                "publishedDate": "2016-04-22T20:25:42.000Z",
+                "transcript": "transcripts/simple/23c51044-9766-441d-a212-4bf8c6387ebe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0545a053-2d2b-4877-b441-2b80fe7eed27/EPISODE_IMAGE/1461596420000.png"
+            },
+            {
+                "id": "59bd497e-2397-4671-884f-dda31467f86b",
+                "videoId": "e2dc32aa-2f68-46ad-a66d-77fee9acc102",
+                "title": "Arena vom 15.04.2016",
+                "publishedDate": "2016-04-15T20:26:22.000Z",
+                "transcript": "transcripts/simple/59bd497e-2397-4671-884f-dda31467f86b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/03726fc9-e7d7-478b-8552-c3e21ff001b7/EPISODE_IMAGE/1461059116000.png"
+            },
+            {
+                "id": "cc3b08b2-3d72-47f0-b119-3c683c22ae23",
+                "videoId": "0265317f-b3da-4ec3-9707-8417f9fc1e3d",
+                "title": "Arena vom 08.04.2016",
+                "publishedDate": "2016-04-08T20:25:55.000Z",
+                "transcript": "transcripts/simple/cc3b08b2-3d72-47f0-b119-3c683c22ae23.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/23ae70d1-7cdf-4b3a-9530-8e80b8dc5040/EPISODE_IMAGE/1460452516000.png"
+            },
+            {
+                "id": "ba23213d-d2b1-48ce-add1-da91ae60b90e",
+                "videoId": "0e74425b-1616-49d7-a723-ac57caaf74e3",
+                "title": "Arena vom 01.04.2016",
+                "publishedDate": "2016-04-01T20:25:58.000Z",
+                "transcript": "transcripts/simple/ba23213d-d2b1-48ce-add1-da91ae60b90e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6ce29f8d-18fa-4172-962b-095ad374754e/EPISODE_IMAGE/1459857616000.png"
+            },
+            {
+                "id": "bf00eecf-c455-4f32-b938-b21b16b66458",
+                "videoId": "690f24fa-bb83-4351-833a-c4e3a091bd61",
+                "title": "Arena vom 18.03.2016",
+                "publishedDate": "2016-03-18T21:25:30.000Z",
+                "transcript": "transcripts/simple/bf00eecf-c455-4f32-b938-b21b16b66458.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/fc145539-60dc-4626-b037-1aad7f5f284f/EPISODE_IMAGE/1458637233000.png"
+            },
+            {
+                "id": "9d96fceb-b8e6-4d28-8372-a6addd5c3a66",
+                "videoId": "3485e33c-af9b-4558-b9fb-7d8c2b8cf5b2",
+                "title": "Arena vom 11.03.2016",
+                "publishedDate": "2016-03-11T21:26:53.000Z",
+                "transcript": "transcripts/simple/9d96fceb-b8e6-4d28-8372-a6addd5c3a66.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/76d314a1-d33d-45a3-886c-a46cb4361c9e/EPISODE_IMAGE/1458051316000.png"
             }
         ]
     },
@@ -11523,6 +12833,14 @@
                 "publishedDate": "2015-06-17T18:55:28.000Z",
                 "transcript": "transcripts/simple/e7f24b61-678c-46fa-86b0-775308670d5d.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/42d394e2-a474-4a08-980f-b445b26e8b01/EPISODE_IMAGE/1434983481000.png"
+            },
+            {
+                "id": "6bd21ad3-4f7b-4832-8e58-b8877bc3185c",
+                "videoId": "dbb71c34-f7c3-4306-9d70-af0a8e1f64cd",
+                "title": "Classe Politique vom 16.03.2016",
+                "publishedDate": "2016-03-16T19:55:05.000Z",
+                "transcript": "transcripts/simple/6bd21ad3-4f7b-4832-8e58-b8877bc3185c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6a2045fd-f92b-4811-a8c4-a8072fa6f153/EPISODE_IMAGE/1458292313000.png"
             }
         ]
     },
@@ -12154,6 +13472,69 @@
                 "publishedDate": "2015-05-26T20:26:19.000Z",
                 "transcript": "transcripts/simple/0799bdf8-0c4e-424b-bffd-61a42a3b96e1.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/044809c4-6b62-4778-92e2-2a5733338fc2/EPISODE_IMAGE/1435566618000.png"
+            },
+            {
+                "id": "4543ccea-c9a0-4dae-8280-4afc118b6ddc",
+                "videoId": "f115a67b-09b9-48ef-974c-79fe07771b03",
+                "title": "Organspende: Sind wir herzlos?",
+                "publishedDate": "2016-05-31T20:26:29.000Z",
+                "transcript": "transcripts/simple/4543ccea-c9a0-4dae-8280-4afc118b6ddc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e15c2695-0ac4-4c9e-b261-09377cd11cf8/EPISODE_IMAGE/1464767930000.png"
+            },
+            {
+                "id": "89c0b360-25df-40db-a0eb-94545cd30370",
+                "videoId": "74c67286-f3a1-448c-ab70-591200e51abf",
+                "title": "Club vom 10.05.2016",
+                "publishedDate": "2016-05-10T20:25:45.000Z",
+                "transcript": "transcripts/simple/89c0b360-25df-40db-a0eb-94545cd30370.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c9b2684e-020e-4fd1-a73e-636bc6c3b4e4/EPISODE_IMAGE/1462980630000.png"
+            },
+            {
+                "id": "46948065-364b-4ab5-896d-b4b7eaa924f6",
+                "videoId": "87b8d0ca-671a-46d6-8c4d-4061c2b66771",
+                "title": "Club vom 03.05.2016",
+                "publishedDate": "2016-05-03T20:25:38.000Z",
+                "transcript": "transcripts/simple/46948065-364b-4ab5-896d-b4b7eaa924f6.tsv"
+            },
+            {
+                "id": "e5232c68-7c2b-45dc-8f69-1d129e08fcc1",
+                "videoId": "26acaeab-305c-4b42-91fe-e5413cbdba96",
+                "title": "Club vom 26.04.2016",
+                "publishedDate": "2016-04-26T20:27:30.000Z",
+                "transcript": "transcripts/simple/e5232c68-7c2b-45dc-8f69-1d129e08fcc1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d7d5b701-f8b8-4ab9-8664-8312753a1fec/EPISODE_IMAGE/1462263320000.png"
+            },
+            {
+                "id": "22cf7f18-fbd4-4957-bd52-15d8f42d97fb",
+                "videoId": "b578dcc1-74ae-4358-bf28-ecfb325d08b2",
+                "title": "Club vom 19.04.2016",
+                "publishedDate": "2016-04-19T20:25:41.000Z",
+                "transcript": "transcripts/simple/22cf7f18-fbd4-4957-bd52-15d8f42d97fb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2c42d4d7-9d52-48db-909a-8764b9ba6774/EPISODE_IMAGE/1461155418000.png"
+            },
+            {
+                "id": "66bb03fc-47f0-45cb-bf5a-cb2329eda7ec",
+                "videoId": "6865b498-acf9-4820-8837-7d8a828f935c",
+                "title": "Club vom 12.04.2016",
+                "publishedDate": "2016-04-12T20:27:11.000Z",
+                "transcript": "transcripts/simple/66bb03fc-47f0-45cb-bf5a-cb2329eda7ec.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9b56e630-f803-4004-8cb9-33899f5609a1/EPISODE_IMAGE/1460538019000.png"
+            },
+            {
+                "id": "9a964244-b634-4fca-8db7-2ba18c107752",
+                "videoId": "ac7804b3-6767-4c41-91b6-7b8bc7c1cbdb",
+                "title": "Club vom 29.03.2016",
+                "publishedDate": "2016-03-29T20:28:26.000Z",
+                "transcript": "transcripts/simple/9a964244-b634-4fca-8db7-2ba18c107752.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/45424fa6-19a8-422b-a0aa-e0ab2fe670f9/EPISODE_IMAGE/1459332911000.png"
+            },
+            {
+                "id": "0bec3c27-47c9-4364-9a87-ebe26e6e394c",
+                "videoId": "b88b8655-5746-47fb-85e7-fbcb98805c64",
+                "title": "Club vom 15.03.2016",
+                "publishedDate": "2016-03-15T21:27:35.000Z",
+                "transcript": "transcripts/simple/0bec3c27-47c9-4364-9a87-ebe26e6e394c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8980949b-123c-4343-975f-41872ae75a4d/EPISODE_IMAGE/1458117922000.png"
             }
         ]
     },
@@ -12759,6 +14140,86 @@
                 "publishedDate": "2015-06-01T20:27:00.000Z",
                 "transcript": "transcripts/simple/3d3988eb-c73d-4113-a732-b98f6a4c856b.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/ac22f9bd-821f-48b1-93b5-1699d33b0e91/EPISODE_IMAGE/1434554192000.png"
+            },
+            {
+                "id": "e2970a09-c227-4989-a27d-91cde55f80c6",
+                "videoId": "d6bd5ed0-82fe-459d-a81d-8074ff4b3614",
+                "title": "ECO – Das Wirtschaftsmagazin",
+                "publishedDate": "2016-05-30T20:25:31.000Z",
+                "transcript": "transcripts/simple/e2970a09-c227-4989-a27d-91cde55f80c6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4b886fd7-443c-48a2-bfb8-c868898edd28/EPISODE_IMAGE/1464671038000.png"
+            },
+            {
+                "id": "6b332033-ce03-424a-af0c-007129fa9552",
+                "videoId": "18373a3f-8562-4f73-9b55-5b2763bbbd65",
+                "title": "ECO vom 09.05.2016",
+                "publishedDate": "2016-05-09T20:25:28.000Z",
+                "transcript": "transcripts/simple/6b332033-ce03-424a-af0c-007129fa9552.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ea301f20-2a5e-4dc2-bfc5-39d7d32cb0f8/EPISODE_IMAGE/1462860012000.png"
+            },
+            {
+                "id": "7f3a47cd-cb78-4ed3-aa4b-23df345182c5",
+                "videoId": "d1b814a9-e31c-4cc8-93ee-00fe8ecda74a",
+                "title": "ECO vom 02.05.2016",
+                "publishedDate": "2016-05-02T20:25:29.000Z",
+                "transcript": "transcripts/simple/7f3a47cd-cb78-4ed3-aa4b-23df345182c5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/81ce0392-5798-4aa2-a6a0-af7e177721df/EPISODE_IMAGE/1462260145000.png"
+            },
+            {
+                "id": "eaaf40aa-e4a8-441c-9842-f9b294d896e8",
+                "videoId": "b6904e9c-e4b2-4d98-87e8-b0ea175180a7",
+                "title": "ECO vom 25.04.2016",
+                "publishedDate": "2016-04-25T20:28:34.000Z",
+                "transcript": "transcripts/simple/eaaf40aa-e4a8-441c-9842-f9b294d896e8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7eb8f345-eb6d-4ba6-a5c4-5f3576459c23/EPISODE_IMAGE/1461665718000.png"
+            },
+            {
+                "id": "7c69662f-5f67-4f1e-9afb-23e390146023",
+                "videoId": "56c5d171-9e40-4ee4-b03c-5347b438aa15",
+                "title": "ECO vom 18.04.2016",
+                "publishedDate": "2016-04-18T20:25:43.000Z",
+                "transcript": "transcripts/simple/7c69662f-5f67-4f1e-9afb-23e390146023.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/baa7b288-d248-4b5c-ae2b-ea038dec5c1d/EPISODE_IMAGE/1461060019000.png"
+            },
+            {
+                "id": "3b0c2ad1-9236-4ef7-b376-e08ab156c75f",
+                "videoId": "e855f0f0-5c67-4863-84d8-d4a16ea88b68",
+                "title": "ECO vom 11.04.2016",
+                "publishedDate": "2016-04-11T20:27:13.000Z",
+                "transcript": "transcripts/simple/3b0c2ad1-9236-4ef7-b376-e08ab156c75f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1df1bb46-427c-490d-876f-2bd7c3268877/EPISODE_IMAGE/1460445340000.png"
+            },
+            {
+                "id": "9db26cbe-c0a7-45bc-b867-7ce16d552f6a",
+                "videoId": "3d12a94f-742c-4299-9731-e759a0446b8c",
+                "title": "ECO vom 04.04.2016",
+                "publishedDate": "2016-04-04T20:25:21.000Z",
+                "transcript": "transcripts/simple/9db26cbe-c0a7-45bc-b867-7ce16d552f6a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7a68c754-b4cb-4ecb-8a62-e2e3d65399fc/EPISODE_IMAGE/1459841422000.png"
+            },
+            {
+                "id": "f556fb80-6d96-4097-8d06-789035e2845e",
+                "videoId": "af994878-5dec-4623-b243-8ca9443d76ae",
+                "title": "ECO vom 21.03.2016",
+                "publishedDate": "2016-03-21T21:25:18.000Z",
+                "transcript": "transcripts/simple/f556fb80-6d96-4097-8d06-789035e2845e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d77bc308-66e4-4bd9-a532-304680e0b268/EPISODE_IMAGE/1458635446000.png"
+            },
+            {
+                "id": "f602f096-83ca-4aea-b050-0b0f0074f684",
+                "videoId": "d74c8d0d-a14e-4385-b16d-936c356fbaf2",
+                "title": "ECO vom 14.03.2016",
+                "publishedDate": "2016-03-14T21:26:13.000Z",
+                "transcript": "transcripts/simple/f602f096-83ca-4aea-b050-0b0f0074f684.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8d3a8fe4-8952-49ed-9210-ddcdbe804293/EPISODE_IMAGE/1458052226000.png"
+            },
+            {
+                "id": "11bcbe56-45af-45ef-9ca0-14b7f9327451",
+                "videoId": "d3ea40c4-e355-4154-ab82-58b3fc1694b5",
+                "title": "ECO vom 07.03.2016",
+                "publishedDate": "2016-03-07T21:25:03.000Z",
+                "transcript": "transcripts/simple/11bcbe56-45af-45ef-9ca0-14b7f9327451.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d2452e69-2359-40f3-b508-34727c995f2e/EPISODE_IMAGE/1457419515000.png"
             }
         ]
     },
@@ -13367,6 +14828,86 @@
                 "publishedDate": "2015-05-21T19:05:01.000Z",
                 "transcript": "transcripts/simple/41d2161e-1d36-4a1a-abcb-35d815018fd9.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/0f496ae0-c033-45ed-a9ce-cfc96862ac5c/EPISODE_IMAGE/1432285386000.png"
+            },
+            {
+                "id": "c24c04a1-0524-4833-abdc-6dfe6ad4d864",
+                "videoId": "258c48aa-606b-4798-8b59-1c23a375b84b",
+                "title": "Einstein vom 19.05.2016",
+                "publishedDate": "2016-05-19T19:06:34.000Z",
+                "transcript": "transcripts/simple/c24c04a1-0524-4833-abdc-6dfe6ad4d864.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/52c0a4a6-80f1-4fb3-9173-64a9c134ca18/EPISODE_IMAGE/1463751019000.png"
+            },
+            {
+                "id": "d0565b85-6f9b-48c9-bf7d-7b993b7308f7",
+                "videoId": "7084091e-eb43-4aac-b87d-1eb90eee3f88",
+                "title": "Einstein vom 12.05.2016",
+                "publishedDate": "2016-05-12T19:06:25.000Z",
+                "transcript": "transcripts/simple/d0565b85-6f9b-48c9-bf7d-7b993b7308f7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2a58b705-ae00-4076-818f-35e33e6bf1fe/EPISODE_IMAGE/1463137250000.png"
+            },
+            {
+                "id": "faba7d10-d8b8-4ef5-9eb5-4bfbb93a0654",
+                "videoId": "ddec352c-2a23-4148-9490-eaf66e796e12",
+                "title": "Einstein vom 28.04.2016",
+                "publishedDate": "2016-04-28T19:05:38.000Z",
+                "transcript": "transcripts/simple/faba7d10-d8b8-4ef5-9eb5-4bfbb93a0654.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/595512c9-981b-4f76-8929-16ffe14dcfac/EPISODE_IMAGE/1463134537000.png"
+            },
+            {
+                "id": "6e51def8-e773-4f3c-9d6f-659a49e7d096",
+                "videoId": "833601f6-0a70-4633-8794-9a7513d58c8c",
+                "title": "Einstein vom 21.04.2016",
+                "publishedDate": "2016-04-21T19:06:55.000Z",
+                "transcript": "transcripts/simple/6e51def8-e773-4f3c-9d6f-659a49e7d096.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1abd77e5-70a4-4e63-9e81-a1076ed2c126/EPISODE_IMAGE/1461327343000.png"
+            },
+            {
+                "id": "efec6142-d832-44ad-b876-c88fce1ec713",
+                "videoId": "fdd81978-b75b-45ab-8e31-337e54bf8875",
+                "title": "Einstein vom 14.04.2016",
+                "publishedDate": "2016-04-14T19:06:40.000Z",
+                "transcript": "transcripts/simple/efec6142-d832-44ad-b876-c88fce1ec713.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a2238fd8-74af-4010-aaa7-93867594009a/EPISODE_IMAGE/1460725216000.png"
+            },
+            {
+                "id": "8169d852-377a-4182-91a4-a52c91569bba",
+                "videoId": "9290f713-cbb3-40d1-b70d-07b042d0d371",
+                "title": "Einstein vom 07.04.2016",
+                "publishedDate": "2016-04-07T19:01:09.000Z",
+                "transcript": "transcripts/simple/8169d852-377a-4182-91a4-a52c91569bba.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c2a88992-94cb-4d2b-9b90-fd38628d215c/EPISODE_IMAGE/1460546144000.png"
+            },
+            {
+                "id": "cdc6046d-f29d-4327-8582-6753e650483a",
+                "videoId": "798fb025-cfcb-4082-a397-9d9b00cad03e",
+                "title": "Einstein vom 31.03.2016",
+                "publishedDate": "2016-03-31T19:05:57.000Z",
+                "transcript": "transcripts/simple/cdc6046d-f29d-4327-8582-6753e650483a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6e19700f-81f0-469d-b7fe-bd2b96640433/EPISODE_IMAGE/1459513833000.png"
+            },
+            {
+                "id": "40269f24-904b-435c-a245-867a095a3f6e",
+                "videoId": "d2e37563-eb21-4e90-84dc-486b4d076444",
+                "title": "Einstein vom 24.03.2016",
+                "publishedDate": "2016-03-24T20:05:54.000Z",
+                "transcript": "transcripts/simple/40269f24-904b-435c-a245-867a095a3f6e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/24fe596c-5c7a-4ebf-8b7a-0f64387ee5bf/EPISODE_IMAGE/1459261824000.png"
+            },
+            {
+                "id": "0dda43e8-0cbe-4d6f-8675-2df7dee093f6",
+                "videoId": "64a21226-3a5c-487a-9a82-341b39180ffb",
+                "title": "Einstein vom 17.03.2016",
+                "publishedDate": "2016-03-17T20:05:25.000Z",
+                "transcript": "transcripts/simple/0dda43e8-0cbe-4d6f-8675-2df7dee093f6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/57fbcba2-f7ae-4871-8322-768f0d345a18/EPISODE_IMAGE/1458297018000.png"
+            },
+            {
+                "id": "a13be768-0a7e-4490-a7c9-9f18de85511d",
+                "videoId": "05b47f40-2dd6-4bc7-a610-b4b7cfed4029",
+                "title": "Einstein vom 10.03.2016",
+                "publishedDate": "2016-03-10T20:03:53.000Z",
+                "transcript": "transcripts/simple/a13be768-0a7e-4490-a7c9-9f18de85511d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1a087958-db56-4dd7-811b-aa1bc7aa4c67/EPISODE_IMAGE/1458145641000.png"
             }
         ]
     },
@@ -13842,6 +15383,109 @@
                 "publishedDate": "2015-05-24T20:32:25.000Z",
                 "transcript": "transcripts/simple/7b00d725-76a6-43cc-afaf-f93ce7504985.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/effe0943-8b10-45b6-886c-6cd7c4e70de4/EPISODE_IMAGE/1432625322000.png"
+            },
+            {
+                "id": "ade13aaa-3648-4145-a0c2-e941373dbeca",
+                "videoId": "663dbace-262d-4752-8e4b-d667d88cfca9",
+                "title": "Best-of «Giacobbo / Müller» zum Staffelschluss",
+                "publishedDate": "2016-05-29T20:11:02.000Z",
+                "transcript": "transcripts/simple/ade13aaa-3648-4145-a0c2-e941373dbeca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c9fc3e7f-8426-48f8-8992-156b5c878225/EPISODE_IMAGE/1464593358000.png"
+            },
+            {
+                "id": "089d5a69-83ca-47f7-b321-466aa05c0ff3",
+                "videoId": "1a02037a-070f-4af4-a93f-c410bff3ee9c",
+                "title": "Late Service Public mit Charles Lewinsky und Ass-Dur",
+                "publishedDate": "2016-05-22T20:11:25.000Z",
+                "transcript": "transcripts/simple/089d5a69-83ca-47f7-b321-466aa05c0ff3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bcff7c6a-ba8b-40e8-bf1e-0287cf01cef5/EPISODE_IMAGE/1464006167000.png"
+            },
+            {
+                "id": "de530660-f454-4af3-a83a-c717c7e75217",
+                "videoId": "258e5155-41fb-4aae-84e2-c8092ab0515e",
+                "title": "Giacobbo / Müller vom 15.05.2016",
+                "publishedDate": "2016-05-15T20:19:58.000Z",
+                "transcript": "transcripts/simple/de530660-f454-4af3-a83a-c717c7e75217.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/59481a10-779e-4675-b163-25326e37f911/EPISODE_IMAGE/1463474768000.png"
+            },
+            {
+                "id": "c32ffa6a-214e-4025-94aa-64936c1a8eec",
+                "videoId": "62fcff12-43f3-4d66-add5-e5162ca9d35d",
+                "title": "Giacobbo / Müller vom 08.05.2016",
+                "publishedDate": "2016-05-08T20:10:57.000Z",
+                "transcript": "transcripts/simple/c32ffa6a-214e-4025-94aa-64936c1a8eec.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/638928c6-a57f-43c0-a3ee-8a5e567e8470/EPISODE_IMAGE/1463474781000.png"
+            },
+            {
+                "id": "a62e939d-d165-4e49-824d-9b23f95ecc80",
+                "videoId": "b866d075-b916-46e1-93f9-8aa29bdd394c",
+                "title": "Giacobbo / Müller vom 01.05.2016",
+                "publishedDate": "2016-05-01T20:10:41.000Z",
+                "transcript": "transcripts/simple/a62e939d-d165-4e49-824d-9b23f95ecc80.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/642223ed-8575-4abe-83fd-09d892c92b5c/EPISODE_IMAGE/1463474742000.png"
+            },
+            {
+                "id": "af45f2f9-d7ab-42d3-bdea-65dc34d95630",
+                "videoId": "3cabf784-69ca-4e40-9533-305a82f1fa0e",
+                "title": "Giacobbo / Müller vom 24.04.2016",
+                "publishedDate": "2016-04-24T20:11:43.000Z",
+                "transcript": "transcripts/simple/af45f2f9-d7ab-42d3-bdea-65dc34d95630.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ef103c9e-7029-4f2e-82e7-24ab13a70803/EPISODE_IMAGE/1463475624000.png"
+            },
+            {
+                "id": "a1f7ca81-bfb6-45c8-a343-a2cd6b751b43",
+                "videoId": "1f0d5e54-6453-4026-9082-a6af7a15504b",
+                "title": "Giacobbo / Müller vom 17.04.2016",
+                "publishedDate": "2016-04-17T20:27:42.000Z",
+                "transcript": "transcripts/simple/a1f7ca81-bfb6-45c8-a343-a2cd6b751b43.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9e702afe-1a42-42d6-a28d-fb1a831dd2ff/EPISODE_IMAGE/1463475630000.png"
+            },
+            {
+                "id": "43c30b2c-fa56-4ddc-87c9-d10278d955a0",
+                "videoId": "9bbb893b-fc21-4025-9222-c69f82d3692e",
+                "title": "Giacobbo / Müller vom 10.04.2016",
+                "publishedDate": "2016-04-10T20:11:35.000Z",
+                "transcript": "transcripts/simple/43c30b2c-fa56-4ddc-87c9-d10278d955a0.tsv"
+            },
+            {
+                "id": "33012c2e-7259-476d-a136-98b9d07982b9",
+                "videoId": "bcf14cc5-af59-46d6-9348-546c5b26ee0d",
+                "title": "Giacobbo / Müller vom 03.04.2016",
+                "publishedDate": "2016-04-03T20:09:17.000Z",
+                "transcript": "transcripts/simple/33012c2e-7259-476d-a136-98b9d07982b9.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c7494e04-0a8d-4857-88ae-c4b0a4d7cf37/EPISODE_IMAGE/1459762221000.png"
+            },
+            {
+                "id": "d03a72e0-eea6-4846-ab5b-fc61cf30ab15",
+                "videoId": "0905b31f-b049-4818-8e1f-b0dbc6092275",
+                "title": "Giacobbo / Müller vom 27.03.2016",
+                "publishedDate": "2016-03-27T20:36:50.000Z",
+                "transcript": "transcripts/simple/d03a72e0-eea6-4846-ab5b-fc61cf30ab15.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6bc92e99-3079-48b1-b1f1-270dcc6e796c/EPISODE_IMAGE/1459165523000.png"
+            },
+            {
+                "id": "67afd4cd-8ebd-4a8b-9e56-acc5d31e2c49",
+                "videoId": "1acf92b0-dcaa-4397-81ef-f6367c4a0180",
+                "title": "Giacobbo / Müller vom 20.03.2016",
+                "publishedDate": "2016-03-20T21:12:15.000Z",
+                "transcript": "transcripts/simple/67afd4cd-8ebd-4a8b-9e56-acc5d31e2c49.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/23867386-a7a2-4710-9519-0024389ed990/EPISODE_IMAGE/1458552569000.png"
+            },
+            {
+                "id": "a4a72e7e-9d1a-44d2-bc6f-f81f1f2778e4",
+                "videoId": "6e19a942-3159-42ce-8e22-62fbd2d1b05f",
+                "title": "Giacobbo / Müller vom 13.03.2016",
+                "publishedDate": "2016-03-13T21:11:02.000Z",
+                "transcript": "transcripts/simple/a4a72e7e-9d1a-44d2-bc6f-f81f1f2778e4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c28eeb2b-1d37-4ad0-8c5d-3d421001a27b/EPISODE_IMAGE/1457958652000.png"
+            },
+            {
+                "id": "422535d3-5486-4fdf-aca8-d460f90ad57a",
+                "videoId": "9ebc32c3-31da-40e1-8c2b-73445c3bae03",
+                "title": "Giacobbo / Müller vom 06.03.2016",
+                "publishedDate": "2016-03-06T21:10:39.000Z",
+                "transcript": "transcripts/simple/422535d3-5486-4fdf-aca8-d460f90ad57a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cd0781c6-8efb-4c99-a77d-6beac7be6775/EPISODE_IMAGE/1457348428000.png"
             }
         ]
     },
@@ -14418,6 +16062,78 @@
                 "publishedDate": "2015-05-27T18:56:54.000Z",
                 "transcript": "transcripts/simple/2cc09577-8d07-4a2b-be6c-880cc128af30.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/17a7a284-5e95-45d6-bd79-129505d96b15/EPISODE_IMAGE/1435577458000.png"
+            },
+            {
+                "id": "a2825c26-07d3-4f0e-9cef-604f79b657f8",
+                "videoId": "877c27bd-86f5-48e1-827e-2a2d0121b5af",
+                "title": "Steuerprivileg für Bauern, Ritter, Ukrainische EM-Stars, Idomeni",
+                "publishedDate": "2016-06-01T18:56:04.000Z",
+                "transcript": "transcripts/simple/a2825c26-07d3-4f0e-9cef-604f79b657f8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b478c318-d4b5-40cb-9219-49332b5204a1/EPISODE_IMAGE/1464872213000.png"
+            },
+            {
+                "id": "64b1b865-d43c-4930-a083-e6e1505a06d7",
+                "videoId": "611fd8ba-02e1-474c-b6b2-708576ae0ad5",
+                "title": "Rundschau vom 18.05.2016",
+                "publishedDate": "2016-05-18T18:55:19.000Z",
+                "transcript": "transcripts/simple/64b1b865-d43c-4930-a083-e6e1505a06d7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d2af742c-fc0e-40a7-b167-9ac682520aa7/EPISODE_IMAGE/1463652965000.png"
+            },
+            {
+                "id": "aea9de5e-6c47-4733-ba57-89b9c397d502",
+                "videoId": "ec813430-db17-4a89-8f58-6df225d2b867",
+                "title": "Das Politmagazin «Rundschau»: Schweizer Geldwäscher – Die Brasilien-Connection",
+                "publishedDate": "2016-05-11T18:54:29.000Z",
+                "transcript": "transcripts/simple/aea9de5e-6c47-4733-ba57-89b9c397d502.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/98d7acf9-870e-4fe8-adb1-0723c76f5695/EPISODE_IMAGE/1463653032000.png"
+            },
+            {
+                "id": "2b921d35-f653-4c0d-8c2b-a7fc9a4923ca",
+                "videoId": "9fdf308b-0fb7-490a-8dcc-07eded928ca5",
+                "title": "Das Politmagazin «Rundschau»: Uber in der Sackgasse – Jetzt verlangen Fahrer ihr Recht",
+                "publishedDate": "2016-05-04T18:55:54.000Z",
+                "transcript": "transcripts/simple/2b921d35-f653-4c0d-8c2b-a7fc9a4923ca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/df50c8b1-7b79-4fed-b8db-ba961b97f1ac/EPISODE_IMAGE/1463652930000.png"
+            },
+            {
+                "id": "da930ac9-2ad9-46dd-9f19-f1dabf281b32",
+                "videoId": "f26893ea-7833-4c6a-a390-ef6b8e65431e",
+                "title": "Das Politmagazin «Rundschau» vom 27. April 2016",
+                "publishedDate": "2016-04-27T18:55:17.000Z",
+                "transcript": "transcripts/simple/da930ac9-2ad9-46dd-9f19-f1dabf281b32.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/436e8252-7c1a-4f11-b3c5-f8dd516a3dd8/EPISODE_IMAGE/1461789026000.png"
+            },
+            {
+                "id": "53b1bb9e-0750-486c-95fb-a257192ba477",
+                "videoId": "0df6adee-9bb9-4d03-835e-c5e0ac54ab5e",
+                "title": "Das Politmagazin «Rundschau» vom 13.04.2016",
+                "publishedDate": "2016-04-13T18:56:01.000Z",
+                "transcript": "transcripts/simple/53b1bb9e-0750-486c-95fb-a257192ba477.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f7b23e2d-aca1-4f89-80b4-780c7737e494/EPISODE_IMAGE/1460581231000.png"
+            },
+            {
+                "id": "89b8aedb-2399-404c-bb40-9f721b229cf2",
+                "videoId": "c4e6e7b7-57d5-4ed4-88e3-74f8d33c2680",
+                "title": "Rundschau vom 30.03.2016",
+                "publishedDate": "2016-03-30T18:55:26.000Z",
+                "transcript": "transcripts/simple/89b8aedb-2399-404c-bb40-9f721b229cf2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c6ebeda6-de3f-4633-903f-bb5d9ea1474a/EPISODE_IMAGE/1459499441000.png"
+            },
+            {
+                "id": "16ac0fb5-8778-4e32-a168-7b749a08d530",
+                "videoId": "564063ed-ba14-469b-8f03-32868c1fa0a7",
+                "title": "Rundschau vom 23.03.2016",
+                "publishedDate": "2016-03-23T19:55:58.000Z",
+                "transcript": "transcripts/simple/16ac0fb5-8778-4e32-a168-7b749a08d530.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c01533ea-ddfe-495a-ab0a-aa4928f985f9/EPISODE_IMAGE/1459499442000.png"
+            },
+            {
+                "id": "58416d6f-ab85-4a07-b3a1-c82a6a6a7183",
+                "videoId": "36b076fd-b9b2-4dd9-9b1a-935da7cfbbae",
+                "title": "Rundschau vom 09.03.2016",
+                "publishedDate": "2016-03-09T19:53:12.000Z",
+                "transcript": "transcripts/simple/58416d6f-ab85-4a07-b3a1-c82a6a6a7183.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cf1fe466-1f76-4192-a9b6-160b71860ef8/EPISODE_IMAGE/1457618428000.png"
             }
         ]
     },
@@ -18215,6 +19931,470 @@
                 "publishedDate": "2016-03-04T17:59:48.000Z",
                 "transcript": "transcripts/simple/e280d13d-9c6a-409a-9ce7-3839c62dc3c5.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/2b94df35-f140-4e20-8eed-93d28a897a40/EPISODE_IMAGE/1457118027000.png"
+            },
+            {
+                "id": "300718db-18da-47ee-94de-994a18f24cf4",
+                "videoId": "a3a6f3ad-a0c4-4e47-835f-2a14787ea530",
+                "title": "Schweiz aktuell vom 03.06.2016",
+                "publishedDate": "2016-06-03T16:59:59.000Z",
+                "transcript": "transcripts/simple/300718db-18da-47ee-94de-994a18f24cf4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2917ddd6-c834-46df-9b2b-582d84827b05/EPISODE_IMAGE/1464974901000.png"
+            },
+            {
+                "id": "f5c7cdf7-07c0-4113-8fc9-fbe568cab7ab",
+                "videoId": "6ba76465-418c-4474-be21-a72e2e71ef35",
+                "title": "Schweiz aktuell vom 02.06.2016",
+                "publishedDate": "2016-06-02T17:00:00.000Z",
+                "transcript": "transcripts/simple/f5c7cdf7-07c0-4113-8fc9-fbe568cab7ab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f377f864-7817-426c-b58c-8f0ff59d8fa4/EPISODE_IMAGE/1464888511000.png"
+            },
+            {
+                "id": "9285b88d-cc3c-4f9f-a45f-73a1796b1579",
+                "videoId": "a9c84581-844c-4f4e-9af1-16c745209fad",
+                "title": "Schweiz aktuell vom 01.06.2016",
+                "publishedDate": "2016-06-01T16:59:59.000Z",
+                "transcript": "transcripts/simple/9285b88d-cc3c-4f9f-a45f-73a1796b1579.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9488deef-08c5-4e01-8200-624a431239ce/EPISODE_IMAGE/1464802274000.png"
+            },
+            {
+                "id": "22a35c41-f804-4425-bfc6-28b9de279306",
+                "videoId": "b92ef1a3-b14d-47ed-9b1f-67f85fb9a7f9",
+                "title": "Schweiz aktuell vom 31.05.2016",
+                "publishedDate": "2016-05-31T17:00:03.000Z",
+                "transcript": "transcripts/simple/22a35c41-f804-4425-bfc6-28b9de279306.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c9e6c700-51e9-47f5-b1de-b9e0e01ec127/EPISODE_IMAGE/1464715704000.png"
+            },
+            {
+                "id": "e8055495-25f2-4400-b3ee-ff902af62754",
+                "videoId": "1d4b0476-6f5f-422e-84fe-479ff6dc8cf5",
+                "title": "Schweiz aktuell vom 30.05.2016",
+                "publishedDate": "2016-05-30T17:00:00.000Z",
+                "transcript": "transcripts/simple/e8055495-25f2-4400-b3ee-ff902af62754.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d0de757c-5fcc-432d-a8d7-8b232c53dc81/EPISODE_IMAGE/1464629994000.png"
+            },
+            {
+                "id": "714b2120-a5db-4cb4-ad46-a888084aae99",
+                "videoId": "4856cd91-33ca-41f1-8cf1-ecdf3942884e",
+                "title": "Schweiz aktuell vom 27.05.2016",
+                "publishedDate": "2016-05-27T17:00:15.000Z",
+                "transcript": "transcripts/simple/714b2120-a5db-4cb4-ad46-a888084aae99.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/302dd492-7ca6-47b0-982f-3e8f0e494a51/EPISODE_IMAGE/1464370225000.png"
+            },
+            {
+                "id": "30e87382-bfdb-4bf5-a894-60d8b811f92c",
+                "videoId": "4acd754f-e9b3-44b0-b71e-17798c641de0",
+                "title": "Schweiz aktuell vom 20.05.2016",
+                "publishedDate": "2016-05-20T16:59:59.000Z",
+                "transcript": "transcripts/simple/30e87382-bfdb-4bf5-a894-60d8b811f92c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/76aa98cc-3473-418c-9dfe-9b11b2e29aea/EPISODE_IMAGE/1463769023000.png"
+            },
+            {
+                "id": "a7bb779b-b966-4179-b4b4-2203512258ae",
+                "videoId": "e1b75294-71ba-4770-9ab6-0cf2d4909249",
+                "title": "Schweiz aktuell vom 19.05.2016",
+                "publishedDate": "2016-05-19T16:59:59.000Z",
+                "transcript": "transcripts/simple/a7bb779b-b966-4179-b4b4-2203512258ae.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6a534386-4e75-468f-b0ba-00132591a40d/EPISODE_IMAGE/1463680823000.png"
+            },
+            {
+                "id": "26fd56a9-6919-4216-a0f0-b61e862b1f57",
+                "videoId": "5cc9469f-9a34-48b9-9777-bc10a7f2044f",
+                "title": "Schweiz aktuell vom 18.05.2016",
+                "publishedDate": "2016-05-18T17:00:09.000Z",
+                "transcript": "transcripts/simple/26fd56a9-6919-4216-a0f0-b61e862b1f57.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f88de133-672f-4036-827c-e9f81713539c/EPISODE_IMAGE/1463595403000.png"
+            },
+            {
+                "id": "faede0ee-6680-4cbd-92fa-44bcdbacc146",
+                "videoId": "c8a6214f-045d-4fb3-99e0-4f4a3118478c",
+                "title": "Schweiz aktuell vom 17.05.2016",
+                "publishedDate": "2016-05-17T17:00:34.000Z",
+                "transcript": "transcripts/simple/faede0ee-6680-4cbd-92fa-44bcdbacc146.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6be9548f-7ef1-4307-822b-5c8a8a270e50/EPISODE_IMAGE/1463508035000.png"
+            },
+            {
+                "id": "e6ce7a8c-5ea4-415a-b3d1-22f574646a70",
+                "videoId": "196b6446-f455-4994-b7f2-8f500d9ba511",
+                "title": "Schweiz aktuell vom 13.05.2016",
+                "publishedDate": "2016-05-13T17:00:12.000Z",
+                "transcript": "transcripts/simple/e6ce7a8c-5ea4-415a-b3d1-22f574646a70.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/03f25ea9-651b-4dcd-b9c8-3b5213a592e6/EPISODE_IMAGE/1463166043000.png"
+            },
+            {
+                "id": "0c444776-1519-4a7c-8b73-7ffd2f6e4137",
+                "videoId": "9c7438f5-61a7-4482-bc23-fbb8574fa767",
+                "title": "Schweiz aktuell vom 12.05.2016",
+                "publishedDate": "2016-05-12T17:00:28.000Z",
+                "transcript": "transcripts/simple/0c444776-1519-4a7c-8b73-7ffd2f6e4137.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9a2b22fb-06ad-4ae4-b2ef-752b34e2232d/EPISODE_IMAGE/1463076023000.png"
+            },
+            {
+                "id": "56d13955-5cd3-4b55-9594-75fb276385f7",
+                "videoId": "226ce808-4b22-47c8-9323-c5b0cdea98cc",
+                "title": "Schweiz aktuell vom 11.05.2016",
+                "publishedDate": "2016-05-11T17:00:03.000Z",
+                "transcript": "transcripts/simple/56d13955-5cd3-4b55-9594-75fb276385f7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/91f3e5c6-bb0a-479f-82c4-c57513f54896/EPISODE_IMAGE/1462991427000.png"
+            },
+            {
+                "id": "48fc17ed-6729-4ddf-aefd-30a1acf79d81",
+                "videoId": "c2737b1d-fc57-4001-9733-b1ad9b642b25",
+                "title": "Schweiz aktuell vom 10.05.2016",
+                "publishedDate": "2016-05-10T16:59:55.000Z",
+                "transcript": "transcripts/simple/48fc17ed-6729-4ddf-aefd-30a1acf79d81.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0fb229b6-494f-457c-86c0-c8543652ab7e/EPISODE_IMAGE/1462912229000.png"
+            },
+            {
+                "id": "a4ed68db-046f-4ce7-a4cc-c7c349dae717",
+                "videoId": "2bed6958-9447-4e5b-85c0-2e22c6141065",
+                "title": "Schweiz aktuell vom 09.05.2016",
+                "publishedDate": "2016-05-09T16:59:49.000Z",
+                "transcript": "transcripts/simple/a4ed68db-046f-4ce7-a4cc-c7c349dae717.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/484a667b-5a08-473a-ab4b-453c17b9e161/EPISODE_IMAGE/1462816818000.png"
+            },
+            {
+                "id": "b10125ce-b015-44dc-aed0-1031a346c07c",
+                "videoId": "ad312d40-775c-411c-b989-9c854c800269",
+                "title": "Schweiz aktuell vom 06.05.2016",
+                "publishedDate": "2016-05-06T16:59:54.000Z",
+                "transcript": "transcripts/simple/b10125ce-b015-44dc-aed0-1031a346c07c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/95fb2796-1759-41af-adb8-31879a6b9034/EPISODE_IMAGE/1462556713000.png"
+            },
+            {
+                "id": "ea6a6947-05bf-41f9-ab5c-19e0f6e73c0a",
+                "videoId": "72b41265-0829-4d2d-8250-943a84e88812",
+                "title": "Schweiz aktuell vom 05.05.2016",
+                "publishedDate": "2016-05-05T17:00:20.000Z",
+                "transcript": "transcripts/simple/ea6a6947-05bf-41f9-ab5c-19e0f6e73c0a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d757d67e-826f-4523-a85f-0e4430b33426/EPISODE_IMAGE/1462472131000.png"
+            },
+            {
+                "id": "50134718-f635-4b75-bc1f-7984cdd5d5bb",
+                "videoId": "91cf3630-28fd-456d-9455-ce735c54e968",
+                "title": "Schweiz aktuell vom 04.05.2016",
+                "publishedDate": "2016-05-04T16:59:47.000Z",
+                "transcript": "transcripts/simple/50134718-f635-4b75-bc1f-7984cdd5d5bb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/87d9b851-8475-4f3c-99c4-4a1c5cc32971/EPISODE_IMAGE/1462383914000.png"
+            },
+            {
+                "id": "bc05cf76-4675-4616-bf7a-36e0c5a220ea",
+                "videoId": "0c8fa0b0-ee09-42e9-9b6f-57546ac7b081",
+                "title": "Schweiz aktuell vom 03.05.2016",
+                "publishedDate": "2016-05-03T16:59:55.000Z",
+                "transcript": "transcripts/simple/bc05cf76-4675-4616-bf7a-36e0c5a220ea.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/69277bf0-dcd6-44d4-b5ed-7e79a4cf3c58/EPISODE_IMAGE/1462297519000.png"
+            },
+            {
+                "id": "4dd75c82-a9fa-4adf-a85c-084d65f00b5d",
+                "videoId": "33c5ce07-bc9b-40f7-949f-13bc57f1b455",
+                "title": "Schweiz aktuell vom 02.05.2016",
+                "publishedDate": "2016-05-02T17:00:10.000Z",
+                "transcript": "transcripts/simple/4dd75c82-a9fa-4adf-a85c-084d65f00b5d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b294dc56-0b0b-4715-b34c-cc029ad401d0/EPISODE_IMAGE/1462211128000.png"
+            },
+            {
+                "id": "48782f7b-019d-4bbe-9777-e70fdd268e70",
+                "videoId": "46faf5d3-a39b-410c-90b5-20aea18fbf97",
+                "title": "Schweiz aktuell vom 29.04.2016",
+                "publishedDate": "2016-04-29T17:00:12.000Z",
+                "transcript": "transcripts/simple/48782f7b-019d-4bbe-9777-e70fdd268e70.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/aa20c4ff-d718-474a-9de1-91af500d945f/EPISODE_IMAGE/1461952816000.png"
+            },
+            {
+                "id": "83841aa3-96bd-4517-a770-216bd44831ca",
+                "videoId": "87e45adb-0fd5-40cb-aabe-77df826784c9",
+                "title": "Schweiz aktuell vom 28.04.2016",
+                "publishedDate": "2016-04-28T17:00:07.000Z",
+                "transcript": "transcripts/simple/83841aa3-96bd-4517-a770-216bd44831ca.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/556c87da-38bf-4949-a417-4964039d1468/EPISODE_IMAGE/1461866454000.png"
+            },
+            {
+                "id": "b5a3fcdc-f50e-4408-85b1-ce0f4ccdc38e",
+                "videoId": "9419b134-3e93-436c-b92a-da47bd2fd650",
+                "title": "Schweiz aktuell vom 27.04.2016",
+                "publishedDate": "2016-04-27T16:59:58.000Z",
+                "transcript": "transcripts/simple/b5a3fcdc-f50e-4408-85b1-ce0f4ccdc38e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f3d03135-34fd-4f47-890e-49b625fd86ab/EPISODE_IMAGE/1461781866000.png"
+            },
+            {
+                "id": "91cb0611-716e-405e-938e-a764b1d8db47",
+                "videoId": "ca11ed50-084a-4880-8a1f-8397fb198bca",
+                "title": "Schweiz aktuell vom 26.04.2016",
+                "publishedDate": "2016-04-26T17:00:14.000Z",
+                "transcript": "transcripts/simple/91cb0611-716e-405e-938e-a764b1d8db47.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/df693e7d-f5ca-4da6-a4c8-854c33e9d5ec/EPISODE_IMAGE/1461693630000.png"
+            },
+            {
+                "id": "b2caf173-2dac-4a76-b17a-4f95ec0a5cc8",
+                "videoId": "a90e1fd9-794b-412c-a2a0-c630733a06a7",
+                "title": "Schweiz aktuell vom 25.04.2016",
+                "publishedDate": "2016-04-25T17:00:07.000Z",
+                "transcript": "transcripts/simple/b2caf173-2dac-4a76-b17a-4f95ec0a5cc8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/13e81214-716c-4d77-97a1-39e844a7f23e/EPISODE_IMAGE/1461663027000.png"
+            },
+            {
+                "id": "c7933f14-d45a-4b73-b172-e4e797368030",
+                "videoId": "e9faf6ca-9cd8-496e-9d9a-4c75a09d178e",
+                "title": "Schweiz aktuell vom 22.04.2016",
+                "publishedDate": "2016-04-22T17:00:49.000Z",
+                "transcript": "transcripts/simple/c7933f14-d45a-4b73-b172-e4e797368030.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/16128af1-7364-49f6-9419-e8fc6a4c0eaa/EPISODE_IMAGE/1461348930000.png"
+            },
+            {
+                "id": "d9553b8a-7035-4e05-bcdd-b4f160730f58",
+                "videoId": "ae7452c8-3ff4-4355-93f8-954d3256ca7f",
+                "title": "Schweiz aktuell vom 21.04.2016",
+                "publishedDate": "2016-04-21T16:59:49.000Z",
+                "transcript": "transcripts/simple/d9553b8a-7035-4e05-bcdd-b4f160730f58.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4810a7e3-db83-4852-9b86-02d33222bf55/EPISODE_IMAGE/1461261614000.png"
+            },
+            {
+                "id": "67b02a29-431a-4c36-8475-52b4bba3f2fa",
+                "videoId": "15877051-d9a8-4f16-a516-5863b7c0bc66",
+                "title": "Schweiz aktuell vom 20.04.2016",
+                "publishedDate": "2016-04-20T16:59:59.000Z",
+                "transcript": "transcripts/simple/67b02a29-431a-4c36-8475-52b4bba3f2fa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f661b29a-7877-43d9-8e26-b6c96890a516/EPISODE_IMAGE/1461175218000.png"
+            },
+            {
+                "id": "30cf7f44-337c-4df1-8943-215b229f57dc",
+                "videoId": "2ab1a3ff-87ee-4ef8-ae7a-4a77d03c6de1",
+                "title": "Schweiz aktuell vom 19.04.2016",
+                "publishedDate": "2016-04-19T17:00:03.000Z",
+                "transcript": "transcripts/simple/30cf7f44-337c-4df1-8943-215b229f57dc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cf891b11-313b-4579-9ece-518890931d27/EPISODE_IMAGE/1461088820000.png"
+            },
+            {
+                "id": "adbec499-71c9-4d7e-93b5-9abef3517664",
+                "videoId": "17d411a0-f420-4b11-b0c5-12020fb1bd7a",
+                "title": "Schweiz aktuell vom 18.04.2016",
+                "publishedDate": "2016-04-18T17:04:04.000Z",
+                "transcript": "transcripts/simple/adbec499-71c9-4d7e-93b5-9abef3517664.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/807fbc93-7135-4622-af93-a217e260235e/EPISODE_IMAGE/1461004270000.png"
+            },
+            {
+                "id": "6ef4cf67-3f95-40b5-a39d-d803c30ddcc6",
+                "videoId": "063e5d05-562b-4ff2-b3ef-a70a27af0f26",
+                "title": "Schweiz aktuell vom 15.04.2016",
+                "publishedDate": "2016-04-15T16:59:52.000Z",
+                "transcript": "transcripts/simple/6ef4cf67-3f95-40b5-a39d-d803c30ddcc6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/aa0f3e7d-6fb1-4d0b-aa32-0400c2c6877c/EPISODE_IMAGE/1460747739000.png"
+            },
+            {
+                "id": "f9bf15b7-6075-488e-950b-412f79e86ba2",
+                "videoId": "f607d03d-74e9-4fc8-a3d4-c90f7d147d03",
+                "title": "Schweiz aktuell vom 14.04.2016",
+                "publishedDate": "2016-04-14T16:59:56.000Z",
+                "transcript": "transcripts/simple/f9bf15b7-6075-488e-950b-412f79e86ba2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/40228c18-821d-4e53-8926-36a44ea8a8f1/EPISODE_IMAGE/1460656834000.png"
+            },
+            {
+                "id": "5b7d3ca4-4568-433c-a8e3-9ea4213d540a",
+                "videoId": "8097d2cc-2b7a-455f-9aa7-192b92434d2c",
+                "title": "Schweiz aktuell vom 13.04.2016",
+                "publishedDate": "2016-04-13T16:59:50.000Z",
+                "transcript": "transcripts/simple/5b7d3ca4-4568-433c-a8e3-9ea4213d540a.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/acb6b6af-807e-49b9-879f-49a6d5a5ece5/EPISODE_IMAGE/1460571363000.png"
+            },
+            {
+                "id": "d7dcfa4c-a058-4fbe-a254-4abe5d6af60e",
+                "videoId": "8297cb09-b93e-4948-a39f-db59a644a94c",
+                "title": "Schweiz aktuell vom 12.04.2016",
+                "publishedDate": "2016-04-12T17:00:15.000Z",
+                "transcript": "transcripts/simple/d7dcfa4c-a058-4fbe-a254-4abe5d6af60e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/f69fee22-18af-4364-b602-13d7ae76b716/EPISODE_IMAGE/1460483120000.png"
+            },
+            {
+                "id": "d040024d-0e75-4725-85ec-771bd1ba270b",
+                "videoId": "49387772-17e8-40ab-b956-5221167e90cd",
+                "title": "Schweiz aktuell vom 11.04.2016",
+                "publishedDate": "2016-04-11T16:59:50.000Z",
+                "transcript": "transcripts/simple/d040024d-0e75-4725-85ec-771bd1ba270b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e1b0674c-8541-4e78-aa4f-05f964933bb9/EPISODE_IMAGE/1460397615000.png"
+            },
+            {
+                "id": "ba79eb6e-97c0-4cfe-b4f4-16ccddf55358",
+                "videoId": "83ee8df8-ddc8-48de-ba53-faced6b2ca6d",
+                "title": "Schweiz aktuell vom 08.04.2016",
+                "publishedDate": "2016-04-08T16:59:54.000Z",
+                "transcript": "transcripts/simple/ba79eb6e-97c0-4cfe-b4f4-16ccddf55358.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/5ca47a74-6336-47d4-b333-76945eef76b0/EPISODE_IMAGE/1460138430000.png"
+            },
+            {
+                "id": "4b040c57-632f-4c20-a0b2-e5549be08961",
+                "videoId": "8bf36ae5-4921-46cf-9d31-f7c0fffeb832",
+                "title": "Schweiz aktuell vom 07.04.2016",
+                "publishedDate": "2016-04-07T17:00:04.000Z",
+                "transcript": "transcripts/simple/4b040c57-632f-4c20-a0b2-e5549be08961.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b10d5644-27d7-43f4-af05-9a26f0067fd7/EPISODE_IMAGE/1460093413000.png"
+            },
+            {
+                "id": "495fff14-174b-4e35-abe0-09ef60710b53",
+                "videoId": "28d5ee23-ae8d-4af4-8357-cb1ffe4bc280",
+                "title": "Schweiz aktuell vom 06.04.2016",
+                "publishedDate": "2016-04-06T17:00:06.000Z",
+                "transcript": "transcripts/simple/495fff14-174b-4e35-abe0-09ef60710b53.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0061d4f5-8148-4e68-8dfb-93224a747acd/EPISODE_IMAGE/1459965616000.png"
+            },
+            {
+                "id": "322705ec-b824-4f81-95d1-a318020fcc6c",
+                "videoId": "fded382d-cd67-4ced-b3cd-8f5bc55eb3bc",
+                "title": "Schweiz aktuell vom 05.04.2016",
+                "publishedDate": "2016-04-05T16:59:55.000Z",
+                "transcript": "transcripts/simple/322705ec-b824-4f81-95d1-a318020fcc6c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/18034e96-49bc-49e5-867c-c581c2257e23/EPISODE_IMAGE/1459879221000.png"
+            },
+            {
+                "id": "c954352a-3c72-41c0-a573-8843db182ac8",
+                "videoId": "279c0e2f-c118-47d9-a016-3ff7c9de00a9",
+                "title": "Schweiz aktuell vom 04.04.2016",
+                "publishedDate": "2016-04-04T16:59:54.000Z",
+                "transcript": "transcripts/simple/c954352a-3c72-41c0-a573-8843db182ac8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/429a10c1-63b2-44fa-935d-fce8d37a77ff/EPISODE_IMAGE/1459793760000.png"
+            },
+            {
+                "id": "e5a85e76-8f0d-4a6e-a7d3-66466ec4bd6e",
+                "videoId": "1ceabc6b-a0df-4a15-96f3-5489c330022b",
+                "title": "Schweiz aktuell vom 01.04.2016",
+                "publishedDate": "2016-04-01T16:59:59.000Z",
+                "transcript": "transcripts/simple/e5a85e76-8f0d-4a6e-a7d3-66466ec4bd6e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3a89ca83-55e5-49b3-9596-cd1aaaabaa95/EPISODE_IMAGE/1460027728000.png"
+            },
+            {
+                "id": "7c40b4ae-71c6-460d-a2a2-0d9c441bb772",
+                "videoId": "1953782e-a60d-45cd-8126-0f262bc0c388",
+                "title": "Schweiz aktuell vom 31.03.2016",
+                "publishedDate": "2016-03-31T17:00:12.000Z",
+                "transcript": "transcripts/simple/7c40b4ae-71c6-460d-a2a2-0d9c441bb772.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/59e09929-e549-4624-84bd-fa9befebbe24/EPISODE_IMAGE/1459447219000.png"
+            },
+            {
+                "id": "b3ce7e8b-ecf8-4941-a3a0-d8ede97c930f",
+                "videoId": "33bb6880-15d0-44d3-aee8-b16ded9fd757",
+                "title": "Schweiz aktuell vom 30.03.2016",
+                "publishedDate": "2016-03-30T16:59:00.000Z",
+                "transcript": "transcripts/simple/b3ce7e8b-ecf8-4941-a3a0-d8ede97c930f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e88582ed-7c83-4cc2-aa77-8deccd0d014f/EPISODE_IMAGE/1459952125000.png"
+            },
+            {
+                "id": "84b879d0-84cd-4e2b-8412-4e4d3ac176dc",
+                "videoId": "01f8a041-dec2-493c-a6ed-efefc6b1411e",
+                "title": "Schweiz aktuell vom 29.03.2016",
+                "publishedDate": "2016-03-29T16:59:54.000Z",
+                "transcript": "transcripts/simple/84b879d0-84cd-4e2b-8412-4e4d3ac176dc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0989463f-d12b-4e5a-950d-b6f3d8cb0c4e/EPISODE_IMAGE/1459274419000.png"
+            },
+            {
+                "id": "3c588b70-a538-4dbb-b59c-715e1a4e1373",
+                "videoId": "24511cdf-e794-4737-9f38-4fb5c93fcd26",
+                "title": "Schweiz aktuell vom 24.03.2016",
+                "publishedDate": "2016-03-24T17:59:59.000Z",
+                "transcript": "transcripts/simple/3c588b70-a538-4dbb-b59c-715e1a4e1373.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/073db406-0d02-4d01-bfae-def27bb74feb/EPISODE_IMAGE/1458846014000.png"
+            },
+            {
+                "id": "4e7f9b02-a5ac-4312-b079-f030b608dbe1",
+                "videoId": "dea3db16-ded1-480f-87aa-e7178f2054bb",
+                "title": "Schweiz aktuell vom 23.03.2016",
+                "publishedDate": "2016-03-23T18:00:06.000Z",
+                "transcript": "transcripts/simple/4e7f9b02-a5ac-4312-b079-f030b608dbe1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a201e9fa-96d9-40f2-bfbf-7cafa6f9632e/EPISODE_IMAGE/1458761419000.png"
+            },
+            {
+                "id": "8d953d1a-fd31-4eda-a1d4-6ec76a78e77b",
+                "videoId": "028b1379-4d29-49e3-ba19-757d2c9b7d69",
+                "title": "Schweiz aktuell vom 22.03.2016",
+                "publishedDate": "2016-03-22T18:00:03.000Z",
+                "transcript": "transcripts/simple/8d953d1a-fd31-4eda-a1d4-6ec76a78e77b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/917b3b9b-24fd-4087-8b53-6b075df79e87/EPISODE_IMAGE/1458674132000.png"
+            },
+            {
+                "id": "061e7a1f-7b6b-4280-a118-5a67fcd234cf",
+                "videoId": "aca8e1d0-fe3d-4ac9-8eb5-81c4ed18de48",
+                "title": "Schweiz aktuell vom 21.03.2016",
+                "publishedDate": "2016-03-21T17:59:59.000Z",
+                "transcript": "transcripts/simple/061e7a1f-7b6b-4280-a118-5a67fcd234cf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0ee26df7-e361-4d73-b73b-fb70a8f55231/EPISODE_IMAGE/1458631816000.png"
+            },
+            {
+                "id": "6b502e11-2d54-48d3-99c2-e830fcf26dd1",
+                "videoId": "9b57e9c7-f5b5-472c-ba3a-41efd39a9e1f",
+                "title": "Schweiz aktuell vom 18.03.2016",
+                "publishedDate": "2016-03-18T18:00:15.000Z",
+                "transcript": "transcripts/simple/6b502e11-2d54-48d3-99c2-e830fcf26dd1.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9303cd3b-5790-4e00-b1f9-1ee9aedb9a8d/EPISODE_IMAGE/1458327621000.png"
+            },
+            {
+                "id": "c5030cf4-6873-42cd-bc32-d2182b80ca0c",
+                "videoId": "fcb0760c-9c4a-40cc-80d2-a7760f263258",
+                "title": "Schweiz aktuell vom 17.03.2016",
+                "publishedDate": "2016-03-17T17:59:43.000Z",
+                "transcript": "transcripts/simple/c5030cf4-6873-42cd-bc32-d2182b80ca0c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dda43351-aef8-471c-9a0e-72e391590350/EPISODE_IMAGE/1458291800000.png"
+            },
+            {
+                "id": "d6a2be8d-c629-4949-8803-b1b40c2682e2",
+                "videoId": "5aa30eef-de29-41a8-9b9e-2a7e71d8be01",
+                "title": "Schweiz aktuell vom 16.03.2016",
+                "publishedDate": "2016-03-16T17:59:54.000Z",
+                "transcript": "transcripts/simple/d6a2be8d-c629-4949-8803-b1b40c2682e2.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/eb4ad519-0e60-4145-ad25-0daa8990ddf0/EPISODE_IMAGE/1458155770000.png"
+            },
+            {
+                "id": "7d8d26f3-9a31-49cf-a725-91cad48bf582",
+                "videoId": "a97e9112-b449-4ca5-b0c0-13a9d39dea75",
+                "title": "Schweiz aktuell vom 15.03.2016",
+                "publishedDate": "2016-03-15T18:00:12.000Z",
+                "transcript": "transcripts/simple/7d8d26f3-9a31-49cf-a725-91cad48bf582.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/58aa2e27-5518-4d5b-b849-8d097b6a0c31/EPISODE_IMAGE/1458069377000.png"
+            },
+            {
+                "id": "e67865f5-87fa-4766-9eef-48c9a16b5e8c",
+                "videoId": "f5b5a4b9-1d18-4d93-9df4-b28c1f340c77",
+                "title": "Schweiz aktuell vom 14.03.2016",
+                "publishedDate": "2016-03-14T17:59:59.000Z",
+                "transcript": "transcripts/simple/e67865f5-87fa-4766-9eef-48c9a16b5e8c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/577eee8c-bfa3-4003-9e25-eb43a209d869/EPISODE_IMAGE/1458049518000.png"
+            },
+            {
+                "id": "d64ab889-e9a3-4b00-9d05-7d7d0f3307d5",
+                "videoId": "da1b3e67-9417-4aca-8169-97955ecf0d92",
+                "title": "Schweiz aktuell vom 11.03.2016",
+                "publishedDate": "2016-03-11T17:59:54.000Z",
+                "transcript": "transcripts/simple/d64ab889-e9a3-4b00-9d05-7d7d0f3307d5.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bb64d8f2-f97a-48fc-96d6-abcc6d96d062/EPISODE_IMAGE/1457951419000.png"
+            },
+            {
+                "id": "9b5c7160-e45a-44bd-8409-fccdfcdb0ad8",
+                "videoId": "97b634cf-a49a-4331-90a7-a21344d1c139",
+                "title": "Schweiz aktuell vom 10.03.2016",
+                "publishedDate": "2016-03-10T18:00:01.000Z",
+                "transcript": "transcripts/simple/9b5c7160-e45a-44bd-8409-fccdfcdb0ad8.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c4b3acae-9d8d-4745-9fd9-1964061291fd/EPISODE_IMAGE/1457723813000.png"
+            },
+            {
+                "id": "0575a78a-f13b-447f-bdfc-893e00abf599",
+                "videoId": "612a3850-d360-4d28-8b32-1ababf7e9f27",
+                "title": "Schweiz aktuell vom 09.03.2016",
+                "publishedDate": "2016-03-09T18:00:00.000Z",
+                "transcript": "transcripts/simple/0575a78a-f13b-447f-bdfc-893e00abf599.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9e960949-de65-4499-a172-c7b5e60a4585/EPISODE_IMAGE/1457550015000.png"
+            },
+            {
+                "id": "69741691-b46b-4c39-8119-071519fb6969",
+                "videoId": "d165498f-433e-4d12-b854-6356d778ed05",
+                "title": "Schweiz aktuell vom 08.03.2016",
+                "publishedDate": "2016-03-08T17:59:58.000Z",
+                "transcript": "transcripts/simple/69741691-b46b-4c39-8119-071519fb6969.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/bdf0e0bf-b96f-4074-87d9-1c33e4fe3af7/EPISODE_IMAGE/1457466367000.png"
+            },
+            {
+                "id": "5ec33809-aca1-4c6f-8e67-e65d16c9e1be",
+                "videoId": "b26bb3be-b683-47f3-8153-bdd043740414",
+                "title": "Schweiz aktuell vom 07.03.2016",
+                "publishedDate": "2016-03-07T18:00:00.000Z",
+                "transcript": "transcripts/simple/5ec33809-aca1-4c6f-8e67-e65d16c9e1be.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b778570b-1d46-464b-a3b8-92705cd16568/EPISODE_IMAGE/1457377226000.png"
             }
         ]
     },
@@ -18759,6 +20939,189 @@
                 "publishedDate": "2015-06-04T18:07:57.000Z",
                 "transcript": "transcripts/simple/78891750-9b68-4741-8be2-43f8392980ed.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/da3f8cf6-ee4e-4e19-831e-047dc35e11c3/EPISODE_IMAGE/1433445681000.png"
+            },
+            {
+                "id": "c1ee73ce-5f02-40ce-97d3-f8d0848ee8e0",
+                "videoId": "8a9e3221-eb13-482b-b9e7-9c0c285a1d5c",
+                "title": "DOK vom 04.06.2016",
+                "publishedDate": "2016-06-04T07:05:22.000Z",
+                "transcript": "transcripts/simple/c1ee73ce-5f02-40ce-97d3-f8d0848ee8e0.tsv"
+            },
+            {
+                "id": "59452c0f-235c-46c9-8c2c-d1247f9018fa",
+                "videoId": "bfb789a7-50b5-4b56-91f7-cafe3f90a676",
+                "title": "Unten durch – Die Sedruner und der Gotthardtunnel",
+                "publishedDate": "2016-06-02T18:07:15.000Z",
+                "transcript": "transcripts/simple/59452c0f-235c-46c9-8c2c-d1247f9018fa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/18bd0226-9926-4636-8954-54ab57fffdf7/EPISODE_IMAGE/1464898002000.png"
+            },
+            {
+                "id": "4c01b703-8d9f-4019-9438-60f09885642c",
+                "videoId": "658e5588-db94-4a35-bef2-b8b2ea0feba0",
+                "title": "Leben am Gotthard – Ein Jahr an der Passstrasse",
+                "publishedDate": "2016-06-01T20:59:29.000Z",
+                "transcript": "transcripts/simple/4c01b703-8d9f-4019-9438-60f09885642c.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/27543f19-81d9-4ebd-9ef7-c7044bd7d511/EPISODE_IMAGE/1464849825000.png"
+            },
+            {
+                "id": "d1eec936-f174-487a-8d60-cdf391d92cb3",
+                "videoId": "9f3d988d-6420-443f-a6f5-54d38369d3a8",
+                "title": "Zurück zum Urwald – Nationalpark Kalkalpen",
+                "publishedDate": "2016-05-29T14:21:55.000Z",
+                "transcript": "transcripts/simple/d1eec936-f174-487a-8d60-cdf391d92cb3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7f42543c-4fe6-4cee-92ba-3d81757e230b/EPISODE_IMAGE/1464590939000.png"
+            },
+            {
+                "id": "9f0dc6ac-75fc-4b01-a5bd-126d3e2ca49b",
+                "videoId": "4c45ecb0-7cf7-4499-b9e0-572dcd4eb1f2",
+                "title": "Pepsi vs Cola – Duell der Giganten",
+                "publishedDate": "2016-05-29T13:25:27.000Z",
+                "transcript": "transcripts/simple/9f0dc6ac-75fc-4b01-a5bd-126d3e2ca49b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/4f02d782-d733-4561-9da7-724f57ca4d99/EPISODE_IMAGE/1464591306000.png"
+            },
+            {
+                "id": "870ea86d-a1b4-4633-bf10-8b324225d60b",
+                "videoId": "41925afa-6d65-4e34-b8f3-ccb8ab9fb308",
+                "title": "Humanima – Training über Grenzen hinweg",
+                "publishedDate": "2016-05-29T12:58:20.000Z",
+                "transcript": "transcripts/simple/870ea86d-a1b4-4633-bf10-8b324225d60b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6a9c2a6b-4e75-4819-953c-9a2f0414d44a/EPISODE_IMAGE/1464591472000.png"
+            },
+            {
+                "id": "cab99239-1d8d-4f7b-8842-3996713c71ac",
+                "videoId": "bc39c8c9-7382-4669-ae84-34dc2687f220",
+                "title": "Geschichten aus dem Transplantationszentrum Genf – Folge 2",
+                "publishedDate": "2016-05-27T19:00:38.000Z",
+                "transcript": "transcripts/simple/cab99239-1d8d-4f7b-8842-3996713c71ac.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/718138e2-28a4-4362-afed-cccbbd66a90c/EPISODE_IMAGE/1464590732000.png"
+            },
+            {
+                "id": "87f974c9-0ecf-4b0d-924c-5d5fb0508846",
+                "videoId": "7a7baa31-7c78-43e1-8913-001d08746b30",
+                "title": "Geschichten aus dem Transplantationszentrum Genf – Folge 1",
+                "publishedDate": "2016-05-20T19:00:14.000Z",
+                "transcript": "transcripts/simple/87f974c9-0ecf-4b0d-924c-5d5fb0508846.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2536c989-fb27-4bb8-8390-85e6fba4cbc9/EPISODE_IMAGE/1463819408000.png"
+            },
+            {
+                "id": "992d482c-4cdc-4788-a9f4-6e278c9d2866",
+                "videoId": "b3367ea3-a4a2-4e07-82e1-7d21245640c4",
+                "title": "DOK vom 18.05.2016",
+                "publishedDate": "2016-05-18T20:55:39.000Z",
+                "transcript": "transcripts/simple/992d482c-4cdc-4788-a9f4-6e278c9d2866.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/17ff01d5-1100-402f-a2b3-de9c9b9656f3/EPISODE_IMAGE/1463642117000.png"
+            },
+            {
+                "id": "9eb30b74-116a-4839-89ea-2589a63665a4",
+                "videoId": "8092d44a-835a-4341-a1b3-0d3ea2527ff6",
+                "title": "DOK vom 12.05.2016",
+                "publishedDate": "2016-05-12T18:08:30.000Z",
+                "transcript": "transcripts/simple/9eb30b74-116a-4839-89ea-2589a63665a4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/67fa18b5-33af-4030-b6df-e610bf89b436/EPISODE_IMAGE/1463147121000.png"
+            },
+            {
+                "id": "39b7b87b-1178-4b84-bf6b-79495e55f00d",
+                "videoId": "aaa3a87b-68ab-42e8-ac2c-b28981c89e96",
+                "title": "DOK vom 11.05.2016",
+                "publishedDate": "2016-05-11T20:58:06.000Z",
+                "transcript": "transcripts/simple/39b7b87b-1178-4b84-bf6b-79495e55f00d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/14f6d643-59bc-4b4a-a707-beaf40617a4e/EPISODE_IMAGE/1463037314000.png"
+            },
+            {
+                "id": "a4173712-26e1-4877-a2ff-cd9d0c32a080",
+                "videoId": "15ffddad-ec61-4e54-8046-a035dd00e358",
+                "title": "DOK am Sonntag vom 08.05.2016",
+                "publishedDate": "2016-05-08T14:16:28.000Z",
+                "transcript": "transcripts/simple/a4173712-26e1-4877-a2ff-cd9d0c32a080.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3aa2a11b-ccba-4bdf-8567-90d10baa4b9f/EPISODE_IMAGE/1462778114000.png"
+            },
+            {
+                "id": "a48bcdb3-af18-4c6a-bde0-10578fddb74e",
+                "videoId": "791e7240-665d-44e2-b17b-e2a54b17af4c",
+                "title": "DOK am Sonntag vom 08.05.2016",
+                "publishedDate": "2016-05-08T13:28:48.000Z",
+                "transcript": "transcripts/simple/a48bcdb3-af18-4c6a-bde0-10578fddb74e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3a089a13-3980-4385-bd9b-644de48fa840/EPISODE_IMAGE/1462778113000.png"
+            },
+            {
+                "id": "873f88ea-931d-4340-b01c-4f55e2142bb6",
+                "videoId": "520e96eb-180b-492f-b999-a49fb7435ac5",
+                "title": "DOK am Sonntag vom 08.05.2016",
+                "publishedDate": "2016-05-08T12:59:43.000Z",
+                "transcript": "transcripts/simple/873f88ea-931d-4340-b01c-4f55e2142bb6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/8bdcf3f2-fa51-4995-b66b-4e95777e1fcb/EPISODE_IMAGE/1462778112000.png"
+            },
+            {
+                "id": "962a504b-50d9-4512-aefa-53bbdfa89701",
+                "videoId": "39ebb4b1-a142-422e-901b-7d9b73707309",
+                "title": "DOK vom 05.05.2016",
+                "publishedDate": "2016-05-05T18:09:07.000Z",
+                "transcript": "transcripts/simple/962a504b-50d9-4512-aefa-53bbdfa89701.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e229f3ae-b36d-4b12-8574-e5a07215c4fe/EPISODE_IMAGE/1462518014000.png"
+            },
+            {
+                "id": "721e9a9e-d0db-4ee8-b236-17274e41c9ee",
+                "videoId": "79cfd85c-2a9f-4e95-a6f8-c0d1635ef154",
+                "title": "DOK vom 28.04.2016",
+                "publishedDate": "2016-04-28T18:07:31.000Z",
+                "transcript": "transcripts/simple/721e9a9e-d0db-4ee8-b236-17274e41c9ee.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e5435364-4df7-4795-b6ae-82535436f7a5/EPISODE_IMAGE/1461918648000.png"
+            },
+            {
+                "id": "81d82c4c-bc7f-4f96-887d-8742672d7487",
+                "videoId": "25fa1554-80ca-499b-be2c-9b6166240dff",
+                "title": "DOK vom 27.04.2016",
+                "publishedDate": "2016-04-27T20:58:39.000Z",
+                "transcript": "transcripts/simple/81d82c4c-bc7f-4f96-887d-8742672d7487.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/90114970-c6fa-4771-9d17-e04d09ff3017/EPISODE_IMAGE/1461833112000.png"
+            },
+            {
+                "id": "05a9bdd4-8be4-435d-8048-5b880966dbcc",
+                "videoId": "7c17d7d9-c80e-4209-b10f-328944114036",
+                "title": "DOK vom 13.04.2016",
+                "publishedDate": "2016-04-13T20:59:00.000Z",
+                "transcript": "transcripts/simple/05a9bdd4-8be4-435d-8048-5b880966dbcc.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e726e5b4-8661-4deb-a93c-216ada561e43/EPISODE_IMAGE/1460628035000.png"
+            },
+            {
+                "id": "08755bf3-1c08-40b0-9a98-d110041c1dfa",
+                "videoId": "48aac081-19dd-4e0b-baf7-4e059e24a5e9",
+                "title": "DOK vom 31.03.2016",
+                "publishedDate": "2016-03-31T18:09:41.000Z",
+                "transcript": "transcripts/simple/08755bf3-1c08-40b0-9a98-d110041c1dfa.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/76ca64bc-2619-4833-b1f3-2358f69e1b0e/EPISODE_IMAGE/1459453515000.png"
+            },
+            {
+                "id": "60b96737-7e06-42bb-a751-f26facb9014f",
+                "videoId": "5be9ad59-8546-452d-9636-9a7010c048fd",
+                "title": "DOK vom 24.03.2016",
+                "publishedDate": "2016-03-24T19:08:09.000Z",
+                "transcript": "transcripts/simple/60b96737-7e06-42bb-a751-f26facb9014f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/938d3b72-5076-45b5-b36e-2e0c88360782/EPISODE_IMAGE/1458852313000.png"
+            },
+            {
+                "id": "6124f1d5-e4a2-4bae-8985-3405c326c445",
+                "videoId": "fa911e46-a5b3-498f-bdd8-5e8a2b43fd91",
+                "title": "DOK vom 17.03.2016",
+                "publishedDate": "2016-03-17T19:07:33.000Z",
+                "transcript": "transcripts/simple/6124f1d5-e4a2-4bae-8985-3405c326c445.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b91fb409-2078-45fb-8908-9b6b66ed3a08/EPISODE_IMAGE/1458246613000.png"
+            },
+            {
+                "id": "502a9b9e-399e-414d-8123-8d7926e4227b",
+                "videoId": "65522ff8-d516-48ba-bf1c-f3eea930e868",
+                "title": "DOK vom 04.05.2014",
+                "publishedDate": "2014-05-04T12:58:00.000Z",
+                "transcript": "transcripts/simple/502a9b9e-399e-414d-8123-8d7926e4227b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a4099d97-d6bb-427d-a94a-3adc6937e14e/EPISODE_IMAGE/1401450174000.png"
+            },
+            {
+                "id": "19956c6e-8d0b-4409-8e95-477fccfffcf7",
+                "videoId": "8669dc61-d4c5-4ced-9222-014a998a9a1a",
+                "title": "DOK vom 10.04.2014",
+                "publishedDate": "2014-04-10T18:08:02.000Z",
+                "transcript": "transcripts/simple/19956c6e-8d0b-4409-8e95-477fccfffcf7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7df04fbb-da79-4400-9b61-1b7fa6bac652/EPISODE_IMAGE/1397203982000.png"
             }
         ]
     },
@@ -18816,6 +21179,37 @@
                 "publishedDate": "2015-04-12T16:00:00.000Z",
                 "transcript": "transcripts/simple/f72f9f1e-304a-48ba-8a8a-ffa7b93db713.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/0bd18566-6b6a-4359-81aa-dba24a06cd57/EPISODE_IMAGE/1441788347000.png"
+            },
+            {
+                "id": "9b087c7c-d7e9-4b9c-a3b1-8955b05404ab",
+                "videoId": "afd3dcfa-d9f0-4def-a8d5-871afe112b77",
+                "title": "Sondersendung - Terror in Brüssel vom 22.03.2016",
+                "publishedDate": "2016-03-22T19:05:42.000Z",
+                "transcript": "transcripts/simple/9b087c7c-d7e9-4b9c-a3b1-8955b05404ab.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7495c896-cc2c-4568-bb59-c370867cb7a3/EPISODE_IMAGE/1458713712000.png"
+            },
+            {
+                "id": "aec48b81-bc0d-455b-a4d1-4e04c21e6885",
+                "videoId": "5f1dabe5-cb5e-4669-94b8-cb52b4a5c6bd",
+                "title": "Tagesschau Spezial vom 22.03.2016",
+                "publishedDate": "2016-03-22T15:05:17.000Z",
+                "transcript": "transcripts/simple/aec48b81-bc0d-455b-a4d1-4e04c21e6885.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/1400a060-27d4-4724-9d4f-461365d01f8e/EPISODE_IMAGE/1458678395000.png"
+            },
+            {
+                "id": "508ea88f-4ad2-4a05-81b2-15b1228e5367",
+                "videoId": "0900acbf-e067-4a96-a675-59bf7f2820fa",
+                "title": "Tagesschau Spezial vom 22.03.2016",
+                "publishedDate": "2016-03-22T09:59:58.000Z",
+                "transcript": "transcripts/simple/508ea88f-4ad2-4a05-81b2-15b1228e5367.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9715ba52-8160-48f3-a778-d7daa4c98967/EPISODE_IMAGE/1458678425000.png"
+            },
+            {
+                "id": "40933942-bb1e-42ba-8fb3-850ca679ebff",
+                "videoId": "3bcfbf57-8e1c-4c6f-a7a0-3bddbfbcbd59",
+                "title": "Tagesschau Spezial vom 22.03.2016",
+                "publishedDate": "2016-03-22T08:34:14.000Z",
+                "transcript": "transcripts/simple/40933942-bb1e-42ba-8fb3-850ca679ebff.tsv"
             }
         ]
     },
@@ -19025,6 +21419,30 @@
                 "publishedDate": "2014-04-26T11:00:00.000Z",
                 "transcript": "transcripts/simple/184c673d-1b13-455d-88c8-16c3a21f2709.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/53982c1f-627f-4edb-b75c-a597355b648d/EPISODE_IMAGE/1398511991000.png"
+            },
+            {
+                "id": "b5016ea0-d9c9-4350-89cb-7dea2c408677",
+                "videoId": "7a071cb4-d690-4890-b2d9-9685bde359bb",
+                "title": "Tagesschau Mittag vom 03.05.2016",
+                "publishedDate": "2016-05-03T10:45:00.000Z",
+                "transcript": "transcripts/simple/b5016ea0-d9c9-4350-89cb-7dea2c408677.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/0ee56b65-4c78-400f-8d8f-be8be48413d9/EPISODE_IMAGE/1462280426000.png"
+            },
+            {
+                "id": "f4bc66e0-fa3d-40fa-88c3-630cabbace20",
+                "videoId": "bc4b2eaf-30f5-4b5f-bb0c-cf7afd754f79",
+                "title": "Tagesschau Mittag vom 22.03.2016",
+                "publishedDate": "2016-03-22T11:45:09.000Z",
+                "transcript": "transcripts/simple/f4bc66e0-fa3d-40fa-88c3-630cabbace20.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/88f2714c-0d99-4be4-883d-ba5d3efc877a/EPISODE_IMAGE/1458651624000.png"
+            },
+            {
+                "id": "a3e18f1b-52c0-4985-9f6b-9ffb9394fee4",
+                "videoId": "a551b44d-845c-415d-9d16-e9c1edb07f7c",
+                "title": "Tagesschau Mittag vom 14.03.2016",
+                "publishedDate": "2016-03-14T11:45:00.000Z",
+                "transcript": "transcripts/simple/a3e18f1b-52c0-4985-9f6b-9ffb9394fee4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/cf29de20-f252-4eee-a72f-cb29fa15e924/EPISODE_IMAGE/1457961321000.png"
             }
         ]
     },
@@ -19769,6 +22187,94 @@
                 "publishedDate": "2014-04-05T17:59:00.000Z",
                 "transcript": "transcripts/simple/8f3f7509-2fd8-47a7-8fb1-35020355fe5d.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/85f74354-d458-4bcc-9ba5-fee2e1a6ef10/EPISODE_IMAGE/1397249435000.png"
+            },
+            {
+                "id": "da981852-0de8-4521-99d9-fd6d78eb0ef3",
+                "videoId": "1e88d52b-1026-4e09-8a95-0852bc5edfb2",
+                "title": "Wort zum Sonntag vom 28.05.2016",
+                "publishedDate": "2016-05-28T18:00:58.000Z",
+                "transcript": "transcripts/simple/da981852-0de8-4521-99d9-fd6d78eb0ef3.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/853fcffb-f8fc-416f-bc94-5641adb0d458/EPISODE_IMAGE/1464606009000.png"
+            },
+            {
+                "id": "e529bb3a-a46d-4b57-b5d0-f040a330577d",
+                "videoId": "866655b8-2730-4377-8f66-eecc7b3711ae",
+                "title": "Wort zum Sonntag vom 21.05.2016",
+                "publishedDate": "2016-05-21T17:59:05.000Z",
+                "transcript": "transcripts/simple/e529bb3a-a46d-4b57-b5d0-f040a330577d.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/85ea572c-f82f-4d7c-89ee-c37c46ff8ea0/EPISODE_IMAGE/1463901308000.png"
+            },
+            {
+                "id": "85f5f231-815c-4ee1-872e-f3b8703c3bb4",
+                "videoId": "d94f9d43-aced-47bf-b82e-919e30da817a",
+                "title": "Wort zum Sonntag vom 07.05.2016",
+                "publishedDate": "2016-05-07T18:00:50.000Z",
+                "transcript": "transcripts/simple/85f5f231-815c-4ee1-872e-f3b8703c3bb4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/54e9f367-eda0-48c2-9440-91d95f06cc3f/EPISODE_IMAGE/1462788014000.png"
+            },
+            {
+                "id": "b0f442e1-19f0-4b6b-b709-c0990b85c563",
+                "videoId": "6d7feb9c-d716-4a8d-8e1c-f23777a70fdb",
+                "title": "Wort zum Sonntag vom 30.04.2016",
+                "publishedDate": "2016-04-30T17:59:40.000Z",
+                "transcript": "transcripts/simple/b0f442e1-19f0-4b6b-b709-c0990b85c563.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b0c68bae-51cc-40d3-817c-e0f3d1c46f8f/EPISODE_IMAGE/1462088713000.png"
+            },
+            {
+                "id": "57d57257-fcc6-4390-962f-c27dcf0186fb",
+                "videoId": "5563dab0-f1e3-4324-b14e-8f91334dff62",
+                "title": "Wort zum Sonntag vom 23.04.2016",
+                "publishedDate": "2016-04-23T18:00:02.000Z",
+                "transcript": "transcripts/simple/57d57257-fcc6-4390-962f-c27dcf0186fb.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/7e94ed16-98e7-4192-ae92-78a85b9489d7/EPISODE_IMAGE/1461486612000.png"
+            },
+            {
+                "id": "eea084ab-bfdb-4e29-9385-c26c79b3eed0",
+                "videoId": "5fd90c96-914b-4cf9-8c9e-8cafa01520d2",
+                "title": "Wort zum Sonntag vom 16.04.2016",
+                "publishedDate": "2016-04-16T18:00:03.000Z",
+                "transcript": "transcripts/simple/eea084ab-bfdb-4e29-9385-c26c79b3eed0.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/c4420a08-9927-4c28-8a51-d3ba926b298d/EPISODE_IMAGE/1460877309000.png"
+            },
+            {
+                "id": "e5f0faea-00ac-460f-a8dc-061df716d46e",
+                "videoId": "6d5a9360-b4a5-43ee-abc7-669d6e435def",
+                "title": "Wort zum Sonntag vom 09.04.2016",
+                "publishedDate": "2016-04-09T18:00:49.000Z",
+                "transcript": "transcripts/simple/e5f0faea-00ac-460f-a8dc-061df716d46e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/86798534-f59d-4267-9839-f5b42ef5b379/EPISODE_IMAGE/1460276108000.png"
+            },
+            {
+                "id": "b71bee0b-f196-4c38-8028-31c1827fbf25",
+                "videoId": "1b026cff-a96e-45ea-b21f-f6a7a362aeed",
+                "title": "Wort zum Sonntag vom 02.04.2016",
+                "publishedDate": "2016-04-02T18:01:14.000Z",
+                "transcript": "transcripts/simple/b71bee0b-f196-4c38-8028-31c1827fbf25.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e037ba9d-ca56-4a8c-8dea-67c09f341082/EPISODE_IMAGE/1459675812000.png"
+            },
+            {
+                "id": "a138a319-e0be-4368-9884-c284d5d9dd6f",
+                "videoId": "248fbfe1-5ef9-40b8-822f-4d6765c4cf84",
+                "title": "Wort zum Sonntag vom 26.03.2016",
+                "publishedDate": "2016-03-26T19:01:05.000Z",
+                "transcript": "transcripts/simple/a138a319-e0be-4368-9884-c284d5d9dd6f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ebea7dfa-e17d-4cc7-9fe2-6ec13002f7f8/EPISODE_IMAGE/1459150224000.png"
+            },
+            {
+                "id": "9ea8cfd2-3aa3-4961-acd0-1b21484fbb26",
+                "videoId": "08aa26e6-2011-4f6a-b111-5d9e4a9f3b80",
+                "title": "Wort zum Sonntag vom 19.03.2016",
+                "publishedDate": "2016-03-19T19:01:15.000Z",
+                "transcript": "transcripts/simple/9ea8cfd2-3aa3-4961-acd0-1b21484fbb26.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/3f22dd55-63bd-4aa6-8168-3495eb9f3e1a/EPISODE_IMAGE/1458477912000.png"
+            },
+            {
+                "id": "2d9f1e20-73fc-4cc9-bd10-0f962acd2b58",
+                "videoId": "dc4b8743-d3d5-4395-ab9c-b979bd0810af",
+                "title": "Wort zum Sonntag vom 12.03.2016",
+                "publishedDate": "2016-03-12T19:00:30.000Z",
+                "transcript": "transcripts/simple/2d9f1e20-73fc-4cc9-bd10-0f962acd2b58.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b78831c2-44e7-4db5-86b6-4c241d3e2a15/EPISODE_IMAGE/1457859613000.png"
             }
         ]
     },
@@ -19890,6 +22396,21 @@
                 "publishedDate": "2014-08-02T18:03:00.000Z",
                 "transcript": "transcripts/simple/df3411b3-dbf5-4090-aa3a-9cec1f0151de.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/e4317496-07e9-415e-b4cb-2d87983b9e7a/EPISODE_IMAGE/1407040585000.png"
+            },
+            {
+                "id": "a2a08325-9d08-4ff4-baa0-57ca0f3a0a0b",
+                "videoId": "cc20cfb6-3021-4bff-8387-dadc951b19c7",
+                "title": "Banjo und Bluegrass vom 16.05.2016",
+                "publishedDate": "2016-05-16T16:14:04.000Z",
+                "transcript": "transcripts/simple/a2a08325-9d08-4ff4-baa0-57ca0f3a0a0b.tsv"
+            },
+            {
+                "id": "389789bc-ed86-404d-986d-2c6585b01127",
+                "videoId": "1885103f-d06f-4f33-805a-45519e33fa4d",
+                "title": "Schweizer Comedy Legenden vom 07.05.2016",
+                "publishedDate": "2016-05-07T18:12:27.000Z",
+                "transcript": "transcripts/simple/389789bc-ed86-404d-986d-2c6585b01127.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/e04f06e1-eba0-40a6-a505-21228ac896b6/EPISODE_IMAGE/1462702510000.png"
             }
         ]
     },
@@ -20501,6 +23022,94 @@
                 "publishedDate": "2014-04-07T19:08:06.000Z",
                 "transcript": "transcripts/simple/6f5f589f-f456-46c0-9ac1-c1c730f0ad00.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/90460922-1e84-4f2c-b418-ab5952266747/EPISODE_IMAGE/1401279820000.png"
+            },
+            {
+                "id": "9ee55acf-b158-440d-8fa6-991a08039f98",
+                "videoId": "56697799-38ee-4ad4-85bf-0cd081043741",
+                "title": "Gesund auf Reisen, Legionellen, Hirnschäden durch Kopfbälle",
+                "publishedDate": "2016-05-30T19:06:43.000Z",
+                "transcript": "transcripts/simple/9ee55acf-b158-440d-8fa6-991a08039f98.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/d87de544-bcf7-4f43-8b1f-413e3cc9d1bc/EPISODE_IMAGE/1464688427000.png"
+            },
+            {
+                "id": "1152ffc0-5e76-4a30-99a1-94e1e1bced43",
+                "videoId": "e7bec8c5-b38d-4811-a6cd-b0c01ff22ae5",
+                "title": "Online-Psychotherapie, E-Bike, Braunes Fett, Nordic Walking",
+                "publishedDate": "2016-05-09T19:08:02.000Z",
+                "transcript": "transcripts/simple/1152ffc0-5e76-4a30-99a1-94e1e1bced43.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/2064d50c-1796-48cb-886d-39dac1dd6456/EPISODE_IMAGE/1464700931000.png"
+            },
+            {
+                "id": "51dd74b5-6970-405e-8b2d-7a1fb5da0196",
+                "videoId": "a61bd2b7-71eb-4596-b3b4-d8d9f70d3884",
+                "title": "Gesunde Füsse, elektronischer Impfausweis, Gärtnern ohne Reue",
+                "publishedDate": "2016-05-02T19:09:22.000Z",
+                "transcript": "transcripts/simple/51dd74b5-6970-405e-8b2d-7a1fb5da0196.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/811c1c25-e94f-4c68-9cf3-acb0c4fbb5f0/EPISODE_IMAGE/1464701123000.png"
+            },
+            {
+                "id": "82fbb401-8e87-45f2-a9df-1fb93ff58d38",
+                "videoId": "5904727e-e94e-406a-b852-b5cd7677a241",
+                "title": "Diabetes, Demenzrisiko, Muttermilch-Spende, Checkliste im OP",
+                "publishedDate": "2016-04-25T19:09:29.000Z",
+                "transcript": "transcripts/simple/82fbb401-8e87-45f2-a9df-1fb93ff58d38.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/dcd46de8-35c6-4af5-a949-98747f065a80/EPISODE_IMAGE/1464701246000.png"
+            },
+            {
+                "id": "72663272-55ae-4332-b58e-52408bfa0178",
+                "videoId": "849df77c-1325-4d35-8934-c493989e3338",
+                "title": "Narkose, veralteter Pollenbericht, umstrittene Ärzte-Bewertungen",
+                "publishedDate": "2016-04-18T19:07:55.000Z",
+                "transcript": "transcripts/simple/72663272-55ae-4332-b58e-52408bfa0178.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ddf6b696-1006-452f-9192-146cd6a1fbd3/EPISODE_IMAGE/1464701414000.png"
+            },
+            {
+                "id": "90b23253-7727-44d5-b5c8-a70bfdbd51c6",
+                "videoId": "c0ab5163-bd13-45fa-ac00-9ee3f99d8694",
+                "title": "Phagen: Ausweg aus der Antibiotika-Krise?",
+                "publishedDate": "2016-04-11T19:08:40.000Z",
+                "transcript": "transcripts/simple/90b23253-7727-44d5-b5c8-a70bfdbd51c6.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/39516f73-a122-45a5-8c39-829238163cce/EPISODE_IMAGE/1464701500000.png"
+            },
+            {
+                "id": "dded4341-ecb0-4b24-8176-6cfb20c5bb77",
+                "videoId": "ecce8fb2-1840-41f9-a298-1d1bae638bc1",
+                "title": "Heilkräuter, grosse Muttermale, jugendliche Kiffer",
+                "publishedDate": "2016-04-04T19:06:21.000Z",
+                "transcript": "transcripts/simple/dded4341-ecb0-4b24-8176-6cfb20c5bb77.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/ef7e5d87-94a5-4057-b9c0-2922d4db6e99/EPISODE_IMAGE/1464701679000.png"
+            },
+            {
+                "id": "b59345d2-3bbb-46ae-8315-de0ffb9171cf",
+                "videoId": "8a314539-a2a9-4641-bf60-8e4b5f562080",
+                "title": "«Puls vor Ort» zum Fasten",
+                "publishedDate": "2016-03-21T20:03:38.000Z",
+                "transcript": "transcripts/simple/b59345d2-3bbb-46ae-8315-de0ffb9171cf.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/62f1acf1-9366-440f-b2f8-744d893d2bef/EPISODE_IMAGE/1464794023000.png"
+            },
+            {
+                "id": "14538220-dea9-4346-b786-20bf9d1176d4",
+                "videoId": "f5548446-875d-4a7d-a573-e7f38d047559",
+                "title": "Gesunde Dicke, Wunderwaffe Aspirin, Keimschleuder Arztkittel",
+                "publishedDate": "2016-03-14T20:08:19.000Z",
+                "transcript": "transcripts/simple/14538220-dea9-4346-b786-20bf9d1176d4.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/6052b4df-8f27-47ab-b2a5-82e85f994b3c/EPISODE_IMAGE/1464701988000.png"
+            },
+            {
+                "id": "ee727931-4e06-4022-83e6-dc2aa2c6fe2e",
+                "videoId": "3d4069a7-d68a-4a48-9ac6-21ddc913b5c9",
+                "title": "Risiko-Gene, Koloskopie, Behinderte testen, Reise durch die Alternativmedizin (5)",
+                "publishedDate": "2016-03-07T20:05:28.000Z",
+                "transcript": "transcripts/simple/ee727931-4e06-4022-83e6-dc2aa2c6fe2e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/da8e9b5f-94af-4dcf-9be1-6db50ad95768/EPISODE_IMAGE/1464702127000.png"
+            },
+            {
+                "id": "86ca14c6-8c6b-4b38-92ff-19006046fa25",
+                "videoId": "646b55b8-4c1e-47c0-9ca1-9e31a1dc91a5",
+                "title": "«Puls vor Ort» im Demenzheim",
+                "publishedDate": "2014-12-15T20:03:42.000Z",
+                "transcript": "transcripts/simple/86ca14c6-8c6b-4b38-92ff-19006046fa25.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/00767aa9-68dc-48bd-8771-cc05533bc517/EPISODE_IMAGE/1464794497000.png"
             }
         ]
     },
@@ -21182,6 +23791,102 @@
                 "publishedDate": "2014-04-06T19:46:18.000Z",
                 "transcript": "transcripts/simple/fafafceb-738f-482d-8175-0b0f35773d6d.tsv",
                 "image": "http://ws.srf.ch/asset/image/audio/14f51a24-236e-436c-905a-1db11d556f4d/EPISODE_IMAGE/1396888698000.png"
+            },
+            {
+                "id": "dc8a83b8-f808-4f79-bd7d-01fa3c112a55",
+                "videoId": "d6441649-1d19-499e-a034-0af90c091b58",
+                "title": "Die Reporterin - Margrit Sprecher wird 80",
+                "publishedDate": "2016-05-22T19:41:19.000Z",
+                "transcript": "transcripts/simple/dc8a83b8-f808-4f79-bd7d-01fa3c112a55.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/32b05ddb-d061-498c-ab1f-c543fd238857/EPISODE_IMAGE/1463949010000.png"
+            },
+            {
+                "id": "6c7dc32f-2999-451e-89c5-caf99b14d35b",
+                "videoId": "e27044a1-b6a3-4eb7-8a6b-77115b25f9d3",
+                "title": "Argentinische Träume",
+                "publishedDate": "2016-05-15T19:49:34.000Z",
+                "transcript": "transcripts/simple/6c7dc32f-2999-451e-89c5-caf99b14d35b.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/714886c1-08d0-4156-9400-666e1de6e543/EPISODE_IMAGE/1463380208000.png"
+            },
+            {
+                "id": "1651a2dd-fcff-43cc-ab66-76465bd21246",
+                "videoId": "aeb24928-da29-4fc4-8f4f-6dc4a9de65ca",
+                "title": "Reporter vom 08.05.2016",
+                "publishedDate": "2016-05-08T19:41:13.000Z",
+                "transcript": "transcripts/simple/1651a2dd-fcff-43cc-ab66-76465bd21246.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/a5c7ef45-fd89-49c8-b42d-24348a372e08/EPISODE_IMAGE/1462739408000.png"
+            },
+            {
+                "id": "f0d5304d-e7d0-45d3-8d83-3213af41b0d7",
+                "videoId": "4cdcf917-a1e0-43c5-b5d4-31807fbe329b",
+                "title": "Reporter vom 01.05.2016",
+                "publishedDate": "2016-05-01T19:40:34.000Z",
+                "transcript": "transcripts/simple/f0d5304d-e7d0-45d3-8d83-3213af41b0d7.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/b9214286-5c9f-47b7-9675-34f76d1b2b66/EPISODE_IMAGE/1462134640000.png"
+            },
+            {
+                "id": "c99c31bc-df6d-4ee3-9453-48d0e405c37f",
+                "videoId": "6d0a61c3-e991-4ecd-9fcb-ae63da8a5132",
+                "title": "Reporter vom 24.04.2016",
+                "publishedDate": "2016-04-24T19:41:39.000Z",
+                "transcript": "transcripts/simple/c99c31bc-df6d-4ee3-9453-48d0e405c37f.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/99fc36f5-5f7f-477b-871b-405ae4f991be/EPISODE_IMAGE/1461530709000.png"
+            },
+            {
+                "id": "8f5b544b-1be8-460f-9e5f-89cf316f275e",
+                "videoId": "55233aa9-7029-4080-a099-2a6fe1bf873a",
+                "title": "Reporter vom 17.04.2016",
+                "publishedDate": "2016-04-17T19:57:44.000Z",
+                "transcript": "transcripts/simple/8f5b544b-1be8-460f-9e5f-89cf316f275e.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/035ecf4b-1e29-481d-b7ab-dc83b3fc90ac/EPISODE_IMAGE/1460958309000.png"
+            },
+            {
+                "id": "d346a7ff-2a91-451f-a777-1a95d575bb10",
+                "videoId": "b23f3c11-0aef-47cd-aa5d-6fad5b95590a",
+                "title": "Reporter vom 10.04.2016",
+                "publishedDate": "2016-04-10T19:41:57.000Z",
+                "transcript": "transcripts/simple/d346a7ff-2a91-451f-a777-1a95d575bb10.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/92acc10d-08fc-4afd-9ccf-9db664ff2079/EPISODE_IMAGE/1460358530000.png"
+            },
+            {
+                "id": "7c943b53-3fd5-42d8-b734-010ae2c9c181",
+                "videoId": "1ee3c9e4-b501-472e-898c-5c6ef73288fb",
+                "title": "Reporter vom 03.04.2016",
+                "publishedDate": "2016-04-03T19:39:32.000Z",
+                "transcript": "transcripts/simple/7c943b53-3fd5-42d8-b734-010ae2c9c181.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/041ed6fd-f05f-4e7a-aaf4-aa2c6ee5af97/EPISODE_IMAGE/1459715412000.png"
+            },
+            {
+                "id": "971d8c85-3aea-478e-8357-b054dc5dd834",
+                "videoId": "9100f398-dce8-4334-b82b-66678a98aa92",
+                "title": "Reporter vom 27.03.2016",
+                "publishedDate": "2016-03-27T20:09:38.000Z",
+                "transcript": "transcripts/simple/971d8c85-3aea-478e-8357-b054dc5dd834.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/86be3459-34f7-4cfd-97e7-7cbf25c788b3/EPISODE_IMAGE/1459164619000.png"
+            },
+            {
+                "id": "ee228e38-da56-46f2-921b-f765d354fcbe",
+                "videoId": "d029a2c7-b954-478d-9133-e65973736311",
+                "title": "Reporter vom 20.03.2016",
+                "publishedDate": "2016-03-20T20:42:36.000Z",
+                "transcript": "transcripts/simple/ee228e38-da56-46f2-921b-f765d354fcbe.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/91d653b6-87f0-454d-858d-baa829c4844f/EPISODE_IMAGE/1458510309000.png"
+            },
+            {
+                "id": "8ec3ac45-037e-4aab-9f9f-065fb352a9dd",
+                "videoId": "488b44fb-5f20-4418-a470-71e313bf50d2",
+                "title": "Reporter vom 13.03.2016",
+                "publishedDate": "2016-03-13T20:41:11.000Z",
+                "transcript": "transcripts/simple/8ec3ac45-037e-4aab-9f9f-065fb352a9dd.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/9d3eda3c-b7c6-4f1a-83ed-ec0fd395fb58/EPISODE_IMAGE/1457942867000.png"
+            },
+            {
+                "id": "8efbddba-4e77-4e9a-8407-f8411a1b3242",
+                "videoId": "c8395ff3-ebd1-4c07-a8d2-9bc2d20fb03a",
+                "title": "Reporter vom 06.03.2016",
+                "publishedDate": "2016-03-06T20:42:26.000Z",
+                "transcript": "transcripts/simple/8efbddba-4e77-4e9a-8407-f8411a1b3242.tsv",
+                "image": "http://ws.srf.ch/asset/image/audio/30372dbf-2629-4d42-8404-7cfbcd17f032/EPISODE_IMAGE/1457300709000.png"
             }
         ]
     }
