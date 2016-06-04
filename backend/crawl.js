@@ -14,12 +14,13 @@ function get(options) {
         options.gzip = true;
         console.log('get', options.url, options);
         request.get(options, function(error, response, data) {
-            if(!error && (response.statusCode === 200 || response.statusCode === 203)) {
+            var safeResponse = response || {};
+            if(!error && (safeResponse.statusCode === 200 || safeResponse.statusCode === 203)) {
                 deferred.resolve(data);
             }
             else {
-                console.log('HTTP ' + response.statusCode, error, options);
-                if(response.statusCode !== 404) {
+                console.log('HTTP ' + safeResponse.statusCode, error, options);
+                if(safeResponse.statusCode !== 404) {
                     console.log(arguments);
                 }
                 deferred.reject("Can't do it");
