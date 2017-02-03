@@ -1,0 +1,591 @@
+start	end	duration	text
+9550	11190	1640	.
+30650	32509.999999999996	1860	MIT TELETEXT-UNTERTITELUNG
+34370	37390	3020	Heute dreht sich bei uns alles um Drohnen.
+38450	41790	3340	Sie erobern die Welt und sind ein Milliardengeschäft,
+42510	45350	2840	bei dem unser Land eine führende Rolle spielt.
+49310	51550	2240	Wir seien das Silicon Valley der Robotics.
+52520	54990	2470	Doch wohin geht die Entwicklung?
+55780	57470	1690	Und was können Drohnen heute bereits alles?
+58180	62150	3970	"""Einstein"" begleitet die Forscher bei ihren gewagtesten Experimenten."
+64410	66630	2220	Drohnen sind Wunderwerke der Technik,
+67400	69550	2150	die nicht nur bei uns für Furore sorgen.
+70260	71630	1370	Nun sollen sie auch in Afrika
+72420	74910	2490	den Menschen zu einem besseren Leben verhelfen.
+78280	81030	2750	Willkommen im Zeitalter der Drohne.
+81810	85630	3820	Willkommen zu einer Sendung, die zeigt, wie faszinierend, bezaubernd,
+86310	89750	3440	ja sogar romantisch fliegende Roboter heute schon sein können.
+91420	93470	2050	* Hüpfende elektronische Musik *
+103780	106430	2650	Oh! Es ist fast wie fliegen.
+107210.00000000001	109440	2230	Dieser Flugsimulator kommt Ihnen vielleicht bekannt vor -
+110190	111840	1650	wir hatten ihn schon mal in der Sendung.
+112550	115320	2770	Dort flogen wir wie ein Vogel durch eine virtuelle Welt.
+116120	119160	3040	Der Unterschied ist aber, dass ich kein Vogel bin,
+119820	123440	3620	sondern mit dem sog. Birdly draussen eine Drohne steuere.
+124960	127320	2360	Damit kann ich hoch ...
+127980	129280	1300	... runter ...
+129930	130759.99999999999	830	... links ...
+132780	135320	2540	... und rechts. Ja, das funktioniert ja.
+137530	138970	1440	Sogar ausgezeichnet.
+139710	142290	2580	Und über diese Brille habe ich immer schön das Bild draussen
+142980	145090	2110	und sehe, wo ich hinfliege.
+145780	147970	2190	* Wundersame elektronische Musik *
+153579.99999999997	156050	2470	"Hallo und herzlich willkommen zu ""Einstein""."
+156780	158510	1730	Wir heben heute in eine visionäre Welt ab.
+159250	162150	2900	Wir sind an der Ecole polytechnique federale de Lausanne EPFL,
+162870	165710	2840	einem der führenden Drohnen- entwicklungslabors der Schweiz.
+166410	169710	3300	Hier wird an neuen und z.T. auch ver- rückten Drohnenvisionen gearbeitet.
+170410	173150	2740	Wir erleben heute, wie die Drohnen von morgen aussehen könnten
+173860	175670.00000000003	1810	und was man alles damit machen kann.
+176350	180190	3840	Und ich will herausfinden, wieso ausgerechnet die kleine Schweiz
+180910	183190	2280	den globalen Drohnenboom dermassen beflügelt.
+183930	186470	2540	Diesen Rundgang, bzw. diesen Rundflug an der EPFL
+187140	188350	1210	machen wir mit Dario Floreano.
+189140	192270	3130	Er ist der Leiter des Drohnenforschungslabors.
+192910	196829.99999999997	3920	Herr Floreano, ist der Birdly eine Art überdimensionierte Gamesteuerung?
+197540	199950	2410	Braucht man das wirklich? Ist ein Joystick nicht genug?
+200660	203750	3090	Die Idee hier ist, den menschlichen Körper und die Drohne
+204420.00000000003	205870	1450	regelrecht zu verschmelzen.
+206579.99999999997	210310	3730	Die Drohne wird durch diese Steue- rung so lebendig wie ein Mensch.
+211020	213670.00000000003	2650	Und der Mensch wird zur fliegenden Drohne.
+214350	215750	1400	Was hat Sie inspiriert?
+216520	220470	3950	Natürlich steckt der Traum vom Fliegen dahinter,
+221200	222870	1670	und es geht um die perfekte Interaktion
+223570	224950	1380	zwischen Mensch und Roboter.
+225730	227829.99999999997	2100	Roboter haben Körper.
+228520	230510	1990	Wir haben Körper,
+231270	233110	1840	und wir können sie so zusammenbringen.
+233940	240230	6290	So können Sie zum Vogel werden - über den Körper des Roboters.
+240870	242670	1800	Ist das ein Spiel für grosse Jungs
+243380	245870	2490	oder hat Ihre Forschung auch praktische Relevanz?
+246550	249550	3000	Sie hat praktische Relevanz.
+250370	255710	5340	Z.B. diese Drohne, die Insekten nachempfunden ist.
+256490	260550	4060	Sie wird durch eine Spin-off-Firma der EPFL erfolgreich verkauft
+261269.99999999997	265550	4280	und in der Landwirtschaft eingesetzt.
+268500	272270	3770	Die Firma senseFly, die diese Drohnen entwickelt und verkauft,
+272970	276430	3460	hat ihren Sitz nur wenige Kilometer entfernt im Norden von Lausanne.
+277159.99999999994	280430	3270	Der Betrieb beschäftigt heute rund 100 Mitarbeiter.
+281140	282830	1690	* Pulsierende elektronische Musik *
+284580	287290	2710	Chef und Gründer ist Jean-Christophe Zufferey.
+287950	291050	3100	Er hat an der EPFL bei Professor Floreano studiert.
+291620	293210	1590	Von dort hat er die Technologie
+293880	296170	2290	in seine Firma mitgenommen und weiterentwickelt.
+296920	298810	1890	SenseFly hat sich auf Drohnen spezialisiert,
+299470	300890	1420	die völlig autonom in der Luft bleiben
+301650	304570	2920	und Gebiete selbstständig abfliegen und kartieren können.
+305290	307290	2000	Unsere Drohne ist ein komplett autonomes System.
+308020	309690	1670	Man steuert also nicht mehr per Joystick,
+310490	313170	2680	sondern man programmiert am Computer einen Flugplan.
+313900	316730	2830	Man zieht dazu einfach ein Rechteck über den Bereich,
+317410	318490	1080	den man kartieren will,
+319220	322230	3010	und die Drohne folgt diesem Pfad automatisch, gesteuert via GPS.
+322940	324110	1170	Man wirft sie einfach in die Luft,
+324860	327150	2290	sie fliegt ihren Pfad ab und nimmt alles auf.
+327850	330270	2420	Auf dem Computer kann man ihren Flug verfolgen,
+331020	334270	3250	und sie landet punktgenau wieder da, wo man sie haben will -
+334900	336270	1370	auf 5 m genau.
+338150	339710	1560	* Sirren *
+340450	343950	3500	Nur kurz dreimal schütteln, und die Drohne ist einsatzbereit.
+344630	346030	1400	Gestartet wird aus der Hand heraus.
+346780	348710	1930	Schon bald hat Zufferey gemerkt,
+349450	352470	3020	dass diese Technologie einen Markt finden wird.
+353200	357590.00000000006	4390	Dass er heute Drohnen konzipiert, hat seinen ganz speziellen Grund.
+358290	362150	3860	Schon als Kind war ich fasziniert vom Fliegen,
+362880	366710	3830	und ich habe mit Modellflug angefangen, als ich sieben war.
+367450	370430	2980	Mit 18 habe ich Segelflugzeuge geflogen,
+371140	375070	3930	auch Helikopter. Ich wollte fliegen können wie die Vögel.
+375810	378630	2820	Das Faszinierendste ist für mich aber
+379280	380910	1630	der Blick von oben auf unsere Welt.
+381640	384550	2910	Man hat Distanz zum Ganzen und sieht die Zusammenhänge.
+385350	389350	4000	Man wechselt quasi die Perspektive, und das ist das Spannende.
+390520	394550	4030	Die Drohnen von senseFly kommen v.a. in der Landwirtschaft zum Einsatz.
+395270	398510	3240	Durch die Bauweise können die Drohnen grosse Gebiete abfliegen
+399250	400909.99999999994	1660	und mit speziellen Sensoren vermessen.
+401720	404430	2710	Diese zeigen auf, wie die Beschaffenheit des Bodens ist,
+405159.99999999994	408230	3070	welche Ecken schlecht gedüngt sind oder wo zu wenig Wasser ist.
+408900	412390	3490	Allein die Landwirtschaft ist hier weltweit ein riesiger Markt.
+414140	416730	2590	Doch die Drohnenbauer wollen noch höher hinaus.
+417370	420610	3240	Vor zwei Jahren haben sie in einer spektakulären Aktion
+421330	423930	2600	das Matterhorn mithilfe ihrer Drohnen vermessen.
+425260	427330	2070	Das war ein Riesenunterfangen.
+428030	429370	1340	Wir wollten zeigen,
+430180	432730	2550	dass unsere Drohne auch in grossen Höhen funktioniert,
+433500	436330	2830	auch bei Turbulenzen, selbst über dem Gipfel des Matterhorns.
+436940	439130	2190	Und es war v.a. auch menschlich ein tolles Projekt -
+439850	443290	3440	da hochzukommen und zu überlegen, wie wir das machen könnten
+444060	446050	1990	und wie viele Drohnen wir brauchen würden.
+446720	449650	2930	Und wir wollten zeigen, dass wir nicht nur in der Ebene,
+450390	453370	2980	sondern auch in der Vertikalen verlässlich messen können.
+454100	457090.00000000006	2990	Das Resultat ist ein digital vermessenes Matterhorn
+457860	461810	3950	in einer Genauigkeit und Auflösung, die es bisher so nicht gab.
+465650	469770	4120	SenseFly liefert heute zwischen 100 und 200 Drohnen pro Monat
+470540	472010	1470	aus der Schweiz in alle Welt
+472820	476770	3950	v.a. an professionelle Nutzer wie Vermessungsämter und Grossfarmen.
+477500	480410	2910	Ein System kostet rund 15'000 Fr.
+481080	484810	3730	Alle Drohnen werden in der Schweiz entwickelt und getestet.
+486330	489570	3240	Mittlerweile baut die Firma auch einen Quadrocopter.
+490190	493540	3350	Dieser ist spezialisiert auf die Vermessung in der Vertikalen.
+494370	496380	2010	Er wird etwa zur Inspektion von Staudämmen
+497220	498820	1600	oder an sonst schwer zugänglichen Orten
+499580	501700	2120	wie Brücken oder Stromleitungen eingesetzt.
+502780	507460	4680	2012 wurde senseFly vom französischen Drohnenriesen Parrot gekauft.
+508140	511580	3440	Sie hat 1'000 Mitarbeiter, allein 500 davon Ingenieure.
+512419.99999999994	515020	2600	Wie weit ist die Firma heute noch eigenständig
+515659.99999999994	516620	960	in dem, was sie macht?
+517340.00000000006	521380	4040	Wir verteidigen unsere Unabhängig- keit mit unserer Marktausrichtung.
+522130	524820	2690	Wir produzieren ja v.a. für professionelle Anwender,
+525620	527780	2160	und Parrot macht weiterhin seine Drohnen für jedermann,
+528540	530260	1720	um sich zu filmen und zu fotografieren.
+531060	532540	1480	Wir sind also frei, was den Markt angeht,
+533310	535020	1710	und wir profitieren vom Netzwerk.
+536300	540140	3840	Das Landen haben die senseFly-Drohnen übrigens von der Natur gelernt,
+540900	542460	1560	denn beim Landeanflug hilft ein Sensor,
+543210	546260	3050	der nach dem sog. bionischen Verfahren entwickelt wurde.
+547280	549420	2140	Das ist ein optischer Sensor,
+550150	552180	2030	der wie etwa bei den Fliegen funktioniert.
+553670	556340	2670	Zum Vergleich: Wenn wir Menschen sehen,
+557050	559260	2210	konzentriert sich unser Fokus auf einen Punkt.
+561330	564340	3010	Das Facettenauge einer Fliege funktioniert anders.
+565020	568020	3000	Es kann etwa 20-mal mehr Informationen aufnehmen.
+568700	570540	1840	Eine Fliege nimmt so ihre Umwelt
+571290	573900	2610	v.a. über die Bewegungen in ihrem Sichtfeld wahr.
+574610	576540	1930	Sie erfasst viel mehr Bewegung als der Mensch,
+577260	580500	3240	dessen Aufmerksamkeit sich mehr oder weniger auf einen Punkt richtet.
+581150	584260	3110	Dieser sog. optische Fluss von Bewegungsinformationen
+585020	588740	3720	wird immer intensiver, je näher die Fliege an ein Objekt heranfliegt.
+589540	591180	1640	Sie registriert immer mehr an Bewegungen
+591880	593620	1740	und erkennt so ihr Umfeld immer genauer.
+594370	599700	5330	Unser Sensor funktioniert ähnlich. Er misst so die Distanz zum Boden.
+600400	602500	2100	Das ist präziser als GPS.
+603100	605260	2160	Damit können wir steil sinken
+605910	609700	3790	und dann auf den letzten Metern den Flügel anstellen.
+610360	614460	4100	Dadurch bremst die Drohne stark ab und landet auf 5 m genau.
+617350	619780	2430	In dieser Flughalle testet Dario Floreano,
+620500	622340	1840	wie Drohnen Hindernissen ausweichen.
+623020	625460	2440	Fliegende Kameras, die Insektenaugen nachempfunden sind,
+626200	628820	2620	erkennen Hindernisse automatisch und weichen ihnen aus -
+629620	633100	3480	wenn es denn funktioniert. Die Technologie hat noch ihre Tücken.
+637300	640780	3480	Das ist alles noch sehr experimentell,
+641470	642860	1390	aber wir schauen hier,
+643550	645340	1790	wie Insekten Hindernisse wahrnehmen.
+646070	648860	2790	Insektenaugen haben eine für uns sehr interessante Fähigkeit:
+649600	654460	4860	Sie können Hindernisse sehr schnell erkennen.
+655200	659980	4780	Das ist etwas, was wir den Insekten abgeschaut haben.
+660720	663540	2820	Andererseits kollidieren sie sehr oft.
+664190	669180	4990	Wir haben Insekten gefilmt, wenn sie gegen Hindernisse prallen.
+669940	674140	4200	Sie kollidieren mit der Wand und fliegen dann weiter.
+674900	679820	4920	Sie absorbieren die Kollisionen mit ihrem elastischen Exoskelett.
+680540	683740	3200	Und das ist auch bei Drohnen wichtig,
+684490	687420	2930	denn trotz mittlerweile guter Hinderniserkennung,
+688110	690020	1910	kollidieren Drohnen irgendwann.
+690770	694180	3410	Und genau das hat uns beim Drohnenbau inspiriert.
+694820	696180	1360	* Lautes Surren *
+696840	698300	1460	Und das ist diese Drohne.
+702880	705100	2220	Ich komme mir wie ein Fussballer vor.
+705710	707900	2190	Sie ist tatsächlich kollisionsfreundlich.
+708620	710900	2280	Ja, und sie ist sicher für Menschen.
+711620	714900	3280	Sie kann Kollisionen absorbieren, und sie hat dieses Gimbalsystem.
+715650	718340	2690	Wenn man die Drohne rotiert, bleibt im Innern alles zentriert.
+719060	721660	2600	D.h., sie kann in eine gewünschte Richtung fliegen.
+722420	723900	1480	Sehr einfach zu steuern.
+724580	725940	1360	Faszinierend.
+726620	728020	1400	Es sieht so einfach aus,
+728760	731380	2620	aber die Entwicklung hat wahrscheinlich lange gedauert.
+732090	733540	1450	Es hat uns einige Zeit gekostet,
+734220	736780	2560	von den Insekten ausgehend zu diesem Konzept zu kommen.
+737530	739820	2290	Aber jetzt haben wir ein sehr effektives System gefunden
+740540	742180	1640	und damit eine Spin-off-Firma gegründet.
+743050	747380	4330	In der kleinen Firma Flyability wird die Gimbaldrohne weiterentwickelt.
+748140	750940	2800	Patrick Thevoz will die Technologie für den Markt fit machen.
+751740	754540	2800	Und er will die Drohne auch in Zukunft in der Schweiz produzieren,
+755220	756620	1400	was ihm bis heute gelingt.
+757310	759630	2320	Wir haben heute noch genug Marge,
+760390	763550	3160	um hauptsächlich in der Schweiz ent- wickeln und produzieren zu können.
+764250	766390	2140	Und wir hatten bislang Kunden, denen es wichtiger war,
+767140	769070	1930	ein gutes Produkt zu bekommen, als zu versuchen,
+769820	772190	2370	einen möglichst billigen Preis herauszuschlagen.
+772850	775830	2980	In einer Skaterhalle im Industriegebiet von Lausanne
+776490	780150	3660	testet Thevoz die Fähigkeiten seiner kollisionsfreundlichen Drohne
+780910	782430	1520	sozusagen in der Praxis.
+783180	786150	2970	Er weiss, dass sie eine ganz spezielle Fähigkeit hat.
+786830	789350	2520	Seine Drohne kann etwas, was andere Produkte nicht können,
+789910	791630	1720	und genau das macht sie interessant.
+792590	797270	4680	Diese Fähigkeit, Kollisionen zu tolerieren,
+797990	802110	4120	erlaubt es uns, an Orte zu gelangen, wo andere Drohnen nicht hinkommen,
+802870	806990	4120	typischerweise in Gebäude hinein - meist sind es Industrieanlagen
+807710	810390	2680	wie Raffinerien im Energie- oder Chemiesektor.
+811070	812710	1640	Mit unserer Drohne sind wir z.B.
+813430	815430	2000	bei Inspektionen von exponierten Stellen
+816150	818350	2200	viel schneller und günstiger unterwegs -
+819020	821230	2210	ohne Risiko für die Arbeiter.
+823660	826230	2570	Der Drohnenmarkt boomt.
+826850	829990	3140	Viel Know-how und Innovation kommt aus der Schweizer Forschung.
+830620	834670	4050	Nun gilt es, diese Innovationen zu sichern und im Markt zu bestehen.
+835430	837550	2120	Die Flyability-Drohne dringt an Orte vor,
+838110	839390	1280	die vorher nicht erreichbar waren.
+840750	843430	2680	Wie etwa das Innere einer Gletscherspalte.
+844150	848950	4800	Die einzige Herausforderung hier ist eine Öffnung von min. 40 cm -
+850480	853110	2630	so gross wie die Drohne selbst.
+857810	860510	2700	Dass Schweizer Drohnen weltweit gefragt sind,
+861240	864190	2950	zeigt der Wettbewerb Drones for Good in Dubai -
+864940	866830	1890	ein Wettkampf der besten Drohnenentwickler.
+867590	870030	2440	Auch die Lausanner haben hier letztes Jahr mitgemacht.
+870760	874270	3510	Als spezielle Aufgabe mussten die Drohnen Menschen ausfindig machen.
+875000	878590	3590	Die Jungunternehmer von Flyability haben den ersten Platz
+879340	881270	1930	und einen Scheck über 1 Mio. $ abgeräumt.
+881970	886190	4220	Roland Siegwart ist Professor für Robotiksysteme an der ETH Zürich.
+886860	890830	3970	Er ist überzeugt: Schweizer Drohnen haben das Zeug, gross rauszukommen.
+891560	893310	1750	Das Wichtigste ist, dass wir gute Leute haben,
+894060	895630	1570	die begeistert sind, das selbst umzusetzen.
+896330	897550	1220	Wir brauchen junge Entrepreneurs -
+898230	899910	1680	normalerweise sind das relativ junge Leute,
+900590	902950	2360	die die neuen Technologien haben und das umsetzen wollen.
+903650	905030	1380	Und dann muss das finanziert werden.
+905780	907190	1410	Die Schweiz ist relativ gut aufgestellt,
+907990	909910	1920	solche Firmen in der ersten Phase zu unterstützen.
+910640	912350	1710	In der zweiten Phase, beim Skalieren,
+913060	914190	1130	wenn man grössere Summen braucht,
+914920	916470	1550	sind wir noch nicht so gut aufgestellt
+917150	918950	1800	wie z.B. die USA, aber auch das wächst.
+920030	922070	2040	An der ETH und der Uni Zürich
+922750	925630	2880	werden vielversprechende Robotikprojekte über eine Stiftung
+926320	928110	1790	mit 120 Mio. Fr. gefördert.
+928750	932150	3400	Projekte wie jenes von Forscher und Jungunternehmer Basil Weibel.
+932900	935990	3090	Auf seine Drohne namens Wingtra setzt man grosse Hoffnungen.
+939190	942510	3320	Die Spezialität dieser Drohne: Sie kann senkrecht starten
+943190	946470	3280	und geht erst in der Luft in den Horizontalflug über.
+947260	950790	3530	So kann sie weite Strecken abfliegen und grosse Gebiete kartieren
+951530	955390	3860	und trotzdem ohne Landebahn auf engstem Raum landen.
+956110	958830	2720	Für die Gründer gilt es nun ernst mit ihrem Produkt.
+959450	963470	4020	Wir sind an dem Punkt, an dem wir funktionierende Prototypen haben.
+964150	967110	2960	Der nächste Schritt ist eine Skalierung von, sagen wir,
+967850	969910	2060	zehn, 20 Produkten auf vielleicht 100'000-500'000.
+970660	972990	2330	Das ist doch ein anspruchsvoller Schritt in der Fertigung,
+973750	976030	2280	der sich sehr von der Forschung unterscheidet,
+976790	978070	1280	wo es meist nur Einzelstücke gibt.
+978810	980910	2100	Der Flugrobotermarkt wächst extrem schnell.
+981640	982990	1350	Es ist für ein Unternehmen schwierig,
+983660	985390	1730	langsamer als der Markt zu wachsen.
+986160	989150	2990	2014 waren wir vier Leute, jetzt sind wir 23, und wir erwarten,
+989910	992870	2960	dass wir das Team in einem Jahr noch einmal verdoppelt haben.
+993630	996830	3200	Das Ziel ist ein eigenständiger Schweizer Arbeitsmarkt für Drohnen.
+997550	1000350	2800	Es ist die Schweizer Kampfansage ans Silicon Valley.
+1001440	1004470	3030	Ich bin glücklich, dass Leute aus dem Silicon Valley sagen,
+1005220	1007110	1890	wir seien das Silicon Valley der Robotics.
+1007860	1011030	3170	Ich glaube, uns muss bewusst sein, dass die Schweiz nicht das Land ist,
+1011710	1013070	1360	in dem Firmen wie Google entstehen.
+1013830	1016760	2930	Das wäre für das Schweizer Ökosystem vielleicht gar nicht so gesund.
+1017520	1018560	1040	Aber es sind Firmen,
+1019310	1022440	3130	die nach fünf, zehn Jahren vielleicht 100-200 Leute haben -
+1023270	1025480	2210	nachhaltige, hochqualitative Arbeitsplätze -
+1026190	1029160.0000000001	2970	und in den Märkten weltweit sehr gut etabliert sind.
+1031869.9999999999	1034880.0000000001	3010	Wingtra und Flyability sind nur zwei Beispiele
+1035630.0000000001	1038359.9999999999	2730	für innovative Drohnenforschung made in Switzerland.
+1039089.9999999999	1042369.9999999999	3280	Nun müssen beide auch den Härtetest in der Wirtschaft bestehen.
+1045119.9999999999	1047410.0000000001	2290	Zurück im Drohnenlabor in Lausanne.
+1050400	1055500	5100	Das hier ist das Drohnenentwicklungslabor.
+1056260	1059820	3560	Hier oben sehen Sie die Vorgänger- modelle der Kollisionsdrohne.
+1060540	1062860	2320	Wir experimentieren hier mit faltbaren Drohnen.
+1063610	1067500	3890	Hier machen wir auch die Software- und Elektronikentwicklung
+1068190	1071220	3030	und untersuchen die Interaktion von Drohnen und Menschen.
+1071930	1075340	3410	Die Schweiz ist weltweit führend in der Drohnenentwicklung.
+1076030	1077420	1390	Warum sind wir so gut?
+1078120	1082820	4700	Es gibt drei Gründe: Erstens haben wir exzellente Hochschulen.
+1083550	1086630	3080	Wir sind schon seit längerer Zeit weit vorne in der Erforschung
+1087350	1089590	2240	der künstlichen Intelligenz und der Miniaturisierung.
+1090270	1092200	1930	Das sind die wichtigsten Elemente für Drohnen.
+1092940	1096400	3460	Zweitens fördern wir das Entrepreneurtum.
+1097160	1101280	4120	Es gibt viele Fördermittel, die Studenten ermutigen,
+1101910	1103320	1410	eine Firma zu gründen.
+1104070	1108400	4330	Drittens fördert das Bundesamt für Zivilluftfahrt
+1109230	1112600	3370	proaktiv die Drohnenentwicklung und gestaltet die Gesetze so,
+1113410	1118000	4590	dass es unseren Drohnenfirmen möglich ist, zu wachsen.
+1118720	1120600	1880	Ist die Drohnenentwicklung
+1121340	1124480	3140	eine grosse Chance für den Technologiestandort Schweiz?
+1125170	1128280	3110	Ja, ein sehr grosse.
+1129020	1132160	3140	Wir waren unter den Ersten weltweit, die Drohnen entwickelt haben,
+1132870	1136320	3450	und heute haben wir in der Schweiz einige erfolgreiche Drohnenfirmen.
+1137160	1140280	3120	Das Drohnengeschäft hat eben erst angefangen,
+1140980	1143040	2060	obwohl schon viel darüber geredet wird.
+1143780	1146760	2980	Aktuell werden Drohnen im Wert von 2 Mrd. pro Jahr verkauft.
+1147480	1150120	2640	In 15 Jahren sind es geschätzte 150 Mrd.
+1150790	1152320	1530	Es ist erst der Anfang.
+1152960	1155160	2200	Wenn wir weiter so erfolgreich sind,
+1156000	1157560	1560	ist das eine grosse Chance für die Schweiz,
+1158300	1160200	1900	dass sich hier eine Drohnenindustrie bildet,
+1160870	1162240	1370	die weltweit exportieren könnte.
+1162910	1165960	3050	Zurzeit findet eine Demokratisierung der Drohnentechnologie statt -
+1166670	1169280	2610	nicht nur bei der Drohnen, auch bei der Software.
+1169950	1171680	1730	Es wird auch andere Länder geben,
+1172310	1174080	1770	die bei dieser Entwicklung mitmachen werden.
+1174700	1179040	4340	Ja, eine Demokratisierung der Drohne. Es gibt schon erste Projekte.
+1179800	1181200	1400	Ein Journalist und ein Stararchitekt
+1181940	1184280	2340	haben eine Vision für Drohnen in Drittweltländern.
+1184990	1188200	3210	Sie wollen die Flugroboter in Afrika zu Lebensrettern machen -
+1188910	1190800	1890	eine Geschichte, die bald in Afrika spielen soll,
+1191540	1193200	1660	die ihren Ursprung aber in der Schweiz hat.
+1195150	1197280	2130	Drohnenflugplatz Anwil im Baselland.
+1197950	1199960	2010	Forscher der ETH Zürich
+1200590	1204000	3410	testen hier im Auftrag des Projekts Red Line eine Cargodrohne.
+1204630	1208120	3490	Ähnliche Modelle sollen einst in Afrika Medikamente transportieren.
+1209520	1211560	2040	In Afrika hat man den Fall,
+1212130	1213600	1470	dass man von Dorf zu Dorf
+1214350	1217000	2650	oder von einem regionalen Krankenhaus ins Dorf liefern will,
+1217720	1219320	1600	d.h., es geht nicht unbedingt darum,
+1220050	1222600	2550	ein Päckchen im Hinterhof eines Hauses abzuladen,
+1223330	1226880	3550	sondern vielleicht eher auf dem Dorfplatz oder einem Landeplatz.
+1227590	1229320	1730	Es wird Drohnen geben, die Medikamente liefern
+1230110	1232400	2290	und etwas kleiner sind, und senkrecht starten können.
+1233140	1236280	3140	Und es wird Drohnen geben, die eher wie klassische Flugzeuge aussehen.
+1237390	1239560	2170	Die Drohne fliegt völlig autonom.
+1240230	1241560	1330	Mit einer einzigen Batterieladung
+1242350	1245920	3570	soll sie in Afrika Distanzen von über 70 km überwinden.
+1249360	1253720	4360	Afrika hat ein schlechtes, z.T. inexistentes Strassennetz.
+1254510	1256560	2050	Cargodrohnen könnten in diese Bresche springen.
+1257270	1260400	3130	Was am Boden mehrere Stunden oder Tage dauert,
+1261120	1263920	2800	ginge via Luftfracht in einem Bruchteil der Zeit.
+1265180	1269000	3820	Initiant und Leiter des Projekts Red Line ist Jonathan Ledgard.
+1269660	1271600	1940	"Früher berichtete er als Reporter des ""Economist"""
+1272280	1273360	1080	von den Krisenherden Afrikas.
+1274040	1275200	1160	Heute will er mit Drohnen
+1275840	1279240	3400	die Transportinfrastruktur Afrikas grundlegend verändern.
+1279910	1284960	5050	Im Ostkongo gibt es 7 Mio. Menschen und nur eine Strasse für alle.
+1285660	1287760	2100	Eine Strasse für 7 Mio.
+1288470	1294240	5770	Man muss kein Makroökonom oder Gesundheitsspezialist sein,
+1294950	1299520	4570	um zu sehen, dass sich die Gesund- heit und Wohlfahrt der Menschen
+1300200	1302000	1800	stark verbessern würden,
+1302740	1305560	2820	wenn Transportdrohnen Medikamente über den Dschungel,
+1306290	1312040	5750	über Seen oder Berge in abgelegene Gegenden transportieren könnten.
+1313000	1315160	2160	Nicht im Kongo, sondern in Ruanda
+1315830	1319040	3210	soll das erste Netzwerk von Drohnenflughäfen entstehen.
+1319760	1322200	2440	Für den Bau der Drohnenhubs konnte Ledgard keinen Geringeren
+1322940	1325360	2420	als den Stararchitekten Norman Foster gewinnen.
+1326520	1329360	2840	Es gibt keinen besseren Denker in der Welt,
+1330070	1332520	2450	der die Beziehung zwischen Himmel und Erde
+1333190	1336200	3010	besser versteht als Norman Foster.
+1337570	1339960	2390	Er hat die modernen Flughäfen erfunden.
+1340640	1342760	2120	Er hat den ersten Weltraumflughafen
+1343370	1346960	3590	und den grössten Flughafen der Welt gebaut.
+1347720	1352280	4560	"Ich sagte: ""Norman, du hast den grössten Flughafen der Welt gebaut,"
+1353080	1355960	2880	"bitte komm nach Afrika und bau den kleinsten!"""
+1357460	1360920	3460	Jonathan erklärte mir dieses Zusammentreffen
+1361700	1364400	2700	einer hochdynamischen, futuristischen Drohnentechnologie
+1365070	1366520	1450	und eines humanitären Konzepts,
+1367250	1371240	3990	das Medikamente, Bluttransfusionen oder auch Cargo liefern kann,
+1371960	1373720	1760	ganz speziell in Afrika.
+1375010	1380560	5550	So könnte eine Infrastruktur für Länder entstehen,
+1381120	1384240	3120	die keine Strassen oder Bahn haben.
+1385890	1389160	3270	An der diesjährigen Architekturbiennale in Venedig
+1389810	1392320	2510	zeigte Foster den ersten Prototypen eines Drohnenhangars,
+1392970	1395040	2070	gebaut mit einfachsten Materialien,
+1395750	1397960	2210	die alle lokal in Afrika verfügbar sind
+1398700	1403040	4340	und auf einer 800 Jahre alten Herstellungstechnik beruhen.
+1404430	1406400	1970	Das Projekt soll hoch hinaus.
+1407190	1410040	2850	Entscheidend wird sein, wie nachhaltig das Ganze ist.
+1412770	1416520	3750	Wichtig ist laut Jonathan Ledgard auch die Drohnentechnik.
+1417350	1420520	3170	Sie müssen afrikatauglich sein, sprich: robust.
+1421150	1423520	2370	Stellen Sie sich vor, ein Citröen 2CV
+1424340	1428290	3950	"und ein ""Stars Wars""-Jet treffen sich im Nachtklub,"
+1429020	1431170	2150	betrinken sich und haben ein Kind zusammen.
+1431850	1434370	2520	Dieses Kind ist unsere Cargodrohne:
+1435050	1438410	3360	einerseits sehr futuristisch, hightech,
+1439140	1442530	3390	und andererseits sehr robust und billig.
+1443240	1445130	1890	Im Auftrag von Ledgard
+1445880	1448690	2810	suchen die Zürcher Drohnenexperten derzeit intensiv
+1449430	1452810	3380	"nach dieser Mischung aus 2CV und ""Star Wars""-Jet. Nicht einfach."
+1453560	1456050	2490	Das Herzstück ihrer Technologie ist die Steuerung.
+1456800	1460450	3650	Das ist der PIXHAWK-Autopilot, den ich 2011 entwickelt habe.
+1461180	1464450	3270	Er wird international sehr verbreitet genutzt.
+1465200	1466250	1050	Darauf läuft die Software,
+1467080	1471250	4170	mit der die Drohne selbstständig GPS-Wegpunkte abfliegen kann,
+1471970	1473650	1680	d.h., man braucht keinen Piloten mehr.
+1474380	1476650	2270	Sie startet, fliegt und landet komplett selbstständig.
+1477520	1479490	1970	Und was zeigen die Flugtests?
+1480160	1482050	1890	Könnte dieser schwarze Senkrechtstarter
+1482800	1484730	1930	ein Kandidat für das Afrikaprojekt sein?
+1485480	1488450	2970	Wir sind sehr zufrieden mit der Leistung.
+1489160	1492170	3010	Gerade diese spezielle Drohne ist sehr robust
+1492900	1495890	2990	im Vergleich zu anderen senkrecht startenden Flugzeugen.
+1497130	1500250	3120	Dennoch: Vom Acker in Basel in die Lüfte Ruandas
+1500920	1502370	1450	ist es noch ein weiter Weg.
+1503050	1505890	2840	Der Initiant des Projekts ist dennoch zuversichtlich.
+1506820	1514330	7510	Wir hatten ein Meeting mit dem Kabinett Ruandas auf höchster Ebene.
+1515030	1519210	4180	Sieben Minister sagten, sie glaubten an fliegende Roboter,
+1520000	1525330	5330	und sie möchten ein Drohnen- transportsystem in Ruanda haben.
+1526270	1528170	1900	* Lautes Surren *
+1534130	1535850	1720	Auch das ist eine Transportdrohne,
+1536640	1538730	2090	die z.B. in Afrika zum Einsatz kommen könnte.
+1539470	1542290	2820	Herr Floriano, Sie ist faltbar, aber wofür?
+1543020	1546170	3150	Es ist eine faltbare Transportdrohne.
+1546860	1548770	1910	Hier im Innern kann man die Fracht befestigen.
+1549540	1552770	3230	Wenn die Drohne ankommt, kann man sie öffnen und wegfalten.
+1553440	1556210	2770	Das Design löst drei Probleme. Erstens: die Grösse der Drohne.
+1556930	1560250	3320	Je grösser die Fracht, desto grösser muss die Drohne sein.
+1560880	1562370	1490	Eine faltbare Drohne
+1563080	1564930	1850	kann ganz einfach im Rucksack mitgenommen werden.
+1565640	1567690	2050	Sie ist immer dabei.
+1568360	1570610	2250	Zweitens: die Sicherheit.
+1571200	1573370	2170	Dieses Gitter verhindert,
+1574110	1576890	2780	dass Ihre Finger in die Propeller geraten.
+1577960	1580410	2450	Und drittens ist die Fracht geschützt.
+1581240	1582850	1610	Wenn das Paket ausserhalb hängen würde,
+1583620	1585330	1710	ginge es bei der Landung eventuell kaputt.
+1586040	1589050	3010	Wenn die Drohne z.B. in einen Baum fliegen würde,
+1589640	1591610	1970	wäre die Fracht in Sicherheit.
+1592290	1593770	1480	Wir sahen gerade Drohnen
+1594590	1596570	1980	als mögliche Lebensretter mit dem Erste-Hilfe-Kit,
+1597290	1598690	1400	aber wir kennen sie auch
+1599390	1602330	2940	als Killermaschinen im Krieg und in der Spionage.
+1604190	1607610	3420	Was denken Sie über die negativen Seiten der Drohnen?
+1608960	1614930	5970	Es gibt diese Assoziation mit dem Wort Drohne als Maschinen,
+1615630	1618730	3100	die hoch am Himmel fliegen und Waffen mitführen.
+1620310	1623610	3300	Diese Maschinen hier sind ganz anders.
+1624370	1627460	3090	Obwohl wir sie auch Drohnen nennen, sind sie komplett anders.
+1628150	1629550	1400	Vergleichbar wäre, zu sagen,
+1630160	1632830	2670	ein Auto wäre ein Panzer, weil beide Räder haben.
+1633460	1636150	2690	Aber es gibt privatrechtliche und sicherheitstechnische Fragen,
+1637000	1639310	2310	die wir bezüglich Drohnen lösen müssen.
+1639960	1642230	2270	Hier in Lausanne haben wir vor Kurzem
+1643000	1645510	2510	die globale Drohnenvereinigung gegründet,
+1646270	1649550	3280	wo wir mit Partnern aus Industrie und Politik Regeln diskutierten.
+1650240	1653670	3430	Z.B.: Wo dürfen Drohnen fliegen? Auf welcher Höhe?
+1654360	1655750	1390	Welche Informationen
+1656480	1659990	3510	müssen die Drohnen den Sicherheitsbehörden geben?
+1660710	1664030	3320	Wie können wir sie registrieren, um den Besitzer zu kennen?
+1664780	1666670	1890	Gehen wir zurück zu Ihren anderen Entwicklungen.
+1667370	1668390	1020	Was ist das hier?
+1669140	1671670	2530	Das ist eine faltbare Drohne. Sie braucht sehr wenig Platz.
+1672460	1673830	1370	Man kann sie mit einer Kamera bestücken.
+1674550	1675510	960	Sie passt in Ihre Hosentasche.
+1676320	1678790	2470	Man kann sie aus der Hand starten, und sie macht Bilder.
+1680960	1682790	1830	Okay. Oh.
+1686840	1688870	2030	James Bond hätte sich wohl gefreut.
+1689720	1692790	3070	Ja, aber wir haben uns nicht von James Bond inspirieren lassen,
+1693480	1694950	1470	sondern von Insekten.
+1695680	1698030	2350	Insekten haben ihre Flügel oft gefaltet auf dem Rücken
+1698800	1700150	1350	und brauchen wenig Platz,
+1700870	1703910	3040	und dann öffnen sie die Flügel schnell und fliegen davon.
+1704800	1707030	2230	Drohnen werden immer vielseitiger.
+1707790	1710350	2560	Diese ist nicht nur faltbar und kann fliegen,
+1711760	1713750	1990	sie kann auch am Boden fahren.
+1714430	1717390	2960	Ja, bei der Drohnenentwicklung sind praktisch keine Grenzen gesetzt,
+1718080	1719070	990	darum verwundert es nicht,
+1719880	1721990	2110	dass inzwischen auch das internationale Showbusiness
+1722730	1724430	1700	Flugroboter made in Switzerland entdeckt.
+1725120	1728950	3830	Vorhang auf für Eleganz, Magie und Technologie am Broadway.
+1729670	1731030	1360	* Sirren *
+1732430	1739190	6760	# When you think you have everything, but still your heart is worsening.
+1739880	1743630	3750	# There must be something more ... - # ... to this life. Now I'm sure.
+1744410	1748030	3620	Die neue Show des Cirque du Soleil in New York ist atemberaubend.
+1748740	1751110	2370	Die Nummer mit den fliegenden Lampenschirmen
+1751840	1755830	3990	lässt das Publikum staunen und rätseln: Wie ist das möglich?
+1756490	1758440	1950	# ... there's you.
+1759930	1763160	3230	Broadway, New York, vier Tage vor der Premiere.
+1763790	1766400	2610	"""Einstein"" bekommt exklusiv Zugang zu den Proben."
+1767190	1768590	1400	Dort lüftet sich das Geheimnis.
+1769380	1772590	3210	In den Lampenschirmen verstecken sich Drohnen made in Switzerland.
+1775160	1779950	4790	Der Tessiner Federcio Aguilaro von der Schweizer Firma Verity Studios
+1780650	1782230	1580	hat den Drohnentanz programmiert.
+1784400	1788150	3750	Zurzeit sind neun Drohnen im Einsatz.
+1788880	1790870	1990	Acht gehen in die Show, eine ist Reserve,
+1791570	1793110	1540	wenn es last minute Probleme gibt.
+1793770	1795950	2180	Tanzende Flugroboter vor Livepublikum
+1796730	1799430	2700	sind auch für die Cirque-du-Soleil- Leute etwas Besonderes.
+1800150	1803190	3040	Die Drohnennummer ist für uns speziell wichtig,
+1803890	1805270	1380	weil sie ganz neu ist.
+1805970	1808150	2180	Sie ist ein Wow-Faktor.
+1808860	1810750	1890	Das Publikum weiss nicht, was passiert,
+1811490	1814990	3500	es sieht einfach die fliegenden Lampenschirme.
+1815640	1817430	1790	"Sie fragen sich: ""Was ist das?"""
+1818210	1820310	2100	"""Gibt es Fäden? Wie funktioniert das?"""
+1821180	1823600	2420	Das Zürcher Spin-off Verity Studios,
+1824350	1827000	2650	mitgegründet von ETH-Professor Raffaello D'Andrea,
+1827770	1829160	1390	steckt hinter der Drohnennummer.
+1829930	1833400	3470	Seine Drohnenakrobatik ist mittlerweile weltberühmt.
+1834130	1837280	3150	D'Andrea lotet den Grenzbereich von Technik und Kunst aus.
+1837960	1840600	2640	Hier bauen seine Flugroboter eine Hängebrücke.
+1841270	1842640	1370	* Leichte, betriebsame Musik *
+1849970	1854200	4230	Für mich sind es nicht einfach Flugroboter.
+1854880	1858240	3360	Es ist eine kreative Art, mich ausdrücken.
+1858950	1862600	3650	Es gibt keinen Unterschied zwischen einem Maler mit seinem Pinsel
+1863330	1866360	3030	und uns, die elektronische Bauteile nutzen. Es geht um die Kreation.
+1867970	1871360	3390	Für akrobatische Drohnenmanöver wie hier das Tennisspiel
+1872050	1873440	1390	ist einiges nötig.
+1874130	1876960	2830	Die Technik dahinter besteht aus einer Motion-Capture-Kamera,
+1877690	1880040	2350	die die Position von Ball und Schläger verfolgt.
+1882570	1885730	3160	Ein Computerprogramm berechnet zuerst die Flugbahn des Balls
+1886490	1888130	1640	und bestimmt dann den Weg des Quadrokopters.
+1888820	1890170	1350	Pro Sekunde werden Zehntausende
+1890870	1894010	3140	mögliche Quadrokopterpositionen ermittelt, hier Dunkelblau.
+1894650	1898170	3520	In Hellblau dargestellt: die entsprechende Flugbahn des Balls.
+1898810	1902770	3960	Ein Algorithmus bestimmt dann in Millisekunden die optimale Flugbahn,
+1903360	1904730	1370	hier in Grün.
+1906370	1910250	3880	Das ist die Wissenschaft hinter der spielerischen Anwendung.
+1914730	1917330	2600	Das Lampenschirmballet ist das Resultat
+1918090	1921370	3280	einer jahrelangen Zusammenarbeit mit dem Cirque du Soleil.
+1921930	1923850	1920	* Wundersame Musik *
+1924540	1928850	4310	Darin steckt viel neue Technologie.
+1929540	1934690	5150	Die Lampenschirme fliegen ohne GPS Indoor auf der Bühne.
+1935340	1940570	5230	Wir mussten unsere Lokalisierungs- technologie komplett überarbeiten,
+1941170	1945010	3840	damit wir mit einer unbegrenzten Anzahl von Maschinen fliegen können.
+1945700	1947090	1390	Die Technik muss robust sein.
+1947810	1953170	5360	Sie fliegen sieben Tage die Woche. Alles muss sehr zuverlässig sein.
+1953920	1957370	3450	Auch die Sicherheit war für den Einsatz am Broadway essenziell,
+1958090	1960410	2320	denn die Maschinen sind eigentlich fliegende Rasenmäher.
+1961150	1963050	1900	Ein Absturz über Menschen wäre fatal.
+1963720	1965730	2010	Ähnlich wie bei Passagierflugzeugen
+1966490	1969650	3160	entwickelten die Forscher deshalb zwei redundante Systeme.
+1970380	1973090	2710	Den einen Teil sieht man hier oben mit diesen zwei Propellern.
+1973760	1975530	1770	Den anderen Teil sieht man auf der Rückseite,
+1976210	1978490	2280	wo auch eine Batterie, auch eine Steuerelektronik ist,
+1979130	1980930	1800	die die anderen beiden Propeller steuert.
+1981670	1985010	3340	Wenn eine Batterie ausfällt, schalten wir ein Fluggerät ab,
+1985610	1989130	3520	d.h., wir schalten zwei Propeller und ihre Steuerelektronik ab.
+1989810	1991890	2080	Und wir lassen die andere Steuerelektronik
+1992690	1995210	2520	selbstständig mit ihren Propellern landen.
+1995890	1999650	3760	Demo eines Batterieausfalls durch Kappen des Batteriekabels.
+2000290	2003690	3400	Der Quadrokopter schafft die Landung mit nur zwei Propellern.
+2004320	2005730	1410	* Summen *
+2010420	2014050	3630	Hinter dem Drohnenballet am Broadway steckt also viel Hightech.
+2014770	2017130	2360	Viele Details bleiben aber Betriebsgeheiminis.
+2017730	2019130	1400	Die Konkurrenz schläft nicht.
+2019850	2023170	3320	Im Stück tauchen die Drohnen in einer Schlüsselszene auf.
+2023980	2027810	3830	Es ist eine Liebesszene.
+2028530	2031130	2600	Es ist  d i e  Liebesszene des ganzen Stücks.
+2031730	2033770	2040	Das Liebespaar küsst sich zum ersten Mal,
+2034510	2037330	2820	und dieser Kuss bringt die Lampenschirme zum Fliegen.
+2038090	2040970	2880	Wir wollten nicht einfach Drohnen auf der Bühne haben,
+2041650	2043290	1640	sondern sie stehen im Dienste des Stücks.
+2043970	2045800	1830	Sie verstärken diesen magischen Moment.
+2046730	2049880	3150	Die Schweizer Drohnennummer fand einige Beachtung.
+2050600	2053280.0000000002	2680	Das ganze Stück hingegen fiel bei den Kritikern durch.
+2058940	2062760.0000000002	3820	Ja, mit der Drohnenentwicklung ist definitiv Grosses im Anflug,
+2063380	2064360.0000000002	980	und nach dem Silicon Valley,
+2065090.0000000002	2067360.0000000002	2270	das mit dem IT-Boom ab den 70er-Jahren entstanden ist,
+2068050.0000000002	2069600	1550	kommt jetzt vielleicht das Drone Valley.
+2070210	2071719.9999999998	1510	Dieses Mal wäre es nicht in Kalifornien,
+2072409.9999999998	2074040	1630	sondern allenfalls in der Schweiz.
+2074810	2078360.0000000002	3550	Sie fragen sich jetzt sicher, was für ein Kostüm der Müller da trägt.
+2079070.0000000002	2081480	2410	Es sieht ein bisschen nach Superheld aus, ist es aber nicht.
+2082270	2085719.9999999998	3450	Sie erinnern sich, wie ich vorhin im Simulator eine Drohne gesteuert habe.
+2086370	2089159.9999999998	2790	Diese Weste ist quasi die Weiterentwicklung.
+2089840.0000000002	2093770	3930	Dank etlicher Sensoren kann man mit dieser Weste eine Drohne steuern.
+2094460	2097010.0000000002	2550	Wie das funktioniert, können Sie in zwei Tagen
+2097760	2100930	3170	beim SRF-Spezialtag zum Thema Robotik erleben.
+2102880	2106490	3610	Die Cybathlonpiloten sind gelähmt, arm- oder beinamputiert
+2107140	2108290	1150	und kommen aus der ganzen Welt.
+2109140	2111610	2470	Ihre Prothesen sind auf dem neusten Stand der Technik.
+2112290	2115490	3200	Die Alltagsaufgaben sind extrem anspruchsvoll für die Teilnehmer.
+2116220	2118810	2590	SRF berichtet live vom einmaligen Wissenschaftswettkampf
+2119570	2122650	3080	und beleuchtet die Verschmelzung von Mensch und Maschine.
+2123460	2126250	2790	Wir schalten live in die Roboterschmieden unseres Landes
+2127100	2128890	1790	und zeigen auf, warum ausgerechnet die Schweiz
+2129660	2131970	2310	bei der Robotik zur Weltspitze gehört.
+2132680	2134650	1970	Wir seien das Silicon Valley der Robotics.
+2135380	2140050	4670	Arbeiten wir künftig mit Robotern oder machen sie uns überflüssig?
+2140760	2142710	1950	In welcher Welt werden unsere Kinder leben?
+2143530	2145750	2220	"Unser Thementag: ""SRF Menschmaschine""."
+2148500	2151950	3450	"Und auf diesem Sender erwartet Sie heute Abend noch ""Aeschbacher""."
+2152740	2155670	2930	"Erst aber die Kollegen von ""10vor10"" mit Aktuellem und Hintergründen."
+2156410	2158350	1940	Ich wünsche einen schönen Abend. Auf Wiedersehen.
+2159130	2161310	2180	SWISS TXT / UT-Redaktion Zürich Daniel McMinn
